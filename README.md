@@ -8,7 +8,7 @@ Use a subtitles player such as [Penguin Subtitle Player](https://github.com/cars
 [MBA Start subtitles](https://archive.org/details/mba_start_subtitles)
 
 # Disclaimer
-I am *NOT* the author of these subtitles, but the [OpenAI Whisper](https://freesubtitles.ai/) is. The documents have been generated using [Facebook M2M_100](https://huggingface.co/facebook/m2m100_1.2B) This is merely a backup of a proof of concept of what these tools can do.
+I am *NOT* the author of these subtitles, but the [OpenAI Whisper](https://freesubtitles.ai/) is. The documents have been generated using [Facebook M2M_100](https://huggingface.co/facebook/m2m100_1.2B). This is merely a backup of a Proof of Concept of what these tools can do.
 
 # Sources
 [MBA Start #1](https://archive.org/details/mbastart_202304)
