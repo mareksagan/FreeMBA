@@ -1,0 +1,604 @@
+WEBVTT
+
+00:00:05.110 --> 00:00:07.730
+To understand the discount of cash
+
+00:00:07.730 --> 00:00:09.790
+flows, or discount of cash
+
+00:00:09.790 --> 00:00:11.910
+flows, I want to go
+
+00:00:11.910 --> 00:00:14.890
+deeper into the concept of
+
+00:00:14.890 --> 00:00:16.490
+discounting or updating,
+
+00:00:16.490 --> 00:00:19.890
+which we saw in previous classes.
+
+00:00:20.330 --> 00:00:22.050
+Well, discounting or updating is calculating
+
+00:00:22.050 --> 00:00:24.670
+the value today, the present value,
+
+00:00:24.670 --> 00:00:27.890
+the current value of a cash
+
+00:00:27.890 --> 00:00:29.690
+flow, of a charge, of a payment
+
+00:00:29.690 --> 00:00:34.610
+that occurs in the periods.
+
+00:00:34.670 --> 00:00:37.230
+And what we do is bring it to the present
+
+00:00:37.230 --> 00:00:38.930
+moment to see how much it is worth
+
+00:00:38.930 --> 00:00:39.570
+today.
+
+00:00:40.450 --> 00:00:41.930
+As we have seen, we have
+
+00:00:41.930 --> 00:00:43.230
+to consider the value of
+
+00:00:43.230 --> 00:00:44.150
+money in time.
+
+00:00:45.090 --> 00:00:46.710
+One million euros in five years.
+
+00:00:46.850 --> 00:00:47.890
+How much is it worth today?
+
+00:00:47.990 --> 00:00:49.470
+We are trying to discount
+
+00:00:49.470 --> 00:00:50.370
+that million.
+
+00:00:50.890 --> 00:00:51.810
+And how do we do it?
+
+00:00:52.150 --> 00:00:53.650
+The formula is this.
+
+00:00:53.970 --> 00:00:55.430
+The present value or current
+
+00:00:55.430 --> 00:00:58.030
+value is equal to that cash flow
+
+00:00:58.030 --> 00:01:01.390
+divided to bring it, to discount
+
+00:01:01.390 --> 00:01:02.910
+it, to update it, we divide it between
+
+00:01:02.910 --> 00:01:06.150
+an upgrade or discount factor,
+
+00:01:06.150 --> 00:01:07.630
+which is equal to one plus
+
+00:01:07.630 --> 00:01:09.850
+the interest rate raised
+
+00:01:09.850 --> 00:01:13.130
+to n, which is the number
+
+00:01:13.130 --> 00:01:14.250
+of periods.
+
+00:01:14.450 --> 00:01:15.710
+By the way, here I want you to keep
+
+00:01:15.710 --> 00:01:17.250
+in mind that here we’ve
+
+00:01:17.250 --> 00:01:19.070
+talked about interest rate I,
+
+00:01:19.510 --> 00:01:21.030
+but really this is the upgrade
+
+00:01:21.030 --> 00:01:22.990
+rate or it’s the discount rate.
+
+00:01:23.370 --> 00:01:25.110
+And sometimes you’ll see it written,
+
+00:01:25.610 --> 00:01:27.910
+for example, with the letter K, or with the
+
+00:01:27.910 --> 00:01:28.670
+letter D.
+
+00:01:28.690 --> 00:01:30.550
+Well, it depends on the context in which
+
+00:01:30.550 --> 00:01:32.510
+it is used, but I want you to understand it.
+
+00:01:32.750 --> 00:01:34.290
+It is the upgrade rate, it is the
+
+00:01:34.290 --> 00:01:37.610
+discount rate we will use to
+
+00:01:37.610 --> 00:01:40.150
+divide that future cash flow and
+
+00:01:40.150 --> 00:01:42.190
+bring it to the current moment.
+
+00:01:44.090 --> 00:01:45.310
+Well, let’s see an example.
+
+00:01:46.790 --> 00:01:48.270
+We will think that in this case the
+
+00:01:48.270 --> 00:01:50.510
+discount rate or interest rate
+
+00:01:50.510 --> 00:01:53.290
+is 10% and that we want to discount
+
+00:01:53.290 --> 00:01:56.290
+200,000 euros that we will charge,
+
+00:01:56.290 --> 00:01:57.530
+for example, in this case it
+
+00:01:57.530 --> 00:01:59.050
+is a charge within three years
+
+00:01:59.050 --> 00:02:00.590
+and we bring it at the current time.
+
+00:02:00.590 --> 00:02:02.450
+We use the formula.
+
+00:02:02.550 --> 00:02:07.150
+We have 200,000 between 1 plus
+
+00:02:07.150 --> 00:02:08.710
+10% elevated to 3.
+
+00:02:09.030 --> 00:02:10.430
+Well, in the end we are dividing 200,
+
+00:02:10.430 --> 00:02:12.030
+000 between 1 by 33.
+
+00:02:13.730 --> 00:02:15.930
+And from this formula what we get is
+
+00:02:15.930 --> 00:02:17.990
+that the current value or present
+
+00:02:17.990 --> 00:02:19.890
+value of those 200,000 euros
+
+00:02:19.890 --> 00:02:23.030
+when we bring them to date is equal
+
+00:02:23.030 --> 00:02:26.130
+to 150.263.
+
+00:02:27.190 --> 00:02:28.430
+So, what does this depend on?
+
+00:02:28.490 --> 00:02:31.150
+What is the current value of
+
+00:02:31.150 --> 00:02:32.190
+a future cash flow?
+
+00:02:32.190 --> 00:02:33.770
+It depends on, as we are seeing in
+
+00:02:33.770 --> 00:02:35.610
+the formula, the variables are the
+
+00:02:35.610 --> 00:02:38.170
+discount rate and the number of periods.
+
+00:02:38.330 --> 00:02:39.250
+What happens if, for example,
+
+00:02:39.470 --> 00:02:40.850
+we increase the discount rate
+
+00:02:40.850 --> 00:02:43.970
+and we double the discount rate?
+
+00:02:44.310 --> 00:02:45.730
+This is a $20,000 discount, but in this
+
+00:02:45.730 --> 00:02:48.450
+case we will be discounted at 20% instead
+
+00:02:48.450 --> 00:02:50.370
+of 10%.
+
+00:02:50.370 --> 00:02:51.950
+Well, as you can see, it is very clear
+
+00:02:51.950 --> 00:02:53.770
+in the formula because it is in the
+
+00:02:53.770 --> 00:02:54.430
+denominator.
+
+00:02:54.490 --> 00:02:56.290
+We are dividing by a larger
+
+00:02:56.290 --> 00:02:57.190
+amount.
+
+00:02:57.850 --> 00:02:59.230
+So in this case the current
+
+00:02:59.230 --> 00:03:01.870
+value, which was 150,000 euros
+
+00:03:01.870 --> 00:03:06.410
+before, in this case are 115,741.
+
+00:03:07.190 --> 00:03:08.910
+If we increase the discount
+
+00:03:08.910 --> 00:03:10.270
+rate, if we discount at a higher
+
+00:03:10.270 --> 00:03:13.050
+rate, the current value is lower.
+
+00:03:13.570 --> 00:03:14.730
+It is quite logical.
+
+00:03:15.150 --> 00:03:16.530
+You probably already know what
+
+00:03:16.530 --> 00:03:18.710
+it means to update or discount.
+
+00:03:19.050 --> 00:03:20.470
+We have seen the example with
+
+00:03:20.470 --> 00:03:21.430
+a single amount.
+
+00:03:22.210 --> 00:03:23.650
+We calculated what the current
+
+00:03:23.650 --> 00:03:26.090
+value of 200,000 euros we will receive
+
+00:03:26.090 --> 00:03:28.170
+within three years and we discounted
+
+00:03:28.170 --> 00:03:30.790
+them with two discount rates,
+
+00:03:30.790 --> 00:03:32.550
+which were with 10 and
+
+00:03:32.550 --> 00:03:34.890
+20%.
+
+00:03:34.890 --> 00:03:36.330
+Well, the discount of cash
+
+00:03:36.330 --> 00:03:38.050
+flows is ultimately the same.
+
+00:03:38.310 --> 00:03:39.530
+What happens is that in this case
+
+00:03:39.530 --> 00:03:40.810
+we will apply it to a series
+
+00:03:40.810 --> 00:03:42.710
+of cash flows or a series of cash
+
+00:03:42.710 --> 00:03:44.470
+flows, but we will do the same.
+
+00:03:44.530 --> 00:03:46.750
+We will bring them all to the current
+
+00:03:46.750 --> 00:03:48.430
+moment and we will calculate the current
+
+00:03:48.430 --> 00:03:50.270
+value or present value of that flow
+
+00:03:50.270 --> 00:03:57.370
+of Today we make an investment of
+
+00:03:57.370 --> 00:03:59.270
+500,000 euros, which is a
+
+00:03:59.270 --> 00:04:01.650
+cash output and we have a series
+
+00:04:01.650 --> 00:04:03.310
+of positive cash flows
+
+00:04:03.310 --> 00:04:04.950
+entries in the next four years,
+
+00:04:04.950 --> 00:04:07.150
+of 200.000 euros each.
+
+00:04:07.370 --> 00:04:08.230
+But look, we could put
+
+00:04:08.230 --> 00:04:10.590
+different amounts.
+
+00:04:10.750 --> 00:04:11.890
+We will be counting the
+
+00:04:11.890 --> 00:04:12.450
+cash flow.
+
+00:04:12.530 --> 00:04:15.050
+Let’s calculate how much all those
+
+00:04:15.050 --> 00:04:16.650
+future cash flows are worth today,
+
+00:04:16.750 --> 00:04:18.470
+taking into account the value
+
+00:04:18.470 --> 00:04:19.310
+of money over time.
+
+00:04:20.350 --> 00:04:21.090
+And how do we do it?
+
+00:04:21.630 --> 00:04:24.750
+What we’re going to do is calculate
+
+00:04:24.750 --> 00:04:25.430
+the cash flow and bring it
+
+00:04:25.430 --> 00:04:26.650
+to the current moment.
+
+00:04:27.070 --> 00:04:28.870
+We will bring the 200,000 euros of the
+
+00:04:28.870 --> 00:04:31.530
+year 4, we will discount them and we will
+
+00:04:31.530 --> 00:04:33.310
+calculate how much they are worth today.
+
+00:04:33.610 --> 00:04:36.950
+And we will add the current value
+
+00:04:36.950 --> 00:04:39.110
+of the 200,000 euros we will receive
+
+00:04:39.110 --> 00:04:40.390
+within three years, two years,
+
+00:04:40.390 --> 00:04:42.270
+a year, etc.
+
+00:04:42.330 --> 00:04:44.310
+We will add it all and we will
+
+00:04:44.310 --> 00:04:45.670
+calculate what the current value
+
+00:04:45.670 --> 00:04:46.810
+of all those future cash
+
+00:04:46.810 --> 00:04:47.910
+flows will be.
+
+00:04:49.430 --> 00:04:50.450
+What is the formula for this?
+
+00:04:50.510 --> 00:04:51.290
+very simple though.
+
+00:04:51.370 --> 00:04:54.610
+It is the same as the one
+
+00:04:54.610 --> 00:04:56.530
+we have studied the discount, the update.
+
+00:04:56.890 --> 00:04:58.150
+What happens is that in this case
+
+00:04:58.150 --> 00:04:59.870
+we will add the different cash
+
+00:04:59.870 --> 00:05:01.510
+flows so easily.
+
+00:05:02.270 --> 00:05:04.510
+Let’s look at this example, let’s
+
+00:05:04.510 --> 00:05:06.610
+see it with a little more of detail
+
+00:05:06.610 --> 00:05:07.830
+at a numerical level.
+
+00:05:07.890 --> 00:05:11.610
+We have cash flows that are the investment
+
+00:05:11.610 --> 00:05:13.730
+of 500,000 and then the charges
+
+00:05:13.730 --> 00:05:15.730
+we receive in the next
+
+00:05:15.730 --> 00:05:17.110
+four years.
+
+00:05:17.650 --> 00:05:19.330
+Here is the formula.
+
+00:05:19.410 --> 00:05:21.570
+As you can see the discount formula
+
+00:05:21.570 --> 00:05:23.390
+for cash flows, what we do is
+
+00:05:23.390 --> 00:05:25.470
+bring those cash flows or discount
+
+00:05:25.470 --> 00:05:27.070
+them all to the current moment
+
+00:05:27.070 --> 00:05:29.650
+with a discount factor applying
+
+00:05:29.650 --> 00:05:31.250
+a discount factor or an
+
+00:05:31.250 --> 00:05:33.050
+upgrade factor.
+
+00:05:33.490 --> 00:05:35.310
+This is 10% of what
+
+00:05:35.310 --> 00:05:36.310
+we have said.
+
+00:05:37.910 --> 00:05:39.390
+In the first case, we will
+
+00:05:39.390 --> 00:05:41.090
+divide that investment, the investment,
+
+00:05:41.090 --> 00:05:42.830
+those 500,000 euros we will
+
+00:05:42.830 --> 00:05:45.170
+divide by a discount factor.
+
+00:05:45.410 --> 00:05:50.130
+In this case, the rate is
+
+00:05:50.130 --> 00:05:51.850
+up to zero.
+
+00:05:51.950 --> 00:05:53.030
+That is, it’s equal to one,
+
+00:05:53.210 --> 00:05:54.190
+mathematically it’s equal to
+
+00:05:54.190 --> 00:05:55.230
+one but good common sense
+
+00:05:55.230 --> 00:05:56.430
+also tells you because it’s an
+
+00:05:56.430 --> 00:05:58.250
+investment that we make today.
+
+00:05:58.590 --> 00:06:01.370
+If you do today the factor, the
+
+00:06:01.370 --> 00:06:03.150
+value of money in time does not affect.
+
+00:06:03.390 --> 00:06:05.270
+As we move forward, we
+
+00:06:05.270 --> 00:06:06.770
+will divide by a larger
+
+00:06:06.770 --> 00:06:07.590
+amount.
+
+00:06:08.770 --> 00:06:12.370
+Divide by 1 with 1 elevated
+
+00:06:12.370 --> 00:06:13.150
+to 1.
+
+00:06:13.310 --> 00:06:15.210
+We divide between 1 and 1.
+
+00:06:15.310 --> 00:06:17.970
+If we go to the year 2, we
+
+00:06:18.550 --> 00:06:21.650
+will divide those 200,000 euros
+
+00:06:21.650 --> 00:06:24.230
+by a discount factor that
+
+00:06:24.230 --> 00:06:26.830
+is 1 with 1 elevated to 2
+
+00:06:26.830 --> 00:06:28.510
+that is equal to 1 with
+
+00:06:28.510 --> 00:06:29.170
+21.
+
+00:06:30.330 --> 00:06:33.550
+The current value of those 200,
+
+00:06:33.550 --> 00:06:35.610
+000 euros when divided between 1
+
+00:06:35.610 --> 00:06:37.410
+and 21 is 123,000.
+
+00:06:37.530 --> 00:06:38.810
+We can do this every
+
+00:06:38.810 --> 00:06:39.910
+year, with all the
+
+00:06:39.910 --> 00:06:41.370
+cash flow.
+
+00:06:42.410 --> 00:06:44.950
+If we add the discounted cash
+
+00:06:44.950 --> 00:06:47.750
+flows of all periods what we
+
+00:06:47.750 --> 00:06:49.750
+have is the current value or
+
+00:06:49.750 --> 00:06:53.050
+present value of that cash
+
+00:06:53.050 --> 00:06:53.970
+flow.
+
+00:06:54.650 --> 00:06:56.730
+That is, cash flow discount allows
+
+00:06:56.730 --> 00:06:58.670
+us to calculate the present value or
+
+00:06:58.670 --> 00:07:00.950
+current value of a series of cash
+
+00:07:00.950 --> 00:07:02.770
+flows that will be levies and payments
+
+00:07:02.770 --> 00:07:04.430
+that are given in the future.

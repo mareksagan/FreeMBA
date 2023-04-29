@@ -1,0 +1,352 @@
+WEBVTT
+
+00:00:07.030 --> 00:00:09.290
+Today we will go deeper into
+
+00:00:09.290 --> 00:00:11.490
+the concept of discount rate.
+
+00:00:12.090 --> 00:00:14.730
+The discount rate is a key piece
+
+00:00:14.730 --> 00:00:16.650
+that will help us understand
+
+00:00:16.650 --> 00:00:18.730
+the van, the shot, how the
+
+00:00:18.730 --> 00:00:20.190
+discount of cash flows works,
+
+00:00:20.190 --> 00:00:22.290
+how a company is valued, etc.
+
+00:00:22.310 --> 00:00:23.670
+If we do not understand this and do not
+
+00:00:23.670 --> 00:00:24.510
+understand it intuitively, it
+
+00:00:24.510 --> 00:00:26.510
+will be very difficult for us to
+
+00:00:26.510 --> 00:00:28.630
+understand the subsequent classes.
+
+00:00:29.450 --> 00:00:31.010
+Let us go back to the formula.
+
+00:00:31.010 --> 00:00:32.590
+We have the discounted cash flow
+
+00:00:32.590 --> 00:00:34.670
+formula, in which we have
+
+00:00:34.670 --> 00:00:36.490
+a current value that we will
+
+00:00:36.490 --> 00:00:37.890
+get by discounting a series
+
+00:00:37.890 --> 00:00:39.450
+of flows that occur in the
+
+00:00:39.450 --> 00:00:39.950
+future.
+
+00:00:40.890 --> 00:00:42.690
+They are predictable to occur,
+
+00:00:42.770 --> 00:00:43.930
+are in the future, have not yet
+
+00:00:43.930 --> 00:00:46.610
+occurred, and there is a certain
+
+00:00:46.610 --> 00:00:48.470
+risk that these flows will
+
+00:00:48.470 --> 00:00:50.310
+occur or not.
+
+00:00:51.330 --> 00:00:52.470
+So what is the key?
+
+00:00:52.550 --> 00:00:53.870
+We make a projection of cash flows,
+
+00:00:53.870 --> 00:00:55.830
+estimate the flows and what is
+
+00:00:55.830 --> 00:00:57.590
+the variable that makes the current
+
+00:00:57.590 --> 00:00:58.910
+value greater or lesser?
+
+00:00:59.070 --> 00:01:01.470
+The discount factor.
+
+00:01:02.010 --> 00:01:03.330
+We are dividing each of the flows
+
+00:01:03.330 --> 00:01:04.810
+and bringing them to the present moment.
+
+00:01:05.290 --> 00:01:06.490
+Therefore, it is the discount
+
+00:01:06.490 --> 00:01:07.750
+rate that determines the
+
+00:01:07.750 --> 00:01:10.950
+value of that project,
+
+00:01:10.950 --> 00:01:13.010
+the value of that cash flow.
+
+00:01:14.920 --> 00:01:15.860
+The first thing I want you
+
+00:01:15.860 --> 00:01:18.560
+to understand is that the discount
+
+00:01:18.560 --> 00:01:21.520
+rate, the rate at which we will discount
+
+00:01:21.520 --> 00:01:25.160
+all those flows, depends on
+
+00:01:25.160 --> 00:01:27.080
+the profitability we demand
+
+00:01:27.080 --> 00:01:28.720
+from the investment.
+
+00:01:30.560 --> 00:01:32.120
+It may not be intuitive for you
+
+00:01:32.120 --> 00:01:33.420
+at this time, but I think we will
+
+00:01:33.420 --> 00:01:34.840
+understand it throughout the
+
+00:01:34.840 --> 00:01:35.520
+class.
+
+00:01:36.800 --> 00:01:39.440
+The discount rate depends on profitability.
+
+00:01:40.220 --> 00:01:42.120
+If we demand a higher profitability,
+
+00:01:42.120 --> 00:01:46.160
+we will discount those flows
+
+00:01:46.160 --> 00:01:48.820
+at a higher rate and the current
+
+00:01:48.820 --> 00:01:49.940
+value will be lower.
+
+00:01:51.680 --> 00:01:53.540
+Well, let’s go deeper into this.
+
+00:01:54.480 --> 00:01:55.720
+Let’s think, I said, the discount
+
+00:01:55.720 --> 00:01:57.140
+rate depends on the profitability
+
+00:01:57.140 --> 00:01:59.320
+we demand.
+
+00:01:59.780 --> 00:02:00.800
+We must be able to calculate
+
+00:02:00.800 --> 00:02:01.780
+it.
+
+00:02:02.300 --> 00:02:03.620
+What is the value of
+
+00:02:03.620 --> 00:02:06.820
+a project, an investment?
+
+00:02:11.370 --> 00:02:12.930
+It depends on two factors.
+
+00:02:13.730 --> 00:02:15.450
+The first is the risk-free interest,
+
+00:02:15.450 --> 00:02:18.250
+that is, the interest you can get
+
+00:02:18.250 --> 00:02:21.070
+from another investment
+
+00:02:21.070 --> 00:02:22.650
+that does not have risk.
+
+00:02:22.890 --> 00:02:25.350
+It is usually said in the letters of the
+
+00:02:25.350 --> 00:02:26.610
+Treasury, for example, of Germany or the
+
+00:02:26.610 --> 00:02:27.350
+United States.
+
+00:02:27.910 --> 00:02:29.430
+I want you to understand the
+
+00:02:29.430 --> 00:02:31.210
+concept.
+
+00:02:31.210 --> 00:02:34.550
+Imagine that you can get, in
+
+00:02:34.630 --> 00:02:36.150
+government bonds, you can
+
+00:02:36.150 --> 00:02:38.990
+get a return of 25% annually.
+
+00:02:40.150 --> 00:02:42.170
+What would be the minimum return
+
+00:02:42.170 --> 00:02:44.330
+you would require from
+
+00:02:44.330 --> 00:02:46.150
+any investment you make, anybody?
+
+00:02:46.450 --> 00:02:49.110
+For if I can get a 25% on
+
+00:02:49.110 --> 00:02:51.890
+an investment that has a
+
+00:02:51.890 --> 00:02:52.830
+very low risk, why am
+
+00:02:52.830 --> 00:02:54.310
+I going to get into any jaleo
+
+00:02:54.310 --> 00:02:57.530
+if it doesn’t offer me
+
+00:02:57.530 --> 00:02:58.590
+a higher return?
+
+00:02:58.850 --> 00:02:59.950
+I think it is easy to understand.
+
+00:03:00.410 --> 00:03:01.310
+The first factor is
+
+00:03:01.310 --> 00:03:03.450
+risk-free interest.
+
+00:03:04.890 --> 00:03:07.090
+In addition, to the profitability
+
+00:03:07.090 --> 00:03:08.310
+we demand we will add, in addition
+
+00:03:08.310 --> 00:03:10.190
+to the interest without risk, we will
+
+00:03:10.190 --> 00:03:12.870
+add the risk premium.
+
+00:03:13.610 --> 00:03:14.830
+What is the risk premium?
+
+00:03:15.370 --> 00:03:18.310
+Depending on the risk that exists
+
+00:03:18.310 --> 00:03:20.330
+or we perceive, we will demand
+
+00:03:20.330 --> 00:03:21.830
+greater profitability in that investment,
+
+00:03:21.830 --> 00:03:25.910
+in that project, in that company.
+
+00:03:26.850 --> 00:03:29.410
+This is one of the class economics.
+
+00:03:29.450 --> 00:03:31.410
+More profitability, more risk
+
+00:03:32.830 --> 00:03:34.350
+If we perceive that those cash flows
+
+00:03:34.350 --> 00:03:36.350
+that have been projected,
+
+00:03:36.790 --> 00:03:38.390
+imagine, they have told us, you
+
+00:03:38.390 --> 00:03:40.230
+will receive $100,000 every year.
+
+00:03:41.110 --> 00:03:43.110
+If we perceive that there is a
+
+00:03:43.110 --> 00:03:44.730
+lot of risk that these cash flows are
+
+00:03:44.730 --> 00:03:47.250
+actually given or not, because it
+
+00:03:47.250 --> 00:03:48.970
+depends on many factors, well, whatever
+
+00:03:49.030 --> 00:03:49.670
+it is.
+
+00:03:50.650 --> 00:03:52.090
+If we perceive a lot of risk,
+
+00:03:52.350 --> 00:03:53.710
+we have to discount those cash
+
+00:03:53.710 --> 00:03:55.090
+flows at a higher rate.
+
+00:03:55.690 --> 00:03:57.710
+We have to take this risk premium.
+
+00:03:58.530 --> 00:04:00.010
+Therefore, the required profitability
+
+00:04:00.010 --> 00:04:03.630
+is equal, we must understand
+
+00:04:03.630 --> 00:04:04.970
+that it is equal to the interest
+
+00:04:04.970 --> 00:04:06.270
+we can get without risk plus
+
+00:04:06.270 --> 00:04:07.210
+a risk premium.
+
+00:04:07.270 --> 00:04:09.690
+As I said, the discount
+
+00:04:09.690 --> 00:04:11.010
+rate is this.
+
+00:04:11.890 --> 00:04:13.370
+The discount rate is calculated
+
+00:04:13.370 --> 00:04:14.910
+as the risk-free interest
+
+00:04:14.910 --> 00:04:16.790
+plus the risk premium.

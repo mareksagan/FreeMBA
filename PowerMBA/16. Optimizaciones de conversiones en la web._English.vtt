@@ -1,0 +1,724 @@
+WEBVTT
+
+00:00:06.050 --> 00:00:08.390
+As you already know, conversions,
+
+00:00:08.910 --> 00:00:10.190
+optimizing conversions depends
+
+00:00:10.190 --> 00:00:11.810
+on many things, but what is
+
+00:00:11.810 --> 00:00:14.510
+clear is that all use a common
+
+00:00:14.510 --> 00:00:17.090
+medium and it is the website
+
+00:00:17.090 --> 00:00:18.530
+or landing page.
+
+00:00:19.450 --> 00:00:21.230
+Therefore, one of the keys to
+
+00:00:21.230 --> 00:00:22.990
+optimizing conversion is to
+
+00:00:22.990 --> 00:00:25.010
+optimize conversions within the
+
+00:00:25.010 --> 00:00:27.190
+website itself and that’s what
+
+00:00:27.190 --> 00:00:28.210
+we’ll learn today.
+
+00:00:28.930 --> 00:00:30.450
+We will follow a simple method
+
+00:00:30.450 --> 00:00:31.850
+that basically consists of
+
+00:00:31.850 --> 00:00:32.770
+four steps.
+
+00:00:32.930 --> 00:00:34.830
+One, as always, identify
+
+00:00:34.830 --> 00:00:36.890
+what the goal or goals
+
+00:00:36.890 --> 00:00:38.490
+are, that is, what those
+
+00:00:38.490 --> 00:00:39.810
+conversion ratios we have
+
+00:00:39.810 --> 00:00:40.810
+to optimize.
+
+00:00:41.630 --> 00:00:43.810
+Two, let’s do an analysis
+
+00:00:43.810 --> 00:00:46.070
+of what’s going on on the
+
+00:00:46.070 --> 00:00:48.190
+website to see what’s not
+
+00:00:48.190 --> 00:00:49.650
+working well, what’s failing,
+
+00:00:49.650 --> 00:00:51.130
+or what’s what we can
+
+00:00:51.130 --> 00:00:51.970
+improve.
+
+00:00:53.170 --> 00:00:55.990
+Three, we’ll implement improvements,
+
+00:00:56.190 --> 00:00:59.490
+some improvements, little by little,
+
+00:00:59.490 --> 00:01:01.250
+to see how those improvements
+
+00:01:01.250 --> 00:01:02.970
+impact our goals.
+
+00:01:02.970 --> 00:01:03.950
+We start.
+
+00:01:04.170 --> 00:01:06.270
+Step one, as always, is to
+
+00:01:06.670 --> 00:01:08.490
+be clear about the objectives.
+
+00:01:09.670 --> 00:01:11.050
+Here we return to a concept you
+
+00:01:11.050 --> 00:01:12.870
+know that are macro conversions
+
+00:01:12.870 --> 00:01:13.930
+and micro conversions and
+
+00:01:13.930 --> 00:01:16.650
+in each web or for each company
+
+00:01:16.650 --> 00:01:18.510
+the macro conversions
+
+00:01:18.510 --> 00:01:19.810
+and micro conversions will
+
+00:01:19.810 --> 00:01:22.550
+be different, but here I will add
+
+00:01:22.550 --> 00:01:24.530
+a concept, I will incorporate
+
+00:01:24.530 --> 00:01:25.850
+the concept of call to action,
+
+00:01:25.850 --> 00:01:28.250
+the call to action that is
+
+00:01:28.250 --> 00:01:30.410
+the call to action.
+
+00:01:30.450 --> 00:01:31.390
+Why is?
+
+00:01:31.390 --> 00:01:32.490
+It is very easy to find
+
+00:01:32.490 --> 00:01:35.110
+out what conversions are.
+
+00:01:35.190 --> 00:01:36.630
+They are call to action.
+
+00:01:37.250 --> 00:01:38.650
+You do incorporate within your
+
+00:01:38.650 --> 00:01:42.190
+web a few buttons, usually they
+
+00:01:42.290 --> 00:01:43.330
+are buttons, although they do not
+
+00:01:43.330 --> 00:01:44.550
+have to be, it could be a text,
+
+00:01:44.550 --> 00:01:47.790
+some links where you encourage
+
+00:01:47.790 --> 00:01:49.570
+customers to click because
+
+00:01:49.570 --> 00:01:51.210
+basically it is what there is
+
+00:01:51.210 --> 00:01:58.050
+infinity, because there are
+
+00:01:58.050 --> 00:01:58.970
+all types.
+
+00:02:00.150 --> 00:02:01.390
+Subscribe to a newsletter,
+
+00:02:01.910 --> 00:02:04.250
+leave us your data, make a free
+
+00:02:04.250 --> 00:02:07.530
+trial, buy, recommend to a
+
+00:02:07.530 --> 00:02:08.750
+friend, etc.
+
+00:02:08.790 --> 00:02:10.110
+There are thousands of calls
+
+00:02:10.110 --> 00:02:10.630
+to action.
+
+00:02:11.150 --> 00:02:13.030
+Well, what we have to do is,
+
+00:02:13.030 --> 00:02:15.070
+we are in the first of the steps,
+
+00:02:15.070 --> 00:02:16.370
+it is to have clear what are those
+
+00:02:16.370 --> 00:02:18.190
+call to action, what are those
+
+00:02:18.190 --> 00:02:19.610
+conversions we want, we have macro
+
+00:02:19.610 --> 00:02:22.810
+and micro conversions, those
+
+00:02:22.810 --> 00:02:24.010
+that are, usually are not
+
+00:02:25.030 --> 00:02:26.170
+many on the web page and we
+
+00:02:26.170 --> 00:02:28.910
+have to measure the conversion
+
+00:02:28.910 --> 00:02:31.510
+ratios for each of those
+
+00:02:31.510 --> 00:02:32.750
+conversions.
+
+00:02:33.310 --> 00:02:35.770
+The important thing here is to segment
+
+00:02:36.510 --> 00:02:37.370
+well, as we always say.
+
+00:02:37.390 --> 00:02:37.830
+Why is?
+
+00:02:38.230 --> 00:02:39.730
+Because we have to measure
+
+00:02:39.730 --> 00:02:41.570
+conversions for each of them,
+
+00:02:41.570 --> 00:02:43.030
+for different traffic sources
+
+00:02:43.030 --> 00:02:44.810
+or for each of the customer
+
+00:02:44.810 --> 00:02:46.110
+segments, etc.
+
+00:02:46.130 --> 00:02:47.510
+It is important to do so.
+
+00:02:48.750 --> 00:02:49.830
+Well, we already have clear that
+
+00:02:49.830 --> 00:02:52.570
+these are the goals, the ratios
+
+00:02:52.570 --> 00:02:54.350
+we want to optimize, concrete
+
+00:02:54.350 --> 00:02:56.670
+ratios and for each of the segments.
+
+00:02:56.890 --> 00:02:57.970
+And now what we have to do is
+
+00:02:57.970 --> 00:03:01.290
+identify what is going on on
+
+00:03:01.290 --> 00:03:03.010
+the website, what is what may
+
+00:03:03.010 --> 00:03:04.210
+not be working well, because
+
+00:03:04.210 --> 00:03:06.510
+only so will we know what is
+
+00:03:06.510 --> 00:03:07.430
+what we can improve.
+
+00:03:08.450 --> 00:03:09.610
+And you think the following.
+
+00:03:10.590 --> 00:03:13.730
+We have a conversion of 10% on two
+
+00:03:13.730 --> 00:03:16.530
+levels, a micro conversion
+
+00:03:16.530 --> 00:03:18.850
+of I and a macro conversion
+
+00:03:18.850 --> 00:03:21.670
+in sales of 10%.
+
+00:03:21.670 --> 00:03:23.930
+This data is good, it is bad, it
+
+00:03:23.930 --> 00:03:25.250
+is that we have no idea, we do not
+
+00:03:25.250 --> 00:03:27.290
+know and we do not know, only with
+
+00:03:27.290 --> 00:03:28.710
+this data we do not know what is happening
+
+00:03:28.710 --> 00:03:29.710
+on the website.
+
+00:03:30.130 --> 00:03:31.630
+We do not know if there is any of
+
+00:03:31.950 --> 00:03:34.450
+the ones, within our website the
+
+00:03:34.450 --> 00:03:35.930
+main product page is very badly
+
+00:03:35.930 --> 00:03:37.370
+made and is not understood.
+
+00:03:37.850 --> 00:03:41.270
+We don’t know if customers have
+
+00:03:41.270 --> 00:03:43.370
+a page they always go to or what
+
+00:03:43.370 --> 00:03:44.710
+they don’t understand.
+
+00:03:44.950 --> 00:03:45.930
+We have no idea.
+
+00:03:46.890 --> 00:03:48.030
+So, as you have no idea, you go
+
+00:03:48.030 --> 00:03:49.450
+blind and then you can’t improve
+
+00:03:49.450 --> 00:03:50.350
+anything.
+
+00:03:51.090 --> 00:03:52.210
+The second step is to do a
+
+00:03:52.210 --> 00:03:53.850
+very deep analysis of everything
+
+00:03:53.850 --> 00:03:55.550
+that is happening on
+
+00:03:55.550 --> 00:03:56.750
+your website.
+
+00:03:58.070 --> 00:03:59.090
+And this is a challenge.
+
+00:03:59.390 --> 00:04:00.230
+And how will we do it?
+
+00:04:00.290 --> 00:04:03.890
+We will do this by combining two perspectives.
+
+00:04:04.490 --> 00:04:06.790
+One, that’s the usual thing
+
+00:04:06.790 --> 00:04:08.350
+in Analytics and that’s what everyone
+
+00:04:08.350 --> 00:04:08.870
+does.
+
+00:04:09.650 --> 00:04:11.590
+One, measuring many things, many
+
+00:04:11.590 --> 00:04:13.270
+data, many metrics.
+
+00:04:13.950 --> 00:04:14.970
+And we will do it with
+
+00:04:14.970 --> 00:04:16.610
+tools like Google Analytics or Quizmetrics
+
+00:04:16.610 --> 00:04:18.150
+or tools like that, that when
+
+00:04:18.150 --> 00:04:20.430
+we get into the detail of how
+
+00:04:20.430 --> 00:04:22.250
+analytics works, you will
+
+00:04:22.250 --> 00:04:23.610
+understand what I am talking
+
+00:04:23.610 --> 00:04:24.170
+about.
+
+00:04:25.670 --> 00:04:27.470
+This will allow us to have a
+
+00:04:27.470 --> 00:04:29.410
+view of our website from the perspective
+
+00:04:29.410 --> 00:04:32.130
+of metrics, of very much information,
+
+00:04:32.130 --> 00:04:33.210
+of very much
+
+00:04:33.210 --> 00:04:34.090
+data.
+
+00:04:35.690 --> 00:04:37.650
+Data such as, not only of the
+
+00:04:37.650 --> 00:04:39.030
+conversions, which are the basic, but,
+
+00:04:39.790 --> 00:04:41.870
+for example, the bounce rate, which
+
+00:04:42.130 --> 00:04:44.430
+is the percentage of visits
+
+00:04:44.430 --> 00:04:47.150
+that without having browsed the web
+
+00:04:47.150 --> 00:04:48.630
+page, that enter, do not interest
+
+00:04:48.630 --> 00:04:49.370
+them and go.
+
+00:04:50.110 --> 00:04:52.670
+Or the exit rate of each of the
+
+00:04:52.670 --> 00:04:54.130
+pages, which is, of each of the
+
+00:04:54.130 --> 00:04:56.230
+pages, what percentage of visits
+
+00:04:56.230 --> 00:04:57.450
+are going there?
+
+00:04:58.590 --> 00:05:00.030
+This is valuable, because if, for example,
+
+00:05:00.030 --> 00:05:01.770
+it turns out that on one of your pages
+
+00:05:01.770 --> 00:05:03.750
+you have a very high exit rate,
+
+00:05:03.750 --> 00:05:05.630
+because there is something going on
+
+00:05:05.630 --> 00:05:06.030
+there.
+
+00:05:06.610 --> 00:05:09.710
+Or we can measure metrics
+
+00:05:09.710 --> 00:05:11.070
+related to engagement, for
+
+00:05:11.130 --> 00:05:11.950
+example.
+
+00:05:12.710 --> 00:05:14.490
+How much time do average
+
+00:05:14.510 --> 00:05:16.270
+users spend on our website?
+
+00:05:16.270 --> 00:05:17.070
+
+
+00:05:17.730 --> 00:05:19.050
+The more it is, is it better, right?
+
+00:05:19.050 --> 00:05:21.010
+Because that’s what your content is
+
+00:05:21.010 --> 00:05:21.890
+interested in.
+
+00:05:22.050 --> 00:05:23.510
+How many media pages do you see?
+
+00:05:25.050 --> 00:05:27.070
+This is also a metric that is very
+
+00:05:27.070 --> 00:05:28.490
+related, because that, with engagement.
+
+00:05:28.910 --> 00:05:30.750
+You are creating attractive
+
+00:05:30.750 --> 00:05:32.090
+content, helping them
+
+00:05:32.090 --> 00:05:34.810
+navigate, and so on.
+
+00:05:35.050 --> 00:05:36.570
+To what we were going.
+
+00:05:36.850 --> 00:05:38.490
+These are metrics and this is what we
+
+00:05:38.490 --> 00:05:39.910
+will do with pure analytics, but
+
+00:05:39.930 --> 00:05:43.030
+we have to have another perspective,
+
+00:05:44.210 --> 00:05:47.050
+because metrics explain us, give us
+
+00:05:47.050 --> 00:05:48.370
+information about what is what
+
+00:05:48.370 --> 00:05:49.230
+happens, right?
+
+00:05:50.010 --> 00:05:52.350
+But we have to go to why it happens.
+
+00:05:52.570 --> 00:05:54.430
+We have to understand why the customer
+
+00:05:54.430 --> 00:05:56.590
+results that on that particular
+
+00:05:56.590 --> 00:05:58.210
+page where the exit rate is very
+
+00:05:58.210 --> 00:05:59.350
+high, why he goes.
+
+00:06:00.430 --> 00:06:00.710
+What is?
+
+00:06:00.710 --> 00:06:03.650
+Because it is boring, because it generates
+
+00:06:03.650 --> 00:06:05.530
+anxiety the message, because it is
+
+00:06:05.530 --> 00:06:06.010
+not understood.
+
+00:06:06.430 --> 00:06:07.650
+Well, it can be millions of things,
+
+00:06:07.650 --> 00:06:08.950
+but we have to go, we have
+
+00:06:09.530 --> 00:06:11.390
+to always understand
+
+00:06:11.390 --> 00:06:11.970
+why.
+
+00:06:12.150 --> 00:06:13.210
+We have to take the role of
+
+00:06:13.210 --> 00:06:13.890
+customers.
+
+00:06:13.970 --> 00:06:15.090
+A lot of people do not do this.
+
+00:06:15.870 --> 00:06:16.770
+How can we do it?
+
+00:06:17.350 --> 00:06:19.270
+There are different tools, but
+
+00:06:19.490 --> 00:06:21.690
+they are relatively simple.
+
+00:06:22.150 --> 00:06:23.370
+For example, we can
+
+00:06:23.370 --> 00:06:25.110
+use survey tools.
+
+00:06:26.470 --> 00:06:28.410
+For example, Qalaroo allows you
+
+00:06:28.410 --> 00:06:31.110
+to incorporate within your website
+
+00:06:31.110 --> 00:06:33.070
+in some of the pages, because to
+
+00:06:33.070 --> 00:06:35.450
+incorporate a survey that jumps and
+
+00:06:35.450 --> 00:06:36.710
+ask the customer, for example,
+
+00:06:36.710 --> 00:06:38.670
+does it seem that we have
+
+00:06:38.670 --> 00:06:40.170
+explained the price plan well?
+
+00:06:40.370 --> 00:06:41.670
+For example though.
+
+00:06:42.590 --> 00:06:44.510
+Or we can use tools that help
+
+00:06:44.510 --> 00:06:46.230
+us, of different types,
+
+00:06:46.230 --> 00:06:48.510
+that help us to understand or
+
+00:06:48.510 --> 00:06:51.290
+visualize how users are using
+
+00:06:51.290 --> 00:06:53.890
+our website, which are tools
+
+00:06:53.890 --> 00:06:55.550
+that are called user testing.
+
+00:06:55.930 --> 00:06:56.990
+I will give you an example.
+
+00:06:58.310 --> 00:07:00.570
+We can create a hit map that
+
+00:07:00.570 --> 00:07:02.270
+we have on screen where we
+
+00:07:02.270 --> 00:07:04.070
+see how our users are browsing,
+
+00:07:04.070 --> 00:07:05.890
+where they are browsing more.
+
+00:07:06.270 --> 00:07:08.830
+Imagine, for example, that your
+
+00:07:08.830 --> 00:07:10.690
+main call to action or the most
+
+00:07:10.690 --> 00:07:12.310
+powerful message you have, because
+
+00:07:12.330 --> 00:07:14.470
+it is in an area that users
+
+00:07:14.470 --> 00:07:15.890
+don’t reach.
+
+00:07:16.230 --> 00:07:17.990
+We can see all this by
+
+00:07:17.990 --> 00:07:20.650
+looking at a hit map.
+
+00:07:21.890 --> 00:07:23.750
+And another tip to get
+
+00:07:23.750 --> 00:07:25.790
+insights, to understand why or
+
+00:07:25.790 --> 00:07:27.110
+how customers are using
+
+00:07:27.110 --> 00:07:29.290
+your website, is as simple
+
+00:07:29.290 --> 00:07:30.870
+as asking them.
+
+00:07:31.370 --> 00:07:37.830
+Or it is so objective that they use
+
+00:07:37.830 --> 00:07:40.450
+your website, see how they do it
+
+00:07:40.450 --> 00:07:41.930
+and on the march ask them questions
+
+00:07:41.930 --> 00:07:45.810
+about what doubts are arising to them, etc.
+
+00:07:46.090 --> 00:07:48.210
+Very few people do this.
+
+00:07:48.570 --> 00:07:50.190
+There are millions of experts in Google
+
+00:07:50.190 --> 00:07:52.350
+Analytics who get crazy with data
+
+00:07:52.350 --> 00:07:52.970
+and so on.
+
+00:07:53.110 --> 00:07:53.950
+And that is very well.
+
+00:07:54.010 --> 00:07:55.570
+This is a necessary perspective.
+
+00:07:56.190 --> 00:07:57.590
+But let’s never forget the customer’
+
+00:07:57.590 --> 00:07:58.770
+s perspective of talking to
+
+00:07:58.770 --> 00:08:01.910
+people, because you get a valuable
+
+00:08:01.910 --> 00:08:03.130
+feedback.

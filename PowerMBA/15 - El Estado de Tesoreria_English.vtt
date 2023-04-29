@@ -1,0 +1,610 @@
+WEBVTT
+
+00:00:08.530 --> 00:00:10.930
+In this class we will see how the
+
+00:00:10.930 --> 00:00:12.970
+treasury state is created, which
+
+00:00:12.970 --> 00:00:14.730
+if you remember is one of
+
+00:00:14.730 --> 00:00:16.170
+the main financial statements,
+
+00:00:16.270 --> 00:00:18.230
+it is the third one we will see.
+
+00:00:19.190 --> 00:00:20.330
+This is the structure of the treasury
+
+00:00:20.330 --> 00:00:21.190
+state.
+
+00:00:21.410 --> 00:00:22.610
+It consists of three different
+
+00:00:22.610 --> 00:00:24.130
+flows, the one of operations, the other
+
+00:00:24.270 --> 00:00:25.950
+of investment and the other of financing.
+
+00:00:26.330 --> 00:00:28.930
+In the previous class we have already
+
+00:00:28.930 --> 00:00:31.330
+seen that represents each or each
+
+00:00:31.330 --> 00:00:32.590
+of the three main activities
+
+00:00:32.590 --> 00:00:33.210
+of a company.
+
+00:00:33.210 --> 00:00:35.510
+Operations, Investment and Finance.
+
+00:00:35.690 --> 00:00:36.830
+In this case, the treasury
+
+00:00:36.830 --> 00:00:39.210
+state helps us to analyze a company
+
+00:00:39.210 --> 00:00:41.290
+from this perspective, creating
+
+00:00:41.570 --> 00:00:42.830
+a cash flow for each
+
+00:00:42.830 --> 00:00:43.530
+of them.
+
+00:00:43.910 --> 00:00:46.050
+We start with the operations.
+
+00:00:46.050 --> 00:00:47.770
+The cash flow of operations
+
+00:00:47.770 --> 00:00:48.770
+is what we do to move from
+
+00:00:48.770 --> 00:00:51.570
+net profit or the outcome
+
+00:00:51.570 --> 00:00:53.590
+of the exercise to a cash
+
+00:00:53.590 --> 00:00:53.910
+flow.
+
+00:00:54.030 --> 00:00:55.490
+We have to make the adjustments to
+
+00:00:55.490 --> 00:00:57.610
+convert a magnitude that is
+
+00:00:57.610 --> 00:00:59.730
+accountable, which does not represent
+
+00:00:59.730 --> 00:01:00.910
+the reality of treasury movements
+
+00:01:00.910 --> 00:01:02.610
+into a cash flow.
+
+00:01:02.690 --> 00:01:05.230
+We will make two types of adjustments.
+
+00:01:05.250 --> 00:01:07.630
+First, we will add the amortisation.
+
+00:01:09.140 --> 00:01:10.240
+As you can see, we start with
+
+00:01:10.240 --> 00:01:12.520
+the net profit and add the amortisations.
+
+00:01:13.020 --> 00:01:14.740
+Why do we add amortisations?
+
+00:01:14.900 --> 00:01:16.100
+You should already know.
+
+00:01:16.260 --> 00:01:18.720
+Amortisations do not mean a
+
+00:01:18.720 --> 00:01:20.240
+treasury exit.
+
+00:01:21.720 --> 00:01:25.620
+That is, when we previously
+
+00:01:25.620 --> 00:01:28.240
+calculated in the results
+
+00:01:28.240 --> 00:01:31.760
+report the net profit, which
+
+00:01:31.760 --> 00:01:35.360
+is here, $73,600, we had
+
+00:01:35.360 --> 00:01:37.400
+deducted the amortisations.
+
+00:01:37.860 --> 00:01:38.900
+But keep in mind that we have subsidized
+
+00:01:38.900 --> 00:01:39.920
+the amortisations but those
+
+00:01:39.920 --> 00:01:42.400
+8,000 euros have not come out
+
+00:01:42.400 --> 00:01:43.300
+of the box at any time.
+
+00:01:43.500 --> 00:01:45.380
+So, to turn it into a cash
+
+00:01:45.380 --> 00:01:46.660
+flow we have to re-
+
+00:01:46.660 --> 00:01:47.780
+sum them.
+
+00:01:47.800 --> 00:01:49.560
+As we see here, we have added the
+
+00:01:49.560 --> 00:01:51.740
+amortisations again.
+
+00:01:52.020 --> 00:01:53.380
+This is the first of the adjustments.
+
+00:01:53.500 --> 00:01:54.240
+We have to continue making
+
+00:01:54.240 --> 00:01:56.360
+adjustments to convert the
+
+00:01:56.360 --> 00:01:58.140
+profit into a cash flow.
+
+00:01:58.880 --> 00:02:00.160
+To convert net profit into cash
+
+00:02:00.160 --> 00:02:01.300
+flow we have to make a second
+
+00:02:01.300 --> 00:02:03.000
+block of adjustments.
+
+00:02:03.180 --> 00:02:04.700
+We have already made amortisations.
+
+00:02:05.320 --> 00:02:06.340
+Well, now we have to make
+
+00:02:06.340 --> 00:02:08.220
+adjustments corresponding to
+
+00:02:08.220 --> 00:02:10.080
+variations in current assets
+
+00:02:10.080 --> 00:02:11.040
+and liabilities.
+
+00:02:11.080 --> 00:02:12.200
+I will explain it to you.
+
+00:02:12.960 --> 00:02:14.000
+I return to the essence.
+
+00:02:15.480 --> 00:02:18.200
+The point is that income is not
+
+00:02:18.200 --> 00:02:19.300
+the same as collection.
+
+00:02:19.500 --> 00:02:21.160
+There are incomes that are not charged
+
+00:02:21.160 --> 00:02:23.060
+and expenses are not the same as payments.
+
+00:02:23.580 --> 00:02:24.800
+There are expenses that are not paid.
+
+00:02:25.460 --> 00:02:26.780
+We must make all the
+
+00:02:26.780 --> 00:02:28.460
+appropriate adjustments.
+
+00:02:28.960 --> 00:02:30.000
+We have to identify the income
+
+00:02:30.000 --> 00:02:31.520
+we have not collected and the
+
+00:02:31.520 --> 00:02:33.500
+expenses we have not paid.
+
+00:02:33.860 --> 00:02:36.000
+Now, back to the current assets
+
+00:02:36.000 --> 00:02:36.980
+and passives.
+
+00:02:36.980 --> 00:02:39.240
+The games that are in this
+
+00:02:39.240 --> 00:02:42.380
+case are the games that
+
+00:02:42.380 --> 00:02:43.660
+are in yellow.
+
+00:02:43.940 --> 00:02:45.980
+The assets and liabilities
+
+00:02:45.980 --> 00:02:47.680
+of the transactions related
+
+00:02:47.680 --> 00:02:48.960
+to revenue and expenses.
+
+00:02:49.380 --> 00:02:50.660
+I will give you an example of each
+
+00:02:50.660 --> 00:02:51.760
+one so you can understand.
+
+00:02:51.800 --> 00:02:54.200
+We start with the customers.
+
+00:02:54.460 --> 00:02:56.840
+What we have is an income.
+
+00:02:56.980 --> 00:02:59.080
+We have a sales income that goes
+
+00:02:59.080 --> 00:02:59.900
+to results.
+
+00:03:00.020 --> 00:03:01.240
+This increases net
+
+00:03:01.240 --> 00:03:03.020
+profit by $100,
+
+00:03:03.020 --> 00:03:03.720
+000.
+
+00:03:03.720 --> 00:03:05.360
+But we did not charge it.
+
+00:03:05.520 --> 00:03:08.660
+Instead of increasing the treasury
+
+00:03:08.660 --> 00:03:10.580
+account or bank account.
+
+00:03:10.580 --> 00:03:12.620
+Increase the customer account.
+
+00:03:12.880 --> 00:03:14.000
+It is an active account, a current
+
+00:03:14.000 --> 00:03:14.780
+asset account.
+
+00:03:15.020 --> 00:03:16.440
+But we did not charge.
+
+00:03:16.900 --> 00:03:18.940
+So if we want to convert
+
+00:03:18.940 --> 00:03:20.900
+net profit into cash flow.
+
+00:03:20.900 --> 00:03:22.020
+We must bear in mind that those
+
+00:03:22.020 --> 00:03:23.480
+100,000 have not yet entered.
+
+00:03:23.560 --> 00:03:25.080
+Therefore, they will have to be retained.
+
+00:03:26.910 --> 00:03:28.910
+The opposite is true of suppliers.
+
+00:03:29.190 --> 00:03:33.230
+In this case, we will see a cost that
+
+00:03:33.230 --> 00:03:35.090
+does not involve a payment.
+
+00:03:35.570 --> 00:03:36.610
+We have a purchase cost.
+
+00:03:36.750 --> 00:03:38.090
+We bought goods.
+
+00:03:38.430 --> 00:03:39.970
+for a value of $100,000.
+
+00:03:40.250 --> 00:03:42.270
+We have calculated
+
+00:03:42.270 --> 00:03:43.770
+the net profit.
+
+00:03:43.910 --> 00:03:45.670
+We have not paid the provider.
+
+00:03:45.990 --> 00:03:48.590
+As you can see, the balance is complete.
+
+00:03:48.790 --> 00:03:50.510
+Suppliers $100,000
+
+00:03:50.930 --> 00:03:53.310
+This is a cost that has not
+
+00:03:53.310 --> 00:03:54.790
+resulted in a cash out.
+
+00:03:55.370 --> 00:03:56.970
+Then we will have to adjust it.
+
+00:03:57.650 --> 00:03:59.830
+We will have when we calculate to calculate
+
+00:03:59.830 --> 00:04:01.990
+the cash flow of the transactions.
+
+00:04:02.130 --> 00:04:04.350
+We will have to add it.
+
+00:04:04.830 --> 00:04:06.090
+to correct it.
+
+00:04:06.610 --> 00:04:08.530
+Finally, we will look at the stocks.
+
+00:04:08.970 --> 00:04:10.090
+I will explain how it works.
+
+00:04:10.970 --> 00:04:12.970
+The change in stock at the
+
+00:04:12.970 --> 00:04:14.890
+end of the year is a positive
+
+00:04:14.890 --> 00:04:15.650
+result.
+
+00:04:15.750 --> 00:04:17.170
+We consider it an income.
+
+00:04:17.410 --> 00:04:19.870
+However, it should be noted that it has not
+
+00:04:19.870 --> 00:04:21.670
+resulted in an increase in the amount of money.
+
+00:04:21.830 --> 00:04:23.450
+We must adjust it in the same way.
+
+00:04:23.450 --> 00:04:27.090
+We have an income that has not increased
+
+00:04:27.090 --> 00:04:28.310
+the balance of the cash.
+
+00:04:28.410 --> 00:04:29.650
+This increased the balance of another
+
+00:04:29.650 --> 00:04:31.070
+asset.
+
+00:04:31.350 --> 00:04:34.010
+We must therefore retain it.
+
+00:04:34.810 --> 00:04:37.090
+And here we have, we see again in
+
+00:04:37.090 --> 00:04:38.730
+the state of treasury.
+
+00:04:39.570 --> 00:04:39.850
+We see it.
+
+00:04:40.110 --> 00:04:42.190
+We have to restore the increases
+
+00:04:42.190 --> 00:04:43.570
+in current assets.
+
+00:04:44.490 --> 00:04:46.270
+They are made from income that
+
+00:04:46.270 --> 00:04:47.850
+has not generated an increase in
+
+00:04:47.850 --> 00:04:48.450
+treasury.
+
+00:04:48.490 --> 00:04:49.610
+This has led to an increase
+
+00:04:49.610 --> 00:04:51.310
+in the asset.
+
+00:04:51.310 --> 00:04:54.930
+Customers or stocks.
+
+00:04:55.310 --> 00:04:57.630
+We need to increase
+
+00:04:57.630 --> 00:04:59.230
+the current liabilities.
+
+00:04:59.530 --> 00:05:01.410
+The account of suppliers has increased.
+
+00:05:01.450 --> 00:05:02.690
+We have to add it.
+
+00:05:03.230 --> 00:05:05.990
+We consider it a cost.
+
+00:05:05.990 --> 00:05:07.190
+This has reduced net
+
+00:05:07.190 --> 00:05:08.050
+profit.
+
+00:05:08.270 --> 00:05:09.930
+There was no exit from treasury.
+
+00:05:13.360 --> 00:05:14.660
+We go to the second of the streams.
+
+00:05:14.660 --> 00:05:16.080
+The cash flow of investment.
+
+00:05:16.080 --> 00:05:16.980
+This is very simple.
+
+00:05:16.980 --> 00:05:18.020
+All we have to do is
+
+00:05:18.020 --> 00:05:19.960
+add and rest.
+
+00:05:19.960 --> 00:05:20.780
+All movements corresponding
+
+00:05:20.780 --> 00:05:22.120
+to investments in fixed
+
+00:05:22.120 --> 00:05:23.500
+assets.
+
+00:05:23.720 --> 00:05:25.240
+They usually buy fixed assets.
+
+00:05:25.280 --> 00:05:27.580
+Imagine a building, a machine.
+
+00:05:27.780 --> 00:05:28.800
+Invest in software.
+
+00:05:29.660 --> 00:05:30.980
+In some cases, it is devalued
+
+00:05:30.980 --> 00:05:32.980
+and produces a treasury
+
+00:05:32.980 --> 00:05:33.900
+entry.
+
+00:05:36.440 --> 00:05:38.060
+The third cash flow is
+
+00:05:38.060 --> 00:05:39.260
+from funding.
+
+00:05:39.440 --> 00:05:41.520
+In this case, we need
+
+00:05:41.520 --> 00:05:43.260
+to add and rest.
+
+00:05:43.300 --> 00:05:44.660
+The movements related to the
+
+00:05:44.660 --> 00:05:45.980
+two sources of funding.
+
+00:05:46.320 --> 00:05:47.780
+What are the sources of financing?
+
+00:05:48.480 --> 00:05:51.040
+The debt or the partners.
+
+00:05:51.040 --> 00:05:52.460
+Let’s start with debt.
+
+00:05:52.540 --> 00:05:54.500
+We have a few debt tickets.
+
+00:05:54.600 --> 00:05:56.680
+When we get a loan enters the box,
+
+00:05:56.680 --> 00:05:58.520
+enters the treasury in the company.
+
+00:05:59.020 --> 00:06:00.560
+Amortisation is the opposite.
+
+00:06:00.700 --> 00:06:02.280
+These are payments, the returns.
+
+00:06:03.320 --> 00:06:05.680
+For the partners, it is a bit
+
+00:06:05.680 --> 00:06:06.660
+similar.
+
+00:06:07.180 --> 00:06:08.280
+The contributions of the partners.
+
+00:06:08.460 --> 00:06:09.600
+Social capital, capital
+
+00:06:09.600 --> 00:06:10.760
+expansion, etc.
+
+00:06:10.800 --> 00:06:12.120
+This increases the amount of money
+
+00:06:12.120 --> 00:06:13.340
+that is available in the company.
+
+00:06:13.820 --> 00:06:15.040
+It is summed up, of course.
+
+00:06:15.680 --> 00:06:18.400
+The outputs are dividend payments.
+
+00:06:18.580 --> 00:06:21.440
+That we decrease in
+
+00:06:21.440 --> 00:06:23.080
+that amount every year.
+
+00:06:25.100 --> 00:06:26.860
+We have seen how the treasury
+
+00:06:26.860 --> 00:06:28.000
+state is created.
+
+00:06:28.580 --> 00:06:30.320
+There are three types of operations,
+
+00:06:30.580 --> 00:06:31.480
+investment and financing.
+
+00:06:31.920 --> 00:06:33.320
+We calculate separately.
+
+00:06:33.760 --> 00:06:35.240
+Add the three flowers.
+
+00:06:35.280 --> 00:06:39.100
+It tells us about the cash flow of the period.

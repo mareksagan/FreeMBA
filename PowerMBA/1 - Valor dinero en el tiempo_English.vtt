@@ -1,0 +1,499 @@
+WEBVTT
+
+00:00:05.250 --> 00:00:07.390
+The value of money over time is a
+
+00:00:07.390 --> 00:00:10.850
+basic concept in finance that is very
+
+00:00:10.850 --> 00:00:12.390
+intuitive, it is very easy to understand.
+
+00:00:12.390 --> 00:00:13.170
+
+
+00:00:13.750 --> 00:00:15.350
+If you get into this situation, you
+
+00:00:15.350 --> 00:00:17.030
+have two options.
+
+00:00:17.530 --> 00:00:18.950
+You can choose between a million
+
+00:00:18.950 --> 00:00:21.630
+euros today or a million euros
+
+00:00:21.630 --> 00:00:22.770
+in ten years.
+
+00:00:23.430 --> 00:00:24.890
+And here the answer is very easy.
+
+00:00:25.310 --> 00:00:27.090
+I prefer a million euros today.
+
+00:00:27.910 --> 00:00:28.450
+And why?
+
+00:00:28.490 --> 00:00:30.110
+Basically for two reasons.
+
+00:00:30.230 --> 00:00:32.670
+One, because there will probably
+
+00:00:32.670 --> 00:00:35.390
+be inflation in ten years, prices
+
+00:00:35.750 --> 00:00:37.790
+will rise and the purchasing
+
+00:00:37.790 --> 00:00:39.750
+power of that million euros
+
+00:00:39.750 --> 00:00:42.610
+will be lower within ten years.
+
+00:00:42.690 --> 00:00:43.790
+I prefer it today.
+
+00:00:44.430 --> 00:00:47.430
+This is what we call
+
+00:00:47.430 --> 00:00:48.910
+the opportunity cost.
+
+00:00:49.590 --> 00:00:51.530
+If I have a million euros today
+
+00:00:51.530 --> 00:00:53.310
+I will get an interest or I
+
+00:00:53.310 --> 00:00:54.450
+will get a profit during these
+
+00:00:54.450 --> 00:00:56.110
+ten years.
+
+00:00:56.370 --> 00:00:57.770
+If you give me it in ten years, well,
+
+00:00:57.770 --> 00:01:00.110
+because I’ll miss out on the
+
+00:01:00.110 --> 00:01:01.810
+opportunity to generate all
+
+00:01:01.810 --> 00:01:03.190
+those interests.
+
+00:01:03.690 --> 00:01:05.650
+This was very easy, but imagine that
+
+00:01:05.650 --> 00:01:06.870
+we are putting ourselves in a more
+
+00:01:06.870 --> 00:01:09.430
+complex situation and we have to evaluate
+
+00:01:09.430 --> 00:01:11.070
+or we have to compare or analyze
+
+00:01:11.070 --> 00:01:15.070
+or make decisions by comparing alternatives.
+
+00:01:16.190 --> 00:01:19.150
+One million euros today, one eats
+
+00:01:19.150 --> 00:01:26.350
+four million within receiving a flow
+
+00:01:26.350 --> 00:01:28.510
+of two hundred and five thousand
+
+00:01:28.510 --> 00:01:30.470
+euros over the next five years.
+
+00:01:31.350 --> 00:01:32.230
+How do we compare this?
+
+00:01:32.250 --> 00:01:33.970
+Because of course, if we compare it like
+
+00:01:33.970 --> 00:01:34.730
+this, what we are doing is
+
+00:01:34.730 --> 00:01:36.210
+to compare pears with apples.
+
+00:01:37.410 --> 00:01:38.550
+What we have to do is calculate
+
+00:01:38.650 --> 00:01:41.810
+the present or future value
+
+00:01:41.810 --> 00:01:43.710
+of those alternatives.
+
+00:01:44.590 --> 00:01:45.830
+We have incorporated two very important
+
+00:01:45.830 --> 00:01:47.090
+concepts, present value and future
+
+00:01:47.090 --> 00:01:49.370
+value, which is very intuitive.
+
+00:01:49.710 --> 00:01:51.390
+The present value of these three alternatives
+
+00:01:52.790 --> 00:01:55.630
+would be the value today of those
+
+00:01:55.630 --> 00:01:56.610
+cash flows regardless
+
+00:01:56.610 --> 00:01:57.830
+of when they have been generated
+
+00:01:57.830 --> 00:01:59.950
+and the future value since it
+
+00:01:59.950 --> 00:02:01.430
+is the value in this case
+
+00:02:01.430 --> 00:02:03.090
+within five years.
+
+00:02:04.410 --> 00:02:06.030
+What we have to learn is to calculate
+
+00:02:06.030 --> 00:02:07.550
+those present values or those future
+
+00:02:07.550 --> 00:02:09.990
+values and for that we introduce
+
+00:02:09.990 --> 00:02:12.030
+two other concepts that is to
+
+00:02:12.030 --> 00:02:15.510
+capitalize or discount or update,
+
+00:02:15.510 --> 00:02:16.610
+which are sometimes used
+
+00:02:16.610 --> 00:02:22.710
+for cash flows, payments, etc.,
+
+00:02:22.770 --> 00:02:26.230
+to move them to a future moment
+
+00:02:26.230 --> 00:02:29.390
+and discount is the opposite.
+
+00:02:31.250 --> 00:02:32.630
+In the case we had before, well,
+
+00:02:32.830 --> 00:02:33.810
+because what we can do is that
+
+00:02:33.810 --> 00:02:35.650
+million euros we receive
+
+00:02:35.650 --> 00:02:37.170
+today, we can capitalize
+
+00:02:37.170 --> 00:02:38.630
+it, that now we will see the formula,
+
+00:02:38.630 --> 00:02:40.410
+to see what is its value within
+
+00:02:40.410 --> 00:02:43.910
+five years or vice versa, option
+
+00:02:44.370 --> 00:02:45.790
+B one eats four million
+
+00:02:45.790 --> 00:02:51.090
+within five years what we are
+
+00:02:51.370 --> 00:02:53.350
+doing is through a discount of
+
+00:02:53.350 --> 00:02:54.430
+the update of that
+
+00:02:54.430 --> 00:02:56.950
+amount and we could do the
+
+00:02:56.950 --> 00:02:58.190
+same with that flow of 205
+
+00:02:58.190 --> 00:03:02.190
+thousand euros a year.
+
+00:03:02.490 --> 00:03:03.830
+We could convert it into a present
+
+00:03:03.830 --> 00:03:06.270
+value by discounting those flows or
+
+00:03:06.270 --> 00:03:08.490
+we can capitalize them and see what
+
+00:03:08.490 --> 00:03:10.090
+the value is within five years.
+
+00:03:10.570 --> 00:03:12.090
+Now let’s see the formula we use
+
+00:03:12.090 --> 00:03:14.490
+both to capitalize and to discount
+
+00:03:14.490 --> 00:03:16.550
+because as you will see it
+
+00:03:16.550 --> 00:03:18.770
+is the same formula and we
+
+00:03:18.770 --> 00:03:20.490
+start with capitalization.
+
+00:03:20.990 --> 00:03:21.970
+What we want is to calculate
+
+00:03:21.970 --> 00:03:24.650
+the future value of a charge,
+
+00:03:24.650 --> 00:03:26.210
+cash flow, etc., or present
+
+00:03:26.210 --> 00:03:26.830
+value.
+
+00:03:27.290 --> 00:03:29.550
+What we do here is multiply.
+
+00:03:29.630 --> 00:03:31.810
+Multiply by a capital factor.
+
+00:03:32.830 --> 00:03:35.010
+As you can see, future value is equal
+
+00:03:35.010 --> 00:03:38.110
+to present value by the capitalization factor.
+
+00:03:38.890 --> 00:03:40.910
+What is this capitalization factor?
+
+00:03:41.330 --> 00:03:44.070
+It depends on the type of interest
+
+00:03:44.070 --> 00:03:47.170
+that will be generated and the number
+
+00:03:47.170 --> 00:03:48.810
+of periods.
+
+00:03:49.150 --> 00:03:50.490
+And if we do the opposite, what
+
+00:03:50.490 --> 00:03:52.950
+we do is update, rather than
+
+00:03:52.950 --> 00:03:54.210
+multiply, what we will do is
+
+00:03:54.210 --> 00:03:56.110
+divide by that same amount.
+
+00:03:56.530 --> 00:03:57.790
+In this case it would not be a capitalization
+
+00:03:57.790 --> 00:03:59.850
+factor, it would be an upgrade
+
+00:03:59.850 --> 00:04:00.970
+or discount factor.
+
+00:04:01.010 --> 00:04:02.310
+What we will do is discount those
+
+00:04:02.310 --> 00:04:04.650
+amounts and as you can see we
+
+00:04:04.650 --> 00:04:05.910
+have in mind the same variables
+
+00:04:05.910 --> 00:04:07.230
+that are the interest rate
+
+00:04:07.230 --> 00:04:09.210
+and the number of periods.
+
+00:04:09.630 --> 00:04:10.670
+The formula is very simple.
+
+00:04:10.670 --> 00:04:11.890
+You may not understand it intuitively
+
+00:04:11.890 --> 00:04:13.870
+yet, but if we put an example
+
+00:04:13.870 --> 00:04:15.130
+and a simple example like
+
+00:04:15.130 --> 00:04:16.270
+the one we’ll see, you’
+
+00:04:16.270 --> 00:04:17.730
+ll understand it.
+
+00:04:17.810 --> 00:04:19.610
+We will take everything to the
+
+00:04:19.610 --> 00:04:20.930
+extreme of simplicity.
+
+00:04:20.990 --> 00:04:22.150
+There is only one year, there is
+
+00:04:22.150 --> 00:04:23.230
+only a period that could be a year, a month,
+
+00:04:23.230 --> 00:04:23.850
+whatever it is.
+
+00:04:24.390 --> 00:04:25.470
+In this case, we need to calculate
+
+00:04:25.470 --> 00:04:26.610
+the future value.
+
+00:04:28.070 --> 00:04:29.130
+We know the present value.
+
+00:04:29.990 --> 00:04:31.770
+The current value is one, one million.
+
+00:04:33.190 --> 00:04:35.550
+The interest rate is 10%, and the
+
+00:04:35.550 --> 00:04:36.170
+period is one.
+
+00:04:36.590 --> 00:04:37.570
+What is the future value?
+
+00:04:37.750 --> 00:04:39.350
+It is easy, it is easy.
+
+00:04:40.110 --> 00:04:42.030
+A million, we will multiply by that
+
+00:04:42.030 --> 00:04:43.290
+capitalization factor that is 10%,
+
+00:04:43.290 --> 00:04:45.770
+which would be one with one and
+
+00:04:45.770 --> 00:04:47.990
+above the period is one.
+
+00:04:48.190 --> 00:04:48.990
+Very easy, right?
+
+00:04:49.190 --> 00:04:52.530
+What is the future value in this case?
+
+00:04:52.570 --> 00:04:53.910
+It is 1.1 million.
+
+00:04:55.810 --> 00:04:57.050
+Now we will do the opposite.
+
+00:04:57.170 --> 00:04:59.950
+We will discount with the same
+
+00:04:59.950 --> 00:05:02.410
+type of interest, we have taken
+
+00:05:02.410 --> 00:05:03.830
+it forward, we have capitalized
+
+00:05:03.830 --> 00:05:06.590
+and we will discount it, we will update it.
+
+00:05:07.650 --> 00:05:08.990
+We will bring it back, we will bring
+
+00:05:08.990 --> 00:05:10.310
+it back to the present moment.
+
+00:05:10.710 --> 00:05:12.170
+That is 1.1 million.
+
+00:05:13.010 --> 00:05:14.310
+Remember that the formula was, in
+
+00:05:14.590 --> 00:05:15.390
+this case, instead of
+
+00:05:15.390 --> 00:05:16.190
+multiplying, what we will
+
+00:05:16.190 --> 00:05:17.610
+do is divide.
+
+00:05:17.810 --> 00:05:19.230
+We will divide the future value
+
+00:05:19.230 --> 00:05:21.850
+between that upgrade factor, which
+
+00:05:22.730 --> 00:05:24.210
+in this case is the same type of
+
+00:05:24.210 --> 00:05:26.450
+interest, we have made a 10%.
+
+00:05:26.450 --> 00:05:27.470
+Well, then very easy.
+
+00:05:28.390 --> 00:05:29.190
+What will come out of us?
+
+00:05:29.790 --> 00:05:30.810
+We will get the same million
+
+00:05:30.810 --> 00:05:31.690
+euros.
+
+00:05:32.730 --> 00:05:34.130
+As you have seen, to capitalize
+
+00:05:34.130 --> 00:05:35.330
+what we do is to multiply by
+
+00:05:36.210 --> 00:05:37.750
+that capitalization factor
+
+00:05:37.750 --> 00:05:39.170
+that depends on the type of
+
+00:05:39.170 --> 00:05:40.430
+interest and the number of periods
+
+00:05:40.430 --> 00:05:42.850
+and to discount a future value
+
+00:05:42.850 --> 00:05:44.590
+or a quantity, whatever, we
+
+00:05:44.970 --> 00:05:45.810
+will do the opposite.
+
+00:05:45.910 --> 00:05:47.370
+We will divide it.

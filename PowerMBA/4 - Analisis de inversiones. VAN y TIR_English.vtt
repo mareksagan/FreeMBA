@@ -1,0 +1,883 @@
+WEBVTT
+
+00:00:05.110 --> 00:00:07.590
+Today we will talk about BAN and
+
+00:00:07.590 --> 00:00:10.030
+TIER, which are the two most well-
+
+00:00:10.030 --> 00:00:12.730
+known indicators that are used to
+
+00:00:12.730 --> 00:00:15.910
+evaluate, to evaluate the
+
+00:00:15.910 --> 00:00:17.430
+profitability or viability of
+
+00:00:17.430 --> 00:00:20.270
+investment projects, of investments.
+
+00:00:21.130 --> 00:00:22.590
+We will see them together because they
+
+00:00:22.590 --> 00:00:23.910
+are very related and understand
+
+00:00:23.910 --> 00:00:24.870
+each other better.
+
+00:00:25.690 --> 00:00:27.910
+Before we define them, I want
+
+00:00:27.910 --> 00:00:32.070
+you to keep in mind that
+
+00:00:32.070 --> 00:00:34.010
+when we go from a cash flow
+
+00:00:34.010 --> 00:00:35.830
+projection.
+
+00:00:36.030 --> 00:00:37.310
+A cash flow projection that can
+
+00:00:37.310 --> 00:00:39.590
+have different forms, but this would
+
+00:00:40.430 --> 00:00:42.090
+be a very simplified one
+
+00:00:42.090 --> 00:00:44.830
+in which we have an initial cash
+
+00:00:44.830 --> 00:00:46.530
+flow, a negative initial cash
+
+00:00:46.530 --> 00:00:48.150
+flow because it is the investment
+
+00:00:48.150 --> 00:00:50.190
+we make and that subsequently
+
+00:00:50.190 --> 00:00:52.510
+generates a series of
+
+00:00:52.510 --> 00:00:54.590
+positive cash flows.
+
+00:00:55.130 --> 00:00:57.170
+We always have to start from the
+
+00:00:57.170 --> 00:00:58.970
+projection of a series of cash
+
+00:00:58.970 --> 00:00:59.450
+flows.
+
+00:00:59.690 --> 00:01:01.790
+That is where we will get the ban and
+
+00:01:01.790 --> 00:01:02.970
+the TER.
+
+00:01:03.430 --> 00:01:05.750
+We will define both, the two indicators,
+
+00:01:05.750 --> 00:01:07.470
+the BAN and the TIER.
+
+00:01:07.550 --> 00:01:10.990
+The BAN is the net current value and
+
+00:01:10.990 --> 00:01:13.430
+is the economic value created by an
+
+00:01:13.430 --> 00:01:15.950
+investment, but it takes into account,
+
+00:01:16.330 --> 00:01:18.110
+given or starting from a discount
+
+00:01:18.110 --> 00:01:21.210
+rate that is representative of the
+
+00:01:21.210 --> 00:01:23.110
+profitability we demand.
+
+00:01:23.670 --> 00:01:24.870
+Given that discount rate,
+
+00:01:25.150 --> 00:01:27.470
+we discount the flows and obtain
+
+00:01:27.470 --> 00:01:28.370
+economic value.
+
+00:01:28.390 --> 00:01:29.930
+The economic value in monetary
+
+00:01:29.930 --> 00:01:31.510
+units that can be in euros,
+
+00:01:31.510 --> 00:01:33.630
+in dollars, etc.
+
+00:01:34.650 --> 00:01:37.830
+In contrast, the TERER is a different indicator.
+
+00:01:38.190 --> 00:01:41.430
+The internal return rate that informs
+
+00:01:41.430 --> 00:01:43.850
+us is the expected return on
+
+00:01:43.850 --> 00:01:46.270
+an investment, which is not
+
+00:01:46.270 --> 00:01:48.650
+the same as the discount rate.
+
+00:01:48.670 --> 00:01:51.290
+It can be lower or higher
+
+00:01:51.290 --> 00:01:53.550
+or it can be equal to the discount
+
+00:01:53.550 --> 00:01:55.310
+rate or the profitability
+
+00:01:55.310 --> 00:01:56.970
+we require.
+
+00:01:58.270 --> 00:02:00.610
+The unit is a percentage
+
+00:02:00.610 --> 00:02:03.110
+because it is a measure of profitability.
+
+00:02:03.550 --> 00:02:04.790
+Let’s start with the ban.
+
+00:02:05.990 --> 00:02:08.190
+The BAN, the formula you already know,
+
+00:02:09.230 --> 00:02:11.550
+is the present value, the current
+
+00:02:11.550 --> 00:02:13.890
+value of an investment.
+
+00:02:14.350 --> 00:02:15.110
+So what we do is, we have
+
+00:02:15.210 --> 00:02:16.690
+a series of cash flows and
+
+00:02:16.690 --> 00:02:20.670
+we will update them and as we
+
+00:02:20.670 --> 00:02:22.290
+said in the definition of the
+
+00:02:22.290 --> 00:02:25.970
+BAN, given a discount rate.
+
+00:02:26.130 --> 00:02:27.190
+That is, in this case what we
+
+00:02:27.190 --> 00:02:28.850
+will discount is those cash flows
+
+00:02:28.850 --> 00:02:31.570
+at the discount rate that is the
+
+00:02:31.570 --> 00:02:33.230
+profitability we demand.
+
+00:02:34.470 --> 00:02:35.410
+That does not have to be the actual
+
+00:02:35.410 --> 00:02:37.450
+profitability of the project, the expected
+
+00:02:37.450 --> 00:02:38.210
+profitability.
+
+00:02:38.310 --> 00:02:39.970
+This is the minimum profitability we
+
+00:02:39.970 --> 00:02:42.710
+require in accordance, if you remember
+
+00:02:42.710 --> 00:02:45.390
+in the previous class, based on
+
+00:02:45.390 --> 00:02:47.390
+the minimum interest we can get
+
+00:02:47.390 --> 00:02:50.990
+without risk plus the risk premium
+
+00:02:50.990 --> 00:02:53.210
+and the box is what we demand.
+
+00:02:53.750 --> 00:02:55.490
+Will we cut those flowers?
+
+00:02:56.490 --> 00:02:58.010
+The initial cash flow is
+
+00:02:58.010 --> 00:02:59.650
+usually the investment.
+
+00:02:59.750 --> 00:03:01.490
+It is easier to understand it that way.
+
+00:03:02.770 --> 00:03:04.170
+To better understand the BAN, what
+
+00:03:04.170 --> 00:03:06.270
+we will do is apply it to an example.
+
+00:03:07.730 --> 00:03:08.910
+I’m going to get you in the position
+
+00:03:08.910 --> 00:03:10.710
+that we’re going to build a gym.
+
+00:03:11.410 --> 00:03:12.690
+You have three different options because
+
+00:03:12.690 --> 00:03:14.830
+you have three different locations.
+
+00:03:15.570 --> 00:03:17.910
+Three different sizes.
+
+00:03:18.070 --> 00:03:19.250
+Keep in mind that the size of
+
+00:03:19.250 --> 00:03:21.490
+the room will determine both the
+
+00:03:21.490 --> 00:03:22.810
+initial investment you have to
+
+00:03:22.810 --> 00:03:25.450
+make in repair etc. in machinery,
+
+00:03:25.450 --> 00:03:27.330
+it will determine the square
+
+00:03:27.330 --> 00:03:28.790
+meters of the gym and therefore
+
+00:03:28.790 --> 00:03:29.950
+will determine the number
+
+00:03:29.950 --> 00:03:31.590
+of partners and income.
+
+00:03:31.750 --> 00:03:32.730
+It will condition everything.
+
+00:03:33.170 --> 00:03:35.210
+But we have three alternatives and
+
+00:03:35.210 --> 00:03:36.890
+we have to calculate or value the
+
+00:03:36.890 --> 00:03:38.990
+investment in each of them.
+
+00:03:40.770 --> 00:03:43.730
+Well, let’s project the
+
+00:03:43.730 --> 00:03:44.330
+cash flow.
+
+00:03:44.530 --> 00:03:47.010
+First, let’s see what the
+
+00:03:47.010 --> 00:03:49.950
+discount rate we will apply.
+
+00:03:50.010 --> 00:03:51.370
+That being said, let’s see what the
+
+00:03:51.370 --> 00:03:53.390
+minimum profitability we will
+
+00:03:53.390 --> 00:03:54.410
+require.
+
+00:03:54.490 --> 00:03:55.910
+Well, for all three cases, in
+
+00:03:56.890 --> 00:03:58.290
+the gym example, we will demand
+
+00:03:58.290 --> 00:03:59.610
+the same profitability because
+
+00:03:59.610 --> 00:04:02.910
+we perceive the same risk, which
+
+00:04:03.090 --> 00:04:05.210
+for example is 20%.
+
+00:04:05.210 --> 00:04:07.090
+So we are building the
+
+00:04:07.090 --> 00:04:08.030
+cash flow.
+
+00:04:08.390 --> 00:04:09.970
+In this case, with a 20%
+
+00:04:09.970 --> 00:04:11.870
+discount rate.
+
+00:04:11.870 --> 00:04:13.310
+Now what we have to do is project
+
+00:04:13.330 --> 00:04:15.630
+both the cash flows that will be
+
+00:04:15.630 --> 00:04:17.050
+generated as well as the initial
+
+00:04:17.050 --> 00:04:18.890
+investment we need.
+
+00:04:19.450 --> 00:04:20.450
+Let us go case by case.
+
+00:04:21.250 --> 00:04:22.650
+In the first case, the initial
+
+00:04:22.650 --> 00:04:24.390
+investment is 300,000 euros
+
+00:04:24.390 --> 00:04:26.390
+and cash flows will be generated
+
+00:04:26.390 --> 00:04:27.790
+in the next three years
+
+00:04:27.790 --> 00:04:30.910
+of 150,000 euros.
+
+00:04:31.930 --> 00:04:33.630
+If we discount it, we calculate the
+
+00:04:34.750 --> 00:04:36.710
+current net value, we get a positive
+
+00:04:36.710 --> 00:04:39.510
+bank of 16,000 euros.
+
+00:04:40.790 --> 00:04:43.670
+Let us go to the following case, the
+
+00:04:43.670 --> 00:04:44.330
+following example.
+
+00:04:44.790 --> 00:04:46.090
+In this case it is a little
+
+00:04:46.090 --> 00:04:47.210
+bigger gym, we have to make a bigger
+
+00:04:47.210 --> 00:04:49.610
+investment and it is true
+
+00:04:49.610 --> 00:04:50.710
+that we will get a higher
+
+00:04:50.710 --> 00:04:51.610
+cash flow.
+
+00:04:51.810 --> 00:04:53.430
+In this case of 180,000, we discount
+
+00:04:53.430 --> 00:04:55.890
+them to 20% and it goes out that
+
+00:04:55.890 --> 00:04:57.570
+the current net value is zero.
+
+00:04:59.120 --> 00:05:00.960
+And we go to the third option, in which
+
+00:05:00.960 --> 00:05:02.960
+it is a more equitable gym, we have
+
+00:05:03.020 --> 00:05:04.060
+to make a smaller investment,
+
+00:05:04.060 --> 00:05:06.040
+in this case we have to invest
+
+00:05:06.040 --> 00:05:08.580
+150,000 euros and we will generate
+
+00:05:08.580 --> 00:05:11.080
+only 60,000 euros every
+
+00:05:11.080 --> 00:05:11.680
+year.
+
+00:05:13.020 --> 00:05:15.400
+We discount it to 20% and it comes out
+
+00:05:15.400 --> 00:05:16.820
+that the current net value is negative,
+
+00:05:16.820 --> 00:05:19.460
+it is less than 23.000 euros.
+
+00:05:21.560 --> 00:05:23.320
+So what I would like
+
+00:05:23.320 --> 00:05:25.220
+now is that we could interpret
+
+00:05:25.220 --> 00:05:27.500
+these results.
+
+00:05:29.460 --> 00:05:31.480
+We are going to go with the first
+
+00:05:31.480 --> 00:05:33.400
+of the gyms, in this case we
+
+00:05:33.400 --> 00:05:35.280
+have got a positive bank.
+
+00:05:35.420 --> 00:05:36.420
+What does this mean?
+
+00:05:36.700 --> 00:05:37.940
+Let us think.
+
+00:05:38.240 --> 00:05:40.780
+What it means is that the actual
+
+00:05:40.780 --> 00:05:43.320
+profitability of the project is higher
+
+00:05:43.320 --> 00:05:46.280
+than what we demand, it is higher
+
+00:05:46.280 --> 00:05:48.200
+than the discount rate.
+
+00:05:48.500 --> 00:05:49.560
+Please note that we are demanding a
+
+00:05:49.560 --> 00:05:52.080
+20%, we do not want less than
+
+00:05:52.080 --> 00:05:53.940
+a 20 % for this project because it
+
+00:05:53.940 --> 00:05:55.880
+is the risk we perceive,
+
+00:05:55.880 --> 00:05:57.720
+we are not willing to enter this
+
+00:05:57.720 --> 00:05:58.920
+project for less than a 20%,
+
+00:05:58.920 --> 00:06:02.260
+and it results that with that minimum
+
+00:06:02.260 --> 00:06:03.840
+investment of 300,000 euros and
+
+00:06:03.840 --> 00:06:05.540
+those projected cash flows,
+
+00:06:05.540 --> 00:06:08.380
+an additional economic value
+
+00:06:08.380 --> 00:06:10.980
+of 16,000 euros is generated.
+
+00:06:12.780 --> 00:06:13.840
+It is therefore easy, it is intuitive
+
+00:06:13.840 --> 00:06:15.420
+to think that the actual
+
+00:06:15.420 --> 00:06:19.120
+profitability is higher than the required.
+
+00:06:20.700 --> 00:06:23.360
+That is, in this case, I incorporate
+
+00:06:23.360 --> 00:06:26.500
+the concept of the TIR, the TIR of
+
+00:06:26.500 --> 00:06:29.180
+the project, the profitability is
+
+00:06:29.180 --> 00:06:30.740
+higher than the discount rate, at
+
+00:06:30.860 --> 00:06:33.060
+20%.
+
+00:06:33.060 --> 00:06:35.280
+Let’s go to the next case.
+
+00:06:36.120 --> 00:06:37.620
+Remember it was a larger gym
+
+00:06:37.620 --> 00:06:39.880
+where we were going to get a
+
+00:06:39.880 --> 00:06:41.360
+higher cash flow, but at the end
+
+00:06:41.360 --> 00:06:43.260
+the current net value is zero.
+
+00:06:45.460 --> 00:06:47.300
+This means that no added value is created.
+
+00:06:48.300 --> 00:06:50.180
+Think about it, what profitability do
+
+00:06:50.180 --> 00:06:51.640
+you think we are getting in this case?
+
+00:06:52.700 --> 00:06:54.400
+The profitability is exactly 20%,
+
+00:06:54.400 --> 00:06:56.740
+in this case where the net
+
+00:06:56.740 --> 00:06:58.400
+current value is zero.
+
+00:06:59.020 --> 00:07:01.840
+The profitability we obtain is exactly
+
+00:07:01.840 --> 00:07:03.260
+the same as the minimum required,
+
+00:07:03.260 --> 00:07:05.260
+at 20%.
+
+00:07:05.260 --> 00:07:06.700
+Therefore, here the TIR, the
+
+00:07:06.700 --> 00:07:09.140
+profitability, is equal to the discount
+
+00:07:09.140 --> 00:07:10.100
+rate.
+
+00:07:10.560 --> 00:07:11.600
+I want you to understand all this
+
+00:07:11.600 --> 00:07:12.860
+intuitively, because it is the only
+
+00:07:12.860 --> 00:07:14.280
+way to assimilate it well.
+
+00:07:15.620 --> 00:07:17.040
+Let us go to the last case.
+
+00:07:17.620 --> 00:07:19.320
+It is the smallest gym and it turns
+
+00:07:19.320 --> 00:07:21.000
+out that we have calculated the BAN
+
+00:07:21.000 --> 00:07:22.380
+and we are negative.
+
+00:07:23.980 --> 00:07:26.360
+It is quite simple to understand that
+
+00:07:26.360 --> 00:07:28.440
+if the BAN goes negative, lower than
+
+00:07:28.440 --> 00:07:32.860
+zero, it is because the profitability
+
+00:07:32.860 --> 00:07:34.660
+of this project, starting from
+
+00:07:35.160 --> 00:07:36.440
+those cash flows, starting
+
+00:07:36.660 --> 00:07:38.060
+from that investment, is less
+
+00:07:38.060 --> 00:07:40.280
+than 20%.
+
+00:07:40.280 --> 00:07:41.940
+That is, we should not make this
+
+00:07:41.940 --> 00:07:44.340
+investment, because we demand a minimum
+
+00:07:44.340 --> 00:07:46.620
+of 20% for the risk that it has and
+
+00:07:46.620 --> 00:07:49.500
+really the real profitability
+
+00:07:49.500 --> 00:07:50.500
+that we are getting, the TIR,
+
+00:07:50.500 --> 00:07:58.350
+which So in short, if the BAN
+
+00:07:58.350 --> 00:08:01.950
+in the first of the cases is higher
+
+00:08:01.950 --> 00:08:03.690
+than zero, if we have a positive
+
+00:08:03.690 --> 00:08:05.990
+BAN, it is because the profitability
+
+00:08:06.310 --> 00:08:08.610
+of that project, those
+
+00:08:08.610 --> 00:08:10.250
+cash flows, that investment,
+
+00:08:10.250 --> 00:08:12.730
+is higher than the discount
+
+00:08:12.730 --> 00:08:15.150
+rate, the minimum profitability
+
+00:08:15.150 --> 00:08:17.690
+that we are demanding.
+
+00:08:18.190 --> 00:08:20.110
+That is, that TIR, the profitability,
+
+00:08:20.110 --> 00:08:22.290
+is higher here than the discount
+
+00:08:22.290 --> 00:08:23.150
+rate.
+
+00:08:23.570 --> 00:08:25.790
+In the case of the medium in which
+
+00:08:25.790 --> 00:08:28.350
+the BAN is equal to zero, in this case,
+
+00:08:29.270 --> 00:08:30.970
+it is that the profitability we are
+
+00:08:30.970 --> 00:08:32.130
+getting is just the one
+
+00:08:32.130 --> 00:08:33.150
+we were demanding.
+
+00:08:33.410 --> 00:08:34.490
+The shooting is the same.
+
+00:08:35.970 --> 00:08:37.390
+And in the third of the cases where
+
+00:08:37.390 --> 00:08:41.470
+the BAN is negative, it is because
+
+00:08:41.470 --> 00:08:43.550
+the real profitability
+
+00:08:43.550 --> 00:08:45.230
+of the project, given those
+
+00:08:45.350 --> 00:08:47.810
+cash flows, that investment,
+
+00:08:52.530 --> 00:08:56.450
+is less than the discount rate.
+
+00:08:58.380 --> 00:09:00.860
+Let’s go deeper into the TIR,
+
+00:09:00.860 --> 00:09:02.580
+which is the internal rate of
+
+00:09:02.580 --> 00:09:03.820
+return, which we have named
+
+00:09:03.820 --> 00:09:05.680
+before, but you may not yet understand
+
+00:09:05.680 --> 00:09:07.580
+it, and in addition, I’m
+
+00:09:07.580 --> 00:09:09.100
+aware that it’s not easy.
+
+00:09:09.720 --> 00:09:12.780
+The TIR, really, the concept is simple
+
+00:09:12.780 --> 00:09:14.180
+because it is the profitability of
+
+00:09:14.180 --> 00:09:15.660
+the investment.
+
+00:09:16.440 --> 00:09:18.260
+What is not easy is to get to it,
+
+00:09:18.260 --> 00:09:19.120
+the formula.
+
+00:09:19.900 --> 00:09:21.720
+By the way, the TIR is an indicator
+
+00:09:21.720 --> 00:09:24.300
+of profitability, therefore, it
+
+00:09:24.300 --> 00:09:25.880
+is a percentage, unlike the BAN,
+
+00:09:25.880 --> 00:09:27.680
+which is an absolute value, which
+
+00:09:27.680 --> 00:09:30.040
+are euros, dollars, etc.
+
+00:09:30.060 --> 00:09:31.480
+Let us remember how we calculated the
+
+00:09:31.480 --> 00:09:32.100
+ban.
+
+00:09:32.400 --> 00:09:34.680
+The BAN is the present value or
+
+00:09:34.680 --> 00:09:36.060
+current value of those flows
+
+00:09:36.060 --> 00:09:38.440
+that will be generated, discounted
+
+00:09:38.440 --> 00:09:41.420
+to the rate, to the rate of updating
+
+00:09:41.420 --> 00:09:42.600
+that we require in accordance
+
+00:09:42.600 --> 00:09:45.040
+with the risk.
+
+00:09:45.780 --> 00:09:48.860
+Well, the TIR, and this is something
+
+00:09:48.860 --> 00:09:50.740
+you have to remember, is profitability
+
+00:09:50.740 --> 00:09:52.920
+or it is the rate that makes
+
+00:09:52.920 --> 00:09:55.360
+the BAN equal to zero.
+
+00:09:56.160 --> 00:09:58.100
+This may not be intuitive
+
+00:09:58.100 --> 00:09:58.780
+to you.
+
+00:09:58.980 --> 00:10:00.740
+We will try to understand it better by looking
+
+00:10:00.740 --> 00:10:02.380
+at the formula.
+
+00:10:02.940 --> 00:10:04.820
+We have the BAN formula in which
+
+00:10:04.820 --> 00:10:06.240
+we have a series of cash flows,
+
+00:10:06.240 --> 00:10:09.280
+and what we say is that when
+
+00:10:09.280 --> 00:10:12.920
+the BAN is equal to zero, we have
+
+00:10:12.920 --> 00:10:14.980
+it there, the upgrade
+
+00:10:14.980 --> 00:10:16.640
+rate is equal to the TIR.
+
+00:10:16.880 --> 00:10:17.940
+It may not be well understood
+
+00:10:17.940 --> 00:10:18.920
+yet, but we will do one thing, we will
+
+00:10:18.920 --> 00:10:21.600
+go to that investment, we will pass
+
+00:10:21.880 --> 00:10:22.940
+the value of the investment
+
+00:10:22.940 --> 00:10:24.860
+to the other side, and we have the
+
+00:10:24.860 --> 00:10:25.920
+formula of so.
+
+00:10:26.700 --> 00:10:27.940
+In this case, what we have is
+
+00:10:27.940 --> 00:10:30.100
+that we make an investment,
+
+00:10:31.530 --> 00:10:32.970
+we will get a profit and cash
+
+00:10:32.970 --> 00:10:35.150
+flows will be generated.
+
+00:10:35.710 --> 00:10:38.230
+It is easy to understand, but
+
+00:10:38.230 --> 00:10:39.550
+in the end we used the same
+
+00:10:39.550 --> 00:10:40.290
+formula.
+
+00:10:40.730 --> 00:10:42.350
+In this case, we see, the
+
+00:10:42.350 --> 00:10:44.710
+investment we will make is exactly
+
+00:10:44.710 --> 00:10:48.410
+the current value of a series of
+
+00:10:48.410 --> 00:10:49.790
+cash flows that will be generated,
+
+00:10:49.790 --> 00:10:51.850
+discounted to the real
+
+00:10:51.850 --> 00:10:54.710
+profitability of the project.

@@ -1,0 +1,820 @@
+WEBVTT
+
+00:00:05.780 --> 00:00:08.640
+We have talked about that Agile is like
+
+00:00:08.640 --> 00:00:09.800
+a toolbox, a philosophy, it is a
+
+00:00:09.800 --> 00:00:11.740
+mindset and inside there are many and
+
+00:00:11.740 --> 00:00:13.780
+there are some that for example Lean
+
+00:00:13.780 --> 00:00:16.340
+Startup already know our students
+
+00:00:16.340 --> 00:00:18.060
+and there is another that is very
+
+00:00:18.060 --> 00:00:19.340
+well known that is Scrum.
+
+00:00:19.880 --> 00:00:22.440
+Then I would like you to explain
+
+00:00:22.440 --> 00:00:25.380
+a little about what Scrum helps,
+
+00:00:25.380 --> 00:00:26.980
+that in the end what helps
+
+00:00:26.980 --> 00:00:28.560
+you is...
+
+00:00:28.560 --> 00:00:31.900
+It helps you with the methodology
+
+00:00:31.900 --> 00:00:32.920
+to do things following the Agile
+
+00:00:32.920 --> 00:00:33.820
+philosophy, right?
+
+00:00:34.260 --> 00:00:35.520
+Let us take the example
+
+00:00:35.920 --> 00:00:37.720
+of creating a website.
+
+00:00:37.840 --> 00:00:37.960
+
+
+00:00:37.960 --> 00:00:38.460
+and correct.
+
+00:00:38.580 --> 00:00:40.560
+See, at the end of Scrum is all
+
+00:00:40.560 --> 00:00:41.640
+we have been talking to now about
+
+00:00:41.640 --> 00:00:42.580
+Agile project management but
+
+00:00:42.580 --> 00:00:44.520
+already materialized specifically
+
+00:00:44.520 --> 00:00:46.020
+and what does the Scrum framework,
+
+00:00:46.020 --> 00:00:48.120
+which is also to say that is
+
+00:00:48.120 --> 00:00:49.620
+the most used worldwide,
+
+00:00:49.620 --> 00:00:52.400
+will help you to concretize
+
+00:00:52.400 --> 00:00:53.040
+that, right?
+
+00:00:53.060 --> 00:00:53.860
+That is, all those ideas we have talked
+
+00:00:53.860 --> 00:00:55.200
+about earlier, how do I embrace them
+
+00:00:55.200 --> 00:00:57.020
+in something that helps me the day
+
+00:00:57.020 --> 00:00:58.260
+to concretize it?
+
+00:00:58.700 --> 00:01:00.140
+In this regard, we will talk about two
+
+00:01:00.140 --> 00:01:00.900
+things in particular.
+
+00:01:01.040 --> 00:01:03.260
+The first, some roles, defines certain
+
+00:01:03.260 --> 00:01:04.800
+roles, that is, people who
+
+00:01:04.800 --> 00:01:06.160
+will work in a Scrum environment
+
+00:01:06.160 --> 00:01:07.560
+will have responsibilities
+
+00:01:07.560 --> 00:01:10.200
+and we will talk in addition to
+
+00:01:10.200 --> 00:01:11.960
+what are the events that will
+
+00:01:11.960 --> 00:01:13.220
+allow me to make a continuous
+
+00:01:13.220 --> 00:01:14.580
+flow within Scrum.
+
+00:01:14.920 --> 00:01:16.680
+Scrum, let’s say, helps us first
+
+00:01:16.680 --> 00:01:18.900
+when we create the team, how to
+
+00:01:18.900 --> 00:01:21.320
+form it, right?
+
+00:01:21.460 --> 00:01:22.940
+How we make it, what roles should
+
+00:01:22.940 --> 00:01:24.020
+there be inside.
+
+00:01:24.280 --> 00:01:24.520
+and yes.
+
+00:01:24.940 --> 00:01:27.320
+And then, through what events
+
+00:01:27.320 --> 00:01:28.700
+or activities we’re going to
+
+00:01:28.700 --> 00:01:30.420
+constantly perform to ensure
+
+00:01:30.420 --> 00:01:31.720
+we’re doing incremental iterative
+
+00:01:31.720 --> 00:01:32.840
+deliveries.
+
+00:01:32.920 --> 00:01:34.100
+So, it’s a matter of time,
+
+00:01:34.100 --> 00:01:34.660
+right?
+
+00:01:34.660 --> 00:01:34.940
+and yes.
+
+00:01:34.940 --> 00:01:37.000
+What to do, stages
+
+00:01:37.000 --> 00:01:38.040
+or stages.
+
+00:01:38.160 --> 00:01:38.720
+and correct.
+
+00:01:38.780 --> 00:01:38.980
+well is.
+
+00:01:39.220 --> 00:01:40.240
+So I think it’s best to start talking
+
+00:01:40.240 --> 00:01:41.860
+about the framework as such
+
+00:01:41.860 --> 00:01:42.300
+first.
+
+00:01:42.860 --> 00:01:44.860
+The framework as such respects what
+
+00:01:44.860 --> 00:01:46.880
+we talked about before, is an iterative
+
+00:01:46.880 --> 00:01:53.380
+cycle through and is not blurred
+
+00:01:53.380 --> 00:01:55.560
+a product of half or this part
+
+00:01:55.560 --> 00:01:56.400
+of the system, no.
+
+00:01:56.480 --> 00:01:57.840
+It is a potentially deliverable
+
+00:01:57.840 --> 00:02:00.220
+product, ready to use to a customer.
+
+00:02:00.420 --> 00:02:01.500
+That is between two and four weeks.
+
+00:02:01.900 --> 00:02:04.160
+In addition, you will
+
+00:02:04.160 --> 00:02:05.960
+be able to define three key roles.
+
+00:02:06.140 --> 00:02:07.240
+That is, imagine, we started a project,
+
+00:02:07.240 --> 00:02:08.300
+we want to do it with Scrum,
+
+00:02:08.300 --> 00:02:10.120
+how do we conform that team?
+
+00:02:10.860 --> 00:02:11.680
+We think of three roles.
+
+00:02:11.820 --> 00:02:14.660
+First is the owner, the owner of the product.
+
+00:02:15.220 --> 00:02:17.800
+This profile will be responsible
+
+00:02:17.800 --> 00:02:20.300
+for defining what to do in the product
+
+00:02:20.300 --> 00:02:21.500
+and in the order.
+
+00:02:21.700 --> 00:02:22.700
+It is he who will tell you, guys,
+
+00:02:22.800 --> 00:02:24.420
+the team, you have to do this
+
+00:02:24.420 --> 00:02:25.840
+series of functionalities in this
+
+00:02:25.840 --> 00:02:27.380
+order of importance.
+
+00:02:27.680 --> 00:02:28.800
+Well, that’s the key figure, because it’
+
+00:02:28.840 --> 00:02:30.040
+s the one that’s going to tell you what
+
+00:02:30.040 --> 00:02:31.200
+the business is and in what direction to go.
+
+00:02:31.800 --> 00:02:33.320
+Then there is the development team
+
+00:02:33.320 --> 00:02:35.560
+or the Scrum team, the development
+
+00:02:35.560 --> 00:02:37.140
+team, which will be intentionally
+
+00:02:37.140 --> 00:02:38.160
+called so and have not put roles
+
+00:02:38.160 --> 00:02:40.380
+or profiles apart, because they
+
+00:02:40.380 --> 00:02:41.960
+see it as a multidisciplinary
+
+00:02:41.960 --> 00:02:44.100
+team, this implies that you will
+
+00:02:44.100 --> 00:02:45.440
+have within that team people of
+
+00:02:45.440 --> 00:02:47.120
+all skills, people of
+
+00:02:47.120 --> 00:02:48.460
+marketing, people of system,
+
+00:02:48.680 --> 00:02:50.540
+people of commercial, etc.,
+
+00:02:50.540 --> 00:02:51.800
+people of risk and will be
+
+00:02:51.800 --> 00:02:53.380
+a multidisciplinary team
+
+00:02:53.380 --> 00:02:54.700
+with all the roles that
+
+00:02:54.700 --> 00:02:56.160
+are needed to complete
+
+00:02:56.160 --> 00:02:57.000
+the product.
+
+00:02:57.740 --> 00:02:59.040
+If I am making an application that
+
+00:02:59.040 --> 00:03:01.100
+has legal consequences, then I
+
+00:03:01.260 --> 00:03:02.260
+am putting a lawyer.
+
+00:03:02.500 --> 00:03:03.520
+If I’m doing an application that has
+
+00:03:03.520 --> 00:03:05.360
+a consequence of the risk point
+
+00:03:05.360 --> 00:03:07.140
+of view, then I’m putting someone
+
+00:03:07.140 --> 00:03:08.320
+legal and so I’m going.
+
+00:03:09.080 --> 00:03:11.760
+And besides, we’ve already said, the
+
+00:03:11.760 --> 00:03:13.220
+Product Owner and the development
+
+00:03:13.220 --> 00:03:14.780
+team, there’s the Scrum Master.
+
+00:03:15.280 --> 00:03:16.580
+The Scrum Master will be
+
+00:03:16.580 --> 00:03:18.800
+that figure who will be responsible
+
+00:03:18.800 --> 00:03:20.220
+for making the framework
+
+00:03:20.220 --> 00:03:20.980
+work.
+
+00:03:21.080 --> 00:03:21.680
+What does this mean?
+
+00:03:21.720 --> 00:03:23.560
+That will be in charge of meeting,
+
+00:03:23.560 --> 00:03:24.700
+that the profiles are, that they
+
+00:03:24.700 --> 00:03:26.620
+are delivered by cycles, that those
+
+00:03:26.620 --> 00:03:28.340
+cycles are validated by the client,
+
+00:03:28.340 --> 00:03:29.980
+will be like the guardian.
+
+00:03:30.640 --> 00:03:32.040
+They are highly valued professionals.
+
+00:03:32.260 --> 00:03:34.060
+To make an idea, today they are
+
+00:03:34.060 --> 00:03:35.980
+professionals who are above 60
+
+00:03:35.980 --> 00:03:38.580
+each year, because apart from this
+
+00:03:38.800 --> 00:03:39.960
+work it requires a deep knowledge
+
+00:03:39.960 --> 00:03:41.120
+of the framework, because
+
+00:03:41.120 --> 00:03:42.600
+they also facilitate.
+
+00:03:42.800 --> 00:03:44.660
+They are those who tell you how
+
+00:03:44.660 --> 00:03:46.320
+much there will be meeting, make the
+
+00:03:46.320 --> 00:03:48.920
+whole market, democratize, etc.
+
+00:03:49.020 --> 00:03:50.300
+They are responsible for making everything
+
+00:03:50.300 --> 00:03:51.080
+flow.
+
+00:03:51.580 --> 00:03:52.800
+I have recaptured three roles.
+
+00:03:53.060 --> 00:03:54.500
+The product owner who says what the
+
+00:03:54.500 --> 00:03:56.000
+management, the work team who
+
+00:03:56.000 --> 00:03:58.640
+runs the how and the Scrum Master
+
+00:03:58.640 --> 00:03:59.880
+who will make sure that all this
+
+00:03:59.880 --> 00:04:01.440
+happens within a Scrum framework.
+
+00:04:01.920 --> 00:04:02.740
+Once we have that team and
+
+00:04:02.740 --> 00:04:03.900
+we have the three roles,
+
+00:04:03.900 --> 00:04:05.300
+the first thing to do is
+
+00:04:05.300 --> 00:04:07.520
+to divide the project into
+
+00:04:07.520 --> 00:04:08.760
+cycles and say after I want
+
+00:04:08.760 --> 00:04:10.000
+to do it 15 days, I want
+
+00:04:10.000 --> 00:04:12.620
+to do it 15 days or four weeks.
+
+00:04:14.260 --> 00:04:15.020
+Always the recommendation is that
+
+00:04:15.020 --> 00:04:16.540
+the less you cut the cycle, the better,
+
+00:04:16.580 --> 00:04:17.900
+because you have more dating ability.
+
+00:04:17.900 --> 00:04:18.200
+
+
+00:04:19.020 --> 00:04:20.360
+Once I have that defined, what I
+
+00:04:20.360 --> 00:04:22.460
+will do is make the list of requirements
+
+00:04:22.460 --> 00:04:24.180
+that I will have prioritized.
+
+00:04:24.760 --> 00:04:25.460
+How does it work?
+
+00:04:25.680 --> 00:04:27.520
+This is the second part of the events.
+
+00:04:27.680 --> 00:04:29.060
+There is an event that will happen
+
+00:04:29.060 --> 00:04:30.680
+at the beginning of a cycle called
+
+00:04:30.680 --> 00:04:32.400
+Spring Planning, where the product
+
+00:04:32.400 --> 00:04:34.220
+owner and the development team
+
+00:04:34.220 --> 00:04:35.660
+will sit down and negotiate
+
+00:04:35.660 --> 00:04:36.680
+what they will do in the
+
+00:04:36.680 --> 00:04:37.760
+next 15 days.
+
+00:04:38.360 --> 00:04:40.120
+Then the product owner will tell
+
+00:04:40.120 --> 00:04:41.420
+you we’re going to do these
+
+00:04:41.420 --> 00:04:43.580
+three features and people commit
+
+00:04:43.580 --> 00:04:44.500
+to delivering them.
+
+00:04:45.160 --> 00:04:46.800
+This I want before we go on, we can
+
+00:04:48.220 --> 00:04:49.960
+really shock the names, in the
+
+00:04:49.960 --> 00:04:51.480
+bottom are things like it has
+
+00:04:51.480 --> 00:04:54.040
+been called Kikoff, at the end
+
+00:04:54.040 --> 00:04:55.700
+Scrum, as it is a mythology what
+
+00:04:55.700 --> 00:04:56.920
+you do put their names, but it
+
+00:04:57.620 --> 00:04:59.600
+is an initial meeting in which we
+
+00:04:59.600 --> 00:05:01.220
+all sit down and define what is
+
+00:05:01.220 --> 00:05:02.020
+what we are going to do.
+
+00:05:02.400 --> 00:05:04.080
+This is the first of the events.
+
+00:05:04.240 --> 00:05:05.960
+And that happens every cycle, everything
+
+00:05:05.960 --> 00:05:07.080
+I’ll tell happens always every
+
+00:05:07.080 --> 00:05:07.720
+cycle.
+
+00:05:08.420 --> 00:05:10.240
+The first session is called
+
+00:05:10.240 --> 00:05:11.640
+Spring Planning, according
+
+00:05:11.960 --> 00:05:12.920
+to Scrum.
+
+00:05:13.200 --> 00:05:14.480
+It’s a meeting where the product
+
+00:05:14.480 --> 00:05:15.820
+owner and the development team come
+
+00:05:15.820 --> 00:05:17.500
+together and agree what they’re
+
+00:05:17.500 --> 00:05:19.200
+going to deliver in the next 15 days.
+
+00:05:19.440 --> 00:05:19.960
+Look at that there is an important
+
+00:05:19.960 --> 00:05:21.320
+part that the fact that they remember
+
+00:05:21.320 --> 00:05:24.200
+breaks a little that traditional
+
+00:05:24.200 --> 00:05:25.500
+boss mentality by telling me
+
+00:05:25.500 --> 00:05:26.960
+what to do but negotiate, with
+
+00:05:26.960 --> 00:05:28.080
+which it is giving a more entrepreneurial
+
+00:05:28.080 --> 00:05:29.840
+character to people.
+
+00:05:30.340 --> 00:05:31.420
+Once I’m clear I’m going to
+
+00:05:31.420 --> 00:05:32.640
+do the next 15 days, start
+
+00:05:33.200 --> 00:05:34.920
+stealing the Spring and past
+
+00:05:34.920 --> 00:05:36.320
+15 days is the second most important
+
+00:05:36.320 --> 00:05:37.420
+meeting called the Spring
+
+00:05:37.420 --> 00:05:39.440
+Review or the demo, the demo
+
+00:05:39.520 --> 00:05:41.480
+day, the day when the team
+
+00:05:41.480 --> 00:05:43.020
+will tell the Product Owner
+
+00:05:43.020 --> 00:05:44.900
+what it has done.
+
+00:05:45.080 --> 00:05:45.940
+In addition, the Product Owner
+
+00:05:45.940 --> 00:05:47.080
+can often invite other stakeholders,
+
+00:05:47.080 --> 00:05:48.120
+people who are involved
+
+00:05:48.120 --> 00:05:48.780
+such.
+
+00:05:49.200 --> 00:05:49.660
+What is done?
+
+00:05:49.660 --> 00:05:51.000
+The product is counted, what has
+
+00:05:51.000 --> 00:05:53.040
+been achieved and then feedback is issued.
+
+00:05:53.720 --> 00:05:55.180
+I didn’t like it, returning the
+
+00:05:55.180 --> 00:05:56.340
+example of the website, I didn’t like
+
+00:05:56.340 --> 00:05:58.100
+to talk home, I don’t accept American
+
+00:05:58.100 --> 00:05:59.780
+Express cards and all that feedback
+
+00:05:59.780 --> 00:06:00.520
+that is incorporated
+
+00:06:00.520 --> 00:06:02.240
+comes back into the cycle.
+
+00:06:02.360 --> 00:06:04.220
+That way you’re constantly
+
+00:06:04.220 --> 00:06:05.960
+planning, delivering and
+
+00:06:05.960 --> 00:06:08.480
+re-planning in every Spring.
+
+00:06:08.960 --> 00:06:11.660
+And there is a final meeting that starts
+
+00:06:11.660 --> 00:06:13.080
+from the great features of Scrum that
+
+00:06:13.080 --> 00:06:14.140
+have to do with continuous improvement,
+
+00:06:14.140 --> 00:06:15.760
+concept lean, concept agile that
+
+00:06:15.880 --> 00:06:17.200
+are the retrospective meetings
+
+00:06:17.200 --> 00:06:19.020
+and is that apart from planning,
+
+00:06:19.020 --> 00:06:21.860
+delivering a demo at the end of that
+
+00:06:21.860 --> 00:06:24.560
+Spring and before starting the
+
+00:06:24.560 --> 00:06:25.580
+next, the team meets all together
+
+00:06:25.580 --> 00:06:26.940
+and say guys that we have done
+
+00:06:26.940 --> 00:06:28.320
+well, because we have done well
+
+00:06:28.660 --> 00:06:29.840
+this and this and this, because
+
+00:06:29.840 --> 00:06:31.140
+we will continue doing it.
+
+00:06:31.520 --> 00:06:33.120
+What did we not do these other
+
+00:06:33.120 --> 00:06:33.800
+things too?
+
+00:06:34.060 --> 00:06:35.080
+We have a plan of action to prevent
+
+00:06:35.080 --> 00:06:36.240
+this from happening.
+
+00:06:36.400 --> 00:06:40.560
+This is where you are focusing
+
+00:06:40.720 --> 00:06:43.300
+on the customer, risk management
+
+00:06:43.300 --> 00:06:44.840
+and continuous improvement.
+
+00:06:45.740 --> 00:06:46.720
+Then let’s say that Scrum does what
+
+00:06:46.720 --> 00:06:49.020
+is materializing or making explicit
+
+00:06:49.020 --> 00:06:50.740
+the whole philosophy already
+
+00:06:50.740 --> 00:06:53.740
+through events and concrete roles.
+
+00:06:53.920 --> 00:06:55.280
+And it is the most used
+
+00:06:55.280 --> 00:06:56.420
+framework that has excellent
+
+00:06:56.420 --> 00:06:57.860
+results worldwide.
+
+00:06:58.600 --> 00:06:59.660
+I love the truth because, as you
+
+00:06:59.660 --> 00:07:02.480
+said, it obliges us, that sometimes
+
+00:07:02.480 --> 00:07:03.580
+we have to force ourselves with
+
+00:07:03.580 --> 00:07:05.740
+methods to apply philosophies that
+
+00:07:05.740 --> 00:07:07.260
+really work, but that if there
+
+00:07:07.260 --> 00:07:09.380
+is no method, I like the methods
+
+00:07:09.380 --> 00:07:10.660
+very much for this.
+
+00:07:10.940 --> 00:07:12.160
+If there is no method, we do not.
+
+00:07:12.640 --> 00:07:14.160
+Just, that is, one thing is to understand
+
+00:07:14.160 --> 00:07:15.420
+a methodology, a philosophy,
+
+00:07:15.420 --> 00:07:17.060
+and then you have the inability
+
+00:07:17.060 --> 00:07:18.220
+to put it into practice.
+
+00:07:18.360 --> 00:07:20.120
+I believe Scrum from the first minute
+
+00:07:20.120 --> 00:07:22.540
+helps you by discipline to put it into
+
+00:07:22.540 --> 00:07:23.600
+practice and not do it yours, because
+
+00:07:23.600 --> 00:07:24.520
+in the end you do it yours and
+
+00:07:24.520 --> 00:07:26.160
+it already enters your DNA.
+
+00:07:26.240 --> 00:07:27.400
+That is, although it sounds a bit
+
+00:07:27.400 --> 00:07:29.340
+friki, the names and such, no, no, apply
+
+00:07:29.420 --> 00:07:32.040
+it because it obliges you to make good
+
+00:07:32.040 --> 00:07:34.020
+decisions because it is thought,
+
+00:07:34.020 --> 00:07:35.380
+it is born of a philosophy
+
+00:07:35.380 --> 00:07:36.500
+that is appropriate.
+
+00:07:36.580 --> 00:07:37.140
+and exact.
+
+00:07:37.220 --> 00:07:38.640
+And what you do is make yourself
+
+00:07:38.640 --> 00:07:40.700
+explicit that you follow that philosophy.

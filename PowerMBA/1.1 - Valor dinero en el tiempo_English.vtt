@@ -1,0 +1,364 @@
+WEBVTT
+
+00:00:07.400 --> 00:00:09.240
+As you already know, capitalizing
+
+00:00:09.240 --> 00:00:12.800
+is about moving cash flows, charges,
+
+00:00:13.060 --> 00:00:15.000
+payments, etc., to a future
+
+00:00:15.000 --> 00:00:15.720
+moment.
+
+00:00:16.180 --> 00:00:18.260
+It allows us to calculate future value.
+
+00:00:19.880 --> 00:00:21.500
+Well, what we’re going to do is deepen
+
+00:00:21.500 --> 00:00:23.100
+into the two types of capitalization,
+
+00:00:23.100 --> 00:00:24.000
+which is simple or composite
+
+00:00:24.000 --> 00:00:26.120
+capitalization, which is the same
+
+00:00:26.780 --> 00:00:27.860
+as talking about simple interest
+
+00:00:27.860 --> 00:00:30.020
+or applying a composite
+
+00:00:30.020 --> 00:00:30.800
+interest.
+
+00:00:31.460 --> 00:00:34.020
+And we will do it by putting ourselves
+
+00:00:34.020 --> 00:00:35.880
+in a hypothetical case, because it will
+
+00:00:35.880 --> 00:00:36.960
+help us to understand it better.
+
+00:00:37.160 --> 00:00:38.780
+We will think that we are making
+
+00:00:38.780 --> 00:00:40.620
+an investment of one million euros
+
+00:00:40.620 --> 00:00:43.360
+today, that is, the present value
+
+00:00:43.360 --> 00:00:44.620
+is one million euros.
+
+00:00:45.280 --> 00:00:46.720
+We think that the interest rate
+
+00:00:46.720 --> 00:00:50.560
+is 10% and the N, or the number
+
+00:00:50.560 --> 00:00:52.140
+of periods, we will fix
+
+00:00:52.140 --> 00:00:52.940
+it at 3.
+
+00:00:53.800 --> 00:00:55.000
+In this case, we want to calculate
+
+00:00:55.000 --> 00:00:56.700
+the final value of our
+
+00:00:56.700 --> 00:00:57.340
+investment.
+
+00:00:57.340 --> 00:00:59.760
+But we’ll do it using simple
+
+00:00:59.760 --> 00:01:01.420
+capitalization and using composite
+
+00:01:01.420 --> 00:01:03.000
+capitalization to see
+
+00:01:03.000 --> 00:01:04.360
+what happens.
+
+00:01:04.640 --> 00:01:06.420
+Let’s start with simple capitalization.
+
+00:01:07.320 --> 00:01:08.840
+In order to understand the
+
+00:01:08.840 --> 00:01:12.860
+simple capitalization, the interest
+
+00:01:12.860 --> 00:01:14.500
+rate or interest is calculated,
+
+00:01:14.500 --> 00:01:15.880
+it is always generated
+
+00:01:15.880 --> 00:01:18.100
+on the initial capital, in
+
+00:01:18.320 --> 00:01:19.900
+our case on the million euros.
+
+00:01:20.060 --> 00:01:21.700
+What is what happens?
+
+00:01:21.860 --> 00:01:23.320
+As we invested one million euros, the
+
+00:01:23.320 --> 00:01:25.980
+first year we generate 100,000 euros
+
+00:01:25.980 --> 00:01:28.820
+of interest, the second year
+
+00:01:28.820 --> 00:01:30.300
+another 100,000 and the third
+
+00:01:30.300 --> 00:01:31.700
+year another 100,000.
+
+00:01:31.980 --> 00:01:33.980
+The final value of our investment
+
+00:01:33.980 --> 00:01:38.280
+is 1.3, 1.300.000 euros.
+
+00:01:38.580 --> 00:01:39.460
+It is very easy.
+
+00:01:39.840 --> 00:01:41.020
+If you see it in the formula, it’
+
+00:01:41.020 --> 00:01:41.740
+s just as easy.
+
+00:01:42.040 --> 00:01:44.260
+The future value in this case is
+
+00:01:44.260 --> 00:01:46.480
+equal to the present value, which
+
+00:01:46.480 --> 00:01:47.440
+is one million euros as we have
+
+00:01:47.440 --> 00:01:49.400
+seen, by 1, we multiply it by
+
+00:01:49.400 --> 00:01:51.160
+a capitalization factor.
+
+00:01:52.700 --> 00:01:53.820
+In this case, the capitalization
+
+00:01:53.820 --> 00:01:55.360
+factor is equal to 1 plus the
+
+00:01:55.360 --> 00:01:56.900
+interest rate, i.e. 1 to 1,
+
+00:01:56.900 --> 00:02:00.080
+by the number of periods.
+
+00:02:00.800 --> 00:02:02.000
+Every year we are generating 100,000
+
+00:02:02.000 --> 00:02:04.020
+euros, multiplying it by 3, at
+
+00:02:04.020 --> 00:02:05.580
+the end we add it to the present
+
+00:02:05.580 --> 00:02:07.660
+value and we have the final value.
+
+00:02:07.660 --> 00:02:09.300
+explained in another way.
+
+00:02:09.820 --> 00:02:11.340
+This is simple capitalization.
+
+00:02:12.060 --> 00:02:12.960
+It is very simple.
+
+00:02:13.380 --> 00:02:15.280
+Now we go to the composite capitalization.
+
+00:02:16.100 --> 00:02:17.880
+The difference between compound capitalization
+
+00:02:17.880 --> 00:02:19.160
+and simple capitalization
+
+00:02:19.160 --> 00:02:21.740
+is that we will apply the interest
+
+00:02:21.740 --> 00:02:23.260
+rate.
+
+00:02:23.560 --> 00:02:25.360
+Remember, in the simple we always
+
+00:02:25.360 --> 00:02:27.040
+applied the interest rate on
+
+00:02:27.040 --> 00:02:28.920
+the million euros, on the initial
+
+00:02:28.920 --> 00:02:29.520
+capital.
+
+00:02:29.520 --> 00:02:31.400
+We will not do it this way here.
+
+00:02:31.800 --> 00:02:33.020
+Look how we will do it.
+
+00:02:33.440 --> 00:02:35.700
+We have a million euros and we will calculate
+
+00:02:35.700 --> 00:02:36.980
+what the final value is in the
+
+00:02:36.980 --> 00:02:37.760
+first year.
+
+00:02:38.480 --> 00:02:40.420
+It is 1.1, and we have applied the
+
+00:02:40.420 --> 00:02:42.240
+interest rate.
+
+00:02:42.680 --> 00:02:44.920
+This year, from year 1 to
+
+00:02:44.920 --> 00:02:47.400
+year 2, interest is generated
+
+00:02:47.400 --> 00:02:48.780
+again.
+
+00:02:49.000 --> 00:02:51.140
+But we will not apply interest
+
+00:02:51.140 --> 00:02:52.200
+on the million euros, but on
+
+00:02:52.320 --> 00:02:54.720
+the million euros plus the
+
+00:02:54.720 --> 00:02:56.020
+interest of the venges until
+
+00:02:56.020 --> 00:02:56.600
+then.
+
+00:02:57.180 --> 00:03:00.480
+We will multiply 1.1, in this case
+
+00:03:00.480 --> 00:03:03.840
+by 1.1 again and the final value
+
+00:03:03.840 --> 00:03:06.120
+in year 2 is 1.21.
+
+00:03:06.220 --> 00:03:08.380
+If we go to the year 3, we
+
+00:03:08.380 --> 00:03:10.780
+have to multiply it by 1.
+
+00:03:10.880 --> 00:03:12.280
+And at the end, look, the final value comes
+
+00:03:12.280 --> 00:03:15.540
+out to us 1.46, which is much higher
+
+00:03:15.540 --> 00:03:19.960
+than 1.3 that we saw in
+
+00:03:19.960 --> 00:03:20.780
+simple capitalization.
+
+00:03:20.780 --> 00:03:22.080
+It is logical because you
+
+00:03:22.080 --> 00:03:23.540
+are calculating, you are applying
+
+00:03:23.540 --> 00:03:26.840
+interest every time on a larger
+
+00:03:26.840 --> 00:03:28.660
+amount, it is accumulating, it is
+
+00:03:28.800 --> 00:03:29.680
+exponential.
+
+00:03:30.880 --> 00:03:31.940
+In the formula, what we can
+
+00:03:31.940 --> 00:03:33.700
+do is compare the formulas.
+
+00:03:34.420 --> 00:03:36.080
+The formula, if we talk about
+
+00:03:36.080 --> 00:03:38.640
+simple capitalization, the future
+
+00:03:38.640 --> 00:03:40.780
+value is equal to the present
+
+00:03:40.780 --> 00:03:42.300
+value, which in this case was one
+
+00:03:42.300 --> 00:03:44.040
+million euros, multiplied by a capitalization
+
+00:03:44.040 --> 00:03:45.360
+factor that is 1 plus the interest
+
+00:03:45.360 --> 00:03:46.980
+rate by the number
+
+00:03:46.980 --> 00:03:48.240
+of periods.
+
+00:03:49.360 --> 00:03:51.140
+If we go to composite capitalization,
+
+00:03:51.140 --> 00:03:53.320
+the difference is that this capitalization
+
+00:03:53.320 --> 00:03:55.520
+factor will not be multiplied
+
+00:03:55.520 --> 00:03:56.860
+by the number of periods, but
+
+00:03:56.860 --> 00:03:58.660
+will be elevated to the number
+
+00:03:58.660 --> 00:04:00.440
+of periods.
+
+00:04:00.740 --> 00:04:01.280
+Why is?
+
+00:04:01.380 --> 00:04:02.540
+As we were seeing,
+
+00:04:02.540 --> 00:04:04.240
+it is accumulating.

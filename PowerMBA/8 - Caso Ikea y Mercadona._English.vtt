@@ -1,0 +1,865 @@
+WEBVTT
+
+00:00:08.400 --> 00:00:10.100
+Today I want to analyze two cases
+
+00:00:10.100 --> 00:00:11.640
+that we have already seen before, and
+
+00:00:11.640 --> 00:00:12.540
+also have seen them on several occasions,
+
+00:00:12.540 --> 00:00:13.980
+such as the case of Ikea and the
+
+00:00:13.980 --> 00:00:15.240
+case of Mercadona.
+
+00:00:15.660 --> 00:00:17.480
+But now that we know, in addition
+
+00:00:17.480 --> 00:00:19.520
+to the value curve, we know the Rize
+
+00:00:19.520 --> 00:00:22.300
+matrix, I want to analyze them
+
+00:00:22.300 --> 00:00:24.160
+using the Rize matrix because
+
+00:00:24.160 --> 00:00:27.120
+you’ll see how this tool allows
+
+00:00:27.120 --> 00:00:28.760
+us to visualize very well what
+
+00:00:28.760 --> 00:00:30.280
+are the innovations in the
+
+00:00:30.280 --> 00:00:30.800
+value proposal.
+
+00:00:30.800 --> 00:00:32.460
+How are strategic movements?
+
+00:00:32.640 --> 00:00:33.660
+It is a very practical tool
+
+00:00:33.660 --> 00:00:34.960
+that I love.
+
+00:00:35.140 --> 00:00:36.160
+Let’s start with IKEA.
+
+00:00:36.660 --> 00:00:37.580
+The first thing we have to do is
+
+00:00:37.580 --> 00:00:39.320
+to analyze what is the value curve
+
+00:00:39.320 --> 00:00:41.420
+of the furniture sector, its
+
+00:00:41.420 --> 00:00:42.300
+competitors.
+
+00:00:42.920 --> 00:00:44.500
+What are the main factors?
+
+00:00:44.880 --> 00:00:46.440
+Well, as the price is clear, the quality
+
+00:00:46.680 --> 00:00:48.160
+of the furniture, the design
+
+00:00:48.160 --> 00:00:50.380
+of the furniture, the proximity,
+
+00:00:50.380 --> 00:00:52.300
+the proximity, the convenience.
+
+00:00:52.300 --> 00:00:53.040
+Now keep in mind that we are
+
+00:00:53.040 --> 00:00:55.600
+talking about a retail sector
+
+00:00:55.600 --> 00:00:57.320
+and this is always a key factor,
+
+00:00:57.580 --> 00:00:59.260
+being close to consumers.
+
+00:00:59.620 --> 00:01:01.180
+And also in this case, keep
+
+00:01:01.180 --> 00:01:02.340
+in mind that the investment is
+
+00:01:02.340 --> 00:01:05.220
+very high because being close
+
+00:01:05.220 --> 00:01:06.500
+to, being in the urban centers
+
+00:01:06.500 --> 00:01:08.280
+brings a very high square
+
+00:01:08.280 --> 00:01:09.060
+meter rental.
+
+00:01:09.160 --> 00:01:09.960
+This is a very important factor
+
+00:01:09.960 --> 00:01:11.260
+that also involves a lot of
+
+00:01:11.260 --> 00:01:12.440
+investment.
+
+00:01:12.860 --> 00:01:15.740
+The post-sales service and the variety
+
+00:01:15.740 --> 00:01:16.260
+of products.
+
+00:01:16.260 --> 00:01:17.260
+By the variety of products I mean
+
+00:01:17.260 --> 00:01:19.700
+that there are retailers that
+
+00:01:19.700 --> 00:01:21.380
+offer furniture of all kinds
+
+00:01:21.380 --> 00:01:23.940
+and others focus on for example
+
+00:01:23.940 --> 00:01:25.120
+concrete products such as kitchen,
+
+00:01:25.120 --> 00:01:26.720
+lounges.
+
+00:01:27.280 --> 00:01:28.420
+We will draw the value curves
+
+00:01:28.420 --> 00:01:29.260
+in the sector.
+
+00:01:30.140 --> 00:01:31.560
+We have on the one hand
+
+00:01:31.560 --> 00:01:33.980
+the competitors who offer
+
+00:01:33.980 --> 00:01:36.840
+a more premium product in which
+
+00:01:36.840 --> 00:01:38.720
+the value curve is up and
+
+00:01:38.720 --> 00:01:40.060
+the crazy ones is down.
+
+00:01:40.060 --> 00:01:41.980
+The only point to highlight is
+
+00:01:41.980 --> 00:01:43.880
+that the variety of crazy ones
+
+00:01:43.880 --> 00:01:45.200
+is usually a little larger because
+
+00:01:45.200 --> 00:01:46.500
+it is usually a little larger,
+
+00:01:46.500 --> 00:01:48.840
+more remote and with more
+
+00:01:48.840 --> 00:01:49.740
+product variety.
+
+00:01:50.120 --> 00:01:51.040
+And now what we’re going to do
+
+00:01:51.040 --> 00:01:53.660
+is let’s use the RICE matrix
+
+00:01:53.660 --> 00:01:54.940
+to understand what IKEA has
+
+00:01:54.940 --> 00:01:56.380
+done to understand its success.
+
+00:01:56.880 --> 00:01:58.940
+And we start with the factors that
+
+00:01:58.940 --> 00:02:01.260
+IKEA has reduced far below the
+
+00:02:01.260 --> 00:02:03.820
+rest of the industry and that has
+
+00:02:03.820 --> 00:02:05.120
+obviously allowed it to reduce
+
+00:02:05.120 --> 00:02:06.720
+costs.
+
+00:02:06.720 --> 00:02:08.160
+What factor has decreased?
+
+00:02:08.580 --> 00:02:09.840
+The proximity or convenience
+
+00:02:09.840 --> 00:02:12.160
+has been reduced.
+
+00:02:12.300 --> 00:02:14.180
+If you think, Ikea stores
+
+00:02:14.180 --> 00:02:15.200
+are outside of the
+
+00:02:15.200 --> 00:02:16.860
+big cities when traditional
+
+00:02:16.860 --> 00:02:17.880
+old furniture stores
+
+00:02:17.880 --> 00:02:20.060
+were in the cities.
+
+00:02:20.060 --> 00:02:23.120
+This is a factor that lowers
+
+00:02:23.120 --> 00:02:24.640
+the cost a lot because the square
+
+00:02:24.640 --> 00:02:25.880
+meter is much cheaper outside
+
+00:02:25.880 --> 00:02:26.440
+the city.
+
+00:02:27.240 --> 00:02:28.440
+I think Ikea would have such
+
+00:02:28.440 --> 00:02:29.720
+an attractive proposal that
+
+00:02:29.720 --> 00:02:31.060
+customers would move
+
+00:02:31.060 --> 00:02:32.620
+to their stores.
+
+00:02:32.620 --> 00:02:34.300
+One factor that has eliminated IKEA
+
+00:02:34.300 --> 00:02:35.280
+that we have already discussed
+
+00:02:35.280 --> 00:02:39.440
+other times and that involves or implies
+
+00:02:39.440 --> 00:02:41.400
+a huge reduction in cost is the
+
+00:02:41.400 --> 00:02:43.880
+fact that you mount the furniture.
+
+00:02:44.360 --> 00:02:45.580
+This has a significant impact on
+
+00:02:45.580 --> 00:02:47.640
+logistics and so on.
+
+00:02:47.660 --> 00:02:49.200
+All this allows you to significantly
+
+00:02:49.200 --> 00:02:52.040
+reduce the price compared to your competitors.
+
+00:02:52.240 --> 00:02:54.680
+But IKEA is not only a low cost
+
+00:02:54.680 --> 00:02:56.080
+as we saw but it has also managed
+
+00:02:56.080 --> 00:02:58.540
+to increase a number of factors
+
+00:02:58.540 --> 00:03:00.300
+that allow it to offer
+
+00:03:00.300 --> 00:03:01.280
+more value.
+
+00:03:01.500 --> 00:03:03.460
+One of them is immediate.
+
+00:03:03.480 --> 00:03:05.140
+You may not have thought about it,
+
+00:03:05.140 --> 00:03:06.600
+but if you want to buy furniture
+
+00:03:06.600 --> 00:03:09.320
+at IKEA when you go to IKEA, buy
+
+00:03:09.320 --> 00:03:10.820
+the furniture, take it home and
+
+00:03:10.820 --> 00:03:13.660
+have it at home that same day.
+
+00:03:13.820 --> 00:03:15.340
+If you are planning to build them, you already
+
+00:03:15.340 --> 00:03:15.940
+have the furniture.
+
+00:03:16.040 --> 00:03:18.080
+It is all very immediately.
+
+00:03:18.080 --> 00:03:19.440
+Traditionally, buying furniture
+
+00:03:19.440 --> 00:03:21.020
+was not so, it was a longer
+
+00:03:21.020 --> 00:03:21.680
+process.
+
+00:03:22.540 --> 00:03:24.680
+The after-sales service of IKEA is exceptional.
+
+00:03:24.880 --> 00:03:25.900
+This is a value that has increased
+
+00:03:25.900 --> 00:03:27.200
+compared to the rest.
+
+00:03:27.200 --> 00:03:29.360
+You have 365 days to return the
+
+00:03:29.360 --> 00:03:30.980
+furniture even if you have
+
+00:03:30.980 --> 00:03:31.880
+used it.
+
+00:03:32.140 --> 00:03:33.280
+The ease of buying.
+
+00:03:33.540 --> 00:03:34.720
+It is designed to make it easy
+
+00:03:34.720 --> 00:03:35.400
+to buy.
+
+00:03:35.720 --> 00:03:38.820
+You have the catalogs, guides, etc.
+
+00:03:38.900 --> 00:03:40.140
+The facility of resale is a factor
+
+00:03:40.140 --> 00:03:42.640
+that had never been taken into
+
+00:03:42.640 --> 00:03:43.280
+account so far.
+
+00:03:43.360 --> 00:03:45.260
+But the reality is that there are
+
+00:03:45.260 --> 00:03:47.120
+people who furnish tourist
+
+00:03:47.120 --> 00:03:51.060
+apartments and other or temporary, students.
+
+00:03:51.060 --> 00:03:52.880
+And they know that IKEA furniture
+
+00:03:52.880 --> 00:03:56.340
+has a much easier resale than the
+
+00:03:56.340 --> 00:03:57.100
+rest of the furniture.
+
+00:03:57.340 --> 00:03:58.300
+Because they are models that are even
+
+00:03:58.300 --> 00:04:00.060
+known in the market with the name
+
+00:04:00.060 --> 00:04:00.820
+of the model.
+
+00:04:01.600 --> 00:04:03.040
+Another factor is that you can equip
+
+00:04:03.040 --> 00:04:04.360
+your entire home.
+
+00:04:05.460 --> 00:04:07.740
+This is a great advantage because it provides
+
+00:04:07.740 --> 00:04:08.720
+a lot of comfort.
+
+00:04:08.880 --> 00:04:10.220
+Not just furniture, but equipment.
+
+00:04:10.300 --> 00:04:11.520
+You can buy absolutely everything
+
+00:04:11.520 --> 00:04:12.040
+you need.
+
+00:04:12.220 --> 00:04:13.860
+A home, go to IKEA, spend a few
+
+00:04:13.860 --> 00:04:15.460
+hours, come back and have your home
+
+00:04:15.460 --> 00:04:16.480
+equipped.
+
+00:04:18.020 --> 00:04:20.060
+These are factors that IKEA
+
+00:04:20.060 --> 00:04:21.780
+has increased compared to the rest.
+
+00:04:22.060 --> 00:04:24.200
+The value curve we have on
+
+00:04:24.200 --> 00:04:27.400
+the screen is very different.
+
+00:04:27.960 --> 00:04:32.320
+We have on the one hand a lower
+
+00:04:32.320 --> 00:04:33.440
+price than premium and a bit
+
+00:04:33.440 --> 00:04:35.720
+higher than low cost pures.
+
+00:04:35.960 --> 00:04:37.380
+The quality is much higher than the
+
+00:04:37.380 --> 00:04:38.040
+low cost.
+
+00:04:38.260 --> 00:04:40.440
+The design is at the level of premium
+
+00:04:40.440 --> 00:04:41.140
+brands.
+
+00:04:41.400 --> 00:04:43.680
+They have come down very much, as we see
+
+00:04:43.680 --> 00:04:45.900
+in the curve, the proximity.
+
+00:04:46.340 --> 00:04:47.540
+And then on a number of factors that
+
+00:04:47.540 --> 00:04:49.780
+would be the focus of differentiation.
+
+00:04:50.100 --> 00:04:51.700
+The level is much higher.
+
+00:04:52.080 --> 00:04:54.440
+The ease of buying, the speed,
+
+00:04:54.440 --> 00:04:57.320
+that you can furnish your entire
+
+00:04:57.320 --> 00:04:59.060
+home, the after-sales service, etc.
+
+00:04:59.200 --> 00:05:00.080
+By looking at the value curve,
+
+00:05:00.080 --> 00:05:02.320
+we understand what the difference between
+
+00:05:02.320 --> 00:05:03.900
+the value proposition of IKEA
+
+00:05:03.900 --> 00:05:06.100
+and the rest of its competitors is.
+
+00:05:06.140 --> 00:05:08.680
+And the RIC matrix has helped us understand
+
+00:05:08.680 --> 00:05:11.420
+how they did it.
+
+00:05:11.740 --> 00:05:12.900
+We will analyze the Mercadona value
+
+00:05:12.900 --> 00:05:13.840
+curve.
+
+00:05:14.000 --> 00:05:15.980
+Mercadona is a case that we have talked
+
+00:05:15.980 --> 00:05:17.020
+about many times and we will talk
+
+00:05:17.020 --> 00:05:18.180
+about many times because there
+
+00:05:18.180 --> 00:05:19.400
+are many things to learn from.
+
+00:05:20.020 --> 00:05:21.040
+The first thing we will do is
+
+00:05:21.040 --> 00:05:23.340
+to analyze the value curve
+
+00:05:23.340 --> 00:05:24.420
+of the food sector.
+
+00:05:24.560 --> 00:05:25.340
+What are the factors?
+
+00:05:25.600 --> 00:05:26.360
+Let us think.
+
+00:05:27.420 --> 00:05:29.040
+The price and quality of
+
+00:05:29.040 --> 00:05:30.960
+the products are obvious.
+
+00:05:30.960 --> 00:05:32.680
+The variety of products, that in
+
+00:05:32.680 --> 00:05:33.900
+a supermarket or hypermarket
+
+00:05:33.900 --> 00:05:35.140
+you can have different
+
+00:05:35.140 --> 00:05:36.160
+products.
+
+00:05:36.660 --> 00:05:37.840
+In the supermarkets you have less variety,
+
+00:05:37.840 --> 00:05:38.780
+in the supermarkets you have
+
+00:05:38.780 --> 00:05:40.640
+more variety, you have everything.
+
+00:05:41.160 --> 00:05:42.320
+The variety of brands, you
+
+00:05:42.320 --> 00:05:43.980
+can choose from many brands.
+
+00:05:44.520 --> 00:05:46.240
+The quality of the white mark.
+
+00:05:47.120 --> 00:05:48.420
+Parking, for example, the
+
+00:05:48.420 --> 00:05:50.020
+comfort that you can get and park.
+
+00:05:50.300 --> 00:05:51.660
+Have good offers.
+
+00:05:52.840 --> 00:05:54.460
+The room should be clean, have
+
+00:05:54.460 --> 00:05:55.400
+a good atmosphere, etc.
+
+00:05:55.460 --> 00:05:56.520
+and personal service.
+
+00:05:56.660 --> 00:05:58.460
+I would say that they are
+
+00:05:58.460 --> 00:06:00.640
+the main factors around
+
+00:06:00.640 --> 00:06:02.660
+which the food distribution
+
+00:06:02.660 --> 00:06:04.140
+industry competes.
+
+00:06:04.440 --> 00:06:05.680
+And that are the factors that
+
+00:06:05.680 --> 00:06:06.920
+make customers decent for one
+
+00:06:06.920 --> 00:06:07.720
+or the other.
+
+00:06:10.420 --> 00:06:12.400
+I will show you how the Mercadona
+
+00:06:12.400 --> 00:06:14.400
+value curve varies from
+
+00:06:14.400 --> 00:06:17.600
+a competitive supermarket.
+
+00:06:17.620 --> 00:06:19.620
+We’ll think of a supermarket of
+
+00:06:19.620 --> 00:06:22.000
+about 300-500 square meters.
+
+00:06:22.040 --> 00:06:23.020
+We are not talking about
+
+00:06:23.020 --> 00:06:24.820
+a hypermarket, but a supermarket
+
+00:06:24.820 --> 00:06:27.300
+that is its direct competitor.
+
+00:06:27.520 --> 00:06:29.120
+Let us start with the factors that
+
+00:06:29.120 --> 00:06:31.420
+Mercadona has reduced or eliminated
+
+00:06:31.420 --> 00:06:32.960
+with the aim of reducing
+
+00:06:32.960 --> 00:06:35.660
+the cost.
+
+00:06:35.960 --> 00:06:37.400
+It is clear that Mercadona, in addition,
+
+00:06:37.400 --> 00:06:40.220
+was a strategy that was very commented
+
+00:06:40.220 --> 00:06:42.000
+at the time, but that has been
+
+00:06:42.000 --> 00:06:43.500
+successful.
+
+00:06:43.840 --> 00:06:45.780
+It has greatly reduced the variety
+
+00:06:45.780 --> 00:06:48.720
+of brands in each category.
+
+00:06:49.520 --> 00:06:50.740
+That is, if you want to buy yogurt,
+
+00:06:50.740 --> 00:06:52.380
+instead of having X brands, because
+
+00:06:52.520 --> 00:06:53.420
+there are many fewer.
+
+00:06:53.420 --> 00:06:55.300
+This allows Mercadona to
+
+00:06:55.300 --> 00:06:57.620
+reduce costs because it manages
+
+00:06:57.620 --> 00:07:00.060
+its suppliers better.
+
+00:07:00.340 --> 00:07:03.260
+In addition, we would almost say that
+
+00:07:03.260 --> 00:07:04.860
+you have eliminated one factor that
+
+00:07:04.860 --> 00:07:07.980
+you have eliminated are the offers, the promotions.
+
+00:07:08.400 --> 00:07:10.160
+This also has an impact on the
+
+00:07:10.160 --> 00:07:12.700
+internal cost because all management
+
+00:07:12.700 --> 00:07:14.580
+is simpler than operations.
+
+00:07:15.040 --> 00:07:16.100
+Please note that you do not have
+
+00:07:16.100 --> 00:07:17.400
+to make any brochures or change
+
+00:07:17.400 --> 00:07:17.920
+prices.
+
+00:07:18.000 --> 00:07:19.420
+Accounting is easier.
+
+00:07:19.420 --> 00:07:22.940
+Thus, these two factors allow you
+
+00:07:22.940 --> 00:07:25.460
+to, having reduced the variety of
+
+00:07:25.460 --> 00:07:29.060
+brands and reducing or eliminating
+
+00:07:29.060 --> 00:07:30.120
+promotions, allow you to
+
+00:07:30.120 --> 00:07:31.260
+lower the price relative
+
+00:07:31.260 --> 00:07:32.880
+to your competitors.
+
+00:07:34.480 --> 00:07:35.840
+A very clear consequence.
+
+00:07:35.940 --> 00:07:37.060
+And now we will look at the factors
+
+00:07:37.060 --> 00:07:39.660
+that Mercadona has increased and
+
+00:07:39.660 --> 00:07:40.760
+which allow it, obviously, to
+
+00:07:41.020 --> 00:07:42.380
+provide a differential value.
+
+00:07:42.600 --> 00:07:46.620
+One of them is the variety of products.
+
+00:07:46.780 --> 00:07:48.220
+The variety of Mercadona products
+
+00:07:48.220 --> 00:07:51.800
+is much superior to that of
+
+00:07:51.800 --> 00:07:54.440
+a similar size supermarket.
+
+00:07:54.640 --> 00:07:56.540
+It can be comparable to what
+
+00:07:56.540 --> 00:07:58.520
+you can find in a supermarket.
+
+00:07:59.160 --> 00:08:00.420
+In locations that are much larger,
+
+00:08:00.420 --> 00:08:02.280
+which obviously have more variation.
+
+00:08:02.500 --> 00:08:04.340
+It also improves the quality
+
+00:08:04.340 --> 00:08:05.660
+of its brand.
+
+00:08:06.760 --> 00:08:08.060
+There are also additional
+
+00:08:08.060 --> 00:08:09.860
+services, such as
+
+00:08:09.860 --> 00:08:10.780
+parking.
+
+00:08:12.500 --> 00:08:14.020
+Almost all the markets have parking,
+
+00:08:14.020 --> 00:08:15.140
+and they are very good.
+
+00:08:15.300 --> 00:08:16.600
+They are clean, clean, etc.
+
+00:08:16.740 --> 00:08:18.480
+And very easy to access.
+
+00:08:19.540 --> 00:08:20.980
+And with regard to the cleaning
+
+00:08:20.980 --> 00:08:23.560
+and environment of the oral weight,
+
+00:08:23.560 --> 00:08:25.700
+we can say that it has increased a little
+
+00:08:25.700 --> 00:08:27.580
+the investment it makes in these factors
+
+00:08:27.580 --> 00:08:29.240
+and the value perceived by the
+
+00:08:29.240 --> 00:08:29.620
+public.
+
+00:08:29.860 --> 00:08:30.980
+For example, I think that Mercadona
+
+00:08:30.980 --> 00:08:32.600
+employees’ salaries are
+
+00:08:32.600 --> 00:08:35.140
+above the market average.
+
+00:08:35.240 --> 00:08:36.780
+As we have seen, there has been
+
+00:08:36.780 --> 00:08:38.780
+an increase in investment
+
+00:08:38.780 --> 00:08:40.640
+and customer perception.
+
+00:08:41.300 --> 00:08:43.440
+As we can see, Mercadona’s value curve
+
+00:08:43.440 --> 00:08:47.160
+is very different from that of
+
+00:08:47.160 --> 00:08:48.240
+the rest of its competitors.
+
+00:08:48.600 --> 00:08:50.840
+And here, from this perspective,
+
+00:08:51.060 --> 00:08:54.800
+we can explain the reason why it
+
+00:08:54.800 --> 00:08:56.260
+has been so successful.
+
+00:08:56.440 --> 00:08:58.080
+With that growth so exaggerated
+
+00:08:58.080 --> 00:09:01.760
+and also have tens of thousands
+
+00:09:01.760 --> 00:09:02.820
+of customers who are absolutely
+
+00:09:02.820 --> 00:09:04.080
+loyal to the brand.
