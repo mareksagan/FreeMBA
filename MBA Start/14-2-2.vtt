@@ -1,0 +1,2302 @@
+WEBVTT
+
+00:05.000 --> 00:12.000
+We will start the review of the IT environment for business with the review of telecommunications solutions and products for business.
+
+00:12.000 --> 00:20.000
+We will also talk about the call centers, or as they are also called, contact centers.
+
+00:20.000 --> 00:25.000
+Indeed, the number of means of communication of the surrounding managers has become very large.
+
+00:25.000 --> 00:40.000
+This includes electronic voice mail, cell phone, several of them, office stationary phone, Wi-Fi, and many instant messages services, such as Instant Messenger, Ask, Skype.
+
+00:40.000 --> 00:50.000
+In addition, the company's offices are united into a single, secure corporate, private VPN network.
+
+00:50.000 --> 00:57.000
+The service on the Russian market for organizing such private networks is becoming more and more in demand.
+
+00:57.000 --> 01:08.000
+And, as a rule, telecommunications needs of the medium and small business companies are easily covered by local networks, i.e. wired and wireless.
+
+01:08.000 --> 01:13.000
+However, with the growth of the scale of the business and the emergence of remote offices and affiliates,
+
+01:13.000 --> 01:26.000
+such networks need to be united at the enterprise, regardless of its structure, as well as to create a single infocommunication space in which all types of traffic live.
+
+01:26.000 --> 01:34.000
+VPN provides reliable functioning of heavy ERP systems, SRM systems, accounting and logistic programs, and so on.
+
+01:34.000 --> 01:42.000
+For territorially scattered offices, it is critical to create a single office space, regardless of the distance and volume of traffic.
+
+01:42.000 --> 01:53.000
+Indeed, the implementation of ERP systems or SAPRA systems, or the system of documents of turnover, of the staff, sharply increases the demand for the network of data transfer.
+
+01:53.000 --> 01:59.000
+What solutions can our SMB corporation use?
+
+01:59.000 --> 02:07.000
+Let's start with wireless technologies. This is the most modern telecommunication solution.
+
+02:07.000 --> 02:21.000
+They can be divided into several types. The most short-lived, designed for communication and equipment within the workplace, i.e. for communication with a cell phone, laptop, printer, computer.
+
+02:21.000 --> 02:29.000
+This technology is the most common in the category of Bluetooth, the so-called blue tooth.
+
+02:29.000 --> 02:42.000
+The range of interaction from 10 to 100 meters. Obviously, such networks will be serviced by the user or some system administrator without the involvement of a telecommunication operator.
+
+02:42.000 --> 02:59.000
+The next range among wireless communications is the wireless local area network, which is also based on the deployment of some networks inside the premises.
+
+02:59.000 --> 03:18.000
+The range of these networks is about 50 meters. They are usually installed in offices, university campuses, airports, restaurants, lecture halls, etc.
+
+03:18.000 --> 03:41.000
+Their basic services are standard, access to the Internet or access to the corporate network.
+
+03:41.000 --> 03:58.000
+The range of operation of such a base station is about 10 kilometers. There is a special forum for this standard communication, the so-called WiMAX forum.
+
+03:58.000 --> 04:19.000
+In some cases, the range of WiMAX can reach 50 kilometers. The main purpose of such networks is to organize a wide-band radio channel for the end-user. The basic services are standard, Internet and telephony.
+
+04:19.000 --> 04:32.000
+The next alternative to wireless computer technologies is cellular communication. They are oriented not only on the phone, but also on the Internet and data transmission.
+
+04:32.000 --> 04:47.000
+For example, GPRS, HD, 3G, HSPDI, CDMA-2000, which operates at a frequency of 450 MHz in our country.
+
+04:47.000 --> 05:04.000
+In large metropolises, CDMA-1X with EFDO standard, which is a data transmission standard at a frequency of 1.9 and 2.1 GHz, and other technologies.
+
+05:04.000 --> 05:23.000
+Despite the large variety of wireless communication networks, which continues to increase, the number of basic services is limited. They provide telephony, Internet access, network construction.
+
+05:23.000 --> 05:49.000
+In other words, the consumer can get the same service from different providers. For example, Internet access can be obtained not only by cellular communication, but also by Wi-Fi, WiMAX networks.
+
+05:50.000 --> 05:58.000
+In the future, WiMAX will be the next mobile network, which has recently become a full-fledged communication standard.
+
+05:58.000 --> 06:05.000
+The slides show the parameters, limitations, advantages and disadvantages of wireless technologies.
+
+06:05.000 --> 06:16.000
+The monthly income of Russian telecommunications companies is approximately $ 300-500 for small companies and up to $ 1,000 for medium-sized ones.
+
+06:17.000 --> 06:29.000
+The most popular services are telephone, communication and Internet access.
+
+06:30.000 --> 06:43.000
+The advantages of wireless telephony allow you to get services such as Skype, Google Talk, SIPnet.
+
+06:43.000 --> 07:02.000
+The main advantages of the use of IP telephony are well known. This is the savings on international and intercity telephone calls due to the transmission of voice traffic through the global network of data, that is, through the Internet, as well as the reduction of costs for the administration of the networks themselves, with rich functionality and other things.
+
+07:02.000 --> 07:18.000
+At the same time, VoIP technologies have significant disadvantages, mainly due to the information security. We will not analyze them, you just need to know about it.
+
+07:18.000 --> 07:28.000
+One of the modern technological breakthroughs in the field of IP telephony is the concept of unified communications.
+
+07:28.000 --> 07:51.000
+This is a new stage in the development of IP telephony. Unified telephony models use technologies such as session initiation protocol and presence control, as well as mobile solutions that simplify and unify all forms of communication, regardless of their place, time and device.
+
+07:51.000 --> 08:06.000
+Users can contact each other at any time, taking into account their preferences. And the connection can be made on any channel, regardless of the devices used.
+
+08:06.000 --> 08:25.000
+Therefore, if your provider uses the unified communication technology, you should deal with it. The most common way to access the global network is ADSL technology.
+
+08:25.000 --> 08:53.000
+In theory, it allows you to have access to the subscriber from the standard telephone line up to 7.5 Mbps. But in practice, the speed depends on many factors, from the state of the operator's node to the state of the cable, wiring, channel load, etc.
+
+08:55.000 --> 09:19.000
+Now, the country is interested in the growth of the so-called call centers. They allow companies to be client-oriented and focus on the profile activities, and to provide customer support to professional operators.
+
+09:19.000 --> 09:42.000
+The most popular service is the call center processing, i.e. a virtual office, support service, etc. What is a modern call center? Unfortunately, there is no such definition as a call center.
+
+09:43.000 --> 09:58.000
+The call center is a set of hardware, software and algorithms designed to register calls to users, received by phone or other means of communication, such as radio, PNG, etc.
+
+09:58.000 --> 10:17.000
+Their routing, task management and the output of the resulting information to the user. In fact, the call center consists not only of hardware or software, but also of employees, operators and managers.
+
+10:17.000 --> 10:37.000
+In other words, the call center is a method of processing calls and applications based on the given scenario with the subsequent data presentation for further processing, i.e. statistics, etc.
+
+10:37.000 --> 10:57.000
+The function of the call center allows you to immediately send a call to the operator who will respond to it in the best way. This avoids the operator's call transfer to the operator, the call is suspended in several lines, thus saving time for both the client and the operator.
+
+10:57.000 --> 11:22.000
+The next important task of the call center is the so-called interactive-speech interaction system, i.e. the IVR system, which allows you to automate routine procedures that have previously been spent by operators. For example, providing some information about the company in automatic mode, obtaining a current balance on the account for the client, etc.
+
+11:22.000 --> 11:37.000
+According to statistics, the use of IVR systems allows you to achieve 65-70% of the total number of calls, which can greatly affect the economy of operator's resources.
+
+11:37.000 --> 11:57.000
+Further, the call center allows you to put the client in line for service, how long the operator can wait for him, when the operator will respond to him. Statistics show that clients who receive this information expect 1.5-2 times longer than clients who do not receive this information.
+
+11:57.000 --> 12:21.000
+Also, the use of IVR systems increases the operator's discipline, thanks to the presence of monitoring tools for their work in real time. The operation of the call center in real time allows you to react quickly to changes in the flow of calls, and to serve them with the optimal amount of resources.
+
+12:21.000 --> 12:36.000
+In addition to the above-mentioned main tasks, the call center has additional advantages.
+
+12:36.000 --> 12:49.000
+1. Control of operator's quality of work, i.e. quality of service of subscribers, operator's listening in real time, recording of conversations to identify errors in the operator's work, etc.
+
+12:49.000 --> 12:58.000
+2. Increase of subscriber satisfaction, due to the quick and correct reaction of the call center employees to their requests.
+
+12:58.000 --> 13:08.000
+3. Increase of operator satisfaction, due to the competent organization of their workplaces, automation, or simplification of routine procedures, etc.
+
+13:08.000 --> 13:18.000
+4. Saving human resources and other costs, since the call center allows you to serve a similar number of calls to fewer agents.
+
+13:18.000 --> 13:28.000
+5. Reducing the number of unmanaged calls, and controlling the number of managers.
+
+13:28.000 --> 13:40.000
+A good operator's call center can serve incoming calls, as well as outgoing calls.
+
+13:40.000 --> 13:47.000
+This is a necessity when conducting sociological marketing and other population surveys.
+
+13:47.000 --> 13:54.000
+Or, for example, to support direct sales and service of regular clients.
+
+13:54.000 --> 14:01.000
+The slide shows the working scheme of such a call center.
+
+14:01.000 --> 14:13.000
+Applicants can access the call center directly, or through an electronic reception, or through an information system.
+
+14:13.000 --> 14:24.000
+Then there is a help desk, service desk, an automated processing system with applications, an electronic queue, and the call center itself.
+
+14:24.000 --> 14:32.000
+In your textbooks, there is a business case on the work of a specific call center of the company DelaJeans.
+
+14:32.000 --> 14:41.000
+This is one of the first companies in Russia to combine a call center with a full-fledged industrial CRM system.
+
+14:41.000 --> 14:47.000
+The center offers services to customers in the form of outsourcing.
+
+14:47.000 --> 14:52.000
+You can give the work to the customers as an outsourcing.
+
+14:52.000 --> 15:15.000
+Pay attention to the scenario of the conversation, and how the system allows the operator to conduct the conversation optimally in terms of the tasks,
+
+15:15.000 --> 15:20.000
+and also to avoid unnecessary delay.
+
+15:20.000 --> 15:25.000
+Based on the scenario approved by the customer, the script of the conversation is developed.
+
+15:25.000 --> 15:32.000
+The screen form of the conversation is implemented in the information system.
+
+15:32.000 --> 15:40.000
+The conversation is displayed in accordance with the scenario, and it is correct to provide the necessary information.
+
+15:40.000 --> 15:49.000
+Pay attention to this business case. I highly recommend it to those businesses that have problems in their relations with customers.
+
+15:49.000 --> 16:02.000
+Let's look at IT products and solutions related to our government structures and authorities.
+
+16:03.000 --> 16:11.000
+Let's look at another area of IT products and solutions, namely, for the needs of the government structure and authorities.
+
+16:11.000 --> 16:17.000
+In any modern country, regardless of the features of its government structure, the level of economic development,
+
+16:17.000 --> 16:23.000
+the state itself is the main provider of services to the population and organizations.
+
+16:23.000 --> 16:32.000
+In addition, the state is the largest consumer of products and services of both private and state corporations.
+
+16:32.000 --> 16:41.000
+The expenses of the modern Russia, the expenses of the state authorities of all levels, grow faster than the IT market itself.
+
+16:41.000 --> 16:45.000
+This is shown in the following slides.
+
+16:45.000 --> 16:54.000
+This is due to the delayed demand, that is, the fact that the state authorities were not automated earlier.
+
+16:54.000 --> 17:09.000
+On the other hand, large-scale projects are launched in the country, and the automation of state authorities is the primary task.
+
+17:09.000 --> 17:17.000
+Let's look at some of the most significant IT projects that are taking place in Russia and that need to be taken into account in business development.
+
+17:17.000 --> 17:28.000
+Also, in the interaction of B2B, B2C, G2B, G2C systems.
+
+17:28.000 --> 17:32.000
+All these systems intersect with any business.
+
+17:32.000 --> 17:43.000
+The current program of the Russian IT sector, one of the tasks of which is to reduce costs for entering the market of internal and external IT technologies
+
+17:43.000 --> 17:47.000
+and to stimulate economic success to increase profitability.
+
+17:47.000 --> 18:01.000
+During the implementation of this program, the strategy of introducing information technologies in the state sector, including the military-industrial complex, is being implemented.
+
+18:01.000 --> 18:09.000
+One of the results should be the creation of prerequisites for accelerated development of electronic trading.
+
+18:09.000 --> 18:16.000
+There are state IT programs, such as the State Automation System of Justice.
+
+18:16.000 --> 18:25.000
+There is an IT transfer of the Federal Treasury, customs services, tax services, the creation of an electronic parliament.
+
+18:25.000 --> 18:33.000
+The work on the creation of electronic justice has already begun.
+
+18:33.000 --> 18:39.000
+Significant expenses are being spent on the creation of cadastral objects of Russian real estate.
+
+18:39.000 --> 18:46.000
+One of the key IT projects in the state is the electronic passport.
+
+18:46.000 --> 18:53.000
+One of the components of such a large-scale IT infrastructure for the introduction of new generation documents,
+
+18:53.000 --> 18:59.000
+which will include both data transfer networks between various departments, and information storage systems,
+
+18:59.000 --> 19:07.000
+that is, the equipment of storage facilities or databases of passport tables, border checkpoints, and much more.
+
+19:07.000 --> 19:14.000
+Currently, three main biometric methods are being tested and widely used to find this electronic passport.
+
+19:14.000 --> 19:21.000
+This is recognition by fingerprint, recognition by the iris of the eye, and recognition by face.
+
+19:21.000 --> 19:29.000
+The task of transferring biometric new generation passports is closely related to two projects,
+
+19:29.000 --> 19:32.000
+which have been implemented since 2003.
+
+19:32.000 --> 19:38.000
+The first is to create a federal interdepartmental automation system for the collection and storage of information
+
+19:38.000 --> 19:44.000
+about the people who are traveling through the state border, transport and cargo, the so-called border control.
+
+19:44.000 --> 19:50.000
+The second project is related to the development of an information system for the control of the migration situation in Russia.
+
+19:50.000 --> 19:57.000
+This includes the creation of a database for the account of foreign citizens and persons without citizenship.
+
+19:57.000 --> 20:02.000
+The development of the social sphere is also a priority for our state.
+
+20:02.000 --> 20:07.000
+This task is of particular importance in connection with the adoption of, for example,
+
+20:07.000 --> 20:10.000
+the benefit payment for the population.
+
+20:10.000 --> 20:14.000
+We all remember the notorious law on monetization of benefits.
+
+20:14.000 --> 20:19.000
+The introduction of the receiver's register and the creation of a payment accounting and control system
+
+20:19.000 --> 20:23.000
+is possible only with the help of some information systems.
+
+20:23.000 --> 20:32.000
+For this, the state introduces the so-called technology of creating electronic social maps for the population.
+
+20:32.000 --> 20:38.000
+The concept of the system of personal population accounting, the so-called Spoon concept,
+
+20:38.000 --> 20:44.000
+and the application of the technology of social maps is the first step in the direction of a unified information system
+
+20:44.000 --> 20:47.000
+for the accounting of personal citizens of our country.
+
+20:47.000 --> 20:52.000
+The last step is to combine the information resources of 18 federal authorities,
+
+20:52.000 --> 20:59.000
+including the Ministry of Internal Affairs, the Tax Service, the Customs, the Ministry of Health, Social Development, and so on.
+
+20:59.000 --> 21:04.000
+This is due to the fact that the release of social maps is accompanied by the creation of an information infrastructure
+
+21:04.000 --> 21:10.000
+that includes a database, a unified information accounting center, i.e. the benefit accounting itself, and so on.
+
+21:10.000 --> 21:19.000
+This can become a supporting link of the entire system of personal accounting, i.e. the Spoon system.
+
+21:19.000 --> 21:26.000
+The social map, its structure and processing are presented in the following two slides.
+
+21:26.000 --> 21:32.000
+It contains the most important data about the owner and allows it to be identified.
+
+21:32.000 --> 21:37.000
+Users of the social map system receive benefits in an address-based manner and with minimal costs for delivery
+
+21:37.000 --> 21:41.000
+and can learn about their impressions and costs at any time.
+
+21:41.000 --> 21:46.000
+Social maps function in a unified environment of interdepartmental exchange of information.
+
+21:46.000 --> 21:52.000
+The automation of the entire process of providing social support and optimization of interdepartmental interaction
+
+21:52.000 --> 21:57.000
+all this reduces costs for the service of the system and social security in general.
+
+21:58.000 --> 22:05.000
+Social security specialists are essentially free from routine paperwork and can deal with their own social support issues.
+
+22:08.000 --> 22:10.000
+The electronic shopping system is interesting.
+
+22:10.000 --> 22:18.000
+It has a long history in our country, but it is very well tested and works in the world.
+
+22:18.000 --> 22:25.000
+It is a structure of efficient shopping and delivery management using Internet technology.
+
+22:25.000 --> 22:29.000
+The slide shows the procedure of electronic shopping.
+
+22:29.000 --> 22:34.000
+The parties involved are customers, suppliers, suppliers or intermediaries,
+
+22:34.000 --> 22:37.000
+the organizer of the trade, providing the technical side.
+
+22:37.000 --> 22:44.000
+The use of the so-called e-shopping in the state sector provides a high level of equal competition
+
+22:44.000 --> 22:46.000
+and saving of budget funds.
+
+22:46.000 --> 22:53.000
+There are open and closed contests, two-stage auctions, including auctions in electronic form,
+
+22:53.000 --> 22:55.000
+as well as joint e-shopping.
+
+22:55.000 --> 23:00.000
+The world experience has shown the effectiveness of the e-shopping system.
+
+23:00.000 --> 23:05.000
+According to the statistics, the saving in prices and reduction in costs is on average 10%,
+
+23:05.000 --> 23:11.000
+and can reach 20-40% according to the data of such projects.
+
+23:11.000 --> 23:15.000
+The most developed economic countries are actively financing projects
+
+23:15.000 --> 23:20.000
+on the transformation of the outdated trading system into a modern e-shopping principle.
+
+23:21.000 --> 23:26.000
+The biggest successes in this area were achieved in Sweden, Australia, Ireland, Norway, USA, Germany.
+
+23:26.000 --> 23:33.000
+The Russian pilot practice of the e-shopping program has been in force for several years
+
+23:33.000 --> 23:38.000
+and is based on the Federal Law No. 94 on placing orders for the supply of goods,
+
+23:38.000 --> 23:42.000
+the execution of work and the provision of services for state and municipal needs,
+
+23:42.000 --> 23:46.000
+in which the practice of e-shopping is justified.
+
+23:47.000 --> 23:50.000
+Currently, within the framework of the electronic Russia program,
+
+23:50.000 --> 23:54.000
+an experiment on e-shopping is planned for 2010,
+
+23:54.000 --> 23:57.000
+and is being carried out in the regions of the country.
+
+23:57.000 --> 24:01.000
+At the same time, it should be noted that the regions do not wait for the instructions of the Center
+
+24:01.000 --> 24:03.000
+and come to e-shopping themselves.
+
+24:03.000 --> 24:08.000
+The port technology in the state agencies plays a greater role,
+
+24:08.000 --> 24:12.000
+which is usually used for collective work on documents
+
+24:12.000 --> 24:19.000
+and as a single point of entry to the information services of a state agency.
+
+24:19.000 --> 24:25.000
+The main vector of development is the use of the portal as a platform
+
+24:25.000 --> 24:33.000
+for integration with all inherited applications or previously installed information systems,
+
+24:33.000 --> 24:36.000
+and, first of all, with electronic document processing systems.
+
+24:36.000 --> 24:42.000
+The portal is the next stage after the website of the information resources of the organization,
+
+24:42.000 --> 24:47.000
+which is able to provide both inside and outside the company or corporation
+
+24:47.000 --> 24:50.000
+with a single point of entry to the information structure.
+
+24:50.000 --> 24:56.000
+One of the main advantages that the portal provides to citizens and business representatives
+
+24:56.000 --> 25:02.000
+is access to various services in a single window.
+
+25:02.000 --> 25:04.000
+You go in and get all the services.
+
+25:04.000 --> 25:09.000
+Next, let's move on to another component of the IT environment,
+
+25:09.000 --> 25:14.000
+namely, we will consider IT products and IT solutions in banks, insurance companies,
+
+25:14.000 --> 25:17.000
+that is, Internet banking, electronic bank cards.
+
+25:17.000 --> 25:23.000
+Experts define IT systems of banks and insurance companies as follows.
+
+25:23.000 --> 25:29.000
+As a rule, banks and insurance companies pay attention to automation in the following direction,
+
+25:29.000 --> 25:32.000
+namely, the automation system of banking activities,
+
+25:32.000 --> 25:36.000
+then various information and analytical systems are introduced,
+
+25:36.000 --> 25:40.000
+automation system in communication with customers,
+
+25:40.000 --> 25:43.000
+call centers, as we said, work very well in banks,
+
+25:43.000 --> 25:46.000
+systems of work with plastic cards,
+
+25:46.000 --> 25:50.000
+electronic services such as bank client or Internet banking,
+
+25:50.000 --> 25:55.000
+mobile banking, various IP technologies, telecommunications,
+
+25:55.000 --> 25:58.000
+information protection systems and IT structure management.
+
+25:58.000 --> 26:03.000
+The main role of the interaction of the bank or our corporation with the IMB
+
+26:03.000 --> 26:07.000
+will be the software for managing the relationship with customers,
+
+26:07.000 --> 26:11.000
+that is, what is installed in the bank, in the CRM system.
+
+26:11.000 --> 26:15.000
+In terms of functionality, the CRM system of a bank or insurance company
+
+26:15.000 --> 26:18.000
+has the following features,
+
+26:18.000 --> 26:22.000
+it is the management of contacts, management of sales of some bank products,
+
+26:22.000 --> 26:26.000
+management of marketing activities, management of time and staff,
+
+26:26.000 --> 26:30.000
+as well as support and service of customers, that is, service service.
+
+26:30.000 --> 26:35.000
+Therefore, the CRM system, in the sphere of financial activity,
+
+26:35.000 --> 26:39.000
+should provide planning of profitability indicators for each customer,
+
+26:39.000 --> 26:43.000
+as well as for a group of customers and even for a certain industry.
+
+26:43.000 --> 26:46.000
+It should also ensure the account of the relationship of the client,
+
+26:46.000 --> 26:51.000
+the industry analysis of the database and the analysis of potential customers.
+
+26:51.000 --> 26:55.000
+One of the main factors that influence the development of IT solutions
+
+26:55.000 --> 26:58.000
+and IT projects in banking and insurance activities
+
+26:58.000 --> 27:05.000
+is the satisfaction of their activities by the so-called Basel Agreement, Basel 2.
+
+27:05.000 --> 27:12.000
+This is an international agreement on convergence of capital measurement and capital standards,
+
+27:12.000 --> 27:16.000
+which was adopted in 2004 by the countries of the Big Ten.
+
+27:16.000 --> 27:21.000
+This is the leading trend of banking activity in the world.
+
+27:21.000 --> 27:27.000
+This normative act requires a minimum size of banking capital.
+
+27:27.000 --> 27:32.000
+That is, the organizations are obliged to assess their operational, market and credit risks,
+
+27:32.000 --> 27:35.000
+as well as to reserve capital for their coverage.
+
+27:35.000 --> 27:38.000
+This is the Basel Axiom.
+
+27:38.000 --> 27:41.000
+The implementation of the basic principles of Basel 2
+
+27:41.000 --> 27:46.000
+requires the creation of a complex system of risk management in each bank,
+
+27:46.000 --> 27:52.000
+which efficiency will depend on competitiveness for many years to come.
+
+27:52.000 --> 27:58.000
+That is, the organization should be able to assess future operational,
+
+27:58.000 --> 28:00.000
+credit and market risks.
+
+28:00.000 --> 28:03.000
+If it does this correctly and accurately,
+
+28:03.000 --> 28:08.000
+the less capital it needs to reserve for the coverage of these risks.
+
+28:08.000 --> 28:15.000
+Consequently, the bank will have more money or investment,
+
+28:15.000 --> 28:19.000
+which will give it the advantage over those companies
+
+28:19.000 --> 28:23.000
+that are forced to assess market risks with some reserve,
+
+28:23.000 --> 28:25.000
+that is, less accurately.
+
+28:25.000 --> 28:27.000
+This is a factor,
+
+28:27.000 --> 28:35.000
+and the Basel 2 is one of the incentives for the development of IT systems in the banking sphere.
+
+28:35.000 --> 28:40.000
+Another factor that influences the promotion of IT products and solutions in the banking sphere
+
+28:40.000 --> 28:42.000
+is the idea of ​​introducing electronic money,
+
+28:42.000 --> 28:44.000
+which first appeared in 1880,
+
+28:44.000 --> 28:49.000
+when the American scientist Edward Bellamy suggested using prepaid cards.
+
+28:49.000 --> 28:52.000
+But due to technological impossibilities of the time,
+
+28:52.000 --> 28:54.000
+it was postponed for many years.
+
+28:54.000 --> 29:00.000
+Today, there are a significant number of systems of so-called electronic payments in the world,
+
+29:00.000 --> 29:07.000
+the most significant of which are PayPal, Neteller, E-gold, StrongPay, Payice and many others.
+
+29:07.000 --> 29:13.000
+In Russia, there are noticeable CyberPlat, E-port, WebMoney, Yandex.Dengy and others.
+
+29:13.000 --> 29:18.000
+Historically, the first Russian electronic payment system is CyberPlat,
+
+29:18.000 --> 29:21.000
+which was formed in 1997.
+
+29:21.000 --> 29:25.000
+In the most general form,
+
+29:25.000 --> 29:28.000
+the following electronic payment system definitions can be given.
+
+29:28.000 --> 29:30.000
+EPS is a technology,
+
+29:30.000 --> 29:32.000
+if we talk about the implementation,
+
+29:32.000 --> 29:34.000
+then we can say that it is a service,
+
+29:34.000 --> 29:38.000
+which provides a set of methods, agreements and technologies,
+
+29:38.000 --> 29:43.000
+allowing to develop calculations between counteragents on data transfer networks,
+
+29:43.000 --> 29:46.000
+which are mostly Internet.
+
+29:46.000 --> 29:50.000
+There are several types of electronic payment systems in the world,
+
+29:50.000 --> 29:54.000
+which can be classified into three main types.
+
+29:54.000 --> 29:57.000
+The first is card systems,
+
+29:57.000 --> 30:00.000
+the second is digital cash operators,
+
+30:00.000 --> 30:02.000
+and the third is payment gates.
+
+30:02.000 --> 30:08.000
+The slide shows the payment systems that exist in Russia now.
+
+30:08.000 --> 30:11.000
+The first is EPS,
+
+30:11.000 --> 30:13.000
+which works with ordinary bank cards,
+
+30:13.000 --> 30:15.000
+that is, Visa, MasterCard and so on.
+
+30:15.000 --> 30:19.000
+The second type of systems operate with the so-called digital currency,
+
+30:19.000 --> 30:24.000
+that is, an internal currency that is spinning in this payment system,
+
+30:24.000 --> 30:28.000
+which can be obtained from the corresponding EPS participants.
+
+30:28.000 --> 30:34.000
+Payment gates are a synergy of card systems and digital cash operators,
+
+30:34.000 --> 30:38.000
+providing a wide range of opportunities for mutual conversion
+
+30:38.000 --> 30:42.000
+and payment methods for goods and services, mainly on the Internet.
+
+30:42.000 --> 30:46.000
+Let's take a closer look at the scheme of electronic payment.
+
+30:46.000 --> 30:48.000
+It is shown on the slide.
+
+30:48.000 --> 30:56.000
+The process of processing of plastic cards as a means of payment for goods and services on the Internet
+
+30:56.000 --> 30:59.000
+is called Internet Acquiring.
+
+30:59.000 --> 31:02.000
+The main participants in electronic payment are the buyer,
+
+31:02.000 --> 31:04.000
+the second is the online store,
+
+31:04.000 --> 31:06.000
+the third is the bank that issued the card,
+
+31:06.000 --> 31:10.000
+the fourth is the bank that carries out the initial processing of the transaction
+
+31:10.000 --> 31:13.000
+and provides the entire range of operations with cards,
+
+31:13.000 --> 31:15.000
+which are implemented by partners.
+
+31:15.000 --> 31:17.000
+The fifth is the payment server,
+
+31:17.000 --> 31:19.000
+that is, the electronic payment system itself,
+
+31:19.000 --> 31:22.000
+which provides security for payment and much more.
+
+31:22.000 --> 31:31.000
+Thus, the card electronic payment system is the guarantor of safe transport of card data
+
+31:31.000 --> 31:34.000
+to the processing center of the Bank Acquire.
+
+31:34.000 --> 31:37.000
+The Russian market for bank cards is now developing rapidly.
+
+31:37.000 --> 31:39.000
+According to the Central Bank,
+
+31:39.000 --> 31:43.000
+the average annual growth of the number of bank cards in Russia
+
+31:43.000 --> 31:50.000
+in the period 2001-2005 was about 50% per year.
+
+31:50.000 --> 31:52.000
+It is shown on the slide.
+
+31:52.000 --> 31:59.000
+The idea of digital cash is the work of David Chaume,
+
+31:59.000 --> 32:03.000
+with his technology E-Cash,
+
+32:03.000 --> 32:05.000
+that is, E-Cash.
+
+32:05.000 --> 32:07.000
+It is promising,
+
+32:07.000 --> 32:12.000
+despite some uncertainty of its legal status,
+
+32:12.000 --> 32:14.000
+that is, the status of the system itself.
+
+32:14.000 --> 32:16.000
+Strictly speaking,
+
+32:16.000 --> 32:20.000
+it cannot even be called an electronic payment system,
+
+32:20.000 --> 32:23.000
+that is, it is not quite correct to call it that,
+
+32:23.000 --> 32:29.000
+since in this system it operates as some kind of virtual units.
+
+32:29.000 --> 32:32.000
+Well, WebMoney, for example, calls it a system of property rights,
+
+32:32.000 --> 32:36.000
+and Yandex.Money calls it a prepaid financial product.
+
+32:36.000 --> 32:38.000
+At the same time,
+
+32:38.000 --> 32:44.000
+this payment system takes a very active part in e-commerce,
+
+32:44.000 --> 32:47.000
+even in the commodity-money circulation of the country.
+
+32:47.000 --> 32:49.000
+At the same time, their activities,
+
+32:49.000 --> 32:52.000
+in fact, are not regulated by the Central Financial Institute,
+
+32:52.000 --> 32:54.000
+that is, by the Central Bank.
+
+32:54.000 --> 32:59.000
+And it is still unclear how and where these electronic payment systems will develop,
+
+33:00.000 --> 33:04.000
+if the Central Bank decides to put them in order.
+
+33:04.000 --> 33:06.000
+As of June 2006,
+
+33:06.000 --> 33:10.000
+the number of stores that accepted WebMoney, Yandex.Money,
+
+33:10.000 --> 33:13.000
+or the credit pilot system,
+
+33:15.000 --> 33:18.000
+was 2,772,
+
+33:18.000 --> 33:21.000
+950 and 126, respectively.
+
+33:22.000 --> 33:25.000
+The slide shows
+
+33:25.000 --> 33:28.000
+which digital cash systems
+
+33:28.000 --> 33:32.000
+are used by certain online stores,
+
+33:32.000 --> 33:35.000
+that is, the number of online stores
+
+33:35.000 --> 33:38.000
+that belong to certain digital cash systems.
+
+33:38.000 --> 33:42.000
+The textbook considers the business case of a digital cash system,
+
+33:42.000 --> 33:46.000
+for example, WebMoney and its corresponding web resource.
+
+33:46.000 --> 33:50.000
+This system is one of the oldest payment systems of the Internet,
+
+33:50.000 --> 33:53.000
+since 1998.
+
+33:53.000 --> 33:56.000
+WebMoney provides real-time payment
+
+33:56.000 --> 33:59.000
+by means of account units,
+
+33:59.000 --> 34:02.000
+WebMoney's title signs.
+
+34:02.000 --> 34:05.000
+The management of the title signs is carried out by users
+
+34:05.000 --> 34:09.000
+using the client program WM Keeper.
+
+34:09.000 --> 34:13.000
+The developers, the owners, the administrators of WebMoney
+
+34:13.000 --> 34:16.000
+and provide its organizational and technological integrity
+
+34:16.000 --> 34:19.000
+are WM Transfer,
+
+34:19.000 --> 34:22.000
+registered in Belize,
+
+34:22.000 --> 34:26.000
+an offshore zone that borders Guatemala and Mexico.
+
+34:26.000 --> 34:30.000
+The management company is the law firm
+
+34:30.000 --> 34:34.000
+UAB Dixa Baltic,
+
+34:34.000 --> 34:37.000
+registered in Lithuania.
+
+34:37.000 --> 34:40.000
+The technical support service of WebMoney in Russia
+
+34:40.000 --> 34:43.000
+is the Accounting Center.
+
+34:43.000 --> 34:46.000
+This company is located in Moscow.
+
+34:46.000 --> 34:51.000
+If you like to work with this payment system
+
+34:51.000 --> 34:55.000
+or if it is suitable for sale and purchase,
+
+34:55.000 --> 34:58.000
+you should pay attention to it
+
+34:58.000 --> 35:01.000
+and adopt it in your business.
+
+35:01.000 --> 35:04.000
+The third type of payment systems, payment gates,
+
+35:04.000 --> 35:07.000
+are often used as a prepaid card,
+
+35:07.000 --> 35:10.000
+providing the possibility of transferring
+
+35:10.000 --> 35:13.000
+the payment data to the payment system.
+
+35:13.000 --> 35:16.000
+They can work with both card systems and WebMoney.
+
+35:16.000 --> 35:19.000
+The legal nature of payment gates
+
+35:19.000 --> 35:22.000
+is a symbiosis of card and digital cash.
+
+35:22.000 --> 35:25.000
+It requires the account of the functionality of both systems.
+
+35:25.000 --> 35:28.000
+In these systems, the client does not buy any digital cash
+
+35:28.000 --> 35:31.000
+and does not operate with his credit card account,
+
+35:31.000 --> 35:34.000
+but receives a registered payment from the payment system.
+
+35:34.000 --> 35:37.000
+The payment system is a system of payment gates
+
+35:37.000 --> 35:40.000
+that does not operate with its own credit card account,
+
+35:40.000 --> 35:43.000
+but receives its own account in the payment system.
+
+35:43.000 --> 35:46.000
+The user receives a large number of services
+
+35:46.000 --> 35:49.000
+that are possible with this account,
+
+35:49.000 --> 35:52.000
+and the payment system operator earns on the commission.
+
+35:52.000 --> 35:55.000
+The advantages of payment gates
+
+35:55.000 --> 35:58.000
+are a large number of payment methods,
+
+35:58.000 --> 36:01.000
+both for the buyer and the seller.
+
+36:01.000 --> 36:04.000
+One of the disadvantages is that the rights and responsibilities
+
+36:04.000 --> 36:07.000
+of the user are not guaranteed.
+
+36:07.000 --> 36:10.000
+In addition, the use of several payment schemes
+
+36:10.000 --> 36:13.000
+and exchanges between different payment systems
+
+36:13.000 --> 36:16.000
+significantly increases the risks of using these payment gates.
+
+36:16.000 --> 36:19.000
+So, today we have some paradoxes.
+
+36:19.000 --> 36:22.000
+For more than 12 years,
+
+36:22.000 --> 36:25.000
+the existence of digital cash
+
+36:25.000 --> 36:28.000
+or the very idea of ​​electronic money
+
+36:28.000 --> 36:31.000
+has not been clearly defined.
+
+36:32.000 --> 36:35.000
+The most common definition of digital cash
+
+36:35.000 --> 36:38.000
+is the storage of some monetary value
+
+36:38.000 --> 36:41.000
+through a software device.
+
+36:41.000 --> 36:44.000
+In the vast majority of cases,
+
+36:44.000 --> 36:47.000
+a regular personal computer
+
+36:47.000 --> 36:50.000
+with installed client software
+
+36:50.000 --> 36:53.000
+for access to the wallet of this electronic payment system
+
+36:53.000 --> 36:56.000
+and access to the Internet is used.
+
+36:56.000 --> 36:59.000
+The manifestation of this is a digital currency
+
+36:59.000 --> 37:02.000
+that is not used for payment.
+
+37:02.000 --> 37:05.000
+The manifestation of this legal paradox
+
+37:05.000 --> 37:08.000
+is that the operator, the owner, the guarantor,
+
+37:08.000 --> 37:11.000
+etc. is issuing checks on the showman.
+
+37:11.000 --> 37:14.000
+However, according to the Civil Code of the Russian Federation,
+
+37:14.000 --> 37:17.000
+the check is not issued to securities.
+
+37:17.000 --> 37:20.000
+The circulation of this kind of securities
+
+37:20.000 --> 37:23.000
+is not regulated by the law on the market of securities.
+
+37:23.000 --> 37:26.000
+It is not regulated by the law on the market of securities.
+
+37:26.000 --> 37:29.000
+It is regulated by the specific position of the Bank of Russia.
+
+37:29.000 --> 37:32.000
+Another example of the paradoxical existence of electronic money
+
+37:32.000 --> 37:35.000
+is that the issuance of prepaid financial products
+
+37:35.000 --> 37:38.000
+does not affect the increase in the money mass in the country.
+
+37:38.000 --> 37:41.000
+In fact, money does not appear in circulation.
+
+37:41.000 --> 37:44.000
+Therefore, the use of prepaid cards
+
+37:44.000 --> 37:47.000
+by our corporation is possible
+
+37:47.000 --> 37:50.000
+without the permission of the Bank of Russia.
+
+37:50.000 --> 37:53.000
+The bank does not have the permission
+
+37:53.000 --> 37:56.000
+to use electronic payment systems
+
+37:56.000 --> 37:59.000
+operating with digital cash.
+
+37:59.000 --> 38:02.000
+However, the owners of some electronic payment systems
+
+38:02.000 --> 38:05.000
+operate with digital cash
+
+38:05.000 --> 38:08.000
+are somewhat deceptive
+
+38:08.000 --> 38:11.000
+when it comes to their own currency
+
+38:11.000 --> 38:14.000
+used in the system of prepaid financial products.
+
+38:14.000 --> 38:17.000
+From the point of view of the formulation,
+
+38:17.000 --> 38:20.000
+this is really so,
+
+38:20.000 --> 38:23.000
+but if you look at the wiring of such payment systems,
+
+38:23.000 --> 38:26.000
+you can see that there is no prepaid financial product.
+
+38:26.000 --> 38:29.000
+you can see that there is no prepaid financial product.
+
+38:29.000 --> 38:32.000
+In fact, the so-called advance payment is implemented.
+
+38:32.000 --> 38:35.000
+In fact, the so-called advance payment is implemented.
+
+38:35.000 --> 38:38.000
+Roughly speaking,
+
+38:38.000 --> 38:41.000
+when a metro ticket is purchased,
+
+38:41.000 --> 38:44.000
+the consumer clearly and unambiguously knows
+
+38:44.000 --> 38:47.000
+how many trips he can make.
+
+38:47.000 --> 38:50.000
+He changes his cash for this card.
+
+38:50.000 --> 38:53.000
+Obviously, if I purchase some title marks
+
+38:53.000 --> 38:56.000
+in the case of electronic cash,
+
+38:56.000 --> 38:59.000
+in the case of electronic cash,
+
+38:59.000 --> 39:02.000
+we will not have any agreement.
+
+39:02.000 --> 39:05.000
+I will not know how many trips
+
+39:05.000 --> 39:08.000
+I can make with this payment.
+
+39:08.000 --> 39:11.000
+In fact, I just gave them money,
+
+39:11.000 --> 39:14.000
+made some advance payment for subsequent services.
+
+39:14.000 --> 39:17.000
+Nevertheless,
+
+39:17.000 --> 39:20.000
+the existence and functioning of electronic money
+
+39:20.000 --> 39:23.000
+in the world and in our country cannot be denied.
+
+39:23.000 --> 39:26.000
+Their growth is increasing.
+
+39:26.000 --> 39:29.000
+Their growth is increasing.
+
+39:29.000 --> 39:32.000
+The problem must be solved.
+
+39:32.000 --> 39:35.000
+It is not known where it will lead.
+
+39:35.000 --> 39:38.000
+The only thing that is known is that
+
+39:38.000 --> 39:41.000
+the Central Bank of Singapore
+
+39:41.000 --> 39:44.000
+has started the emission of digital cash.
+
+39:44.000 --> 39:47.000
+It has started the management of digital money.
+
+39:47.000 --> 39:50.000
+I think that in the near future
+
+39:50.000 --> 39:53.000
+all banks will also switch to digital money.
+
+39:53.000 --> 39:56.000
+The last IT environment
+
+39:56.000 --> 39:59.000
+I would like to focus on
+
+39:59.000 --> 40:02.000
+is to devote to the solutions
+
+40:02.000 --> 40:05.000
+and products for the information
+
+40:05.000 --> 40:08.000
+of such communities.
+
+40:08.000 --> 40:11.000
+For example, education.
+
+40:11.000 --> 40:14.000
+The success of national programs,
+
+40:14.000 --> 40:17.000
+commercial and non-commercial
+
+40:17.000 --> 40:20.000
+educational organizations in the competitive environment
+
+40:20.000 --> 40:23.000
+depends on intellectual capital.
+
+40:23.000 --> 40:26.000
+The functioning of the business
+
+40:26.000 --> 40:29.000
+also depends on the presence
+
+40:29.000 --> 40:32.000
+and development of intellectual capital.
+
+40:32.000 --> 40:35.000
+The company's intellectual capital
+
+40:35.000 --> 40:38.000
+and the structure of the organization
+
+40:38.000 --> 40:41.000
+are related to it.
+
+40:41.000 --> 40:44.000
+The human capital
+
+40:44.000 --> 40:47.000
+and the structure of the organization
+
+40:47.000 --> 40:50.000
+are related to it.
+
+40:50.000 --> 40:53.000
+The human capital includes the knowledge,
+
+40:53.000 --> 40:56.000
+intelligence, competence, and connections
+
+40:56.000 --> 40:59.000
+of the employees of the corporation.
+
+40:59.000 --> 41:02.000
+The structure of the organization
+
+41:02.000 --> 41:05.000
+includes the information exchange system,
+
+41:05.000 --> 41:08.000
+the application of common knowledge,
+
+41:08.000 --> 41:11.000
+the management system and processes
+
+41:11.000 --> 41:14.000
+that allow to concentrate on the strategy
+
+41:14.000 --> 41:17.000
+and adapt to the changing business environment.
+
+41:17.000 --> 41:20.000
+The external structural capital
+
+41:20.000 --> 41:23.000
+is also a stable connection of the organization
+
+41:23.000 --> 41:26.000
+with external partners, suppliers, intermediaries, clients, etc.
+
+41:26.000 --> 41:29.000
+Today, not only labor and capital
+
+41:30.000 --> 41:33.000
+are the source of profit,
+
+41:33.000 --> 41:36.000
+but also the innovative activity of the entrepreneur,
+
+41:36.000 --> 41:39.000
+the idea, knowledge, information, including electronic information,
+
+41:39.000 --> 41:42.000
+is an integral and important part
+
+41:42.000 --> 41:45.000
+of the production process and organization of the enterprise.
+
+41:45.000 --> 41:48.000
+The exchange of information with the client,
+
+41:48.000 --> 41:51.000
+the consumer, suppliers, and competitors.
+
+41:51.000 --> 41:54.000
+Therefore, the need to switch from the traditional education system
+
+41:54.000 --> 41:57.000
+to an open and continuous education system
+
+41:58.000 --> 42:01.000
+is a key factor in the organization of the enterprise.
+
+42:01.000 --> 42:04.000
+The managers themselves must reprogram themselves
+
+42:04.000 --> 42:07.000
+in the process of changing the business environment
+
+42:07.000 --> 42:10.000
+and changing the business from its goals and strategies.
+
+42:10.000 --> 42:13.000
+The most characteristic features of this system
+
+42:13.000 --> 42:16.000
+should be the ability to choose the form, content, and pace of education,
+
+42:16.000 --> 42:19.000
+the availability of territorially distributed sources of information,
+
+42:19.000 --> 42:22.000
+and remote learning,
+
+42:22.000 --> 42:25.000
+including the availability of laboratory equipment
+
+42:25.000 --> 42:28.000
+for educational and scientific purposes.
+
+42:28.000 --> 42:31.000
+The final result of the informationization of the educational system
+
+42:31.000 --> 42:34.000
+is the provision of education
+
+42:34.000 --> 42:37.000
+through the so-called e-learning or remote learning.
+
+42:37.000 --> 42:40.000
+At the same time, any form of educational process
+
+42:40.000 --> 42:43.000
+can be understood under the system of remote learning,
+
+42:43.000 --> 42:46.000
+when teachers and employees share significant distances.
+
+42:46.000 --> 42:49.000
+In addition to access to educational materials,
+
+42:49.000 --> 42:52.000
+such a system of organizing educational processes
+
+42:52.000 --> 42:55.000
+can be used to establish communication with the teacher
+
+42:55.000 --> 42:58.000
+and to obtain consultation in online mode,
+
+42:58.000 --> 43:01.000
+as well as to check the knowledge of the end of the education.
+
+43:01.000 --> 43:04.000
+The slides show a single digital environment
+
+43:04.000 --> 43:07.000
+and the educational process with remote learning.
+
+43:07.000 --> 43:10.000
+As for e-learning materials
+
+43:10.000 --> 43:13.000
+that are used in the educational process
+
+43:13.000 --> 43:16.000
+in universities, middle schools, and schools,
+
+43:16.000 --> 43:19.000
+they can be divided into two large groups.
+
+43:19.000 --> 43:22.000
+The first group is the one that is used in the educational process.
+
+43:22.000 --> 43:25.000
+It is a group of students,
+
+43:25.000 --> 43:28.000
+who are using the Internet.
+
+43:28.000 --> 43:31.000
+The main advantage of the local ones
+
+43:31.000 --> 43:34.000
+is their autonomy,
+
+43:34.000 --> 43:37.000
+regardless of the Internet connection.
+
+43:37.000 --> 43:40.000
+But the drawback is simple.
+
+43:40.000 --> 43:43.000
+They quickly get old and have to be renewed.
+
+43:43.000 --> 43:46.000
+This drawback is the lack of an online access system.
+
+43:46.000 --> 43:49.000
+The main advantage of the local ones
+
+43:49.000 --> 43:52.000
+is the ability to connect to the global network
+
+43:52.000 --> 43:55.000
+and to have the latest information.
+
+43:55.000 --> 43:58.000
+Other requirements for educational materials
+
+43:58.000 --> 44:01.000
+are formed on the Internet
+
+44:01.000 --> 44:04.000
+depending on the way they are used.
+
+44:04.000 --> 44:07.000
+Educational materials can be used
+
+44:07.000 --> 44:10.000
+not only for educational portals,
+
+44:10.000 --> 44:13.000
+but also for a number of sites
+
+44:13.000 --> 44:16.000
+The main components of e-learning
+
+44:16.000 --> 44:19.000
+are shown on the slide.
+
+44:19.000 --> 44:22.000
+The main components of e-learning
+
+44:22.000 --> 44:25.000
+are shown on the slide.
+
+44:25.000 --> 44:28.000
+The main components of e-learning
+
+44:28.000 --> 44:31.000
+are shown on the slide.
+
+44:31.000 --> 44:34.000
+According to the analytics,
+
+44:34.000 --> 44:37.000
+computers will be able to translate
+
+44:37.000 --> 44:40.000
+from other languages to real-time
+
+44:40.000 --> 44:43.000
+according to the right understanding
+
+44:43.000 --> 44:46.000
+and organization of effective interaction.
+
+44:46.000 --> 44:49.000
+according to the right understanding
+
+44:49.000 --> 44:52.000
+and organization of effective interaction.
+
+44:52.000 --> 44:55.000
+This will make the education market global.
+
+44:55.000 --> 44:58.000
+Any document, any knowledge
+
+44:58.000 --> 45:01.000
+will be available to everyone.
+
+45:01.000 --> 45:04.000
+will be available to everyone.
+
+45:04.000 --> 45:07.000
+Then the workers of the enterprises
+
+45:07.000 --> 45:10.000
+will have the opportunity
+
+45:10.000 --> 45:13.000
+to use educational materials
+
+45:13.000 --> 45:16.000
+from any university in the world.
+
+45:16.000 --> 45:19.000
+from any university in the world.
+
+45:19.000 --> 45:22.000
+This will eliminate the obstacle
+
+45:22.000 --> 45:25.000
+of the lack of educational content
+
+45:25.000 --> 45:28.000
+on the way of the distance development.
+
+45:28.000 --> 45:31.000
+We have a long distance between the content
+
+45:31.000 --> 45:34.000
+and the lack of it.
+
+45:34.000 --> 45:37.000
+The problem of the translation
+
+45:37.000 --> 45:40.000
+of existing paper textbooks
+
+45:40.000 --> 45:43.000
+into e-learning is understood
+
+45:43.000 --> 45:46.000
+and adopted within the framework
+
+45:46.000 --> 45:49.000
+of a certain state project
+
+45:49.000 --> 45:52.000
+on the creation of e-libraries.
+
+45:52.000 --> 45:55.000
+and adopted within the framework
+
+45:55.000 --> 45:58.000
+of a certain state project
+
+45:58.000 --> 46:01.000
+on the creation of e-libraries.
+
+46:01.000 --> 46:04.000
+The program of wide use of information technology
+
+46:04.000 --> 46:07.000
+in the field of healthcare
+
+46:07.000 --> 46:10.000
+is provided by the creation of an e-card
+
+46:10.000 --> 46:13.000
+of the patient integrated into all systems
+
+46:13.000 --> 46:16.000
+in the field of medicine and social protection.
+
+46:16.000 --> 46:19.000
+in the field of medicine and social protection.
+
+46:19.000 --> 46:22.000
+The second is the provision of accurate information
+
+46:22.000 --> 46:25.000
+from all points of the healthcare system.
+
+46:25.000 --> 46:28.000
+Further, the management of medical information
+
+46:28.000 --> 46:31.000
+is necessary for the safety of the patient
+
+46:31.000 --> 46:34.000
+and the quality of services,
+
+46:34.000 --> 46:37.000
+the improvement of the organization
+
+46:37.000 --> 46:40.000
+of medical services,
+
+46:40.000 --> 46:43.000
+the control over chronic diseases,
+
+46:43.000 --> 46:46.000
+access to medical services,
+
+46:46.000 --> 46:49.000
+improving financial control
+
+46:49.000 --> 46:52.000
+and tariffing of medical services,
+
+46:52.000 --> 46:55.000
+and satisfaction of requests
+
+46:55.000 --> 46:58.000
+for the healthcare system.
+
+46:58.000 --> 47:01.000
+The third is the implementation of the
+
+47:01.000 --> 47:04.000
+medical database as an alternative
+
+47:04.000 --> 47:07.000
+to the traditional paper document.
+
+47:07.000 --> 47:10.000
+The medical database is an alternative
+
+47:10.000 --> 47:13.000
+to the traditional paper document.
+
+47:13.000 --> 47:16.000
+We all know that in our medical records
+
+47:16.000 --> 47:19.000
+it is often impossible to understand
+
+47:19.000 --> 47:22.000
+how the employees use different recording systems.
+
+47:22.000 --> 47:25.000
+Many medical institutions have switched
+
+47:25.000 --> 47:28.000
+to electronic methods of history of diseases
+
+47:28.000 --> 47:31.000
+and other documentation.
+
+47:31.000 --> 47:34.000
+The optimization of medical institutions
+
+47:34.000 --> 47:37.000
+usually begins with the implementation
+
+47:37.000 --> 47:40.000
+of financial or administrative IT solutions.
+
+47:40.000 --> 47:43.000
+That is, solutions for the registration
+
+47:43.000 --> 47:46.000
+or some specific departments are implemented.
+
+47:46.000 --> 47:49.000
+There are anemiologists, anesthesiologists, etc.
+
+47:50.000 --> 47:53.000
+IT providers do not recommend
+
+47:53.000 --> 47:56.000
+to go straight to the complex optimization,
+
+47:56.000 --> 47:59.000
+but to automate the medical institution
+
+47:59.000 --> 48:02.000
+with careful and not sudden steps.
+
+48:02.000 --> 48:05.000
+The slide shows how to do it.
+
+48:05.000 --> 48:08.000
+The technological cycle of the medical institution
+
+48:08.000 --> 48:11.000
+and how to start the automation
+
+48:11.000 --> 48:14.000
+of hospitals or clinics.
+
+48:15.000 --> 48:18.000
+First, the automation of routine processes
+
+48:18.000 --> 48:21.000
+is carried out, i.e. the organization
+
+48:21.000 --> 48:24.000
+of joint services, work and services,
+
+48:24.000 --> 48:27.000
+and in general, the regular activities
+
+48:27.000 --> 48:30.000
+of all medical institutions,
+
+48:30.000 --> 48:33.000
+including the transition to electronic maps,
+
+48:33.000 --> 48:36.000
+which allow to store data in a single database
+
+48:36.000 --> 48:39.000
+of diagnosis and treatment of patients.
+
+48:39.000 --> 48:42.000
+Then the integration of medical and financial blocks,
+
+48:42.000 --> 48:45.000
+the management of the medical institution
+
+48:45.000 --> 48:48.000
+and the improvement of the strategic direction
+
+48:48.000 --> 48:51.000
+of the medical institution.
+
+48:51.000 --> 48:54.000
+As an example, we can give a personal monitoring system,
+
+48:54.000 --> 48:57.000
+the so-called BodyCamp.
+
+48:57.000 --> 49:00.000
+This is a solution of the Swedish-Finnish telecommunication company
+
+49:00.000 --> 49:03.000
+TeleSennere together with Hewlett Packard.
+
+49:03.000 --> 49:06.000
+The slide shows how BodyCamp is used as a medium
+
+49:06.000 --> 49:09.000
+for monitoring the medical institution
+
+49:09.000 --> 49:12.000
+BodyCamp is used as a medium
+
+49:12.000 --> 49:15.000
+for data transfer via cellular channels
+
+49:15.000 --> 49:18.000
+and is primarily aimed at patients
+
+49:18.000 --> 49:21.000
+suffering from cardiovascular diseases
+
+49:21.000 --> 49:24.000
+or, for example,
+
+49:24.000 --> 49:27.000
+for the adaptation of patients to diabetes,
+
+49:27.000 --> 49:30.000
+asthma, and so on.
+
+49:30.000 --> 49:33.000
+In addition to medical sensors,
+
+49:33.000 --> 49:36.000
+the BodyCamp system is equipped with location determination tools
+
+49:36.000 --> 49:39.000
+that allow to transmit the patient's exact coordinates
+
+49:39.000 --> 49:42.000
+to the doctor along with the information.
+
+49:42.000 --> 49:45.000
+All asthmatics and hypertonics
+
+49:45.000 --> 49:48.000
+can even have such a device.
+
+49:48.000 --> 49:51.000
+Meanwhile, in foreign hospitals
+
+49:51.000 --> 49:54.000
+the so-called integrated IT solution for doctors
+
+49:54.000 --> 49:57.000
+is already actively used,
+
+49:57.000 --> 50:00.000
+which is a universal terminal device
+
+50:00.000 --> 50:03.000
+used by the staff for rapid access to medical data.
+
+50:03.000 --> 50:06.000
+This is a so-called specialized tablet computer
+
+50:06.000 --> 50:09.000
+equipped with the minimum necessary
+
+50:09.000 --> 50:12.000
+control organs and broad communication capabilities
+
+50:12.000 --> 50:15.000
+including wireless technology.
+
+50:15.000 --> 50:18.000
+In addition, these devices are equipped with input devices
+
+50:18.000 --> 50:21.000
+for updating patient data
+
+50:21.000 --> 50:24.000
+during the treatment,
+
+50:24.000 --> 50:27.000
+for example, with a built-in camera.
+
+50:27.000 --> 50:30.000
+The last industry I would like to talk about
+
+50:30.000 --> 50:33.000
+is the housing and utilities industry.
+
+50:33.000 --> 50:36.000
+All businesses rent or own some real estate.
+
+50:36.000 --> 50:39.000
+Therefore, modern IT solutions
+
+50:39.000 --> 50:42.000
+and IT information products
+
+50:42.000 --> 50:45.000
+for housing and utilities
+
+50:45.000 --> 50:48.000
+can be of interest to them
+
+50:48.000 --> 50:51.000
+and the following services can be implemented in them.
+
+50:51.000 --> 50:54.000
+In fact, this is the availability of static information
+
+50:54.000 --> 50:57.000
+about the completed utility payments for any period of time.
+
+50:57.000 --> 51:00.000
+Further, the availability of static information
+
+51:00.000 --> 51:03.000
+about the expenses of the units of resources
+
+51:03.000 --> 51:06.000
+such as water, gas, electricity, and Internet traffic.
+
+51:06.000 --> 51:09.000
+Further, the possibility of forecasting and controlling
+
+51:09.000 --> 51:12.000
+the expenses of resources.
+
+51:12.000 --> 51:15.000
+Further, the increase in customer information
+
+51:15.000 --> 51:18.000
+about the upcoming changes,
+
+51:18.000 --> 51:21.000
+for example, changes in tariffs,
+
+51:21.000 --> 51:24.000
+service provisioning conditions, and so on.
+
+51:24.000 --> 51:27.000
+Further, the availability of electronic and mobile notifications
+
+51:27.000 --> 51:30.000
+about the payment of the new account.
+
+51:30.000 --> 51:33.000
+The report on the stage of execution
+
+51:33.000 --> 51:36.000
+of the payment of the account.
+
+51:36.000 --> 51:39.000
+The implementation of these solutions
+
+51:39.000 --> 51:42.000
+in the housing and utilities industry
+
+51:42.000 --> 51:45.000
+allows us to reduce the costs
+
+51:45.000 --> 51:48.000
+of the production and sale of services,
+
+51:48.000 --> 51:51.000
+reduce the costs of processing payments
+
+51:51.000 --> 51:54.000
+and organize an accurate account of the services provided.
+
+51:54.000 --> 51:57.000
+It also contributes to the effective document turnover,
+
+51:57.000 --> 52:00.000
+optimization of accounting,
+
+52:00.000 --> 52:03.000
+data storage and analysis,
+
+52:03.000 --> 52:06.000
+as well as improves financial and resource planning
+
+52:06.000 --> 52:09.000
+and budgeting.
+
+52:09.000 --> 52:12.000
+We all, especially in Moscow,
+
+52:12.000 --> 52:15.000
+live under the project of creating
+
+52:15.000 --> 52:18.000
+a single IT center for housing and utilities,
+
+52:18.000 --> 52:21.000
+which has changed the forms of contractual relations
+
+52:21.000 --> 52:24.000
+in the city housing and utilities system.
+
+52:24.000 --> 52:27.000
+The following three slides show
+
+52:27.000 --> 52:30.000
+the scheme of interaction of the ERC supplier population,
+
+52:30.000 --> 52:33.000
+the full cycle of communal billing,
+
+52:33.000 --> 52:36.000
+and the scheme of organization of payment acceptance
+
+52:36.000 --> 52:39.000
+in our Moscow.
+
+52:39.000 --> 52:42.000
+In ERC, there is an opportunity
+
+52:42.000 --> 52:45.000
+to perform approximately the same task.
+
+52:45.000 --> 52:48.000
+The first is to organize payment acceptance
+
+52:48.000 --> 52:51.000
+for the services of any suppliers.
+
+52:51.000 --> 52:54.000
+The second is to use a variety of payment methods,
+
+52:54.000 --> 52:57.000
+i.e. own class points of housing and utilities,
+
+52:57.000 --> 53:00.000
+banks, mail, ATM, kiosks,
+
+53:00.000 --> 53:03.000
+Internet, mobile phones,
+
+53:03.000 --> 53:06.000
+interactive kiosks.
+
+53:06.000 --> 53:09.000
+Further, to automate and unify the work
+
+53:09.000 --> 53:12.000
+and ensure the functioning in the online mode
+
+53:12.000 --> 53:15.000
+of providing these services.
+
+53:15.000 --> 53:18.000
+To develop centralized billing for utilities
+
+53:18.000 --> 53:21.000
+according to approved algorithms.
+
+53:21.000 --> 53:24.000
+To track the work of any payment acceptance point.
+
+53:24.000 --> 53:27.000
+To view the list of payments
+
+53:27.000 --> 53:30.000
+for specific payers
+
+53:30.000 --> 53:33.000
+and identify non-payers.
+
+53:33.000 --> 53:36.000
+To perform the accumulation and processing of data
+
+53:36.000 --> 53:39.000
+on the central server
+
+53:39.000 --> 53:42.000
+for the preparation of reports and analytics.
+
+53:42.000 --> 53:45.000
+To provide accountability
+
+53:45.000 --> 53:48.000
+for the various levels of management,
+
+53:48.000 --> 53:51.000
+i.e. the level of management of the household,
+
+53:51.000 --> 53:54.000
+administration of the city, etc.
+
+53:54.000 --> 53:57.000
+All these tasks can be solved
+
+53:57.000 --> 54:00.000
+only with the help of modern software,
+
+54:00.000 --> 54:03.000
+which we have already passed in this course.
+
+54:03.000 --> 54:06.000
+Even the implementation of ERP system
+
+54:06.000 --> 54:09.000
+as a household is possible.
+
+54:09.000 --> 54:12.000
+This solution may solve the main problem
+
+54:12.000 --> 54:15.000
+of our Russian household,
+
+54:15.000 --> 54:18.000
+namely, the problem of non-payments.
+
+54:18.000 --> 54:21.000
+We all know that non-payments
+
+54:21.000 --> 54:24.000
+are a bitch of our system.
+
+54:24.000 --> 54:27.000
+It does not allow to serve
+
+54:27.000 --> 54:30.000
+or develop the industry efficiently.
+
+54:30.000 --> 54:33.000
+Therefore, the implementation of billing systems
+
+54:33.000 --> 54:36.000
+allows to automate the acceptance
+
+54:36.000 --> 54:39.000
+and processing of cash payments from the population.
+
+54:39.000 --> 54:42.000
+To create a network of points
+
+54:42.000 --> 54:45.000
+for accepting cash and cashless payments
+
+54:45.000 --> 54:48.000
+working online with the central process
+
+54:48.000 --> 54:51.000
+through the payment acceptance point and the Internet.
+
+54:51.000 --> 54:54.000
+Considering these solutions for the housing and utilities industry,
+
+54:54.000 --> 54:57.000
+it should be mentioned about the technology
+
+54:57.000 --> 55:00.000
+of three-dimensional visualization of geographical data
+
+55:00.000 --> 55:03.000
+and the use of space photography
+
+55:03.000 --> 55:06.000
+and network Internet technologies
+
+55:06.000 --> 55:09.000
+based on free applications,
+
+55:09.000 --> 55:12.000
+that is, geobrowsers,
+
+55:12.000 --> 55:15.000
+which allow to create complex virtual housing.
+
+55:15.000 --> 55:18.000
+With the help of geobrowser, it can do this.
+
+55:22.000 --> 55:25.000
+In conclusion, I would like to say a few words.
+
+55:25.000 --> 55:28.000
+We have only considered the main concepts
+
+55:29.000 --> 55:32.000
+and their implementation in the form of business cases,
+
+55:32.000 --> 55:35.000
+which have already been implemented by entrepreneurs
+
+55:35.000 --> 55:38.000
+in the field of information.
+
+55:38.000 --> 55:41.000
+It is surprising how much people need to know
+
+55:41.000 --> 55:44.000
+to be considered experts in a certain field.
+
+55:47.000 --> 55:50.000
+This is especially true for the field of information technologies.
+
+55:50.000 --> 55:53.000
+It is even more surprising how quickly
+
+55:53.000 --> 55:56.000
+the knowledge is changing
+
+55:57.000 --> 56:00.000
+to stay in the topic.
+
+56:00.000 --> 56:03.000
+We talked about the expanding digital universe.
+
+56:03.000 --> 56:06.000
+According to the estimates of some analytical companies,
+
+56:06.000 --> 56:09.000
+the amount of information that humanity has
+
+56:09.000 --> 56:12.000
+will double every 5 years,
+
+56:12.000 --> 56:15.000
+and in 2020 it will double every 72 days.
+
+56:15.000 --> 56:18.000
+Today, a manager can no longer rely on his memory
+
+56:18.000 --> 56:21.000
+and the ability to mechanically remember facts.
+
+56:21.000 --> 56:24.000
+In each subject area,
+
+56:25.000 --> 56:28.000
+he needs a general methodology, guidance, and concept,
+
+56:28.000 --> 56:31.000
+which would turn facts and data into information and knowledge,
+
+56:31.000 --> 56:34.000
+and on which he could rely
+
+56:34.000 --> 56:37.000
+when analyzing some new events.
+
+56:37.000 --> 56:40.000
+In the field of information technologies,
+
+56:40.000 --> 56:43.000
+leading companies release new IT products and IT systems
+
+56:43.000 --> 56:46.000
+almost every day and provide some new services.
+
+56:46.000 --> 56:49.000
+Any business manager needs to have IT skills
+
+56:49.000 --> 56:52.000
+and be able to distinguish between the two.
+
+56:53.000 --> 56:56.000
+He needs to be able to distinguish between the two
+
+56:56.000 --> 56:59.000
+and to distinguish between the two.
+
+56:59.000 --> 57:02.000
+This course is a guide for modern IT concepts.
+
+57:02.000 --> 57:05.000
+The last slide shows the demand for a certain IT concept
+
+57:05.000 --> 57:08.000
+depending on its maturity on the market.
+
+57:08.000 --> 57:11.000
+As you can see,
+
+57:11.000 --> 57:14.000
+not all concepts reach the stage of maturity.
+
+57:14.000 --> 57:17.000
+The most important thing is to be able to
+
+57:17.000 --> 57:20.000
+understand the concept and the concept of the business.
+
+57:20.000 --> 57:23.000
+I will be glad if this course will help you
+
+57:23.000 --> 57:26.000
+to understand your IT skills,
+
+57:26.000 --> 57:29.000
+to find the right concept for your business,
+
+57:29.000 --> 57:32.000
+to rely on it, to master it,
+
+57:32.000 --> 57:35.000
+and to be successful in your business.
+
+57:35.000 --> 57:38.000
+I wish you all the best!

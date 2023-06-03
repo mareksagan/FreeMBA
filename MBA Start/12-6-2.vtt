@@ -1,0 +1,4466 @@
+00:00.000 --> 00:11.000
+Now let's move on to the next step of the process management.
+
+00:11.000 --> 00:13.000
+What did we describe business processes for?
+
+00:13.000 --> 00:16.000
+Probably, to understand what is wrong.
+
+00:16.000 --> 00:22.000
+How can we understand what is wrong in our company and what should we do next?
+
+00:22.000 --> 00:26.000
+In order to understand what is wrong, we need to analyze our business processes,
+
+00:26.000 --> 00:30.000
+and then we need to find out what processes we should take care of first.
+
+00:30.000 --> 00:33.000
+It is impossible to optimize everything at once.
+
+00:33.000 --> 00:35.000
+Let's recall the Pareto principle.
+
+00:35.000 --> 00:40.000
+80% of business processes will yield 80% of the result.
+
+00:40.000 --> 00:43.000
+We start optimizing them first.
+
+00:43.000 --> 00:48.000
+You may ask, how can we understand which business process should be optimized first?
+
+00:48.000 --> 00:50.000
+Here is the algorithm.
+
+00:50.000 --> 00:52.000
+First, we assess the importance of a business process.
+
+00:52.000 --> 00:55.000
+Then we assess the problem of this business process.
+
+00:55.000 --> 01:00.000
+And third, we assess the possibility of making changes in this business process.
+
+01:00.000 --> 01:04.000
+Which processes will be optimized first?
+
+01:04.000 --> 01:07.000
+The most important, the most problematic and the ones that are easiest to change.
+
+01:07.000 --> 01:12.000
+Yes, there are very problematic and very important processes, but they cannot be changed.
+
+01:12.000 --> 01:19.000
+For example, it is impossible to rearrange a chair that is not in a good condition.
+
+01:19.000 --> 01:25.000
+It is impossible to melt a concrete chair.
+
+01:25.000 --> 01:28.000
+Even if it is in a bad condition, it is impossible to do anything.
+
+01:28.000 --> 01:30.000
+Only if you change the office.
+
+01:30.000 --> 01:33.000
+And this will be very problematic, because now, for example,
+
+01:33.000 --> 01:36.000
+it may be that you cannot find an office.
+
+01:36.000 --> 01:42.000
+Therefore, once again, the most important, the most problematic and the ones that are easiest to change.
+
+01:42.000 --> 01:44.000
+Now, let's talk about the points.
+
+01:44.000 --> 01:48.000
+What is the importance of a business process and how to determine it?
+
+01:48.000 --> 01:54.000
+The importance is how important this business process is when implementing a development strategy.
+
+01:54.000 --> 01:58.000
+Let's remember about the BSC and QPI course.
+
+01:58.000 --> 02:05.000
+Let's immediately refer to the company strategy, the company's strategic and accounting map and your department.
+
+02:05.000 --> 02:08.000
+They will help you determine the importance of your business process.
+
+02:08.000 --> 02:12.000
+What are the ways to determine the importance of a business process?
+
+02:12.000 --> 02:14.000
+There are only four basic methods.
+
+02:15.000 --> 02:17.000
+The first one is an expert assessment.
+
+02:17.000 --> 02:19.000
+The second one is the development of the criteria of importance.
+
+02:19.000 --> 02:23.000
+The third one is a simple comparison with the key factors of success.
+
+02:23.000 --> 02:28.000
+And the fourth one is a weighting comparison with the key factors of success.
+
+02:28.000 --> 02:30.000
+Let's look at all the methods in more detail.
+
+02:30.000 --> 02:34.000
+So, the first method is an expert assessment.
+
+02:34.000 --> 02:35.000
+What is it?
+
+02:36.000 --> 02:44.000
+If we, let's say, don't know, can't develop the criteria of importance,
+
+02:44.000 --> 02:46.000
+we just take a business process,
+
+02:46.000 --> 02:52.000
+gather a group of experts, preferably the participants and the person responsible for this business process,
+
+02:52.000 --> 02:56.000
+also the participants and the person responsible for the business process of the client of this process,
+
+02:56.000 --> 03:01.000
+and the participants and the person responsible for the supplier of this process.
+
+03:02.000 --> 03:06.000
+We give them a questionnaire and they fill it in.
+
+03:06.000 --> 03:12.000
+Usually, they give the importance of this particular process by 5 or 10-point system.
+
+03:12.000 --> 03:17.000
+Intuitively, by their own methods.
+
+03:17.000 --> 03:23.000
+For example, if you assess the importance of the business process of the trade of clothes,
+
+03:24.000 --> 03:29.000
+you can invite the head of the process,
+
+03:29.000 --> 03:35.000
+the participants, the manager of the purchases, the production, the sales,
+
+03:35.000 --> 03:38.000
+the representatives of the client,
+
+03:38.000 --> 03:41.000
+the suppliers,
+
+03:41.000 --> 03:46.000
+and you can invite several more employees of your company,
+
+03:46.000 --> 03:50.000
+for example, from the finance department,
+
+03:51.000 --> 03:54.000
+because they also participate in this business process,
+
+03:54.000 --> 03:57.000
+and, accordingly, from the marketing department,
+
+03:57.000 --> 04:02.000
+the head, who also participates in this business process at the time of sale,
+
+04:02.000 --> 04:10.000
+and just ask them to put some point on this process of importance by 5 or 10-point system.
+
+04:10.000 --> 04:14.000
+Then you just sum it up and take the average arithmetic,
+
+04:14.000 --> 04:18.000
+and get the average importance of this particular business process.
+
+04:20.000 --> 04:26.000
+If we talk about the method of expert assessment, it is very inaccurate.
+
+04:26.000 --> 04:29.000
+But you can understand it yourself.
+
+04:29.000 --> 04:37.000
+In fact, if you do not understand by what criteria one or another expert assessed the importance of the process,
+
+04:37.000 --> 04:40.000
+then it is quite possible that one manager has his own opinions,
+
+04:40.000 --> 04:42.000
+the second has his own, the third has his own.
+
+04:42.000 --> 04:46.000
+Even if the strategy is known to everyone, there is still no single approach.
+
+04:46.000 --> 04:49.000
+Therefore, this is the most unreliable, but at the same time the fastest way of assessment.
+
+04:49.000 --> 04:51.000
+So to say, express.
+
+04:53.000 --> 05:01.000
+Therefore, we usually recommend applying a slightly more complex, but a little more reliable method.
+
+05:01.000 --> 05:03.000
+This is called the development of criteria.
+
+05:03.000 --> 05:07.000
+You develop a kind of criteria for the importance of a particular business process.
+
+05:07.000 --> 05:11.000
+That is, by what criteria you will determine whether this process is important or not.
+
+05:12.000 --> 05:16.000
+Let's take the example of the same company Evrika,
+
+05:16.000 --> 05:19.000
+which, as we remember, deals with tea, clothes and furniture.
+
+05:19.000 --> 05:21.000
+In general, what does it do?
+
+05:21.000 --> 05:26.000
+It belongs to a certain owner, who is also the general director.
+
+05:26.000 --> 05:31.000
+Let's say the strategy can be reduced to a certain formulation.
+
+05:31.000 --> 05:35.000
+I want to get maximum profit for as long as possible.
+
+05:35.000 --> 05:38.000
+The simplest requirement.
+
+05:39.000 --> 05:43.000
+Accordingly, we could call the criteria of importance, for example,
+
+05:43.000 --> 05:47.000
+the share of turnover of each business process,
+
+05:47.000 --> 05:53.000
+the trade of tea, clothes, furniture, in general, the turnover of the company.
+
+05:53.000 --> 06:00.000
+Then the share of profit, the potential growth of each direction.
+
+06:00.000 --> 06:02.000
+And some other strategic importance.
+
+06:02.000 --> 06:05.000
+Some of the options, that is, there may be others.
+
+06:05.000 --> 06:11.000
+Then we list these criteria, which we have developed ourselves,
+
+06:11.000 --> 06:14.000
+and ask the experts, all the same experts,
+
+06:14.000 --> 06:19.000
+to assess the importance of this particular business process
+
+06:19.000 --> 06:21.000
+according to specific criteria.
+
+06:21.000 --> 06:24.000
+But you must agree, the share of turnover cannot be invented,
+
+06:24.000 --> 06:26.000
+because it either exists or does not exist.
+
+06:26.000 --> 06:29.000
+Therefore, this indicator is taken based on the accountability.
+
+06:29.000 --> 06:32.000
+The share of profit is the same.
+
+06:32.000 --> 06:37.000
+The share of potential growth is a partially expert indicator,
+
+06:37.000 --> 06:39.000
+but it can be based on past statistics.
+
+06:39.000 --> 06:43.000
+For example, such a direction grew at an average rate of 5% per year,
+
+06:43.000 --> 06:45.000
+such a rate is 10%, such a rate is 20%.
+
+06:45.000 --> 06:48.000
+We can predict that they will grow approximately the same.
+
+06:48.000 --> 06:50.000
+But there will also be a share of expert assessment.
+
+06:50.000 --> 06:54.000
+And other strategic importance is, most likely, just an expert assessment.
+
+06:54.000 --> 06:59.000
+In the corresponding slide, we can see that, for example,
+
+06:59.000 --> 07:02.000
+for tea trading, the share of turnover was 10%,
+
+07:02.000 --> 07:05.000
+the share of profit was 15%, the potential growth was 100%,
+
+07:05.000 --> 07:08.000
+and the criteria for other strategic importance were 5%.
+
+07:08.000 --> 07:13.000
+We did the same for clothing trade, the same for furniture trade.
+
+07:13.000 --> 07:16.000
+And now what did we get?
+
+07:16.000 --> 07:19.000
+We got that we have all the criteria in different conditional units,
+
+07:19.000 --> 07:21.000
+something in percents, and something in points.
+
+07:21.000 --> 07:25.000
+Now we bring it all to a single indicator.
+
+07:26.000 --> 07:31.000
+That is, we bring all the percentages, all the points, all the conditions to the points.
+
+07:31.000 --> 07:34.000
+How does it work?
+
+07:34.000 --> 07:40.000
+For example, it is clear that we have a share of turnover of 60%,
+
+07:40.000 --> 07:42.000
+one is 10%, the other is 30%.
+
+07:42.000 --> 07:44.000
+If we convert this into a five-point scale,
+
+07:44.000 --> 07:48.000
+then, accordingly, as an option,
+
+07:48.000 --> 07:51.000
+clothing trade could get 3 points,
+
+07:51.000 --> 07:54.000
+tea trading 1 point, furniture trade 2 points.
+
+07:54.000 --> 07:56.000
+This is also visible in the corresponding slide.
+
+07:56.000 --> 08:02.000
+Accordingly, if we sum up all the points in each direction
+
+08:02.000 --> 08:04.000
+and divide them by the number of criteria,
+
+08:04.000 --> 08:07.000
+then we get just this very index of importance.
+
+08:07.000 --> 08:11.000
+For example, tea trading, which has 1 point in share of turnover,
+
+08:11.000 --> 08:14.000
+1 point in share of profit, 3 points in potential growth,
+
+08:14.000 --> 08:17.000
+and 5 points in other strategic importance,
+
+08:17.000 --> 08:22.000
+in the end, we got 3 and 3 points in the index of importance.
+
+08:22.000 --> 08:28.000
+And according to the table, we see that the most important process is clothing trade.
+
+08:30.000 --> 08:34.000
+As for the following methods of comparison with the key factors of success,
+
+08:34.000 --> 08:35.000
+what is KFU?
+
+08:35.000 --> 08:42.000
+In fact, these are the goals that are reflected in your strategic map of the company.
+
+08:42.000 --> 08:46.000
+These are the most important goals that you must achieve.
+
+08:46.000 --> 08:48.000
+As far as we remember,
+
+08:48.000 --> 08:52.000
+business processes are internal.
+
+08:52.000 --> 08:57.000
+Therefore, we look at KFU in the perspective of finance and marketing.
+
+08:57.000 --> 09:00.000
+The most important goals that are mentioned there are KFU.
+
+09:00.000 --> 09:06.000
+Accordingly, we mention all these goals.
+
+09:06.000 --> 09:09.000
+Do not take more than 7-8-10,
+
+09:09.000 --> 09:12.000
+because if you take 20-30-40-50,
+
+09:12.000 --> 09:14.000
+firstly, there will not be so many of them in the map,
+
+09:14.000 --> 09:23.000
+and secondly, it is difficult for experts to assess business processes,
+
+09:23.000 --> 09:25.000
+especially if there are more than 5-6 of them,
+
+09:25.000 --> 09:28.000
+according to 10, 20, 30 criteria.
+
+09:28.000 --> 09:31.000
+Therefore, choose 10 main ones.
+
+09:31.000 --> 09:34.000
+The table is also inserted.
+
+09:34.000 --> 09:37.000
+This is also visible on the corresponding slide,
+
+09:37.000 --> 09:42.000
+where the table of the method of calculation of the index of importance is written.
+
+09:42.000 --> 09:47.000
+Accordingly, we list the business processes that we describe
+
+09:47.000 --> 09:49.000
+and the critical success factors.
+
+09:49.000 --> 09:53.000
+These are the goals from the perspective of marketing and finance.
+
+09:53.000 --> 09:57.000
+We also assess,
+
+09:57.000 --> 09:59.000
+conditionally speaking,
+
+09:59.000 --> 10:01.000
+by points,
+
+10:01.000 --> 10:04.000
+how important the business process is,
+
+10:04.000 --> 10:06.000
+according to each criterion.
+
+10:06.000 --> 10:09.000
+For this, we use the same absolute experts.
+
+10:09.000 --> 10:11.000
+Everything is the same.
+
+10:11.000 --> 10:14.000
+The accuracy will be even greater here,
+
+10:14.000 --> 10:16.000
+because there are even more criteria,
+
+10:16.000 --> 10:18.000
+and they are directly related to the strategy
+
+10:18.000 --> 10:20.000
+that absolutely everyone signed up for,
+
+10:20.000 --> 10:22.000
+including the general director.
+
+10:22.000 --> 10:25.000
+Therefore, this method is the most accurate.
+
+10:25.000 --> 10:28.000
+If you want to clarify it even more,
+
+10:28.000 --> 10:30.000
+please weigh these criteria.
+
+10:30.000 --> 10:32.000
+How is it done?
+
+10:32.000 --> 10:37.000
+If in the third method we just take all the KFU
+
+10:37.000 --> 10:40.000
+and set the points,
+
+10:40.000 --> 10:43.000
+how much this process takes for each KFU,
+
+10:43.000 --> 10:48.000
+then in the fourth method we assign a certain weight to each KFU.
+
+10:48.000 --> 10:50.000
+How important is the KFU itself?
+
+10:50.000 --> 10:55.000
+In principle, the sum of all KFU must be, of course, one.
+
+10:55.000 --> 10:58.000
+These are ordinary mathematical requirements.
+
+10:58.000 --> 11:03.000
+Therefore, first we assign a weight to each KFU,
+
+11:03.000 --> 11:09.000
+then we add this weight to our table,
+
+11:09.000 --> 11:13.000
+and then we calculate the final index of importance of each process.
+
+11:13.000 --> 11:16.000
+We multiply the weight of the KFU by the point,
+
+11:16.000 --> 11:19.000
+which is assigned to this KFU for this process.
+
+11:19.000 --> 11:22.000
+Again, the weight per point, the weight per point, and so on.
+
+11:22.000 --> 11:24.000
+This is also visible in a specific slide,
+
+11:24.000 --> 11:28.000
+this is a method of weighting processes with KFU.
+
+11:28.000 --> 11:33.000
+Therefore, in the end, this is a very detailed, very clear
+
+11:33.000 --> 11:36.000
+and as close as possible to the ideal
+
+11:36.000 --> 11:40.000
+method of calculating the index of importance of a particular business process.
+
+11:40.000 --> 11:44.000
+But you should understand that this takes much more time
+
+11:44.000 --> 11:46.000
+than a simple expert assessment.
+
+11:46.000 --> 11:52.000
+Because first, the experts need to agree on the weighting of these criteria,
+
+11:52.000 --> 11:56.000
+then they need to agree on the points,
+
+11:56.000 --> 11:59.000
+and then calculate the index of importance.
+
+11:59.000 --> 12:03.000
+If you have a lot of experts, and everyone has their own vision
+
+12:03.000 --> 12:08.000
+about the weight of the criteria, about what point should be assigned
+
+12:08.000 --> 12:10.000
+to the process according to each criterion,
+
+12:10.000 --> 12:14.000
+you will almost never find a compromise,
+
+12:14.000 --> 12:18.000
+and this is the most difficult method from the point of view of implementation.
+
+12:18.000 --> 12:24.000
+Therefore, here you need to choose the golden mean.
+
+12:24.000 --> 12:29.000
+Sometimes, and most often, two or three methods are enough.
+
+12:29.000 --> 12:34.000
+That is, either you develop the criteria of importance for yourself,
+
+12:34.000 --> 12:37.000
+or, what is better, three methods,
+
+12:37.000 --> 12:41.000
+when you just take specific goals from the perspective of marketing and finance
+
+12:41.000 --> 12:44.000
+and score them for each business process.
+
+12:44.000 --> 12:48.000
+No need for extra complexity, although if you want more accuracy, please.
+
+12:48.000 --> 12:51.000
+Expert assessment is if you want to conduct an express analysis.
+
+12:52.000 --> 12:55.000
+If you don't want to, if you want more accuracy,
+
+12:55.000 --> 12:58.000
+then it is better to refuse this method.
+
+12:58.000 --> 13:02.000
+So, we have assessed the importance of business processes.
+
+13:02.000 --> 13:06.000
+Here, business processes are analyzed, as I said,
+
+13:06.000 --> 13:10.000
+that is, scanned from the top level to the bottom.
+
+13:10.000 --> 13:16.000
+That is, at the very first stage, we assess the importance of business processes of the top level.
+
+13:17.000 --> 13:25.000
+Therefore, your assessment table will have 20, well, 20 plus or minus 5 business processes of the top level.
+
+13:25.000 --> 13:28.000
+When you assess them, go to the next point,
+
+13:28.000 --> 13:32.000
+this is the assessment of the problem of business processes for the organization.
+
+13:32.000 --> 13:34.000
+What is the problem?
+
+13:34.000 --> 13:40.000
+The problem is how different this particular business process is from the state as it should be.
+
+13:41.000 --> 13:45.000
+We don't consider how important it is strategically,
+
+13:45.000 --> 13:48.000
+how difficult it is to change it,
+
+13:48.000 --> 13:51.000
+we just abstract from all other criteria.
+
+13:51.000 --> 13:55.000
+We remove the importance, we remove the possibility of change,
+
+13:55.000 --> 14:00.000
+just the problem, how it is, well, if you want, harmful,
+
+14:00.000 --> 14:03.000
+how much it needs to be changed.
+
+14:03.000 --> 14:07.000
+And the same four methods, expert assessment,
+
+14:07.000 --> 14:14.000
+development of problem criteria, simple assessment of problems and weighted assessment of problems.
+
+14:14.000 --> 14:17.000
+The same is true for expert assessment.
+
+14:17.000 --> 14:21.000
+Absolutely the same experts, but only instead of a questionnaire for importance,
+
+14:21.000 --> 14:26.000
+you give them a questionnaire for problems and explain what problem is.
+
+14:26.000 --> 14:29.000
+Here it is even more complicated than with importance,
+
+14:29.000 --> 14:33.000
+because for importance they can at least be guided by the company's strategy.
+
+14:33.000 --> 14:39.000
+For problems, it is only their vision, how they see the process, how they would like it to work.
+
+14:39.000 --> 14:45.000
+That is, it is even more inaccuracy, it is even less point of contact,
+
+14:45.000 --> 14:50.000
+because it is difficult for every expert to ask what he meant by the state of the process as it should be.
+
+14:50.000 --> 14:55.000
+Therefore, expert assessment here is very, very inaccurate, although very fast.
+
+14:55.000 --> 14:59.000
+If we talk about the development of problem criteria,
+
+14:59.000 --> 15:03.000
+then here is absolutely the same as with the criteria for importance.
+
+15:03.000 --> 15:07.000
+Take some basic criteria, most often what criteria?
+
+15:07.000 --> 15:12.000
+Financial, temporary, human difficulties, and so on.
+
+15:12.000 --> 15:19.000
+For example, if we took the business process of the company Evrika,
+
+15:19.000 --> 15:22.000
+well, for example, the same thing, tea trading,
+
+15:22.000 --> 15:27.000
+we could take as one criterion, for example, the interaction between the participants of the process,
+
+15:27.000 --> 15:31.000
+it is problematic, and unanimously it would be accepted as 5,
+
+15:31.000 --> 15:35.000
+because the participants do not know at all who is doing what.
+
+15:35.000 --> 15:41.000
+The second criterion, well, for example, could be information support of the process.
+
+15:41.000 --> 15:46.000
+Is there, no, if there is, then how high-quality it is,
+
+15:46.000 --> 15:49.000
+how it satisfies the requirements of this process.
+
+15:49.000 --> 15:56.000
+Well, let's say 4, that is, there is, but it is very bad, and therefore an upgrade is required.
+
+15:56.000 --> 16:02.000
+As for another criterion, well, let's say we take the transparency and controllability of the process.
+
+16:02.000 --> 16:06.000
+Let's say, with this, well, the problem is on average, as in the company, well, 2.5-3 points.
+
+16:06.000 --> 16:09.000
+That is, in general, not everything is clear, not everything is transparent,
+
+16:09.000 --> 16:13.000
+but somehow it works, and in general, there are no strong problems there.
+
+16:13.000 --> 16:18.000
+The same thing, in the corresponding table, we write all business processes,
+
+16:18.000 --> 16:22.000
+all criteria and points that the process receives according to each criterion.
+
+16:23.000 --> 16:28.000
+We add everything up, divide by the number of criteria and get the index of the problem.
+
+16:30.000 --> 16:40.000
+Well, for example, as our company Evrica, let's look at the criteria of the problem that could be allocated.
+
+16:40.000 --> 16:45.000
+For example, the share of the cost of the process from the total expenses of the company,
+
+16:45.000 --> 16:50.000
+how much this process will be spent, then the share of failures in the implementation of the process,
+
+16:50.000 --> 16:59.000
+how many complaints, how many complaints, how many negative reviews from other participants.
+
+16:59.000 --> 17:07.000
+Further, the degree of fragmentation of the process, how many transitions from one employee to another during this business process.
+
+17:07.000 --> 17:11.000
+And the satisfaction of the client with this process.
+
+17:11.000 --> 17:18.000
+This is a non-nullifier, you can use more criteria, you can use other criteria, this is an option.
+
+17:19.000 --> 17:27.000
+Accordingly, let's turn to the corresponding slide, an example of the results of calculating the index of the problem.
+
+17:27.000 --> 17:34.000
+Let's say, in our tea trade, the cost is 10%, the failure rate is also 10%,
+
+17:34.000 --> 17:38.000
+the fragmentation rate is 100%, it is a very fragmented business process,
+
+17:38.000 --> 17:40.000
+the satisfaction of the client is 85%.
+
+17:40.000 --> 17:47.000
+It is clear that the share of the cost is a fairly accurate indicator, the share of failures is also quite accurate.
+
+17:47.000 --> 17:52.000
+The degree of fragmentation is a little less accurate, but nevertheless quite accurate.
+
+17:52.000 --> 17:58.000
+The satisfaction of the client is partly an expert indicator, so nothing is based on experts here.
+
+17:58.000 --> 18:08.000
+So, we evaluate all business processes, then we translate everything into points, as we remember, and calculate the index of the problem.
+
+18:08.000 --> 18:11.000
+All points were summed up, divided into a number of criteria, and we got the result.
+
+18:12.000 --> 18:14.000
+So, again, clothing trade is in the leaders.
+
+18:14.000 --> 18:16.000
+The most problematic process.
+
+18:16.000 --> 18:19.000
+This calculation is also seen on the corresponding slide.
+
+18:22.000 --> 18:28.000
+How can you assess the problem of business processes?
+
+18:28.000 --> 18:35.000
+You can give a certain note to the experts you will use to assess the problem.
+
+18:36.000 --> 18:45.000
+For example, if you use a 5-point system, then you can write a note to them,
+
+18:45.000 --> 18:50.000
+what does 1 mean, what does 2 mean, what does 3 mean, what does 4 mean, what does 5 mean.
+
+18:50.000 --> 18:54.000
+If in the event of an important problem, it is clear that 1 is the least important,
+
+18:54.000 --> 19:00.000
+the 5-point process is very important, then in the event of a problem, 1 point is all great,
+
+19:00.000 --> 19:03.000
+and in the event of 5 points, everything is bad.
+
+19:03.000 --> 19:12.000
+The example of how you could write it, for example, depends on you, on your creativity,
+
+19:12.000 --> 19:16.000
+on how much it is required by the experts you will work with.
+
+19:16.000 --> 19:20.000
+For example, you can also look at the corresponding slide if you want.
+
+19:21.000 --> 19:27.000
+Therefore, if we move on to other methods, 3 and 4, then, accordingly,
+
+19:27.000 --> 19:31.000
+this is absolutely the same as in the case of importance.
+
+19:31.000 --> 19:38.000
+The only thing, as I will repeat again, we cannot use strategy,
+
+19:38.000 --> 19:46.000
+because we do not assess the problem on the basis of a strategic map,
+
+19:46.000 --> 19:49.000
+not on the basis of a calculation map, not on the basis of a strategy.
+
+19:49.000 --> 19:53.000
+We must use some criteria for identifying the problems of processes.
+
+19:55.000 --> 20:01.000
+In order to determine specific problems of processes,
+
+20:01.000 --> 20:04.000
+many, many possible methods are used.
+
+20:04.000 --> 20:08.000
+Special graphs of connections, special diagrams,
+
+20:08.000 --> 20:16.000
+special methods of identifying the causes of the investigation,
+
+20:16.000 --> 20:18.000
+the problems of the company.
+
+20:18.000 --> 20:23.000
+In fact, this can be seen using a flip chart.
+
+20:23.000 --> 20:28.000
+As I said, the causes and consequences of the problems are very difficult to understand,
+
+20:28.000 --> 20:32.000
+especially if you do it intuitively, without preliminary preparation.
+
+20:32.000 --> 20:35.000
+Therefore, when we assess the problem of the process,
+
+20:35.000 --> 20:38.000
+and when we do not have a strategy to rely on,
+
+20:38.000 --> 20:43.000
+we must identify all the problems that are associated with this particular process to the maximum.
+
+20:43.000 --> 20:48.000
+Then we assess the criteria, assess the specific points,
+
+20:48.000 --> 20:52.000
+and already see what problem this process is dealing with.
+
+20:52.000 --> 20:57.000
+For example, we take a specific diagram of the ICKV,
+
+20:57.000 --> 21:02.000
+one of the options for assessing the causes and consequences of the connection for a specific business process.
+
+21:03.000 --> 21:09.000
+For example, this is a business process called the purchase.
+
+21:09.000 --> 21:12.000
+Here is the main problem.
+
+21:12.000 --> 21:16.000
+It was identified by all the experts at once, that it is long, long-lasting,
+
+21:16.000 --> 21:19.000
+that all the materials are ordered for too long,
+
+21:19.000 --> 21:23.000
+that all the possible goods, services, and so on are ordered for too long.
+
+21:23.000 --> 21:25.000
+It all happens for too long.
+
+21:25.000 --> 21:27.000
+It would be better to do it faster.
+
+21:27.000 --> 21:31.000
+It is difficult to name all the causes of why this is happening at once
+
+21:31.000 --> 21:35.000
+and to deduce the rest of the problems of this particular process.
+
+21:35.000 --> 21:37.000
+It is very difficult without preparation.
+
+21:37.000 --> 21:44.000
+Therefore, in order to identify them, a so-called brainstorming is arranged.
+
+21:44.000 --> 21:48.000
+All the experts we have already identified,
+
+21:48.000 --> 21:54.000
+they determine and help to establish the main problems
+
+21:54.000 --> 21:59.000
+that are the reason for this main problem.
+
+21:59.000 --> 22:05.000
+All the participants and experts discuss what could cause this problem,
+
+22:05.000 --> 22:09.000
+and then, as a result, real problems appear on the diagram,
+
+22:09.000 --> 22:11.000
+which really have a place to be.
+
+22:11.000 --> 22:17.000
+For example, in this particular business process, there are problems with automation,
+
+22:17.000 --> 22:20.000
+there are serious difficulties with the qualification of the staff,
+
+22:21.000 --> 22:26.000
+there are problems with the relationship with suppliers, there are other problems.
+
+22:26.000 --> 22:31.000
+When we identify these problems, we imagine them as a so-called Christmas tree
+
+22:31.000 --> 22:34.000
+or a fish skeleton, so to speak.
+
+22:34.000 --> 22:37.000
+Therefore, this is the second name of this program.
+
+22:37.000 --> 22:43.000
+When we write all the possible problems, we put the connecting lines,
+
+22:43.000 --> 22:47.000
+and this means that they are the reasons for the appearance
+
+22:47.000 --> 22:50.000
+of this main problem.
+
+22:50.000 --> 22:54.000
+Accordingly, there are other options of diagrams.
+
+22:54.000 --> 22:58.000
+Use the one you like the most, the one that is most understandable to you.
+
+22:58.000 --> 23:02.000
+You don't have to use such arrows, you can put connections between different problems,
+
+23:02.000 --> 23:06.000
+just throw a few problems that come to mind in this process at once.
+
+23:06.000 --> 23:10.000
+From them, put the arrows, why they arise.
+
+23:10.000 --> 23:12.000
+This will help you to identify new problems.
+
+23:12.000 --> 23:16.000
+You don't have to go too deep, you don't have to spend more time on it than you need,
+
+23:16.000 --> 23:20.000
+but nevertheless, using the example of the purchase process,
+
+23:20.000 --> 23:24.000
+you can immediately identify one subtlety,
+
+23:24.000 --> 23:28.000
+and now all the experts, having gathered together,
+
+23:28.000 --> 23:32.000
+were able to identify additional difficulties, additional problems.
+
+23:32.000 --> 23:36.000
+There may be more of them, there may be much more, but these will be the main ones.
+
+23:37.000 --> 23:41.000
+And all these problems will be listed in a special table.
+
+23:48.000 --> 23:52.000
+This is called mapping problems and dependencies.
+
+23:54.000 --> 23:58.000
+You write all the possible problems in the picture, horizontally and vertically,
+
+23:58.000 --> 24:02.000
+and you put how they are connected to each other,
+
+24:03.000 --> 24:07.000
+how they affect each other.
+
+24:07.000 --> 24:11.000
+The most basic, the most influential on the overall big problem of complexity,
+
+24:16.000 --> 24:20.000
+they will be the criteria for assessing the complexity of the whole process.
+
+24:20.000 --> 24:24.000
+For example, we see that in general, this is not such a significant problem,
+
+24:24.000 --> 24:28.000
+this is more significant, this is generally the problem number one, as it turned out.
+
+24:29.000 --> 24:33.000
+Therefore, we can arrange all the identified problems,
+
+24:37.000 --> 24:41.000
+and only the most basic of them should be left,
+
+24:41.000 --> 24:45.000
+and it is on them that we assess the complexity of the process.
+
+24:45.000 --> 24:49.000
+When you assess all these problems,
+
+24:49.000 --> 24:53.000
+when you weigh which of them are the most basic,
+
+24:53.000 --> 24:57.000
+the most significant for the development of the business process,
+
+24:57.000 --> 25:01.000
+we can imagine it as a table.
+
+25:01.000 --> 25:05.000
+The business process, next to it will be specific problems,
+
+25:05.000 --> 25:09.000
+the most important ones that we have identified here.
+
+25:09.000 --> 25:13.000
+And then the index of the complexity.
+
+25:13.000 --> 25:17.000
+The index of the complexity can be the number of problems that have come to this business process.
+
+25:17.000 --> 25:21.000
+This will be the third method.
+
+25:21.000 --> 25:25.000
+That is, the more problems we have identified, the more complex they will be.
+
+25:27.000 --> 25:31.000
+For example, for our purchase business process,
+
+25:31.000 --> 25:35.000
+for which we identified the problem of duration,
+
+25:35.000 --> 25:39.000
+the main problem now is the interaction with suppliers.
+
+25:39.000 --> 25:43.000
+This means that opposite this process, we will write the problem of duration and interaction with suppliers,
+
+25:43.000 --> 25:47.000
+and the index of the complexity will be two.
+
+25:47.000 --> 25:51.000
+And if this problem or this one were also relevant,
+
+25:51.000 --> 25:55.000
+we would also put them, put the index four.
+
+25:55.000 --> 25:59.000
+And then we will say, well, they are all different,
+
+25:59.000 --> 26:03.000
+still, by force they are different, no need to divide all the problems into only important and not important.
+
+26:03.000 --> 26:07.000
+Less important and more important.
+
+26:07.000 --> 26:11.000
+Absolutely right, but this is already the fourth method,
+
+26:11.000 --> 26:15.000
+when we assign force to each problem, so-called.
+
+26:15.000 --> 26:19.000
+That is, this is an analog of weight for the criterion of importance.
+
+26:19.000 --> 26:23.000
+And we assign force to each problem on a scale from one to five,
+
+26:23.000 --> 26:27.000
+and then we make an index of the complexity.
+
+26:27.000 --> 26:31.000
+Well, for example, here we have the duration of the process,
+
+26:31.000 --> 26:35.000
+it will have a force of five, because this is generally a big problem,
+
+26:35.000 --> 26:39.000
+its weight will be, well, let's say, 0.5.
+
+26:39.000 --> 26:43.000
+Here, in this problem, the force will be, let's say, four,
+
+26:43.000 --> 26:47.000
+the weight is 0.4.
+
+26:47.000 --> 26:51.000
+Well, let's say, this one has a weight of 0.1 and a force of 2.
+
+26:51.000 --> 26:55.000
+5 to 0.5, 4 to 0.4, 0.1 to 1.
+
+26:55.000 --> 27:01.000
+And putting it all together, we get the index of the complexity of the business process of the purchase.
+
+27:01.000 --> 27:05.000
+As in the case of the method of assessing importance,
+
+27:05.000 --> 27:09.000
+the fourth way of assessing the complexity is laborious.
+
+27:09.000 --> 27:13.000
+You, again, all experts need to agree on what problems are the most important,
+
+27:13.000 --> 27:19.000
+what problems are the strongest, the most serious.
+
+27:19.000 --> 27:23.000
+To determine them by a list, by force, by weight,
+
+27:23.000 --> 27:27.000
+and only then calculate the index of the complexity.
+
+27:27.000 --> 27:31.000
+This is a very laborious process, although it is more reliable than all the others,
+
+27:31.000 --> 27:35.000
+but before you start this method, think about whether you need to make so much effort,
+
+27:35.000 --> 27:39.000
+if for some business processes the problems are already, in principle, clear,
+
+27:39.000 --> 27:43.000
+they do not need to be reaffirmed again.
+
+27:43.000 --> 27:47.000
+If you want to learn more about this fourth method,
+
+27:47.000 --> 27:51.000
+you can refer to the corresponding slide, where the example of the index of the complexity of processes,
+
+27:51.000 --> 27:55.000
+the interaction of weight and force, and the final calculation for this index are written.
+
+27:55.000 --> 27:59.000
+How else can you assess how important,
+
+27:59.000 --> 28:03.000
+how problematic this particular business process is?
+
+28:03.000 --> 28:07.000
+For this, you can use not only your brainstorming,
+
+28:07.000 --> 28:11.000
+which will help you draw a similar diagram,
+
+28:11.000 --> 28:15.000
+but you can also use the help of a computer,
+
+28:15.000 --> 28:19.000
+but you can also use the help of a computer,
+
+28:19.000 --> 28:23.000
+and use such a tool as benchmarking.
+
+28:23.000 --> 28:27.000
+Here you assess only your inner vision of your problems,
+
+28:27.000 --> 28:31.000
+but an absolutely similar scheme can be developed taking into account your competitors.
+
+28:31.000 --> 28:35.000
+For example, what is benchmarking?
+
+28:35.000 --> 28:39.000
+This is a comparison of a particular business process
+
+28:39.000 --> 28:43.000
+with a so-called benchmark.
+
+28:43.000 --> 28:47.000
+As a benchmark, the business process of your competitor may be inferior.
+
+28:47.000 --> 28:51.000
+For example, you are a construction company,
+
+28:51.000 --> 28:55.000
+and the business process of your closest competitor is of another construction company.
+
+28:55.000 --> 28:59.000
+This can be an internal benchmarking,
+
+28:59.000 --> 29:03.000
+that is, you compare this business process
+
+29:03.000 --> 29:07.000
+with the benchmarking process inside your company.
+
+29:07.000 --> 29:11.000
+If you imagine it all schematically,
+
+29:11.000 --> 29:15.000
+it will be a kind of a few rings.
+
+29:15.000 --> 29:19.000
+The main thing you should start with
+
+29:19.000 --> 29:23.000
+is the internal benchmarking.
+
+29:23.000 --> 29:27.000
+You should first look at the best practice of your company.
+
+29:27.000 --> 29:31.000
+Maybe your employees already know
+
+29:31.000 --> 29:35.000
+how to deal with such problems better,
+
+29:35.000 --> 29:39.000
+what processes should be ideally in terms of duration,
+
+29:39.000 --> 29:43.000
+cost, etc.
+
+29:43.000 --> 29:47.000
+For example, if we take the company Evrica,
+
+29:47.000 --> 29:51.000
+which has a business process of tea, clothing and furniture trading,
+
+29:51.000 --> 29:55.000
+we can easily determine how much it costs to buy tea, furniture and clothes.
+
+29:55.000 --> 29:59.000
+Of course, the cost and time will be different,
+
+29:59.000 --> 30:03.000
+but nevertheless, the best experience should be taken from one process to another.
+
+30:03.000 --> 30:07.000
+This is internal benchmarking.
+
+30:07.000 --> 30:11.000
+If we do not find a good experience in our company,
+
+30:11.000 --> 30:15.000
+we move on to competitive benchmarking.
+
+30:15.000 --> 30:19.000
+How do the closest competitors do it?
+
+30:19.000 --> 30:23.000
+It is clear that you will not come to a competing company and ask how you do it.
+
+30:23.000 --> 30:27.000
+There is an inside, there is a study of the experience of competitors
+
+30:27.000 --> 30:31.000
+based on the media, forums, the Internet, etc.
+
+30:31.000 --> 30:35.000
+If there is no good experience there for one reason or another,
+
+30:35.000 --> 30:39.000
+you can ask the representatives of the similar industry.
+
+30:39.000 --> 30:43.000
+Maybe it's not a construction company,
+
+30:43.000 --> 30:47.000
+but a development company that develops real estate.
+
+30:47.000 --> 30:51.000
+This is not a close competitor, but from the same field.
+
+30:51.000 --> 30:55.000
+For example, real estate development.
+
+30:55.000 --> 30:59.000
+If there are no good benchmarks,
+
+30:59.000 --> 31:03.000
+how should your business process look like?
+
+31:03.000 --> 31:07.000
+You should do a general benchmarking
+
+31:07.000 --> 31:11.000
+and see how all the companies you know,
+
+31:11.000 --> 31:15.000
+have heard and can contact, how they do it.
+
+31:15.000 --> 31:19.000
+Why do you need to study this benchmark?
+
+31:19.000 --> 31:23.000
+In order to understand how ideally this process is done
+
+31:23.000 --> 31:27.000
+and how it works for you.
+
+31:27.000 --> 31:31.000
+And in order to understand how problematic it is for you,
+
+31:31.000 --> 31:35.000
+you need to compare it with the benchmark of your industry.
+
+31:35.000 --> 31:39.000
+When you find this ideal,
+
+31:39.000 --> 31:43.000
+you compare it with what you have.
+
+31:43.000 --> 31:47.000
+You will use this scheme,
+
+31:47.000 --> 31:51.000
+you will determine the reasons why you should not have this ideal.
+
+31:51.000 --> 31:55.000
+Only after that you will be able to make such a scheme
+
+31:55.000 --> 31:59.000
+and based on this scheme you can determine the problem of your business process.
+
+31:59.000 --> 32:03.000
+If we talk about specific types of benchmarking,
+
+32:03.000 --> 32:07.000
+which you can use to determine how ideal your business process should be,
+
+32:07.000 --> 32:11.000
+the one you evaluate,
+
+32:11.000 --> 32:15.000
+here you can use all types of benchmarking.
+
+32:15.000 --> 32:19.000
+Internal, competitive, functional, i.e. industry and general benchmarking.
+
+32:19.000 --> 32:23.000
+But remember one thing,
+
+32:23.000 --> 32:27.000
+that most often, according to experience,
+
+32:27.000 --> 32:31.000
+it is very difficult to find a perfect benchmark.
+
+32:31.000 --> 32:35.000
+For example, when we worked with one construction company,
+
+32:35.000 --> 32:39.000
+the problems that were associated with construction
+
+32:39.000 --> 32:43.000
+and the operation of objects were in all parameters.
+
+32:43.000 --> 32:47.000
+That is, the main business areas were
+
+32:47.000 --> 32:51.000
+shopping centers and business centers,
+
+32:51.000 --> 32:55.000
+that is, office centers.
+
+32:55.000 --> 32:59.000
+And there was the study of the object,
+
+32:59.000 --> 33:03.000
+the construction of the object and the submission to operation.
+
+33:03.000 --> 33:07.000
+Then the same company operated this object,
+
+33:07.000 --> 33:11.000
+that is, it was a lender.
+
+33:11.000 --> 33:15.000
+We analyzed the business process for shopping centers.
+
+33:15.000 --> 33:19.000
+Of course, we immediately went to look at the company's experience
+
+33:19.000 --> 33:23.000
+in the field of office centers and came to the conclusion that there were the same problems.
+
+33:23.000 --> 33:27.000
+But it is not so that one department is good at everything,
+
+33:27.000 --> 33:31.000
+and the other department is not good at anything.
+
+33:31.000 --> 33:35.000
+Most often, the departments exchange experience.
+
+33:35.000 --> 33:39.000
+And most often, everything is at the same level.
+
+33:39.000 --> 33:43.000
+Something interesting can be found in other departments,
+
+33:43.000 --> 33:47.000
+but usually the experience is the same.
+
+33:47.000 --> 33:51.000
+Therefore, it is better to focus on competitors,
+
+33:51.000 --> 33:55.000
+on the experience of the company from your industry and on the world experience in this area.
+
+33:55.000 --> 33:59.000
+We also recommended this particular construction and development company.
+
+33:59.000 --> 34:03.000
+We looked at the experience of other developers,
+
+34:03.000 --> 34:07.000
+we looked at the experience of construction companies that did not deal with further operation of objects.
+
+34:07.000 --> 34:11.000
+We looked at the world experience in terms of problems in trading,
+
+34:11.000 --> 34:15.000
+for example, in the submission of office premises, and so on.
+
+34:15.000 --> 34:19.000
+And only then it was possible to identify the problems
+
+34:19.000 --> 34:23.000
+and to deal with the operation of these premises
+
+34:23.000 --> 34:27.000
+so that the maximum number of premises was submitted at minimum marketing costs, and so on.
+
+34:27.000 --> 34:31.000
+If we talk about the problem,
+
+34:31.000 --> 34:35.000
+then everything is clear here.
+
+34:35.000 --> 34:39.000
+This is, again, an expert assessment.
+
+34:39.000 --> 34:43.000
+Either we choose specific criteria,
+
+34:43.000 --> 34:47.000
+or we are looking for problems that separate our process from the standard,
+
+34:47.000 --> 34:51.000
+or we are looking for problems that are on the way to the ideal.
+
+34:51.000 --> 34:55.000
+And by the number of problems, by their strength and weight,
+
+34:55.000 --> 34:59.000
+in some cases, we assess how problematic the business process is.
+
+34:59.000 --> 35:03.000
+So, we assessed the importance of processes,
+
+35:03.000 --> 35:07.000
+we assessed the problematicness of processes,
+
+35:07.000 --> 35:11.000
+yes, it was more difficult.
+
+35:11.000 --> 35:15.000
+Now there is one last third step left,
+
+35:15.000 --> 35:19.000
+and that is to determine the capacity of the process.
+
+35:19.000 --> 35:23.000
+That is, how many resources are needed to change this process.
+
+35:23.000 --> 35:27.000
+That is, to transfer the state as it is,
+
+35:27.000 --> 35:31.000
+that is, to bring it closer to the standard.
+
+35:31.000 --> 35:35.000
+How can this be done?
+
+35:35.000 --> 35:39.000
+Based on the experience of assessing the problematicness of the business process,
+
+35:39.000 --> 35:43.000
+we can know what kind of business process we have now
+
+35:43.000 --> 35:47.000
+and what problems we have.
+
+35:47.000 --> 35:51.000
+And now, when we assess the resource capacity,
+
+35:51.000 --> 35:55.000
+we must understand how much it will cost us to solve all these problems.
+
+35:55.000 --> 35:59.000
+How much it costs, I'm not just talking about money.
+
+35:59.000 --> 36:03.000
+It's time, it's money, it's some kind of moral and psychological difficulties,
+
+36:03.000 --> 36:07.000
+it can be absolutely anything.
+
+36:07.000 --> 36:11.000
+But most often, financial problems,
+
+36:11.000 --> 36:15.000
+psychological problems, although this is an inextricable principle.
+
+36:15.000 --> 36:19.000
+And here, most often, only two methods are used.
+
+36:19.000 --> 36:23.000
+The first is an expert assessment, and the second is the development of the criteria for the resource capacity.
+
+36:23.000 --> 36:27.000
+Let's take a closer look at them.
+
+36:27.000 --> 36:31.000
+So, let's say we have the same purchase process
+
+36:31.000 --> 36:35.000
+that we assessed on the flip chart.
+
+36:35.000 --> 36:39.000
+It is clear that we have highlighted that it has many problems.
+
+36:39.000 --> 36:43.000
+We have highlighted two main ones, the duration and the problems in relation to the suppliers.
+
+36:43.000 --> 36:47.000
+Now we need to assess how much it costs us to solve them.
+
+36:47.000 --> 36:51.000
+Let's say we invited several experts.
+
+36:51.000 --> 36:55.000
+These are the experts of this process, managers,
+
+36:55.000 --> 36:59.000
+the head of the procurement department, the supplier,
+
+36:59.000 --> 37:03.000
+the client of this process,
+
+37:03.000 --> 37:07.000
+that is, for example, the representative of the production department.
+
+37:07.000 --> 37:11.000
+The experts should assess what resources are needed
+
+37:11.000 --> 37:15.000
+to change this particular process,
+
+37:15.000 --> 37:19.000
+and assess in points how much resources are needed to change something.
+
+37:19.000 --> 37:23.000
+Again, we use the five-point scale.
+
+37:23.000 --> 37:27.000
+If the experts think that everything is necessary to change the suppliers,
+
+37:27.000 --> 37:31.000
+to introduce a new IT system,
+
+37:31.000 --> 37:35.000
+to change the interaction with the suppliers,
+
+37:35.000 --> 37:39.000
+to fill the procurement process,
+
+37:39.000 --> 37:43.000
+then, of course, the resource capacity is 5.
+
+37:43.000 --> 37:47.000
+Let's say one of the experts thinks that everything is not so bad,
+
+37:47.000 --> 37:51.000
+that the procurement process can be changed a little,
+
+37:51.000 --> 37:55.000
+let's say, he will put 3.
+
+37:55.000 --> 37:59.000
+Someone else decided that everything is bad, but not too bad, so he put 4.
+
+37:59.000 --> 38:03.000
+The more points, the more resources are needed to change the process.
+
+38:03.000 --> 38:07.000
+We divide the assessment into the number of experts and get something in the middle.
+
+38:07.000 --> 38:11.000
+How many points does this resource capacity of this process take?
+
+38:11.000 --> 38:15.000
+Again, this is not accurate, as any expert assessment.
+
+38:15.000 --> 38:19.000
+Therefore, we recommend using the development of the criteria for the resource capacity.
+
+38:19.000 --> 38:23.000
+As I said, the main criteria are cost, time, and resistance, psychological factor.
+
+38:23.000 --> 38:27.000
+Usually, they are the same,
+
+38:27.000 --> 38:31.000
+that is, time, money, people, and the process.
+
+38:31.000 --> 38:35.000
+This is all standard for all companies.
+
+38:35.000 --> 38:39.000
+You just have to calculate approximately,
+
+38:39.000 --> 38:43.000
+how much money,
+
+38:43.000 --> 38:47.000
+how much time you need to get from the state as it is to the ideal,
+
+38:47.000 --> 38:51.000
+and how much people will resist these changes.
+
+38:51.000 --> 38:55.000
+The second, the first, that is, cost and time can be approximately predicted.
+
+38:55.000 --> 38:59.000
+Not necessarily accurate, but at least approximately, to evaluate in points.
+
+38:59.000 --> 39:03.000
+But as for the resistance, it is difficult to assess it all.
+
+39:03.000 --> 39:07.000
+To do this, you can use questionnaires, surveyors,
+
+39:07.000 --> 39:11.000
+invite a psychologist to the organization in order to conduct an interview
+
+39:11.000 --> 39:15.000
+with those employees who will be affected by this change,
+
+39:15.000 --> 39:19.000
+and assess the strength of resistance.
+
+39:19.000 --> 39:23.000
+Therefore, when we talk about all the costs,
+
+39:23.000 --> 39:27.000
+which will be associated with the change of this particular business process,
+
+39:27.000 --> 39:31.000
+always highlight the disposable costs,
+
+39:31.000 --> 39:35.000
+that is, once you need to finance, for example, the purchase of an ERP system,
+
+39:35.000 --> 39:39.000
+or once you need to attract a psychologist,
+
+39:39.000 --> 39:43.000
+or once you need to raise the salary,
+
+39:43.000 --> 39:47.000
+well, some bonus, for example, you will not raise the salary, but you will give a bonus.
+
+39:47.000 --> 39:51.000
+These are disposable costs.
+
+39:51.000 --> 39:55.000
+Then there are those that will appear, will increase the current costs,
+
+39:55.000 --> 39:59.000
+and will not end at one point, but will continue further.
+
+39:59.000 --> 40:03.000
+For example, the attraction of new high-class specialists,
+
+40:03.000 --> 40:07.000
+the salary will increase, or the introduction of an ERP system,
+
+40:07.000 --> 40:11.000
+in addition to disposable costs, will bring with it support for the ERP system,
+
+40:11.000 --> 40:15.000
+and additional money, and so on.
+
+40:15.000 --> 40:19.000
+Therefore, at the stage of assessing the resource capacity,
+
+40:19.000 --> 40:23.000
+you need to assess all the costs that will be associated with
+
+40:23.000 --> 40:27.000
+the change of this particular business process.
+
+40:27.000 --> 40:31.000
+Therefore, when we talk about finances and time,
+
+40:31.000 --> 40:35.000
+it is all very accurate.
+
+40:35.000 --> 40:39.000
+When we talk about the strength of resistance from the people,
+
+40:39.000 --> 40:43.000
+yes, surveyors, some interviews, attraction of psychologists, and so on,
+
+40:43.000 --> 40:47.000
+try to identify the main sources of resistance,
+
+40:47.000 --> 40:51.000
+that is, the hidden and the most open ones,
+
+40:51.000 --> 40:55.000
+those who are against this resistance,
+
+40:55.000 --> 40:59.000
+understand why, for example, a person is against changes.
+
+40:59.000 --> 41:03.000
+Maybe it can be motivated somehow,
+
+41:03.000 --> 41:07.000
+maybe this resistance can be somehow reduced, lowered, or even leveled.
+
+41:07.000 --> 41:11.000
+And in the end, when we determine all the resources
+
+41:11.000 --> 41:15.000
+that we need to move from a state to another,
+
+41:15.000 --> 41:19.000
+to a state as it should be,
+
+41:19.000 --> 41:23.000
+we can imagine on a kind of graph,
+
+41:23.000 --> 41:27.000
+where there will be a probability of these resistance and cost,
+
+41:27.000 --> 41:31.000
+we can determine those resources
+
+41:31.000 --> 41:35.000
+that are very likely to shoot out,
+
+41:35.000 --> 41:39.000
+and which will cost the most,
+
+41:39.000 --> 41:43.000
+let's say, the amount.
+
+41:43.000 --> 41:47.000
+For example, we have determined that we will need to attract a psychologist,
+
+41:47.000 --> 41:51.000
+we will need to conduct a lot of interviews with employees,
+
+41:51.000 --> 41:55.000
+to fight psychological resistance.
+
+41:55.000 --> 41:59.000
+We will need a lot of time to, for example,
+
+41:59.000 --> 42:03.000
+to implement the ERP system, to find,
+
+42:03.000 --> 42:07.000
+that is, it means attending seminars with our employees,
+
+42:07.000 --> 42:11.000
+and we will need additional money and time for this.
+
+42:11.000 --> 42:15.000
+This means that our employees, instead of doing their normal work,
+
+42:15.000 --> 42:19.000
+will have to pay additional salary.
+
+42:19.000 --> 42:23.000
+If we talk about financial costs,
+
+42:23.000 --> 42:27.000
+then we add the cost of the ERP system,
+
+42:27.000 --> 42:31.000
+the cost of its maintenance, the cost of installation, and so on.
+
+42:31.000 --> 42:35.000
+From all these resources, we determine those that are most likely to happen.
+
+42:35.000 --> 42:39.000
+That is, maybe our resistance
+
+42:39.000 --> 42:43.000
+is not as strong as we expected,
+
+42:43.000 --> 42:47.000
+and we will have to hire special psychologists,
+
+42:47.000 --> 42:51.000
+conduct special investigative events, and spend additional money on this.
+
+42:51.000 --> 42:55.000
+Maybe we won't need it.
+
+42:55.000 --> 42:59.000
+But, for example, the purchase of ERP is almost 100% required.
+
+42:59.000 --> 43:03.000
+And so, if we talk about the criteria for the resource capacity,
+
+43:03.000 --> 43:07.000
+then the most likely resources that will be required
+
+43:07.000 --> 43:11.000
+to make changes will be the main criteria.
+
+43:11.000 --> 43:15.000
+For example, in our case, it is the purchase of ERP,
+
+43:15.000 --> 43:19.000
+it is the maintenance of ERP, and it is the choice of ERP system
+
+43:19.000 --> 43:23.000
+for our procurement department.
+
+43:23.000 --> 43:27.000
+Therefore, these resources, financial and temporary,
+
+43:27.000 --> 43:31.000
+will be used to assess the resource capacity
+
+43:31.000 --> 43:35.000
+and change of this process.
+
+43:35.000 --> 43:39.000
+Therefore, when we fill in the corresponding table,
+
+43:39.000 --> 43:43.000
+we can find the form of this table on the corresponding slide of the questionnaire,
+
+43:43.000 --> 43:47.000
+analysis of the resource capacity index and change of the process.
+
+43:47.000 --> 43:51.000
+Accordingly, we write the criteria for the first financial costs for ERP,
+
+43:51.000 --> 43:55.000
+the criteria for the second temporary costs for ERP,
+
+43:55.000 --> 43:59.000
+the criteria for the third temporary costs for the psychologist's search,
+
+43:59.000 --> 44:03.000
+and so on, and so on, and so on.
+
+44:03.000 --> 44:07.000
+And then we write the points.
+
+44:07.000 --> 44:11.000
+If the costs are very significant, we put a five.
+
+44:11.000 --> 44:15.000
+If the costs for the psychologist's search are small,
+
+44:15.000 --> 44:19.000
+then we put a one, and so on.
+
+44:19.000 --> 44:23.000
+So, we put it opposite to each process that we analyze.
+
+44:23.000 --> 44:27.000
+And in the end, when we put all the points on all the criteria,
+
+44:27.000 --> 44:31.000
+divide by the number of criteria, we get the resource capacity index,
+
+44:31.000 --> 44:35.000
+again from one to five.
+
+44:35.000 --> 44:39.000
+And the weight of the criteria.
+
+44:39.000 --> 44:43.000
+Again, multiply the point assigned to this criterion by its weight,
+
+44:43.000 --> 44:47.000
+0.1, 0.2, 0.7.
+
+44:47.000 --> 44:51.000
+This will give additional complexity, but additional accuracy.
+
+44:51.000 --> 44:55.000
+This is a subtype of this method.
+
+44:55.000 --> 44:59.000
+An example of calculating the resource capacity index taking into account the weight
+
+44:59.000 --> 45:03.000
+can also be found on the corresponding slide.
+
+45:03.000 --> 45:07.000
+So, we have evaluated the importance of processes, their complexity,
+
+45:07.000 --> 45:11.000
+and the resource capacity.
+
+45:11.000 --> 45:15.000
+What should we do next?
+
+45:15.000 --> 45:19.000
+We can develop a business process arrangement matrix
+
+45:19.000 --> 45:23.000
+when we put the complexity index horizontally,
+
+45:23.000 --> 45:27.000
+and the importance index vertically.
+
+45:27.000 --> 45:31.000
+And the more important the process is,
+
+45:31.000 --> 45:35.000
+the more complex it is.
+
+45:35.000 --> 45:39.000
+So, we will optimize these processes first.
+
+45:39.000 --> 45:43.000
+Those that are medium-important and medium-complex
+
+45:43.000 --> 45:47.000
+are number two in the optimization queue.
+
+45:47.000 --> 45:51.000
+Those that are low-important and low-complex are number three.
+
+45:51.000 --> 45:55.000
+We should not deal with them yet, because they are not primary.
+
+45:55.000 --> 45:59.000
+Nevertheless, I would like to note that
+
+45:59.000 --> 46:03.000
+business processes that are now the most important and the most complex
+
+46:03.000 --> 46:07.000
+become less important and less complex after optimization.
+
+46:07.000 --> 46:11.000
+This means that the process of business optimization is not a project,
+
+46:11.000 --> 46:15.000
+but a process. It happens constantly.
+
+46:15.000 --> 46:19.000
+We should not optimize and forget about it for 5-10 years.
+
+46:19.000 --> 46:23.000
+No, it should happen constantly and in a mandatory order.
+
+46:23.000 --> 46:27.000
+You can also choose business processes
+
+46:27.000 --> 46:31.000
+from the top 5 or 10 for optimization
+
+46:31.000 --> 46:35.000
+and use a special table.
+
+46:35.000 --> 46:39.000
+For example, you write all the business processes that you have assessed.
+
+46:39.000 --> 46:43.000
+You write the importance index of a particular business process.
+
+46:43.000 --> 46:47.000
+You write the complexity index and the possibility index of making changes.
+
+46:47.000 --> 46:51.000
+I want to note that the possibility index of making changes
+
+46:51.000 --> 46:55.000
+is directly opposite to the resource capacity index that we have calculated.
+
+46:55.000 --> 46:59.000
+The 6th one is your resource capacity index.
+
+46:59.000 --> 47:03.000
+Now we add the importance, complexity and possibility of making changes
+
+47:03.000 --> 47:07.000
+to each process.
+
+47:07.000 --> 47:11.000
+The larger the sum that we get in the end,
+
+47:11.000 --> 47:15.000
+the more important this process is for optimization.
+
+47:15.000 --> 47:19.000
+Usually, about 10 processes,
+
+47:19.000 --> 47:23.000
+no more than that, are taken for optimization.
+
+47:23.000 --> 47:27.000
+It is impossible to optimize all of them at once.
+
+47:27.000 --> 47:31.000
+It is because they are connected to each other.
+
+47:31.000 --> 47:35.000
+It means that if you change one business process,
+
+47:35.000 --> 47:39.000
+you change another one, and so on.
+
+47:39.000 --> 47:43.000
+If you change 10 processes in parallel,
+
+47:43.000 --> 47:47.000
+you have a mutual influence of business processes.
+
+47:47.000 --> 47:51.000
+You cannot monitor all the changes
+
+47:51.000 --> 47:55.000
+and, as a result, you optimize something in one process
+
+47:55.000 --> 47:59.000
+and you make something worse in another one.
+
+47:59.000 --> 48:03.000
+Therefore, it is necessary to take into account the interaction of business processes with each other
+
+48:03.000 --> 48:07.000
+and to choose no more than 3-4 processes for optimization.
+
+48:07.000 --> 48:11.000
+3-4 processes are what can be monitored
+
+48:11.000 --> 48:15.000
+in terms of mutual influence and influence of other processes on them.
+
+48:15.000 --> 48:19.000
+You will have time to optimize all your processes.
+
+48:19.000 --> 48:23.000
+You will not have to hurry and take everything at once.
+
+48:23.000 --> 48:27.000
+You will have time to optimize them in a qualitative way.
+
+48:27.000 --> 48:31.000
+For example, we had a client, a trading organization,
+
+48:31.000 --> 48:35.000
+which after diagnosing business processes,
+
+48:35.000 --> 48:39.000
+evaluating their importance, problem-solving and capacity resources,
+
+48:39.000 --> 48:43.000
+got a list of top 10 business processes
+
+48:43.000 --> 48:47.000
+out of 21 business processes of the highest level.
+
+48:47.000 --> 48:51.000
+Of course, there were the main business processes,
+
+48:51.000 --> 48:55.000
+and she decided that she needed to optimize everything immediately,
+
+48:55.000 --> 48:59.000
+urgently, quickly, within half a year.
+
+48:59.000 --> 49:03.000
+We tried to convince her that this was impossible to do
+
+49:03.000 --> 49:07.000
+simply because the processes influenced each other.
+
+49:07.000 --> 49:11.000
+After changing something in the process of buying,
+
+49:11.000 --> 49:15.000
+they automatically had to change something in the process of IT,
+
+49:15.000 --> 49:19.000
+and after changing something in the process of accounting,
+
+49:19.000 --> 49:23.000
+they had to change something in the process of accounting
+
+49:23.000 --> 49:25.000
+and outsourcing.
+
+49:25.000 --> 49:29.000
+In general, marketing then influenced the purchase,
+
+49:29.000 --> 49:31.000
+sales, and so on.
+
+49:31.000 --> 49:35.000
+At the same time, all 10 processes could not be changed.
+
+49:35.000 --> 49:39.000
+Therefore, we persuaded the client to stay on 3 main business processes.
+
+49:39.000 --> 49:43.000
+The rest of them should be left for later.
+
+49:43.000 --> 49:47.000
+That's why the final step, when you have analyzed all 3 parameters,
+
+49:47.000 --> 49:51.000
+and highlighted the top 10 most important,
+
+49:51.000 --> 49:55.000
+problem-solving and less resource-intensive business processes,
+
+49:55.000 --> 49:59.000
+is to make a final table,
+
+49:59.000 --> 50:03.000
+where you will find business processes
+
+50:03.000 --> 50:07.000
+chosen for initial optimization,
+
+50:07.000 --> 50:11.000
+specific steps and actions,
+
+50:11.000 --> 50:15.000
+For example, for this trading organization,
+
+50:15.000 --> 50:19.000
+we made a similar table,
+
+50:19.000 --> 50:23.000
+and there were business processes in the purchase plan,
+
+50:23.000 --> 50:27.000
+i.e. the implementation of EBC accounting,
+
+50:27.000 --> 50:31.000
+the implementation of a new automated order system,
+
+50:31.000 --> 50:35.000
+the implementation of new fields in relation to suppliers,
+
+50:35.000 --> 50:37.000
+and so on.
+
+50:37.000 --> 50:41.000
+In the case of the sales process,
+
+50:41.000 --> 50:45.000
+additional control for the clients was automatically introduced,
+
+50:45.000 --> 50:49.000
+i.e. they did not have a CRM system.
+
+50:49.000 --> 50:53.000
+It was necessary to implement a CRM system,
+
+50:53.000 --> 50:57.000
+to work out a plan of events and seminars for their clients,
+
+50:57.000 --> 51:01.000
+to re-examine the value-added policy, and so on.
+
+51:01.000 --> 51:05.000
+Thus, we made a specific table,
+
+51:05.000 --> 51:09.000
+and we wrote down the specific events,
+
+51:09.000 --> 51:13.000
+and the time needed to be implemented.
+
+51:13.000 --> 51:17.000
+Again, the time should not be specified,
+
+51:17.000 --> 51:21.000
+as it is necessary to specify half a year,
+
+51:21.000 --> 51:25.000
+or a year, or the next year,
+
+51:25.000 --> 51:29.000
+or the next quarter, and so on.
+
+51:29.000 --> 51:33.000
+It is necessary to estimate the plan of events,
+
+51:33.000 --> 51:37.000
+and to tie the information of all processes to each other.
+
+51:37.000 --> 51:41.000
+Then it will allow you to manage 3-4 processes at the same time.
+
+51:55.000 --> 51:59.000
+Now let's move on to the next section.
+
+51:59.000 --> 52:03.000
+If we are going to manage our business processes,
+
+52:03.000 --> 52:07.000
+we will inevitably need criteria to determine
+
+52:07.000 --> 52:11.000
+whether we achieve our goals in optimizing processes or not.
+
+52:11.000 --> 52:15.000
+To understand this, we need the key indicators of business process effectiveness,
+
+52:15.000 --> 52:19.000
+or KPI.
+
+52:19.000 --> 52:23.000
+KPI is a way of controlling business processes,
+
+52:23.000 --> 52:27.000
+a way of assessing its effectiveness.
+
+52:27.000 --> 52:31.000
+If we classify KPI,
+
+52:31.000 --> 52:35.000
+we can break it down by time.
+
+52:35.000 --> 52:39.000
+For example, it can be the final and operational indicators.
+
+52:39.000 --> 52:43.000
+If we take the business process of sales,
+
+52:43.000 --> 52:47.000
+the final indicator will be the volume of sales per year,
+
+52:47.000 --> 52:51.000
+and the operational one will be the volume of sales per quarter.
+
+52:51.000 --> 52:55.000
+If we talk about the classification of KPI indicators,
+
+52:55.000 --> 52:59.000
+we can classify them as aggregate or detailed.
+
+52:59.000 --> 53:03.000
+Aggregate is the total satisfaction of the consumer,
+
+53:03.000 --> 53:07.000
+and detailed is the volume of revenue.
+
+53:07.000 --> 53:11.000
+The reason for the KPI is related to the time of the business process.
+
+53:11.000 --> 53:15.000
+It is very important to know the type of indicators.
+
+53:15.000 --> 53:19.000
+It is important not only to be able to measure the final indicator,
+
+53:19.000 --> 53:23.000
+but also to track its performance.
+
+53:23.000 --> 53:27.000
+To track the KPI,
+
+53:27.000 --> 53:31.000
+we need both the operational and the KPI.
+
+53:31.000 --> 53:35.000
+For example, we have a business process of sales.
+
+53:35.000 --> 53:39.000
+The KPI will be the volume of sales per year.
+
+53:39.000 --> 53:43.000
+The KPI will be the volume of sales per year.
+
+53:43.000 --> 53:47.000
+The KPI will be the volume of sales per year.
+
+53:47.000 --> 53:51.000
+The more the manager communicates with the clients,
+
+53:51.000 --> 53:55.000
+the higher the probability that he will sell more.
+
+53:55.000 --> 53:59.000
+These KPI will help you to signal in advance
+
+53:59.000 --> 54:03.000
+that there is a problem in the implementation of the business process.
+
+54:03.000 --> 54:07.000
+Everything is not going according to plan,
+
+54:07.000 --> 54:11.000
+there may be a failure.
+
+54:11.000 --> 54:15.000
+To avoid failure, it is easier to track in advance
+
+54:15.000 --> 54:19.000
+and use some adjustments.
+
+54:19.000 --> 54:23.000
+The KPI is divided into priority and regular.
+
+54:23.000 --> 54:27.000
+If the business process is prioritized,
+
+54:27.000 --> 54:31.000
+then the time of the process will be prioritized.
+
+54:31.000 --> 54:35.000
+But we should not forget
+
+54:35.000 --> 54:39.000
+that all indicators should be balanced.
+
+54:39.000 --> 54:43.000
+If you reduce the time of the process
+
+54:43.000 --> 54:47.000
+in order not to lose quality
+
+54:47.000 --> 54:51.000
+and not to increase the cost of the business process,
+
+54:51.000 --> 54:55.000
+you should add certain indicators.
+
+54:55.000 --> 54:59.000
+For example, the quality indicator and the cost of the business process.
+
+54:59.000 --> 55:03.000
+These are the usual indicators.
+
+55:03.000 --> 55:07.000
+Now they have no problems.
+
+55:07.000 --> 55:11.000
+Now everything is OK with the cost and quality.
+
+55:11.000 --> 55:15.000
+But in the future, when you start to reduce the time of the business process,
+
+55:15.000 --> 55:19.000
+you will sacrifice the quality to reduce the time.
+
+55:19.000 --> 55:23.000
+Then the quality will become the priority KPI.
+
+55:23.000 --> 55:27.000
+The level of management of the KPI is divided into the upper and lower levels.
+
+55:27.000 --> 55:31.000
+The explanation is unnecessary.
+
+55:31.000 --> 55:35.000
+The upper level is used for the business process,
+
+55:35.000 --> 55:39.000
+and the lower level is used for the lower level.
+
+55:39.000 --> 55:43.000
+If we talk about aggregated KPI,
+
+55:43.000 --> 55:47.000
+I want to note the following.
+
+55:47.000 --> 55:51.000
+There are indicators that are very difficult to measure.
+
+55:51.000 --> 55:55.000
+For example, the satisfaction of customers.
+
+55:55.000 --> 55:59.000
+How to measure it?
+
+55:59.000 --> 56:03.000
+You can't go to a client with a questionnaire and ask him to say OK or not OK.
+
+56:03.000 --> 56:07.000
+In fact, the satisfaction of the consumer,
+
+56:07.000 --> 56:11.000
+the satisfaction of your clients,
+
+56:11.000 --> 56:15.000
+and the satisfaction of the customer itself.
+
+56:15.000 --> 56:19.000
+The number of complaints from the clients
+
+56:19.000 --> 56:23.000
+compared to the previous period.
+
+56:23.000 --> 56:27.000
+The number of requests for one client compared to the previous period.
+
+56:27.000 --> 56:31.000
+The number of client requests.
+
+56:31.000 --> 56:35.000
+The satisfaction of the client,
+
+56:35.000 --> 56:39.000
+the expert assessment of the client.
+
+56:39.000 --> 56:43.000
+The number of requests for one client compared to the previous period.
+
+56:43.000 --> 56:47.000
+You can measure each such indicator clearly.
+
+56:47.000 --> 56:51.000
+Except for the expert assessment, of course.
+
+56:51.000 --> 56:55.000
+When you measure it all in detail,
+
+56:55.000 --> 56:59.000
+you can bring each indicator to the same points,
+
+56:59.000 --> 57:03.000
+assign it a weight, for example, the volume of revenue is very important for you,
+
+57:03.000 --> 57:07.000
+the expert assessment of the buyer is not so important for you,
+
+57:07.000 --> 57:11.000
+you assign a weight, points,
+
+57:11.000 --> 57:15.000
+and in the end you get an aggregate indicator of satisfaction,
+
+57:15.000 --> 57:19.000
+which consists of four indicators.
+
+57:19.000 --> 57:23.000
+As a result, you can't say that it's all just an expert assessment,
+
+57:23.000 --> 57:27.000
+you have a clear indicator that you can rely on in the future.
+
+57:27.000 --> 57:31.000
+If I have already talked about clear and accurate indicators,
+
+57:31.000 --> 57:35.000
+let's see what kinds of indicators exist in general.
+
+57:35.000 --> 57:39.000
+It can be absolute numbers, for example, the number of calls.
+
+57:39.000 --> 57:43.000
+It can be the ratio of sales volume this year to the previous year.
+
+57:43.000 --> 57:47.000
+It can be indexes.
+
+57:47.000 --> 57:51.000
+It can be percentages, ratings, anything.
+
+57:51.000 --> 57:55.000
+It can be points, it can be just some description,
+
+57:55.000 --> 57:59.000
+that is, good, bad, not very good, like it, don't like it.
+
+57:59.000 --> 58:03.000
+It can be a qualitative description,
+
+58:03.000 --> 58:07.000
+like I just said.
+
+58:07.000 --> 58:11.000
+It all depends on what kind of indicator it is,
+
+58:11.000 --> 58:15.000
+who, let's say, and what is analyzed,
+
+58:15.000 --> 58:19.000
+and what goal you want to achieve.
+
+58:19.000 --> 58:23.000
+For example, if you evaluate the accuracy of your device,
+
+58:23.000 --> 58:27.000
+then, of course, accurate ratings will suit you.
+
+58:27.000 --> 58:31.000
+If you evaluate the satisfaction of customers,
+
+58:31.000 --> 58:35.000
+then you will find discrete descriptive indicators.
+
+58:35.000 --> 58:39.000
+For example, it will be convenient for the customer to write whether he is satisfied or not,
+
+58:39.000 --> 58:43.000
+agree or disagree, or according to some score system,
+
+58:43.000 --> 58:47.000
+for example, from minus 3 to plus 3, or from minus 5 to plus 5,
+
+58:47.000 --> 58:51.000
+put a specific point of satisfaction for your products.
+
+58:51.000 --> 58:55.000
+It is very important to include a minus scale,
+
+58:55.000 --> 58:59.000
+because if you include a scale from 0 to plus,
+
+58:59.000 --> 59:03.000
+then your customer is strongly dissatisfied with something in your product.
+
+59:03.000 --> 59:07.000
+Therefore, you need to include a minus, and in the same proportion as a plus.
+
+59:07.000 --> 59:11.000
+That is, if there is a plus 5 points, then there should be a minus 5 points,
+
+59:11.000 --> 59:15.000
+and only then you can track the bright dissatisfaction of your customer.
+
+59:15.000 --> 59:19.000
+As an example of indicators,
+
+59:19.000 --> 59:23.000
+in addition to what I have already mentioned,
+
+59:23.000 --> 59:27.000
+you can name delivery time, development time,
+
+59:27.000 --> 59:31.000
+cycle duration, and so on.
+
+59:31.000 --> 59:35.000
+There are many indicators, there are no typical ones,
+
+59:35.000 --> 59:39.000
+they must be developed, and they must be developed,
+
+59:39.000 --> 59:43.000
+including the owners of the processes, all participants and customers, suppliers of each process.
+
+59:43.000 --> 59:47.000
+Let's consider some basic indicators of business processes,
+
+59:47.000 --> 59:51.000
+so that there is some structure,
+
+59:51.000 --> 59:55.000
+how to approach the development of indicators of KPI and business processes.
+
+59:55.000 --> 59:59.000
+There is a business process resultivity,
+
+59:59.000 --> 01:00:03.000
+that is, you evaluate the result of the process,
+
+01:00:03.000 --> 01:00:07.000
+its quantity, its characteristics,
+
+01:00:07.000 --> 01:00:11.000
+the satisfaction of your client,
+
+01:00:11.000 --> 01:00:15.000
+that is, you evaluate the outcome of the process.
+
+01:00:15.000 --> 01:00:19.000
+The cost of the business process, you evaluate the costs that your company carries
+
+01:00:19.000 --> 01:00:23.000
+when performing this business process.
+
+01:00:23.000 --> 01:00:27.000
+The quality of the business process is the most difficult indicator,
+
+01:00:27.000 --> 01:00:31.000
+because it is always unique for each process,
+
+01:00:31.000 --> 01:00:35.000
+there is no single recipe for evaluating the quality of the business process.
+
+01:00:35.000 --> 01:00:39.000
+These are indicators that will help you develop KPI for absolutely any process.
+
+01:00:39.000 --> 01:00:43.000
+Additionally, you can also include such an indicator as fragmentation,
+
+01:00:43.000 --> 01:00:47.000
+for example, or the number of business processes.
+
+01:00:47.000 --> 01:00:51.000
+These are not necessary indicators,
+
+01:00:51.000 --> 01:00:55.000
+because they are not necessary to improve your knowledge about the business process.
+
+01:00:55.000 --> 01:00:59.000
+But you should not consider them as primary indicators,
+
+01:00:59.000 --> 01:01:03.000
+because they are additional, not the most important.
+
+01:01:03.000 --> 01:01:07.000
+You need to rely on them, but you should not be guided by them.
+
+01:01:07.000 --> 01:01:11.000
+If I said what is fragmentation,
+
+01:01:11.000 --> 01:01:15.000
+what is it?
+
+01:01:15.000 --> 01:01:19.000
+It is an indicator that compares functional transitions,
+
+01:01:19.000 --> 01:01:23.000
+transitions from one function to another function within one business process,
+
+01:01:23.000 --> 01:01:27.000
+and organizational breaks.
+
+01:01:27.000 --> 01:01:31.000
+You can see the example on the slide of the degree of organizational fragmentation of processes.
+
+01:01:31.000 --> 01:01:35.000
+We compare functional transitions and organizational breaks.
+
+01:01:35.000 --> 01:01:39.000
+The more functional transitions and organizational breaks,
+
+01:01:39.000 --> 01:01:43.000
+the more fragmentation.
+
+01:01:43.000 --> 01:01:47.000
+You can ask, what is bad?
+
+01:01:47.000 --> 01:01:51.000
+All the work in the company is bad.
+
+01:01:51.000 --> 01:01:55.000
+Therefore, it is an additional indicator,
+
+01:01:55.000 --> 01:01:59.000
+in addition to all the main indicators that I listed.
+
+01:01:59.000 --> 01:02:03.000
+Result, time, cost and quality.
+
+01:02:03.000 --> 01:02:07.000
+This will help you understand the necessary fragmentation of business processes.
+
+01:02:07.000 --> 01:02:11.000
+When you have identified the problems with the main indicators,
+
+01:02:11.000 --> 01:02:15.000
+refer to the fragmentation.
+
+01:02:15.000 --> 01:02:19.000
+The second indicator is the additional cost of business processes.
+
+01:02:19.000 --> 01:02:23.000
+Maybe there are additional costs, additional time.
+
+01:02:23.000 --> 01:02:27.000
+Of course, if there is additional time,
+
+01:02:27.000 --> 01:02:31.000
+there is an additional cost of business processes.
+
+01:02:31.000 --> 01:02:35.000
+And sometimes it is completely unreasonable.
+
+01:02:35.000 --> 01:02:39.000
+If we talk about the number of business processes,
+
+01:02:39.000 --> 01:02:43.000
+it means that, imagine a company.
+
+01:02:43.000 --> 01:02:47.000
+The company is engaged in the field of trade.
+
+01:02:47.000 --> 01:02:51.000
+It supplies components to windows, doors, furniture.
+
+01:02:51.000 --> 01:02:55.000
+It happens most often,
+
+01:02:55.000 --> 01:02:59.000
+at least it happened so,
+
+01:02:59.000 --> 01:03:03.000
+that the buyer gets one part of the windows,
+
+01:03:03.000 --> 01:03:07.000
+then brings the windows,
+
+01:03:07.000 --> 01:03:11.000
+then brings all the necessary documentation.
+
+01:03:11.000 --> 01:03:15.000
+This is the first time, and more.
+
+01:03:15.000 --> 01:03:19.000
+At first, we did not pay much attention to this.
+
+01:03:19.000 --> 01:03:23.000
+And then, when consultants were invited,
+
+01:03:23.000 --> 01:03:27.000
+it was decided that this indicator only indicates that the process is not optimal.
+
+01:03:27.000 --> 01:03:31.000
+It is quite possible to do everything at once.
+
+01:03:31.000 --> 01:03:35.000
+All the documentation, all the windows, all the frames,
+
+01:03:35.000 --> 01:03:39.000
+and all together.
+
+01:03:39.000 --> 01:03:43.000
+The number of exits indicates that any client strives for the principle of one window.
+
+01:03:43.000 --> 01:03:47.000
+He came and got everything at once.
+
+01:03:47.000 --> 01:03:51.000
+He does not need to go for this, then for this, then for this, then for this.
+
+01:03:51.000 --> 01:03:55.000
+Of course, this is not always possible,
+
+01:03:55.000 --> 01:03:59.000
+so I repeat that the indicator is additional.
+
+01:03:59.000 --> 01:04:03.000
+How will we choose KPI for our business processes?
+
+01:04:03.000 --> 01:04:07.000
+After all, you can make a huge list of KPI for any process.
+
+01:04:07.000 --> 01:04:11.000
+How will you navigate in the future?
+
+01:04:11.000 --> 01:04:15.000
+First, let's remember our strategy.
+
+01:04:15.000 --> 01:04:19.000
+Let's remember the strategic accounting map of the company,
+
+01:04:19.000 --> 01:04:23.000
+and your department.
+
+01:04:23.000 --> 01:04:27.000
+This is what you need to focus on.
+
+01:04:27.000 --> 01:04:31.000
+The most important and key problems described in the strategy,
+
+01:04:31.000 --> 01:04:35.000
+the most important strategic goals,
+
+01:04:35.000 --> 01:04:39.000
+and the most important indicators to achieve the strategic goals outlined in the company.
+
+01:04:39.000 --> 01:04:43.000
+Next.
+
+01:04:43.000 --> 01:04:47.000
+We had one client who decided to introduce such a KPI
+
+01:04:47.000 --> 01:04:51.000
+as a lost benefit of the company.
+
+01:04:51.000 --> 01:04:55.000
+The indicator is good.
+
+01:04:55.000 --> 01:04:59.000
+It was listed in the business process map,
+
+01:04:59.000 --> 01:05:03.000
+but it was not known how to measure it.
+
+01:05:03.000 --> 01:05:07.000
+There is an indicator, but there is no measurement method.
+
+01:05:07.000 --> 01:05:11.000
+It is better not to introduce such indicators,
+
+01:05:11.000 --> 01:05:15.000
+because you will not be able to measure them,
+
+01:05:15.000 --> 01:05:19.000
+and they will not be useful to you.
+
+01:05:19.000 --> 01:05:23.000
+Yes, it is a great indicator, but if there is no method,
+
+01:05:23.000 --> 01:05:27.000
+postpone it until the method appears.
+
+01:05:27.000 --> 01:05:31.000
+When we talk about KPI, it should be available.
+
+01:05:31.000 --> 01:05:35.000
+For example, the ratio of your business process time,
+
+01:05:35.000 --> 01:05:39.000
+for example, the purchase time of your business process from competitors.
+
+01:05:39.000 --> 01:05:43.000
+It is a great indicator, but why not use it?
+
+01:05:43.000 --> 01:05:47.000
+Where do you take this time from your competitors?
+
+01:05:47.000 --> 01:05:51.000
+If you do not have the appropriate channels, probably not.
+
+01:05:51.000 --> 01:05:55.000
+Therefore, no matter how great the KPI is,
+
+01:05:55.000 --> 01:05:59.000
+you should not have such a KPI.
+
+01:05:59.000 --> 01:06:03.000
+You should not have such a KPI,
+
+01:06:03.000 --> 01:06:07.000
+which will include a lot of additional indicators,
+
+01:06:07.000 --> 01:06:11.000
+and as a result, you will get confused
+
+01:06:11.000 --> 01:06:15.000
+what to multiply and what to divide.
+
+01:06:15.000 --> 01:06:19.000
+As a result, your KPI will be considered
+
+01:06:19.000 --> 01:06:23.000
+with a large number of errors.
+
+01:06:23.000 --> 01:06:27.000
+Therefore, do not complicate the calculation of the KPI.
+
+01:06:27.000 --> 01:06:31.000
+You should be sure that the owner of the business process
+
+01:06:31.000 --> 01:06:35.000
+can influence this KPI.
+
+01:06:35.000 --> 01:06:39.000
+For example, one client introduced a KPI
+
+01:06:39.000 --> 01:06:43.000
+called increasing the financial literacy
+
+01:06:43.000 --> 01:06:47.000
+of managers who worked with clients,
+
+01:06:47.000 --> 01:06:51.000
+that is, sellers.
+
+01:06:51.000 --> 01:06:55.000
+All this is great, but in the sales department
+
+01:06:55.000 --> 01:06:59.000
+the owner of the business process
+
+01:06:59.000 --> 01:07:03.000
+did not do this.
+
+01:07:03.000 --> 01:07:07.000
+And no one knew what documents to take from clients,
+
+01:07:07.000 --> 01:07:11.000
+where to carry them in terms of primary documentation,
+
+01:07:11.000 --> 01:07:15.000
+what terms, what information to provide to the accounting department.
+
+01:07:15.000 --> 01:07:19.000
+Therefore, it was impossible to introduce such a KPI
+
+01:07:19.000 --> 01:07:23.000
+to this business process.
+
+01:07:23.000 --> 01:07:27.000
+The next point is the limited number of KPIs.
+
+01:07:27.000 --> 01:07:31.000
+It is imperative to monitor the number of KPIs
+
+01:07:31.000 --> 01:07:35.000
+for one process.
+
+01:07:35.000 --> 01:07:39.000
+If you have 100 KPIs for each process,
+
+01:07:39.000 --> 01:07:43.000
+then the process of accounting for business processes
+
+01:07:43.000 --> 01:07:47.000
+will take so much time
+
+01:07:47.000 --> 01:07:51.000
+that it will not be paid off by any business process optimization.
+
+01:07:51.000 --> 01:07:55.000
+Usually, each process has no more than 5-7 KPIs.
+
+01:07:55.000 --> 01:07:59.000
+And balance is what I have already said.
+
+01:07:59.000 --> 01:08:03.000
+If you introduce KPIs for minimizing time,
+
+01:08:03.000 --> 01:08:07.000
+then you must balance it with quality and value.
+
+01:08:07.000 --> 01:08:11.000
+In other words, there should not be any side-effects.
+
+01:08:11.000 --> 01:08:15.000
+You should be sure that the process is improving
+
+01:08:15.000 --> 01:08:19.000
+not due to the deterioration of some other indicators,
+
+01:08:19.000 --> 01:08:23.000
+but due to the fact that the process is improving.
+
+01:08:23.000 --> 01:08:27.000
+For example, we had one client.
+
+01:08:27.000 --> 01:08:31.000
+She was engaged in audio-video production.
+
+01:08:31.000 --> 01:08:35.000
+And there was such a wonderful example.
+
+01:08:35.000 --> 01:08:39.000
+They wanted to reduce costs on glass storage,
+
+01:08:39.000 --> 01:08:43.000
+so they decided to deliver goods at night.
+
+01:08:43.000 --> 01:08:47.000
+So that the cars would not be stuck.
+
+01:08:47.000 --> 01:08:51.000
+But the staff refused to go out at night
+
+01:08:51.000 --> 01:08:55.000
+for obvious reasons.
+
+01:08:55.000 --> 01:08:59.000
+So they had to pay additional costs.
+
+01:08:59.000 --> 01:09:03.000
+As a result, they reduced the cost of glass storage,
+
+01:09:03.000 --> 01:09:07.000
+but at the same time they increased the costs for the staff.
+
+01:09:07.000 --> 01:09:11.000
+As a result, the effect was not even zero,
+
+01:09:11.000 --> 01:09:15.000
+but negative.
+
+01:09:15.000 --> 01:09:19.000
+So, the KPIs should be balanced.
+
+01:09:19.000 --> 01:09:23.000
+What criteria do you use to choose the indicators
+
+01:09:23.000 --> 01:09:27.000
+you will focus on?
+
+01:09:27.000 --> 01:09:31.000
+It's very simple.
+
+01:09:31.000 --> 01:09:35.000
+You evaluate the importance of a given KPI
+
+01:09:35.000 --> 01:09:39.000
+in accordance with the strategy of the company
+
+01:09:39.000 --> 01:09:43.000
+and the accounting cards of the company and your department.
+
+01:09:43.000 --> 01:09:47.000
+Then you can evaluate the problem of this KPI.
+
+01:09:47.000 --> 01:09:51.000
+You can see how much this KPI is now
+
+01:09:51.000 --> 01:09:55.000
+and how much you would like it to be.
+
+01:09:55.000 --> 01:09:59.000
+For this, you should look at the methodology
+
+01:09:59.000 --> 01:10:03.000
+of evaluating the problem of the business process.
+
+01:10:03.000 --> 01:10:07.000
+The most problematic and important KPIs
+
+01:10:07.000 --> 01:10:11.000
+should remain in the arsenal for managing a specific process.
+
+01:10:11.000 --> 01:10:15.000
+Therefore, when you have selected the best KPIs,
+
+01:10:15.000 --> 01:10:19.000
+you can freely, in addition to the regulations,
+
+01:10:19.000 --> 01:10:23.000
+write a page where the KPI indicator card
+
+01:10:23.000 --> 01:10:27.000
+will be included.
+
+01:10:27.000 --> 01:10:31.000
+This means that you write in each process
+
+01:10:31.000 --> 01:10:35.000
+what KPIs will allow you to measure the efficiency
+
+01:10:35.000 --> 01:10:39.000
+of the business process.
+
+01:10:39.000 --> 01:10:43.000
+In each process, you will write
+
+01:10:43.000 --> 01:10:47.000
+how it is calculated,
+
+01:10:47.000 --> 01:10:51.000
+who is responsible for collecting this information,
+
+01:10:51.000 --> 01:10:55.000
+in what units it is measured,
+
+01:10:55.000 --> 01:10:59.000
+what department is responsible for calculating the indicator,
+
+01:10:59.000 --> 01:11:03.000
+what is the value of the indicator,
+
+01:11:03.000 --> 01:11:07.000
+what is the plan, where the information is collected,
+
+01:11:07.000 --> 01:11:11.000
+and so on.
+
+01:11:11.000 --> 01:11:15.000
+You can see the indicator card on the corresponding slide.
+
+01:11:15.000 --> 01:11:19.000
+Therefore, if we talk about indicators,
+
+01:11:19.000 --> 01:11:23.000
+then in the regulations of each process they must be written.
+
+01:11:23.000 --> 01:11:27.000
+And you must have a single dictionary,
+
+01:11:27.000 --> 01:11:31.000
+where all the KPIs used must be listed
+
+01:11:31.000 --> 01:11:35.000
+and this information must be provided.
+
+01:11:35.000 --> 01:11:39.000
+This can be provided
+
+01:11:39.000 --> 01:11:43.000
+if it is some kind of information carrier,
+
+01:11:43.000 --> 01:11:47.000
+for example, a special program for accounting for KPIs.
+
+01:11:47.000 --> 01:11:51.000
+It can be a certain DERIO-KPI,
+
+01:11:51.000 --> 01:11:55.000
+that is, KPIs of the upper level,
+
+01:11:55.000 --> 01:11:59.000
+which are typed under the KPI and reach the lowest level.
+
+01:11:59.000 --> 01:12:03.000
+And then, when you click on a specific KPI,
+
+01:12:03.000 --> 01:12:07.000
+it will be easier to work with them.
+
+01:12:21.000 --> 01:12:25.000
+Now we can move on to the next section,
+
+01:12:25.000 --> 01:12:29.000
+which is called the Regulating Documents of the Business Process.
+
+01:12:29.000 --> 01:12:33.000
+As I said, it is impossible to live without the Regulations.
+
+01:12:33.000 --> 01:12:37.000
+Although few people like them,
+
+01:12:37.000 --> 01:12:41.000
+but they are useful,
+
+01:12:41.000 --> 01:12:45.000
+they are stored on shelves,
+
+01:12:45.000 --> 01:12:49.000
+no one knows about them and no one uses them.
+
+01:12:49.000 --> 01:12:53.000
+This situation can be fixed.
+
+01:12:53.000 --> 01:12:57.000
+When we went through the description of the business process,
+
+01:12:57.000 --> 01:13:01.000
+we worked on moving forward to the goal,
+
+01:13:01.000 --> 01:13:05.000
+to the benchmark for each business process.
+
+01:13:05.000 --> 01:13:09.000
+One day we will definitely achieve satisfactory results
+
+01:13:09.000 --> 01:13:13.000
+for each process.
+
+01:13:13.000 --> 01:13:17.000
+And then we can regulate this process.
+
+01:13:17.000 --> 01:13:21.000
+Why regulate business processes?
+
+01:13:21.000 --> 01:13:25.000
+Most often, people we meet
+
+01:13:25.000 --> 01:13:29.000
+are new employees.
+
+01:13:29.000 --> 01:13:33.000
+Or there is a controversial point,
+
+01:13:33.000 --> 01:13:37.000
+or it is necessary to change the current course of the business process.
+
+01:13:37.000 --> 01:13:41.000
+For these purposes, the Regulation is needed.
+
+01:13:41.000 --> 01:13:45.000
+It fixes a certain agreement
+
+01:13:45.000 --> 01:13:49.000
+between employees and companies
+
+01:13:49.000 --> 01:13:53.000
+on who behaves.
+
+01:13:53.000 --> 01:13:57.000
+This agreement is the tool
+
+01:13:57.000 --> 01:14:01.000
+of the influence of the boss on his subordinates.
+
+01:14:01.000 --> 01:14:05.000
+And what is written in the Regulation,
+
+01:14:05.000 --> 01:14:09.000
+the employee must do.
+
+01:14:09.000 --> 01:14:13.000
+If he does not do this,
+
+01:14:13.000 --> 01:14:17.000
+he does not comply with the agreement,
+
+01:14:17.000 --> 01:14:21.000
+and some punitive measures may be applied for this.
+
+01:14:21.000 --> 01:14:25.000
+And he will not be able to comply with the Regulation.
+
+01:14:25.000 --> 01:14:29.000
+The Regulation will allow you to make your company transparent.
+
+01:14:29.000 --> 01:14:33.000
+It will be clear who is responsible for what,
+
+01:14:33.000 --> 01:14:37.000
+what functions are responsible.
+
+01:14:37.000 --> 01:14:41.000
+Regulations can be developed not only for specific employees,
+
+01:14:41.000 --> 01:14:45.000
+as is often the case.
+
+01:14:45.000 --> 01:14:49.000
+They are developed at the corporate level,
+
+01:14:49.000 --> 01:14:53.000
+then at the department level,
+
+01:14:53.000 --> 01:14:57.000
+and finally at the employees' level.
+
+01:14:57.000 --> 01:15:01.000
+Therefore, Regulations are an integral part of the management process.
+
+01:15:01.000 --> 01:15:05.000
+What are Regulations?
+
+01:15:05.000 --> 01:15:09.000
+I think that each of you has a certain Regulation.
+
+01:15:09.000 --> 01:15:13.000
+Most often, 90% of cases,
+
+01:15:13.000 --> 01:15:17.000
+you have a structural Regulation.
+
+01:15:17.000 --> 01:15:21.000
+It is a kind of a system of regulations
+
+01:15:21.000 --> 01:15:25.000
+that is defined by the department,
+
+01:15:25.000 --> 01:15:29.000
+by the employees, by the departments,
+
+01:15:29.000 --> 01:15:33.000
+by the departments,
+
+01:15:33.000 --> 01:15:37.000
+by the departments,
+
+01:15:37.000 --> 01:15:41.000
+by the departments,
+
+01:15:41.000 --> 01:15:45.000
+by the departments,
+
+01:15:45.000 --> 01:15:49.000
+by the departments.
+
+01:15:49.000 --> 01:15:53.000
+Regulations are a kind of a system of rules
+
+01:15:53.000 --> 01:15:57.000
+that allow everybody to understand
+
+01:15:57.000 --> 01:16:01.000
+what processes are carried out in the company,
+
+01:16:01.000 --> 01:16:05.000
+on what conditions and on what rules they should be carried out.
+
+01:16:05.000 --> 01:16:09.000
+If a person comes to your company,
+
+01:16:09.000 --> 01:16:13.000
+he can freely familiarize himself with the business processes
+
+01:16:13.000 --> 01:16:17.000
+and understand the scheme of how it will all happen
+
+01:16:17.000 --> 01:16:21.000
+and for what purpose it will happen,
+
+01:16:21.000 --> 01:16:25.000
+because the result will be clear.
+
+01:16:25.000 --> 01:16:29.000
+And then he will receive a specific instruction
+
+01:16:29.000 --> 01:16:33.000
+on what he will do.
+
+01:16:33.000 --> 01:16:37.000
+This will be the structure of regulations.
+
+01:16:37.000 --> 01:16:41.000
+Thus, the process regulation allows you to understand
+
+01:16:41.000 --> 01:16:45.000
+the structure of the company.
+
+01:16:45.000 --> 01:16:49.000
+If we look at the structure of regulations in any company,
+
+01:16:49.000 --> 01:16:53.000
+let's say, we are talking about the structure of regulations,
+
+01:16:53.000 --> 01:16:57.000
+then the position in the organization is the highest level document.
+
+01:16:57.000 --> 01:17:01.000
+Then the position in the department,
+
+01:17:01.000 --> 01:17:05.000
+then in the department, and then the official instruction.
+
+01:17:05.000 --> 01:17:09.000
+If we move on to the process system of management,
+
+01:17:09.000 --> 01:17:13.000
+we will see that there are three main structures for the process system of regulation.
+
+01:17:13.000 --> 01:17:17.000
+The first one is the position on the business processes of the highest level.
+
+01:17:17.000 --> 01:17:21.000
+Then the position on each business process,
+
+01:17:21.000 --> 01:17:25.000
+then the position on the operation, and so on.
+
+01:17:25.000 --> 01:17:29.000
+Thus, the structure of regulations will allow us to understand
+
+01:17:29.000 --> 01:17:33.000
+the role of a person in an organization or department,
+
+01:17:33.000 --> 01:17:37.000
+and the process one will help us understand the role of this action,
+
+01:17:37.000 --> 01:17:41.000
+the overall process of the organization.
+
+01:17:41.000 --> 01:17:45.000
+Let's say, we have a position on the process of the highest level.
+
+01:17:45.000 --> 01:17:49.000
+Here are described the inputs and outputs of the process,
+
+01:17:49.000 --> 01:17:53.000
+the responsible ones,
+
+01:17:53.000 --> 01:17:57.000
+and from which procedures this process consists,
+
+01:17:57.000 --> 01:18:01.000
+if we speak roughly.
+
+01:18:01.000 --> 01:18:05.000
+Then we talk about each procedure that is included in this business process.
+
+01:18:05.000 --> 01:18:09.000
+And only then we talk about specific small operations.
+
+01:18:09.000 --> 01:18:13.000
+If we talk about the mistakes that are most often made by those who start the business processes regulation.
+
+01:18:23.000 --> 01:18:27.000
+Number one.
+
+01:18:27.000 --> 01:18:31.000
+The unreadability of documents.
+
+01:18:31.000 --> 01:18:35.000
+They are written in such a way that you don't want to do anything but cry when you look at them.
+
+01:18:39.000 --> 01:18:43.000
+You can only execute them from under the stick.
+
+01:18:43.000 --> 01:18:47.000
+Therefore, the document must be readable.
+
+01:18:47.000 --> 01:18:51.000
+Include schemes of business processes, normal interval,
+
+01:18:51.000 --> 01:18:55.000
+responsibilities, additional drawings.
+
+01:18:55.000 --> 01:18:59.000
+It must be readable.
+
+01:18:59.000 --> 01:19:03.000
+The more we include in this document, the better.
+
+01:19:03.000 --> 01:19:07.000
+It must be a clear structure and maximum usefulness for the user of this instruction or other regulations.
+
+01:19:11.000 --> 01:19:15.000
+The contradiction.
+
+01:19:15.000 --> 01:19:19.000
+Very often, when we get acquainted with the documentation of a specific client,
+
+01:19:19.000 --> 01:19:23.000
+we see that the same function is being executed in different departments by completely different performers.
+
+01:19:23.000 --> 01:19:27.000
+And when we come to a specific performer and ask him,
+
+01:19:27.000 --> 01:19:31.000
+he usually answers,
+
+01:19:31.000 --> 01:19:35.000
+I don't know where you got this instruction from, it's from the forgotten times.
+
+01:19:35.000 --> 01:19:39.000
+Therefore, the instructions, all regulations must be mutually exclusive.
+
+01:19:39.000 --> 01:19:43.000
+If your business process is described in a certain way,
+
+01:19:43.000 --> 01:19:47.000
+and it is written that the responsibility for such a business process is such and such,
+
+01:19:47.000 --> 01:19:51.000
+then, accordingly, in the position of the department,
+
+01:19:51.000 --> 01:19:55.000
+it must be repeated that it is responsible for the business process that is being executed.
+
+01:19:57.000 --> 01:20:01.000
+The difference in the structure of the business process is not indicated in the process regulations,
+
+01:20:01.000 --> 01:20:05.000
+but in the fact that the structure of the business process is completely different.
+
+01:20:05.000 --> 01:20:09.000
+There must be a single system.
+
+01:20:09.000 --> 01:20:13.000
+Next, the level of difference.
+
+01:20:13.000 --> 01:20:17.000
+It is imperative to observe this hierarchy.
+
+01:20:17.000 --> 01:20:21.000
+If we are talking about structural regulations,
+
+01:20:21.000 --> 01:20:25.000
+then it is the position of the department, then departments, groups and the official instruction.
+
+01:20:25.000 --> 01:20:29.000
+Then we will talk about processes, then about specific operations.
+
+01:20:29.000 --> 01:20:33.000
+No other way.
+
+01:20:33.000 --> 01:20:37.000
+Next, if you have agreed to the regulations,
+
+01:20:37.000 --> 01:20:41.000
+if you have signed it with employees, with the department, and so on,
+
+01:20:41.000 --> 01:20:45.000
+you must know who will regulate the implementation of this regulation of your company.
+
+01:20:45.000 --> 01:20:49.000
+This is not what you wrote and put on the shelf,
+
+01:20:49.000 --> 01:20:53.000
+otherwise it will be the same fate as in the current documentation.
+
+01:20:53.000 --> 01:20:57.000
+You will have to ask them regularly to implement this specific regulation.
+
+01:20:57.000 --> 01:21:01.000
+And for this control, you will need the same KPI that you have developed in the previous step.
+
+01:21:05.000 --> 01:21:09.000
+As a result, the documents must be used and used as effectively as possible.
+
+01:21:13.000 --> 01:21:17.000
+In other words, we have developed the situation as it should be in terms of business processes
+
+01:21:17.000 --> 01:21:21.000
+and in terms of the compliance of processes and structures.
+
+01:21:21.000 --> 01:21:25.000
+That is, we have ideally located the responsible and the executors,
+
+01:21:25.000 --> 01:21:29.000
+then we have created the process structure and the structural regulation,
+
+01:21:29.000 --> 01:21:33.000
+and then we start to implement it all and have a normal working organization at the output.
+
+01:21:37.000 --> 01:21:41.000
+If we list the main requirements for regulation,
+
+01:21:41.000 --> 01:21:45.000
+then it is imperative to set the level of regulation,
+
+01:21:45.000 --> 01:21:49.000
+again, to clearly specify the name of each regulation,
+
+01:21:49.000 --> 01:21:53.000
+for example, the status of the structure, the status of the department,
+
+01:21:53.000 --> 01:21:57.000
+the status of the department, the status of the official instruction.
+
+01:22:01.000 --> 01:22:05.000
+Then it is imperative to define the typical structure of each document.
+
+01:22:05.000 --> 01:22:09.000
+It should not be that in one document we start from point 1,
+
+01:22:09.000 --> 01:22:13.000
+this is the role of this department, for example,
+
+01:22:13.000 --> 01:22:17.000
+or this unit of some other level in the general structure of the organization,
+
+01:22:17.000 --> 01:22:21.000
+then the list of names of those who enter there,
+
+01:22:21.000 --> 01:22:25.000
+then the general functions, then some rights and duties,
+
+01:22:25.000 --> 01:22:27.000
+then something else.
+
+01:22:27.000 --> 01:22:31.000
+It should be a single list, a single structure for all absolute regulations,
+
+01:22:31.000 --> 01:22:33.000
+no matter if it is structural or procedural.
+
+01:22:33.000 --> 01:22:37.000
+For structural, one regulation is a supplement, for procedural, another.
+
+01:22:39.000 --> 01:22:43.000
+Further, a single style of regulation, that is, both structural and procedural regulations,
+
+01:22:43.000 --> 01:22:47.000
+they all should be written in a single style,
+
+01:22:47.000 --> 01:22:51.000
+not too sophisticated, but nevertheless quite simple to perceive in a formal style.
+
+01:22:51.000 --> 01:22:55.000
+And then the regulation should occur exclusively in accordance with the descriptions of business processes.
+
+01:22:57.000 --> 01:23:01.000
+Again, we remember that the processes are the primary,
+
+01:23:01.000 --> 01:23:05.000
+and the structure is later, therefore, first a procedural regulation is created,
+
+01:23:05.000 --> 01:23:07.000
+and only then a structural one.
+
+01:23:07.000 --> 01:23:11.000
+Let's look at an example of what the business process situation looks like.
+
+01:23:11.000 --> 01:23:15.000
+I will show you what to do in the following slide.
+
+01:23:15.000 --> 01:23:17.000
+Let's go through the points.
+
+01:23:17.000 --> 01:23:19.000
+First, the general situation.
+
+01:23:19.000 --> 01:23:23.000
+The goal, why this regulation is needed, the application area, the definition term.
+
+01:23:23.000 --> 01:23:25.000
+The definition term must be mandatory,
+
+01:23:25.000 --> 01:23:29.000
+because it is necessary for everyone to understand what is being discussed and speak the same language.
+
+01:23:31.000 --> 01:23:33.000
+Then there should be a description of the business process.
+
+01:23:35.000 --> 01:23:39.000
+The goal, all the work that is included in the business process, all the participants,
+
+01:23:39.000 --> 01:23:43.000
+the sequence of the work, and here, by the way, the scheme of the business process will be very relevant.
+
+01:23:45.000 --> 01:23:47.000
+The dates of the events that initiate this process,
+
+01:23:49.000 --> 01:23:51.000
+the dates of the events that end the business process,
+
+01:23:51.000 --> 01:23:53.000
+that is, what time they occur, how often,
+
+01:23:53.000 --> 01:23:55.000
+maybe once a month, once every six months, if there is such a thing.
+
+01:23:57.000 --> 01:24:01.000
+The duration of work, approximate, other characteristics.
+
+01:24:01.000 --> 01:24:03.000
+Next, the KPI.
+
+01:24:03.000 --> 01:24:05.000
+The KPI is exactly those that we talked about.
+
+01:24:05.000 --> 01:24:09.000
+With links you can make a proposal for a specific indicator map of each.
+
+01:24:09.000 --> 01:24:13.000
+Next, the responsibility for the implementation of the regulations.
+
+01:24:13.000 --> 01:24:17.000
+It is necessary to write who is responsible for the business process.
+
+01:24:17.000 --> 01:24:19.000
+It does not matter whether it is a business process,
+
+01:24:19.000 --> 01:24:23.000
+or an operation, or a business process of the upper level, or a structural regulation.
+
+01:24:23.000 --> 01:24:25.000
+The structures are approximately the same.
+
+01:24:25.000 --> 01:24:29.000
+Next, the order of making changes in the business process.
+
+01:24:29.000 --> 01:24:31.000
+How to change the business process.
+
+01:24:31.000 --> 01:24:33.000
+How often, who is responsible for this.
+
+01:24:33.000 --> 01:24:37.000
+This must also be, because the situation, like any regulation, must be reviewed.
+
+01:24:37.000 --> 01:24:39.000
+And the form of the documents.
+
+01:24:39.000 --> 01:24:43.000
+That is, in what form the owner of this business process will be reported on its work, its effectiveness.
+
+01:24:43.000 --> 01:24:47.000
+You can also make a business process scheme in the application.
+
+01:24:47.000 --> 01:24:51.000
+For example, you can make a scheme for the implementation of the business process.
+
+01:24:51.000 --> 01:24:55.000
+You can make a scheme for the implementation of the business process.
+
+01:24:55.000 --> 01:24:59.000
+You can also make a business process scheme in the application.
+
+01:24:59.000 --> 01:25:03.000
+If you do not want to make them directly in the body of the regulation.
+
+01:25:03.000 --> 01:25:05.000
+It is at your discretion.
+
+01:25:05.000 --> 01:25:07.000
+Accordingly, in this way, in this way, in this way,
+
+01:25:07.000 --> 01:25:09.000
+absolutely any regulation is made.
+
+01:25:09.000 --> 01:25:11.000
+Whether it is a business process of the upper level,
+
+01:25:11.000 --> 01:25:13.000
+just a business process, or some kind of operation.
+
+01:25:13.000 --> 01:25:15.000
+The main thing is in a single way.
+
+01:25:25.000 --> 01:25:29.000
+Business process.
+
+01:25:29.000 --> 01:25:33.000
+And now the most important part.
+
+01:25:33.000 --> 01:25:37.000
+For those who want to track the business process and its cost.
+
+01:25:37.000 --> 01:25:41.000
+I am sure that in any company there is a accounting, a management accounting.
+
+01:25:41.000 --> 01:25:43.000
+In one way or another.
+
+01:25:43.000 --> 01:25:49.000
+Now, with the transition to the process management system of companies,
+
+01:25:49.000 --> 01:25:53.000
+the interest in the ABC analysis is growing.
+
+01:25:53.000 --> 01:25:55.000
+Activity-based costing.
+
+01:25:55.000 --> 01:25:59.000
+That is, the operating system of accounting for the company's costs.
+
+01:25:59.000 --> 01:26:03.000
+This means that all the costs of the company,
+
+01:26:03.000 --> 01:26:05.000
+no matter how constant or variable,
+
+01:26:05.000 --> 01:26:09.000
+are attracted to each specific process.
+
+01:26:09.000 --> 01:26:11.000
+And are taken into account in each specific process.
+
+01:26:11.000 --> 01:26:15.000
+And you can say boldly how much each process costs.
+
+01:26:15.000 --> 01:26:19.000
+It does not matter whether it is a taxable expense or not.
+
+01:26:19.000 --> 01:26:23.000
+The main thing is that you can track the dynamics of each process,
+
+01:26:23.000 --> 01:26:25.000
+its cost and calculate it.
+
+01:26:25.000 --> 01:26:31.000
+Yes, of course, such a system of operating accounting for costs is more difficult than usual.
+
+01:26:31.000 --> 01:26:33.000
+But there is nothing impossible.
+
+01:26:33.000 --> 01:26:35.000
+How does it happen?
+
+01:26:35.000 --> 01:26:37.000
+And what advantages does it give?
+
+01:26:37.000 --> 01:26:39.000
+What advantages?
+
+01:26:39.000 --> 01:26:41.000
+Probably, this is already clear.
+
+01:26:41.000 --> 01:26:49.000
+Now, each process will be evaluated from the point of view of all types of costs that only exist in the company.
+
+01:26:49.000 --> 01:26:53.000
+Accordingly, you can easily see how much the process costs,
+
+01:26:53.000 --> 01:26:57.000
+how much each operation that is included in it costs,
+
+01:26:57.000 --> 01:27:01.000
+what type of costs are these costs.
+
+01:27:01.000 --> 01:27:05.000
+For example, it is costs for staff, costs for equipment, costs for the office,
+
+01:27:05.000 --> 01:27:07.000
+or costs for software,
+
+01:27:07.000 --> 01:27:10.000
+or costs for, excuse me, the salary of the manager,
+
+01:27:10.000 --> 01:27:14.000
+which you have to control your actions because you can't handle it.
+
+01:27:14.000 --> 01:27:23.000
+It is the operating system of accounting for costs that will allow your company to control the costs of each process.
+
+01:27:23.000 --> 01:27:25.000
+How to create it?
+
+01:27:25.000 --> 01:27:29.000
+First, you need to describe the business process.
+
+01:27:29.000 --> 01:27:30.000
+This is clear.
+
+01:27:30.000 --> 01:27:36.000
+Then you need to create a system of structure of costs for your company.
+
+01:27:36.000 --> 01:27:40.000
+Describe all types of costs of the company that you have.
+
+01:27:40.000 --> 01:27:50.000
+Assign them units and measurements, for example, grams, rubles, dollars, hours, minutes, etc.
+
+01:27:50.000 --> 01:27:52.000
+It all depends on the type of resource.
+
+01:27:52.000 --> 01:28:01.000
+Next, create a structure with centers of costs, assign each center of costs in the monetary expression.
+
+01:28:02.000 --> 01:28:08.000
+Next, create a process diagram, if you haven't created it yet,
+
+01:28:08.000 --> 01:28:12.000
+and calculate the time of each function.
+
+01:28:12.000 --> 01:28:15.000
+Next, check.
+
+01:28:15.000 --> 01:28:21.000
+Next, create a corresponding table with analytics.
+
+01:28:21.000 --> 01:28:24.000
+And then create a diagram of the business process.
+
+01:28:24.000 --> 01:28:27.000
+Let's take an example of how it happens.
+
+01:28:28.000 --> 01:28:36.000
+Let's say we have a trading company that sells tea, furniture, and clothes.
+
+01:28:36.000 --> 01:28:38.000
+It's the same Evrika.
+
+01:28:38.000 --> 01:28:41.000
+What types of costs does it have?
+
+01:28:41.000 --> 01:28:44.000
+We won't consider all types of costs.
+
+01:28:44.000 --> 01:28:47.000
+Let's take, for example, costs for staff.
+
+01:28:47.000 --> 01:28:49.000
+This is the first one.
+
+01:28:49.000 --> 01:28:51.000
+Costs for rent.
+
+01:28:51.000 --> 01:28:53.000
+This is the second one.
+
+01:28:53.000 --> 01:28:59.000
+Of course, there are costs for software, for buying materials, etc.
+
+01:28:59.000 --> 01:29:02.000
+Let's deal with these two types of costs.
+
+01:29:02.000 --> 01:29:07.000
+Costs for staff and costs for rent.
+
+01:29:07.000 --> 01:29:11.000
+How will these costs be measured?
+
+01:29:11.000 --> 01:29:17.000
+It's clear that costs for staff will be measured in hours.
+
+01:29:17.000 --> 01:29:24.000
+How many hours does a particular employee spend on the execution of a particular process?
+
+01:29:24.000 --> 01:29:26.000
+Costs for rent.
+
+01:29:26.000 --> 01:29:33.000
+How many square meters is needed to carry out this business process?
+
+01:29:33.000 --> 01:29:40.000
+Let's take a business process as an example.
+
+01:29:40.000 --> 01:29:46.000
+Let's say, our favorite one, the purchase of a product.
+
+01:29:47.000 --> 01:29:51.000
+Let's break it down into sub-processes.
+
+01:29:51.000 --> 01:29:57.000
+Let's say, the purchase of a product consists of the following sub-processes.
+
+01:29:57.000 --> 01:30:03.000
+This is the application to the supplier,
+
+01:30:03.000 --> 01:30:06.000
+consolidation of all applications into a single application,
+
+01:30:06.000 --> 01:30:12.000
+then, number three, is the submission of the application to the supplier,
+
+01:30:12.000 --> 01:30:17.000
+number four, is the work with the advertising,
+
+01:30:17.000 --> 01:30:20.000
+if the supplier has submitted the application or not,
+
+01:30:20.000 --> 01:30:25.000
+and number five, is the selection of suppliers,
+
+01:30:25.000 --> 01:30:29.000
+the work with the suppliers, in other words, monitoring of the supplier's market.
+
+01:30:29.000 --> 01:30:40.000
+Let's take a consolidation of applications as an example.
+
+01:30:40.000 --> 01:30:43.000
+We'll consider its cost.
+
+01:30:43.000 --> 01:30:46.000
+Similarly, we'll evaluate the cost of all other sub-processes,
+
+01:30:46.000 --> 01:30:49.000
+then, we'll add up all the costs of sub-processes
+
+01:30:49.000 --> 01:30:52.000
+to get the cost of the whole business process of the purchase.
+
+01:30:52.000 --> 01:30:58.000
+Then, we'll calculate the cost of business processes of sales and production.
+
+01:30:58.000 --> 01:31:02.000
+Then, we'll add all this up and get the cost of the business process of trade,
+
+01:31:02.000 --> 01:31:04.000
+for example, with a particular product.
+
+01:31:04.000 --> 01:31:08.000
+We'll calculate the cost of any business process in our trading company.
+
+01:31:09.000 --> 01:31:15.000
+Of course, there are different payment systems.
+
+01:31:15.000 --> 01:31:18.000
+For example, we can go from the bottom up, as we are doing now.
+
+01:31:18.000 --> 01:31:23.000
+We go from operations, from small sub-processes to business processes of the upper level.
+
+01:31:23.000 --> 01:31:25.000
+We can go the other way around.
+
+01:31:25.000 --> 01:31:27.000
+We can go from the top to the bottom.
+
+01:31:27.000 --> 01:31:30.000
+First, we'll determine the cost of business processes of the upper level,
+
+01:31:30.000 --> 01:31:32.000
+and then go down.
+
+01:31:32.000 --> 01:31:39.000
+As practice shows, the second method is less clear, less detailed, less accurate.
+
+01:31:39.000 --> 01:31:46.000
+Because it is very easy to estimate the costs of business processes of the upper level,
+
+01:31:46.000 --> 01:31:52.000
+until you understand their structure, their composition, all operations that are included in them.
+
+01:31:52.000 --> 01:31:55.000
+So, we'll go from the bottom up.
+
+01:31:55.000 --> 01:32:01.000
+We'll see how the cost of a particular sub-process of consolidation of applications is evaluated.
+
+01:32:01.000 --> 01:32:07.000
+Then, we'll see how the cost of a business process of procurement is calculated, and so on.
+
+01:32:07.000 --> 01:32:11.000
+So, we have determined that we have specific resources,
+
+01:32:11.000 --> 01:32:18.000
+while we have limited ourselves only to the costs of personnel and rent.
+
+01:32:18.000 --> 01:32:27.000
+We have determined that we will now calculate the specific cost of a specific sub-process of consolidation of applications.
+
+01:32:27.000 --> 01:32:34.000
+If we refer to the specific scheme of calculation of costs for the execution of a process,
+
+01:32:34.000 --> 01:32:37.000
+or rather a sub-process of consolidation of applications,
+
+01:32:37.000 --> 01:32:40.000
+then, accordingly, we can imagine the following structure.
+
+01:32:40.000 --> 01:32:44.000
+For simplicity, let's take just a couple of operations that are included in it.
+
+01:32:44.000 --> 01:32:50.000
+This is the submission of applications to departments, this is the processing of applications, and then consolidation.
+
+01:32:50.000 --> 01:32:55.000
+How does the mechanism of calculating the cost of this sub-process work?
+
+01:32:55.000 --> 01:33:01.000
+We remember that we agreed to consider only the costs of personnel and rent.
+
+01:33:01.000 --> 01:33:04.000
+So, let's look at the costs of personnel.
+
+01:33:04.000 --> 01:33:14.000
+Here, the department spends about three hours in total to prepare applications for the procurement of materials.
+
+01:33:14.000 --> 01:33:18.000
+Their hour costs about 180 rubles.
+
+01:33:19.000 --> 01:33:22.000
+The same applies to the processing of applications.
+
+01:33:22.000 --> 01:33:25.000
+This is one hour for the manager to process the applications.
+
+01:33:25.000 --> 01:33:31.000
+Based on the cost of the procurement, we consider that 180 rubles is equivalent to one hour of work.
+
+01:33:31.000 --> 01:33:33.000
+The same applies to consolidation.
+
+01:33:33.000 --> 01:33:35.000
+Now, let's look at the cost of rental.
+
+01:33:35.000 --> 01:33:39.000
+Let's say that our managers who form applications for the procurement of materials
+
+01:33:39.000 --> 01:33:42.000
+are located in a room about 10 square meters.
+
+01:33:42.000 --> 01:33:46.000
+We know that they spend about three hours to do all this.
+
+01:33:46.000 --> 01:33:48.000
+We know how much a year's rent costs.
+
+01:33:48.000 --> 01:33:51.000
+Accordingly, we can calculate how much it costs per hour.
+
+01:33:51.000 --> 01:34:01.000
+And, accordingly, we can know that every manager sitting in a 10 square meter office spends three hours.
+
+01:34:01.000 --> 01:34:04.000
+We know how much a rent costs per hour.
+
+01:34:04.000 --> 01:34:08.000
+We can calculate the costs for the place, for the room.
+
+01:34:08.000 --> 01:34:12.000
+We add this and this and get the sum for this operation.
+
+01:34:12.000 --> 01:34:15.000
+The same thing happens here, the same thing happens here.
+
+01:34:15.000 --> 01:34:19.000
+As a result, our consolidation costs 6,000 rubles.
+
+01:34:19.000 --> 01:34:25.000
+This is already something, because now we can know that this operation is not just some kind of amorphous,
+
+01:34:25.000 --> 01:34:29.000
+but consists of quite certain costs.
+
+01:34:29.000 --> 01:34:35.000
+And we can track why the cost of this operation has increased, for example, by the end of the year,
+
+01:34:35.000 --> 01:34:43.000
+if someone suddenly began to perform their functions longer, or someone moved to a larger office.
+
+01:34:43.000 --> 01:34:50.000
+In any case, everything here is tied to the time that employees spend on the business process.
+
+01:34:50.000 --> 01:34:57.000
+This means that the main criterion for the cost of the business process is the time that is spent on its implementation.
+
+01:34:57.000 --> 01:35:00.000
+When we know how much such a process costs,
+
+01:35:00.000 --> 01:35:04.000
+we can easily calculate the cost of other processes in the same way,
+
+01:35:04.000 --> 01:35:08.000
+add up the cost of the business process and purchase,
+
+01:35:08.000 --> 01:35:14.000
+the cost of production, the cost of sales, and we can calculate the cost of the business process,
+
+01:35:14.000 --> 01:35:16.000
+trade, some products.
+
+01:35:16.000 --> 01:35:23.000
+Then calculate the business process, financial accounting, strategic management,
+
+01:35:23.000 --> 01:35:26.000
+all the processes of the company at the top level.
+
+01:35:26.000 --> 01:35:29.000
+We add up everything and get the sum of costs per company.
+
+01:35:29.000 --> 01:35:36.000
+Then the manager can easily drill the processes to the lowest level.
+
+01:35:36.000 --> 01:35:42.000
+For example, we have a business process of the highest level of purchase.
+
+01:35:42.000 --> 01:35:47.000
+Suddenly, at the end of the year, its cost has increased sharply, for example, by 20%.
+
+01:35:47.000 --> 01:35:49.000
+What is the reason?
+
+01:35:49.000 --> 01:35:56.000
+The head of the purchase department reveals the cost of the processes in this business process.
+
+01:35:56.000 --> 01:36:00.000
+As a result, the consolidation of applications has increased by 30%.
+
+01:36:00.000 --> 01:36:02.000
+Why?
+
+01:36:02.000 --> 01:36:07.000
+For example, one of the managers began to process applications much slower.
+
+01:36:07.000 --> 01:36:08.000
+What is the reason?
+
+01:36:08.000 --> 01:36:11.000
+For example, someone quit, a newbie came and has not yet mastered.
+
+01:36:11.000 --> 01:36:16.000
+It is clear that such a temporary and emergency reason should not be taken.
+
+01:36:16.000 --> 01:36:19.000
+The same applies to absolutely any process.
+
+01:36:19.000 --> 01:36:24.000
+Only here, in addition to the cost of rent and salary,
+
+01:36:24.000 --> 01:36:29.000
+other costs will be added, such as materials, IT, and so on.
+
+01:36:29.000 --> 01:36:35.000
+Such a process account allows the company to know how much each process, each operation costs
+
+01:36:35.000 --> 01:36:38.000
+and what should be paid attention to reduce this cost.
+
+01:36:38.000 --> 01:36:43.000
+Accordingly, knowing all the costs of the processes,
+
+01:36:43.000 --> 01:36:49.000
+the head of the corporation can easily track the cause of the cost increase
+
+01:36:49.000 --> 01:36:51.000
+up to each small operation.
+
+01:36:51.000 --> 01:36:53.000
+It is very convenient and fast.
+
+01:36:59.000 --> 01:37:04.000
+Now, considering the process approach we have discussed today,
+
+01:37:04.000 --> 01:37:11.000
+a few words about how the project on building a process management system in the company should be built.
+
+01:37:11.000 --> 01:37:15.000
+First, everything starts with the organization of work.
+
+01:37:15.000 --> 01:37:20.000
+Without a specific plan of events, without a team of participants,
+
+01:37:20.000 --> 01:37:26.000
+determined by the company, it is impossible to create any project,
+
+01:37:26.000 --> 01:37:31.000
+including a project on building a process management system in the company.
+
+01:37:31.000 --> 01:37:35.000
+Then, when the structure of the participants is determined,
+
+01:37:35.000 --> 01:37:37.000
+the detailed plan of the project,
+
+01:37:37.000 --> 01:37:42.000
+it is now possible to distribute the roles, who will be responsible for what,
+
+01:37:42.000 --> 01:37:46.000
+and set the approximate deadlines, what deadlines will be fulfilled.
+
+01:37:46.000 --> 01:37:49.000
+Now, when the organization of work in the project is clear,
+
+01:37:49.000 --> 01:37:52.000
+it is possible to start describing the business processes.
+
+01:37:52.000 --> 01:37:55.000
+At the first stage, you attract external consultants,
+
+01:37:55.000 --> 01:37:59.000
+they must also be taken into account as part of the project participants.
+
+01:37:59.000 --> 01:38:04.000
+And, of course, the organization of work must be approved by them too.
+
+01:38:04.000 --> 01:38:07.000
+When we move on to point 2, the description of the business processes in the company,
+
+01:38:07.000 --> 01:38:09.000
+we already know how it is done.
+
+01:38:09.000 --> 01:38:13.000
+First, the company strategy must be known,
+
+01:38:13.000 --> 01:38:17.000
+then the description of the business processes of the upper level,
+
+01:38:17.000 --> 01:38:21.000
+then the description of the business processes of the lower level,
+
+01:38:21.000 --> 01:38:26.000
+and then, if necessary, the description of the business processes of the higher level.
+
+01:38:26.000 --> 01:38:31.000
+Next, the key indicators of the efficiency of the business processes are developed.
+
+01:38:31.000 --> 01:38:33.000
+We remember that for this purpose,
+
+01:38:33.000 --> 01:38:36.000
+it is necessary to first analyze the business processes
+
+01:38:36.000 --> 01:38:40.000
+by the criteria of importance, problem-solving, and the possibility of making changes.
+
+01:38:40.000 --> 01:38:41.000
+By three criteria.
+
+01:38:41.000 --> 01:38:43.000
+First, we must select the most basic ones,
+
+01:38:43.000 --> 01:38:46.000
+develop a plan of actions to improve them,
+
+01:38:46.000 --> 01:38:51.000
+and then, for all processes, including those that are the number one candidate for optimization,
+
+01:38:51.000 --> 01:38:53.000
+develop a KPI.
+
+01:38:53.000 --> 01:38:58.000
+We must remember that we must also develop a map of indicators to use it correctly.
+
+01:38:58.000 --> 01:39:03.000
+Next, when it is developed, we move on to regulation.
+
+01:39:03.000 --> 01:39:06.000
+I must say right away that before regulation,
+
+01:39:06.000 --> 01:39:10.000
+we must already complete a certain optimization of the most critical business processes.
+
+01:39:10.000 --> 01:39:15.000
+Otherwise, how can we regulate a process that is still far from optimal?
+
+01:39:15.000 --> 01:39:17.000
+This is an unnecessary waste of time.
+
+01:39:17.000 --> 01:39:18.000
+We have already described it.
+
+01:39:18.000 --> 01:39:20.000
+We do not need a full-fledged regulation on it.
+
+01:39:20.000 --> 01:39:23.000
+Therefore, we optimized the most critical main processes.
+
+01:39:23.000 --> 01:39:28.000
+Next, we wrote process regulations for them and for all the others.
+
+01:39:28.000 --> 01:39:32.000
+First, the process regulations, starting with the business processes of the upper level,
+
+01:39:32.000 --> 01:39:34.000
+then to the business processes regulations,
+
+01:39:34.000 --> 01:39:38.000
+and then to the regulations of various operations, and so on.
+
+01:39:38.000 --> 01:39:41.000
+Then we move on to the composition of structural regulations,
+
+01:39:41.000 --> 01:39:45.000
+from the organizational structure to the position of the unit,
+
+01:39:45.000 --> 01:39:50.000
+and then to the lowest level, that is, to the official instructions of specific people.
+
+01:39:50.000 --> 01:39:53.000
+And finally, the very last thing.
+
+01:39:53.000 --> 01:39:58.000
+When we have done all this, we must be sure that this is not a one-time project,
+
+01:39:58.000 --> 01:40:02.000
+but a process, a process of business processes management.
+
+01:40:02.000 --> 01:40:07.000
+In order to constantly optimize and manage business processes,
+
+01:40:07.000 --> 01:40:09.000
+you need to do a couple of things.
+
+01:40:09.000 --> 01:40:16.000
+First, you need to develop, describe, regulate the business processes,
+
+01:40:16.000 --> 01:40:18.000
+business processes management.
+
+01:40:18.000 --> 01:40:22.000
+That is, it is also necessary to create it, regulate it,
+
+01:40:22.000 --> 01:40:25.000
+and be sure to assign responsible participants, and so on.
+
+01:40:25.000 --> 01:40:29.000
+Be sure to have a structure of documentation, a form of accountability.
+
+01:40:29.000 --> 01:40:34.000
+Then this regulation must be implemented,
+
+01:40:34.000 --> 01:40:36.000
+that is, made available to everyone,
+
+01:40:36.000 --> 01:40:38.000
+and necessarily to the performers.
+
+01:40:38.000 --> 01:40:46.000
+And then, it is necessary to train specialists who will be involved in the process management system
+
+01:40:46.000 --> 01:40:48.000
+to constantly maintain a living state.
+
+01:40:48.000 --> 01:40:54.000
+It is necessary to constantly upgrade the description of business processes.
+
+01:40:54.000 --> 01:40:59.000
+It is necessary to associate with the subdivisions the subject of changing the description of processes,
+
+01:40:59.000 --> 01:41:04.000
+changing the regulations, changing the key indicators of efficiency, and so on.
+
+01:41:05.000 --> 01:41:09.000
+Only with the fifth point, that is, the implementation of the process management system
+
+01:41:09.000 --> 01:41:12.000
+and the creation of a business process management system,
+
+01:41:12.000 --> 01:41:15.000
+it will be possible to say that your organization,
+
+01:41:15.000 --> 01:41:19.000
+process management system, has been built and will live for many years.
+
+01:41:19.000 --> 01:41:22.000
+The video course on operational management is over.
+
+01:41:22.000 --> 01:41:26.000
+Today we have introduced you to the process management system,
+
+01:41:26.000 --> 01:41:29.000
+how to allocate business processes, how to describe them,
+
+01:41:29.000 --> 01:41:32.000
+how to optimize and analyze them,
+
+01:41:32.000 --> 01:41:35.000
+how to regulate business processes,
+
+01:41:35.000 --> 01:41:38.000
+how to create business process QPI,
+
+01:41:38.000 --> 01:41:39.000
+and so on.
+
+01:41:39.000 --> 01:41:42.000
+And now, I would like to invite you to watch the video
+
+01:41:42.000 --> 01:41:47.000
+on how to optimize and analyze, how to regulate business processes,
+
+01:41:47.000 --> 01:41:50.000
+how to create business process QPI,
+
+01:41:50.000 --> 01:41:52.000
+how to assess the cost of business processes,
+
+01:41:52.000 --> 01:41:56.000
+and most importantly, how to implement the project on the implementation of the process management system.
+
+01:41:56.000 --> 01:41:58.000
+With this, let me say goodbye.
+
+01:41:58.000 --> 01:42:03.000
+I wish you all the best and success in the implementation of the process management system of your company.

@@ -1,0 +1,3604 @@
+WEBVTT
+
+00:00.000 --> 00:03.760
+What is the next block?
+
+00:03.760 --> 00:10.200
+The next topic, the next block that we will consider is information security.
+
+00:10.200 --> 00:18.000
+Information security, I have already said, is a state of security of information resources of a company
+
+00:18.000 --> 00:27.680
+achieved by means of a set of measures, I draw your attention to the set of measures, aimed at the protection of information.
+
+00:27.680 --> 00:37.680
+If we are writing down information resources, here is the information,
+
+00:37.680 --> 00:51.680
+it is divided into two large groups, these are open information resources,
+
+00:51.680 --> 01:04.680
+that is, information resources that have no access restrictions.
+
+01:04.680 --> 01:09.680
+As a rule, it is regulated by the law on the means of mass information,
+
+01:09.680 --> 01:17.680
+and everything that concerns open information resources is not subject to information security.
+
+01:18.680 --> 01:22.680
+And this is an information resource with limited access.
+
+01:22.680 --> 01:32.680
+Let's call it that way, information with limited access.
+
+01:32.680 --> 01:40.680
+Information with limited access is divided into two large groups,
+
+01:40.680 --> 01:55.680
+this is state secret, this is confidential information.
+
+01:55.680 --> 02:05.680
+Confidential information.
+
+02:05.680 --> 02:11.680
+This is at the level of state information resources.
+
+02:11.680 --> 02:15.680
+State secret is clear, there is a law on state secrets,
+
+02:15.680 --> 02:19.680
+certain licenses are required, certain rules must be observed,
+
+02:19.680 --> 02:23.680
+this is not a subject of our classes, our seminars.
+
+02:23.680 --> 02:25.680
+Confidential information.
+
+02:25.680 --> 02:27.680
+What is confidential information?
+
+02:27.680 --> 02:35.680
+There is a presidential decree, 188, on the approval of the list of confidential information,
+
+02:35.680 --> 02:39.680
+where it is written what confidential information is.
+
+02:39.680 --> 02:44.680
+What is confidential information?
+
+02:44.680 --> 02:52.680
+The first is personal data.
+
+02:52.680 --> 02:58.680
+This is information about the facts, events and circumstances in a citizen's private life,
+
+02:58.680 --> 03:00.680
+which allows you to identify his personality.
+
+03:00.680 --> 03:07.680
+Just six months ago, the law on personal data was introduced,
+
+03:07.680 --> 03:13.680
+where the rules of the game are prescribed on the market of personal data.
+
+03:13.680 --> 03:19.680
+Personal data is protected,
+
+03:19.680 --> 03:25.680
+and those organizations that face personal data must protect personal data.
+
+03:25.680 --> 03:29.680
+In principle, any employer faces personal data,
+
+03:29.680 --> 03:35.680
+so any employer must take measures to protect personal data of its employees.
+
+03:35.680 --> 03:43.680
+There are articles in the Labor Code on personal data,
+
+03:43.680 --> 03:47.680
+or rather on the protection of personal data of the employer.
+
+03:47.680 --> 03:55.680
+Unfortunately, we must note that personal data is not well protected,
+
+03:55.680 --> 04:01.680
+so a large number of personal data in semi-legal form is presented on the market
+
+04:01.680 --> 04:05.680
+as part of some kind of personal data.
+
+04:05.680 --> 04:07.680
+Nevertheless, this is an objective reality,
+
+04:07.680 --> 04:11.680
+and I think that in time, order will be established here.
+
+04:11.680 --> 04:13.680
+What is it?
+
+04:13.680 --> 04:21.680
+This is a commercial secret.
+
+04:21.680 --> 04:27.680
+I will talk about the commercial secret in more detail later.
+
+04:27.680 --> 04:33.680
+There is a commercial secret law,
+
+04:33.680 --> 04:41.680
+that is, there are rules of the game regarding how the commercial secret should be kept.
+
+04:41.680 --> 04:49.680
+It should be borne in mind that any commercial structure can have a commercial secret.
+
+04:49.680 --> 04:53.680
+This is legal information that represents a commercial value,
+
+04:53.680 --> 04:59.680
+and this information can be in the company.
+
+04:59.680 --> 05:05.680
+The next one is the so-called service secret.
+
+05:05.680 --> 05:13.680
+This is a service secret.
+
+05:13.680 --> 05:19.680
+There is a concept of a service secret,
+
+05:19.680 --> 05:25.680
+but unfortunately, there is no law on the service secret at the legislative level,
+
+05:25.680 --> 05:31.680
+so you can only guess what a service secret is.
+
+05:31.680 --> 05:35.680
+In fact, this is information of state bodies,
+
+05:35.680 --> 05:39.680
+which are subject to the closure of state bodies,
+
+05:39.680 --> 05:41.680
+but do not fall under the regime of the state secret.
+
+05:41.680 --> 05:47.680
+In a simplified version, this is the so-called DSP bar for service use.
+
+05:47.680 --> 05:53.680
+As a rule, the service secret is related to the work of state bodies.
+
+05:53.680 --> 05:59.680
+What else falls under confidential information?
+
+05:59.680 --> 06:05.680
+Under confidential information, there are so-called professional secrets.
+
+06:05.680 --> 06:13.680
+Professional secret.
+
+06:13.680 --> 06:19.680
+Professional secret is where there is a certain profession.
+
+06:19.680 --> 06:25.680
+At the legislative level, there are about 15 types of secrets related to certain professions.
+
+06:25.680 --> 06:33.680
+The most common are the notary secret, the lawyer's secret, the medical secret, and so on.
+
+06:33.680 --> 06:39.680
+This is also a section of confidential information.
+
+06:39.680 --> 06:43.680
+This is a confidential matter of the shipyard.
+
+06:43.680 --> 07:11.680
+This is confidential information about the essence of the invention,
+
+07:11.680 --> 07:15.680
+the use of the model or industrial sample.
+
+07:15.680 --> 07:25.680
+This is so-called confidential information.
+
+07:25.680 --> 07:31.680
+I will stop at the commercial secret.
+
+07:31.680 --> 07:35.680
+This is a direction of activity.
+
+07:35.680 --> 07:43.680
+Many organizations are forming a commercial secret regime.
+
+07:43.680 --> 07:49.680
+This activity arose after the adoption of the commercial secret law.
+
+07:49.680 --> 07:53.680
+There are already certain developments that can be shared.
+
+07:53.680 --> 08:07.680
+I will write it in abbreviated form.
+
+08:07.680 --> 08:19.680
+The commercial secret.
+
+08:19.680 --> 08:27.680
+The commercial secret appeared not yesterday and not 10 years ago.
+
+08:27.680 --> 08:33.680
+At the level of the Russian state, before the revolution, there was a concept of a production secret.
+
+08:33.680 --> 08:37.680
+In fact, this is a commercial secret.
+
+08:37.680 --> 08:43.680
+After the revolution of 1917, there was a concept of a commercial secret.
+
+08:43.680 --> 08:49.680
+Commercial activity was developed during the NEP.
+
+08:49.680 --> 08:59.680
+After the NEP, when commercial activity ceased to exist, the concept of a commercial secret was abolished.
+
+08:59.680 --> 09:05.680
+In 1990, when a new regulatory base was created,
+
+09:05.680 --> 09:11.680
+when the law on the basis of business activity in the USSR was adopted,
+
+09:11.680 --> 09:17.680
+the concept of a commercial secret was born.
+
+09:17.680 --> 09:21.680
+The Civil Code has an entire article on the commercial secret.
+
+09:21.680 --> 09:29.680
+This article regulates the existence of a commercial secret,
+
+09:29.680 --> 09:35.680
+the possibility of protecting the commercial secret in all legal ways,
+
+09:35.680 --> 09:41.680
+and the responsibility for the disclosure of the commercial secret.
+
+09:41.680 --> 09:47.680
+These are the three fundamental points that are in the Civil Code on the commercial secret.
+
+09:47.680 --> 09:51.680
+At the level of the law, this problem also arose in the 1990s.
+
+09:51.680 --> 09:57.680
+Somewhere in 1998, the commercial secret bill existed.
+
+09:57.680 --> 10:05.680
+It was not fully implemented.
+
+10:05.680 --> 10:11.680
+The commercial secret law was implemented only in 2004,
+
+10:11.680 --> 10:17.680
+when it was signed by the President.
+
+10:17.680 --> 10:23.680
+What does it say?
+
+10:23.680 --> 10:29.680
+What do I want to draw your attention to when we talk about the commercial secret law?
+
+10:29.680 --> 10:37.680
+There are some fundamental points that you should know if you are going to create a commercial secret regime.
+
+10:37.680 --> 10:43.680
+The information that constitutes a commercial secret must be recorded on material media.
+
+10:43.680 --> 10:51.680
+The information that constitutes a commercial secret must be recorded on material media.
+
+10:51.680 --> 10:59.680
+The information that constitutes a commercial secret must be recorded on material media.
+
+10:59.680 --> 11:07.680
+The information that constitutes a commercial secret must be recorded on material media.
+
+11:07.680 --> 11:13.680
+What is it about?
+
+11:13.680 --> 11:21.680
+The information that constitutes a commercial secret must be recorded on material media.
+
+11:21.680 --> 11:29.680
+The information that constitutes a commercial secret must be recorded on material media.
+
+11:29.680 --> 11:37.680
+If it is not recorded on material media, you cannot create a commercial secret regime.
+
+11:37.680 --> 11:45.680
+Material media can be either paper media or electronic media.
+
+11:45.680 --> 11:53.680
+Electronic media must be recorded on material media.
+
+11:53.680 --> 12:01.680
+It can be floppy disks, hard drives, hard drives, anything.
+
+12:01.680 --> 12:09.680
+The second point is the legal way to obtain a commercial secret.
+
+12:09.680 --> 12:19.680
+The second point is the legal way to obtain a commercial secret.
+
+12:19.680 --> 12:25.680
+It has always been believed that a commercial secret can be stolen,
+
+12:25.680 --> 12:31.680
+that it can be obtained in some illegal way.
+
+12:31.680 --> 12:37.680
+A commercial secret is a commodity that can be bought or sold.
+
+12:37.680 --> 12:43.680
+It can be obtained as a result of systematic investigations.
+
+12:43.680 --> 12:51.680
+The third point is what cannot be a commercial secret.
+
+12:51.680 --> 12:57.680
+It cannot be a commercial secret.
+
+12:57.680 --> 13:07.680
+Countries in the world have developed in two different ways.
+
+13:07.680 --> 13:13.680
+Some countries have decided what can be a commercial secret.
+
+13:13.680 --> 13:19.680
+The law states that information about this or that can be a commercial secret.
+
+13:19.680 --> 13:25.680
+Other countries, including Russia, have taken a different path.
+
+13:25.680 --> 13:31.680
+We have decided on the level of the law, before that there was a government resolution,
+
+13:31.680 --> 13:37.680
+and we have decided to keep our commercial secrets as an exception.
+
+13:37.680 --> 13:43.680
+It is considered a more democratic method.
+
+13:43.680 --> 13:49.680
+However, when this problem first arose in the early 1990s,
+
+13:49.680 --> 13:55.680
+it was not clear what a commercial secret should be.
+
+13:55.680 --> 13:59.680
+What cannot be a commercial secret?
+
+13:59.680 --> 14:09.680
+The first thing that cannot be a commercial secret is identification data.
+
+14:09.680 --> 14:17.680
+Identification data.
+
+14:17.680 --> 14:23.680
+All the information about identification data can be a set of documents,
+
+14:23.680 --> 14:29.680
+documents confirming the registration of legal entities and individual entrepreneurs
+
+14:29.680 --> 14:35.680
+in accordance with the Regulations of the State, documents giving the right to engage in entrepreneurial activity,
+
+14:35.680 --> 14:41.680
+that is, licenses, a list of individuals who have the right to act without confidence, and so on.
+
+14:41.680 --> 14:45.680
+The next point is what cannot be a commercial secret.
+
+14:45.680 --> 14:51.680
+As far as I understand, identification data never tries to be a commercial secret,
+
+14:51.680 --> 14:57.680
+on the contrary, all licenses and patents are put in a frame somewhere in plain sight.
+
+14:57.680 --> 15:05.680
+Everything that concerns workers and working conditions.
+
+15:05.680 --> 15:19.680
+Information about workers and working conditions in commercial and non-commercial organizations cannot be a commercial secret.
+
+15:19.680 --> 15:23.680
+What is it about? The number of workers, the availability of free jobs,
+
+15:23.680 --> 15:28.680
+the system of labor payment, labor conditions, labor security,
+
+15:28.680 --> 15:34.680
+the employment of employers on the basis of salary payment, social payments,
+
+15:34.680 --> 15:36.680
+the indicators of production trauma, and so on.
+
+15:36.680 --> 15:39.680
+All this information cannot be a commercial secret.
+
+15:39.680 --> 15:44.680
+Here, the question usually arises about the labor payment system.
+
+15:44.680 --> 15:51.680
+That is, it is possible or impossible to make absolute figures, that is, a salary is a commercial secret.
+
+15:51.680 --> 15:54.680
+There are different approaches.
+
+15:54.680 --> 15:59.680
+In principle, the labor payment system can be quite simple,
+
+15:59.680 --> 16:03.680
+advance payment, payment and bonus.
+
+16:03.680 --> 16:05.680
+This cannot be a commercial secret.
+
+16:05.680 --> 16:11.680
+In principle, I think that you can make your commercial secrets in absolute quantities.
+
+16:11.680 --> 16:17.680
+The issue is quite controversial, even at the level of judicial decisions.
+
+16:18.680 --> 16:37.680
+Information about non-commercial organizations cannot be a commercial secret.
+
+16:37.680 --> 16:43.680
+The size of income and expenditure structures, the size of the total property, the use of unpaid labor, and so on.
+
+16:44.680 --> 16:50.680
+The point is that a commercial secret is not clearly tied to a commercial organization.
+
+16:50.680 --> 16:53.680
+A commercial secret can be in a state enterprise.
+
+16:53.680 --> 17:00.680
+Here, at the level of the law, it is not limited to the fact that a commercial secret is necessarily a commercial enterprise.
+
+17:00.680 --> 17:02.680
+Just terminology.
+
+17:02.680 --> 17:17.680
+Information about state enterprises, state enterprises, state enterprises, unitary enterprises and state institutions,
+
+17:17.680 --> 17:23.680
+the composition of property, the use of funds of appropriate budgets, conditions of competitions, auctions, and so on.
+
+17:23.680 --> 17:25.680
+Here is an interesting point.
+
+17:25.680 --> 17:29.680
+Everything related to information is related to the implementation of security requirements.
+
+17:30.680 --> 17:40.680
+The implementation of security requirements.
+
+17:40.680 --> 17:45.680
+What is this about?
+
+17:45.680 --> 17:47.680
+This is about the security of citizens.
+
+17:47.680 --> 17:52.680
+According to the logic of the law, corporate security is not taken into account.
+
+17:52.680 --> 17:55.680
+Security of all citizens is taken into account.
+
+17:56.680 --> 18:05.680
+Corporate security, security of the organization, security of the legal entity, is usually a commercial secret.
+
+18:05.680 --> 18:07.680
+This is some kind of classified information.
+
+18:07.680 --> 18:12.680
+We are talking about the security of citizens.
+
+18:12.680 --> 18:20.680
+Pollution of the environment, state of fire safety, sanitary, epidemiological and radiation situation.
+
+18:21.680 --> 18:26.680
+Roughly speaking, if there is a factory and it dumps some not very useful substances into the river,
+
+18:26.680 --> 18:30.680
+then the information that it does this cannot be a commercial secret.
+
+18:30.680 --> 18:40.680
+If some products are produced, that there are some not very useful products or ingredients for a person,
+
+18:40.680 --> 18:43.680
+information about this cannot be a commercial secret.
+
+18:43.680 --> 18:47.680
+Everything related to corporate security is usually a commercial secret.
+
+18:48.680 --> 19:09.680
+Information about violations of the law cannot be a commercial secret.
+
+19:09.680 --> 19:15.680
+Information about the obligation to disclose them or the inability to restrict them is established by various federal laws.
+
+19:15.680 --> 19:18.680
+Everything else can be a commercial secret.
+
+19:20.680 --> 19:30.680
+Generally, there are some methods of determining a commercial secret.
+
+19:30.680 --> 19:44.680
+At the level of our law on commercial secrets, ideology is all that is allowed and all that is not prohibited.
+
+19:44.680 --> 19:49.680
+Therefore, the method exists, such a concept as a total method.
+
+19:49.680 --> 19:55.680
+Although in practice, as far as I know, it is practically not applied, but in general, it exists.
+
+19:56.680 --> 19:58.680
+How does the situation work?
+
+19:58.680 --> 20:01.680
+All the information resources of the company are taken,
+
+20:01.680 --> 20:06.680
+from there information resources that cannot be a commercial secret are taken out,
+
+20:06.680 --> 20:10.680
+everything related to open information is removed,
+
+20:10.680 --> 20:14.680
+because it makes no sense to close information that can be obtained in the open.
+
+20:14.680 --> 20:20.680
+The state secret is removed, some other information is removed, and everything else is done in a commercial secret.
+
+20:21.680 --> 20:26.680
+This is a total method, all the information that can be disclosed.
+
+20:26.680 --> 20:37.680
+As a rule, this is a very expensive event, and rarely any companies can afford to close their information resources.
+
+20:37.680 --> 20:41.680
+Therefore, other methods are usually used,
+
+20:42.680 --> 20:46.680
+or there is such a concept as the plagiarism method.
+
+20:50.680 --> 20:52.680
+What does the plagiarism mean?
+
+20:52.680 --> 21:02.680
+It assumes that there is such a concept as a plagiarism, that is, a methodology, I would say.
+
+21:03.680 --> 21:09.680
+A company is taken, which is approximately similar to yours in terms of volume,
+
+21:09.680 --> 21:15.680
+in terms of the number of people, in terms of the produced product or provided services.
+
+21:15.680 --> 21:23.680
+If there is a commercial secret mode, then it is looked at and determined what is done in that company.
+
+21:23.680 --> 21:30.680
+And do the same thing in your company, because the companies work on the same market.
+
+21:30.680 --> 21:32.680
+It is widely used.
+
+21:32.680 --> 21:36.680
+There is a method called the expert method.
+
+21:41.680 --> 21:47.680
+Expert, as a rule, is the attraction of experts, that is, the attraction of specialists from the outside.
+
+21:49.680 --> 21:53.680
+And there is a method called the analytical method.
+
+21:53.680 --> 21:55.680
+Analytical.
+
+21:59.680 --> 22:09.680
+That is, a certain analysis of the company's activities is carried out from the point of view of what is necessary to do in a commercial secret.
+
+22:10.680 --> 22:13.680
+Basically, the analytical method is based on what?
+
+22:13.680 --> 22:19.680
+It is based on what interests the competitor.
+
+22:25.680 --> 22:31.680
+That is, they try to put themselves in the shoes of competitors and try to understand what can interest the competitor.
+
+22:31.680 --> 22:35.680
+And the second direction of the analytical method is what will cause damage.
+
+22:40.680 --> 22:44.680
+That is, we try to understand what information can damage the disclosure.
+
+22:44.680 --> 22:51.680
+Based on this, they try to determine what information should be included in the commercial secret.
+
+22:51.680 --> 22:57.680
+From these methods, the first, second and fourth, this company can do it on its own.
+
+22:57.680 --> 23:06.680
+The third method, that is, the attraction of experts, is that you find an organization, pay them money, and based on these three methods, they try to determine everything.
+
+23:07.680 --> 23:09.680
+This is based on methods.
+
+23:09.680 --> 23:12.680
+Now the next point.
+
+23:15.680 --> 23:19.680
+The law, if we analyze it this way, is very organizational.
+
+23:19.680 --> 23:32.680
+That is, you will not find any innovations there, you will not find any rigidly regulating things applicable to your company.
+
+23:32.680 --> 23:34.680
+It is very organizational.
+
+23:34.680 --> 23:36.680
+That is, it is general and very organizational.
+
+23:36.680 --> 23:39.680
+That is, rights, duties, what can be done, what cannot be done.
+
+23:39.680 --> 23:45.680
+Naturally, each company creates its own commercial secret regime and creates it for itself.
+
+23:45.680 --> 23:49.680
+Here, by the way, is a very subtle point that I would like to draw your attention to.
+
+23:49.680 --> 23:52.680
+At least, many companies face this.
+
+23:52.680 --> 24:04.680
+If you have to pass your commercial secret to some other organization, within the framework of something, within the framework of consulting, within the framework of some kind of contractual cooperation,
+
+24:04.680 --> 24:10.680
+keep in mind that the commercial secret regime in another organization can be completely different.
+
+24:10.680 --> 24:17.680
+Unlike, say, the state secret regime, which is unified at all enterprises, where there are state secrets, and throughout Russia.
+
+24:17.680 --> 24:25.680
+The commercial secret regime is unique, it is individual, it is created directly in each company, and is approved by the management of the company.
+
+24:25.680 --> 24:29.680
+In your company, the commercial secret regime can be very strong and very serious.
+
+24:29.680 --> 24:37.680
+You will pass it on to some other company, there may be a completely different regime, and everything may be completely different, much worse.
+
+24:37.680 --> 24:40.680
+Therefore, keep this in mind.
+
+24:40.680 --> 24:44.680
+And, in principle, I would not recommend passing commercial secrets anywhere.
+
+24:44.680 --> 24:51.680
+That is, you can talk about the serious preservation of commercial secrets only when these commercial secrets are with you.
+
+24:51.680 --> 25:02.680
+As soon as you pass your commercial secrets somewhere, you can very conditionally say that these commercial secrets will be protected or preserved.
+
+25:02.680 --> 25:18.680
+Another point I would like to emphasize is the relationship between enterprises and various state bodies within the framework of the commercial secret regime.
+
+25:18.680 --> 25:26.680
+It is clear that there are controlling law enforcement agencies that can come to the company and carry out some actions.
+
+25:26.680 --> 25:33.680
+This can be within the framework of inspection activities, it can be within the framework of investigative activities, it can be within the framework of operational activities.
+
+25:33.680 --> 25:39.680
+It is pointless and impossible to protect yourself from this with the help of commercial secrets,
+
+25:39.680 --> 25:50.680
+simply because, according to our legislation, you must provide information on the motivated requirements of these state bodies, including the component of the commercial secret.
+
+25:50.680 --> 25:57.680
+This will not limit or limit various inspections.
+
+25:57.680 --> 26:07.680
+Another thing is that if you provide your commercial secrets to state bodies, they take on the obligation to preserve your commercial secrets.
+
+26:07.680 --> 26:20.680
+The next point I would like to draw your attention to is the so-called commercial secret regime.
+
+26:21.680 --> 26:25.680
+The regime of the CT.
+
+26:25.680 --> 26:30.680
+It is impossible to say that we have a commercial secret or not.
+
+26:30.680 --> 26:42.680
+You can say that there is a commercial secret regime only when you conduct a number of events that will allow you to say that you have a commercial secret regime.
+
+26:42.680 --> 26:46.680
+And, of course, all the consequences resulting from this.
+
+26:47.680 --> 26:56.680
+I have already said, I emphasize again, that the commercial secret regime is an individual event.
+
+26:56.680 --> 27:02.680
+The commercial secret regime is individual for each company and it can be different in different companies.
+
+27:02.680 --> 27:06.680
+The commercial secret regime is determined by the company's manager.
+
+27:06.680 --> 27:12.680
+That is, he approves certain documents that say what the commercial secret regime is and how it will be implemented.
+
+27:13.680 --> 27:20.680
+There is no maximum list of events on the commercial secret regime.
+
+27:20.680 --> 27:27.680
+There is a minimum number of events that you have to do to say that you have a commercial secret regime.
+
+27:27.680 --> 27:32.680
+This minimum is listed in the law of the commercial secret regime.
+
+27:32.680 --> 27:34.680
+I will now talk about them in more detail.
+
+27:34.680 --> 27:36.680
+There is no maximum, of course.
+
+27:36.680 --> 27:42.680
+According to the Civil Code and the law of the commercial secret regime,
+
+27:42.680 --> 27:49.680
+a company can implement any legal methods and methods of protecting its commercial secrets.
+
+27:49.680 --> 27:52.680
+I emphasize, legal methods, but any.
+
+27:52.680 --> 27:57.680
+What is the minimum on the commercial secret regime?
+
+27:57.680 --> 27:59.680
+What is the minimum that must be done?
+
+27:59.680 --> 28:04.680
+The first is to determine the information component of the commercial secret.
+
+28:04.680 --> 28:14.680
+The first is to determine the information component of the commercial secret.
+
+28:14.680 --> 28:19.680
+That is, you must determine what your commercial secret is.
+
+28:19.680 --> 28:23.680
+There are certain subtleties and difficulties.
+
+28:23.680 --> 28:27.680
+How does it usually happen?
+
+28:27.680 --> 28:35.680
+Usually, the security service is tasked with creating a list of information components of the commercial secret.
+
+28:35.680 --> 28:42.680
+The security service usually sends out letters to the structural units asking for suggestions
+
+28:42.680 --> 28:47.680
+on including some information components in the section of the commercial secret.
+
+28:47.680 --> 28:53.680
+The unit is based on the fact that the more information is hidden, the better.
+
+28:53.680 --> 29:02.680
+The security service composes and analyzes all this,
+
+29:02.680 --> 29:05.680
+and throws out at least half of it,
+
+29:05.680 --> 29:11.680
+because it makes no sense to hide information resources that can be openly available.
+
+29:11.680 --> 29:19.680
+Therefore, they usually try to protect the most serious and potentially significant information.
+
+29:19.680 --> 29:23.680
+If this succeeds, then they will expand this list of information.
+
+29:23.680 --> 29:29.680
+Therefore, as a recommendation, if you are going to do the commercial secret regime,
+
+29:29.680 --> 29:34.680
+try to close the smallest part of your information resources.
+
+29:34.680 --> 29:38.680
+This may not be very expensive and easy to organize.
+
+29:38.680 --> 29:42.680
+If you succeed, then try to expand this list.
+
+29:42.680 --> 29:46.680
+No one forbids you to periodically revise it, expand it, narrow it down.
+
+29:46.680 --> 29:48.680
+It's up to you.
+
+29:48.680 --> 29:51.680
+What will you face here?
+
+29:51.680 --> 29:56.680
+The list of information components of the commercial secret is usually information about.
+
+29:56.680 --> 30:05.680
+This is some information about what information is subject to closure.
+
+30:05.680 --> 30:08.680
+Usually, this is 1, 2, maximum 3 pages.
+
+30:08.680 --> 30:13.680
+The difficulty is to determine what is under these information.
+
+30:13.680 --> 30:17.680
+You can close the company's plan documents.
+
+30:17.680 --> 30:21.680
+The plan document of the company is the commercial secret.
+
+30:21.680 --> 30:23.680
+This is information that is subject to closure.
+
+30:23.680 --> 30:26.680
+Then there should be a person, a person in office,
+
+30:26.680 --> 30:31.680
+who would determine what documents are distributed to these plan documents of the company.
+
+30:31.680 --> 30:37.680
+In the list, it can be one item, but in reality, it can be hundreds, thousands of documents.
+
+30:37.680 --> 30:41.680
+Every day there will be a couple of dozen more documents.
+
+30:41.680 --> 30:49.680
+It is much more difficult to determine which documents are related to the company's plan documents.
+
+30:49.680 --> 30:51.680
+It is much more difficult.
+
+30:51.680 --> 30:58.680
+Determining the information component of the commercial secret and, of course, its approval of this list.
+
+30:58.680 --> 31:04.680
+It is usually approved either by order, the classic form, that is, the order of the company's manager.
+
+31:04.680 --> 31:09.680
+Such information about this, about that, is related to the commercial secret.
+
+31:09.680 --> 31:12.680
+This is a classic option.
+
+31:12.680 --> 31:16.680
+Sometimes this option is used, it is just an approval signature.
+
+31:16.680 --> 31:22.680
+That is, I approve, there is a general director, where the list of information components of the commercial secret will also be listed.
+
+31:22.680 --> 31:29.680
+This is the first thing to do to determine the commercial secret regime.
+
+31:29.680 --> 31:32.680
+The second thing that is usually done.
+
+31:32.680 --> 31:41.680
+In the law, this is a huge set of measures.
+
+31:41.680 --> 31:44.680
+This is a restriction of access to information.
+
+31:44.680 --> 31:51.680
+Restriction of access to information.
+
+31:51.680 --> 32:04.680
+This is a whole set of measures, including personnel, organizational, regime, technical, and other things,
+
+32:04.680 --> 32:07.680
+concerning the restriction of access to information.
+
+32:07.680 --> 32:13.680
+That is, you have determined that some information is a commercial secret, and then you must restrict access to this information.
+
+32:13.680 --> 32:21.680
+If this is a small number of documents or a small number of information resources, this can be done.
+
+32:21.680 --> 32:26.680
+As soon as these information resources take up half of the company's information resources,
+
+32:26.680 --> 32:31.680
+this is very difficult, very expensive, and usually it is simply not feasible.
+
+32:31.680 --> 32:37.680
+Therefore, in any case, if you have a leak of information,
+
+32:37.680 --> 32:44.680
+you will have to prove that you have restricted access to this information.
+
+32:44.680 --> 32:51.680
+Here is a criminal, he committed a crime and violated your access restriction system.
+
+32:51.680 --> 32:57.680
+That is, if you determine that the company's plan documents are a commercial secret,
+
+32:57.680 --> 33:01.680
+and these papers are printed out, lying around,
+
+33:01.680 --> 33:07.680
+then you don't have to talk about the commercial secret regime, because no one will do any hacking.
+
+33:07.680 --> 33:10.680
+That is, the information will be lost in any case.
+
+33:10.680 --> 33:13.680
+This is the second restriction of access to information.
+
+33:13.680 --> 33:29.680
+The third restriction of access to information is the solution of personnel problems.
+
+33:30.680 --> 33:34.680
+What is it usually?
+
+33:34.680 --> 33:40.680
+This is the definition of the people you will trust the information.
+
+33:40.680 --> 33:47.680
+The definition of the circle of persons.
+
+33:47.680 --> 33:56.680
+That is, the definition of those people you will trust your commercial secrets.
+
+33:56.680 --> 33:59.680
+There can be not many of them,
+
+33:59.680 --> 34:03.680
+you usually define certain people, personally,
+
+34:03.680 --> 34:06.680
+for example, Ivanov, Petrov, Sidorov, have access to commercial secrets.
+
+34:06.680 --> 34:17.680
+Moreover, it is not necessary to allow a person to access all your commercial information.
+
+34:17.680 --> 34:24.680
+We are talking about permission to commercial secrets only within the framework of fulfilling your duties.
+
+34:24.680 --> 34:27.680
+If this is a financial person, then everything that concerns finances.
+
+34:27.680 --> 34:30.680
+If this is a technologist, then everything that concerns technology.
+
+34:30.680 --> 34:33.680
+But you have to define the circle of persons.
+
+34:33.680 --> 34:36.680
+And this circle of persons must be officially approved.
+
+34:36.680 --> 34:44.680
+Basically, it is determined through an order that Ivanov, Petrov, Sidorov are allowed to access official or commercial information.
+
+34:44.680 --> 34:50.680
+These employees must take obligations.
+
+34:50.680 --> 34:52.680
+Take obligations.
+
+34:52.680 --> 35:03.680
+Take obligations to keep commercial secrets.
+
+35:03.680 --> 35:05.680
+That is, you have defined a person,
+
+35:05.680 --> 35:10.680
+after that, a person must take obligations to keep commercial secrets.
+
+35:10.680 --> 35:15.680
+But usually, what are the options for taking obligations?
+
+35:15.680 --> 35:22.680
+They can be taken, for example, within the framework of labor relations, within the framework of a labor agreement,
+
+35:22.680 --> 35:27.680
+where one of the parameters is laid down that the preservation of the secrets is protected by the law,
+
+35:27.680 --> 35:30.680
+which has become known within the framework of fulfilling the duties of the employee.
+
+35:30.680 --> 35:35.680
+This can be a separate agreement or a separate agreement on the preservation of commercial secrets.
+
+35:35.680 --> 35:41.680
+By analogy, there is a contract on the preservation of the bank secret.
+
+35:41.680 --> 35:45.680
+In legal systems, this blank exists.
+
+35:45.680 --> 35:47.680
+It is taken approximately by analogy.
+
+35:47.680 --> 35:49.680
+That is, a person takes obligations.
+
+35:49.680 --> 35:54.680
+Moreover, I would recommend to conclude a separate agreement, a separate agreement,
+
+35:54.680 --> 35:58.680
+simply because in a separate agreement, a separate agreement,
+
+35:58.680 --> 36:02.680
+you can describe in great detail, let's say, many points.
+
+36:03.680 --> 36:07.680
+In particular, what is understood under the disclosure of a commercial secret.
+
+36:07.680 --> 36:09.680
+That is, this is a rather specific thing.
+
+36:09.680 --> 36:12.680
+And what is the disclosure of a commercial secret?
+
+36:12.680 --> 36:21.680
+There, again, from the point of view of psychological impact on a potential offender,
+
+36:21.680 --> 36:28.680
+that is, there is a certain psychological impact when a person concludes a separate agreement.
+
+36:28.680 --> 36:32.680
+And then criminal, administrative, labor and so on.
+
+36:32.680 --> 36:35.680
+This is more effective from the point of view of psychology.
+
+36:35.680 --> 36:39.680
+In a separate agreement, in a separate agreement,
+
+36:39.680 --> 36:44.680
+it can be prescribed that a person after dismissal keeps your commercial secrets.
+
+36:44.680 --> 36:51.680
+Moreover, if we read according to the law, then even by default there is a certain period,
+
+36:51.680 --> 36:53.680
+it is three years.
+
+36:53.680 --> 36:57.680
+That is, if a person has taken on himself the obligation to preserve a commercial secret,
+
+36:57.680 --> 36:59.680
+but did not prescribe it for what period,
+
+36:59.680 --> 37:02.680
+then by default it is considered that within three years after dismissal,
+
+37:02.680 --> 37:05.680
+the employee is obliged to keep your commercial secrets.
+
+37:05.680 --> 37:09.680
+In practice, let's say, it is quite difficult to control,
+
+37:09.680 --> 37:12.680
+and even more difficult to bring a person to responsibility.
+
+37:12.680 --> 37:21.680
+Therefore, if you want a person to keep your commercial secrets after dismissal,
+
+37:21.680 --> 37:24.680
+it is better to conclude a separate agreement,
+
+37:24.680 --> 37:32.680
+because the labor agreement is terminated with the termination of labor relations.
+
+37:32.680 --> 37:38.680
+And there, as a rule, it is difficult to apply the norms
+
+37:38.680 --> 37:43.680
+regarding what happens after termination of labor relations.
+
+37:43.680 --> 37:45.680
+Therefore, it is better to conclude a separate agreement.
+
+37:45.680 --> 37:49.680
+In any case, such obligations in one form or another must be taken.
+
+37:50.680 --> 38:00.680
+So, the framework of the issue, the solution is that employees must know what the commercial secret is.
+
+38:00.680 --> 38:09.680
+That is, a person takes on the obligation to preserve a commercial secret,
+
+38:09.680 --> 38:15.680
+he must be informed that the information that we trust you with is a commercial secret.
+
+38:16.680 --> 38:18.680
+And he must sign it.
+
+38:18.680 --> 38:21.680
+That is, any action must be signed.
+
+38:21.680 --> 38:23.680
+He takes on the obligation, he must sign it.
+
+38:23.680 --> 38:26.680
+He is pleased with what is a commercial secret, he must sign it.
+
+38:28.680 --> 38:33.680
+And in relation to personnel issues, I will probably also draw your attention to the fact that
+
+38:33.680 --> 38:49.680
+it is very important to create conditions for employees to perform the commercial secret regime.
+
+38:49.680 --> 38:52.680
+What is it?
+
+38:52.680 --> 38:58.680
+As a rule, if a commercial secret regime is created, a certain normative base is formed,
+
+38:58.680 --> 39:02.680
+instructions are created, where it is clearly regulated what can be done, what cannot be done.
+
+39:02.680 --> 39:06.680
+This is applicable to specific people, to specific official duties.
+
+39:06.680 --> 39:08.680
+This is the first thing.
+
+39:08.680 --> 39:17.680
+And the second thing is that if you prescribe that an employee must store a commercial document,
+
+39:17.680 --> 39:22.680
+a document that constitutes a commercial secret, in a safe, then you must at least put this safe in it.
+
+39:22.680 --> 39:24.680
+These are obvious things.
+
+39:24.680 --> 39:29.680
+Nevertheless, this is also a certain commercial secret regime that must be.
+
+39:30.680 --> 39:42.680
+The next thing, everything that concerns the commercial secret regime, is the regulation of relations with counteragents.
+
+39:42.680 --> 39:50.680
+Let's call it the regulation of contractual relations.
+
+39:50.680 --> 40:00.680
+What is it about?
+
+40:00.680 --> 40:02.680
+The regulation of contractual relations.
+
+40:02.680 --> 40:10.680
+If you transfer your commercial secrets to other organizations within the framework of some work,
+
+40:10.680 --> 40:15.680
+then in the contract on the basis of which you provide this information,
+
+40:15.680 --> 40:22.680
+you must prescribe that another organization, where you transfer all this, must keep your commercial secrets,
+
+40:22.680 --> 40:30.680
+apply all the measures of protection, you can prescribe that you can control the measures that another organization will apply.
+
+40:30.680 --> 40:34.680
+Always assume that the commercial secret regime is individual,
+
+40:34.680 --> 40:40.680
+and another organization may have a much worse regime, simply because they see it that way.
+
+40:40.680 --> 40:44.680
+This must also be done in a mandatory manner.
+
+40:44.680 --> 40:51.680
+And perhaps the last thing that concerns the commercial secret regime,
+
+40:51.680 --> 40:56.680
+the minimum that you must do, is the application of a distinctive neck to a material carrier.
+
+40:56.680 --> 41:12.680
+The application of a distinctive neck to a material carrier.
+
+41:12.680 --> 41:16.680
+Let's call it KT.
+
+41:16.680 --> 41:17.680
+Of course, I am decoding it.
+
+41:17.680 --> 41:19.680
+The commercial secret.
+
+41:19.680 --> 41:24.680
+As I said at the beginning, the commercial secret must be fixed on the material carriers.
+
+41:24.680 --> 41:29.680
+These material carriers, it can be a paper carrier, it can be an electronic carrier,
+
+41:29.680 --> 41:33.680
+they must have a certain restrictive neck.
+
+41:33.680 --> 41:38.680
+A regular restrictive neck is a commercial secret with an indication of whether it has this information,
+
+41:38.680 --> 41:42.680
+for legal entities, a full name and location,
+
+41:42.680 --> 41:48.680
+for individual entrepreneurs, the surname, name, address, citizen, who are an individual entrepreneur, a place of residence.
+
+41:49.680 --> 41:54.680
+This does not always suit companies,
+
+41:54.680 --> 42:02.680
+because as soon as a commercial secret appears on some paper,
+
+42:02.680 --> 42:08.680
+the employees immediately start thinking about how to sell this document to make money on it.
+
+42:08.680 --> 42:14.680
+Therefore, sometimes this is not applicable to some organizations, to some companies,
+
+42:14.680 --> 42:18.680
+but in principle, it is legally obligatory.
+
+42:18.680 --> 42:27.680
+Here is a list of events, a minimum of events that must be done to create a commercial secret.
+
+42:27.680 --> 42:30.680
+Here is another rather subtle point regarding the neck.
+
+42:30.680 --> 42:37.680
+At the legislative level, it is not determined whether this neck can be divided into some sub-necks.
+
+42:37.680 --> 42:44.680
+Confidential, strictly confidential, commercial secret, strictly commercial secret, special commercial secret.
+
+42:44.680 --> 42:49.680
+At the legislative level, this is not the case, so I would not recommend doing this,
+
+42:49.680 --> 42:52.680
+simply because it is not in the law.
+
+42:52.680 --> 42:56.680
+If there are any problems and a judicial decision is required,
+
+42:56.680 --> 42:59.680
+then there may be different approaches to these problems.
+
+43:00.680 --> 43:04.680
+Now, the next point.
+
+43:04.680 --> 43:07.680
+The commercial secret has certain characteristics.
+
+43:07.680 --> 43:11.680
+The characteristics of a commercial secret are its commercial value,
+
+43:11.680 --> 43:16.680
+that is, you cannot hide information that is not a commercial value for you.
+
+43:16.680 --> 43:20.680
+Although the approach is quite individual, for different companies,
+
+43:20.680 --> 43:23.680
+the commercial value may have different information,
+
+43:23.680 --> 43:26.680
+that is, different information may have different commercial value.
+
+43:26.680 --> 43:29.680
+This is inaccessibility, this is mandatory,
+
+43:29.680 --> 43:35.680
+that is, you must restrict access to information in a mandatory manner.
+
+43:35.680 --> 43:41.680
+This is security, that is, a certain commercial secret regime must be created.
+
+43:41.680 --> 43:43.680
+This is an unlimited security period.
+
+43:43.680 --> 43:45.680
+Here is a rather subtle point,
+
+43:45.680 --> 43:48.680
+due to the fact that at the legislative level,
+
+43:48.680 --> 43:54.680
+the period during which you create a commercial secret regime is not specified.
+
+43:54.680 --> 43:58.680
+It can be a year, it can be half a year, it can be one day.
+
+43:58.680 --> 44:01.680
+That is, you can create a commercial secret regime for one day.
+
+44:01.680 --> 44:05.680
+You can create a commercial secret regime for 100 years,
+
+44:05.680 --> 44:07.680
+that is, depending on the need,
+
+44:07.680 --> 44:13.680
+unlike, say, some other restrictive rights,
+
+44:13.680 --> 44:17.680
+in the form of copyright, there is a clear, definite period.
+
+44:17.680 --> 44:20.680
+The commercial secret period is not defined,
+
+44:20.680 --> 44:23.680
+it is up to the company's managers.
+
+44:29.680 --> 44:31.680
+Now the question arises,
+
+44:31.680 --> 44:34.680
+what does it usually mean to have a commercial secret?
+
+44:34.680 --> 44:38.680
+I have already mentioned some methods that exist.
+
+44:38.680 --> 44:41.680
+There are certain approaches.
+
+44:41.680 --> 44:48.680
+What should we attribute to a commercial secret?
+
+44:51.680 --> 44:53.680
+As far as I understand,
+
+44:53.680 --> 44:59.680
+this problem is usually a technology.
+
+45:03.680 --> 45:07.680
+If the company has some technologies,
+
+45:07.680 --> 45:09.680
+so-called know-how,
+
+45:09.680 --> 45:13.680
+that is, some technological innovations,
+
+45:13.680 --> 45:15.680
+that is, technological moments,
+
+45:15.680 --> 45:18.680
+then, as a rule, if a commercial secret regime is created,
+
+45:18.680 --> 45:20.680
+it is necessarily included there.
+
+45:22.680 --> 45:24.680
+This can be,
+
+45:28.680 --> 45:32.680
+let's say, some kind of management information.
+
+45:34.680 --> 45:36.680
+Management information.
+
+45:39.680 --> 45:41.680
+Management information.
+
+45:41.680 --> 45:44.680
+That is, everything that concerns management issues.
+
+45:45.680 --> 45:47.680
+I have already mentioned this.
+
+45:47.680 --> 45:50.680
+This is all about the company's plans.
+
+45:50.680 --> 45:53.680
+First of all, this refers to some kind of strategic plan,
+
+45:53.680 --> 45:58.680
+that is, strategic development plans, and everything else.
+
+46:00.680 --> 46:03.680
+This is all about financial issues.
+
+46:05.680 --> 46:07.680
+Financial.
+
+46:07.680 --> 46:12.680
+There are things that you have to introduce
+
+46:12.680 --> 46:14.680
+into the commercial secret regime.
+
+46:14.680 --> 46:17.680
+In particular, in the accounting law,
+
+46:17.680 --> 46:19.680
+if I'm not mistaken,
+
+46:19.680 --> 46:24.680
+accounting records should be related to confidential information.
+
+46:26.680 --> 46:28.680
+The rest of the things should be considered
+
+46:28.680 --> 46:33.680
+depending on the financial documents.
+
+46:33.680 --> 46:35.680
+This is analytics.
+
+46:36.680 --> 46:42.680
+Especially if you have an analytical unit in your company
+
+46:42.680 --> 46:44.680
+that analyzes the situation,
+
+46:44.680 --> 46:49.680
+that is, it can conduct some analytical work,
+
+46:49.680 --> 46:52.680
+make some analytical reports, documents.
+
+46:52.680 --> 46:54.680
+The results of these analytical studies,
+
+46:54.680 --> 46:58.680
+as a rule, belong to the commercial secret regime.
+
+46:59.680 --> 47:04.680
+Despite the fact that they can be obtained from open sources,
+
+47:04.680 --> 47:07.680
+that is, from the same mass media,
+
+47:07.680 --> 47:12.680
+they can already have limited access to do some analytical work.
+
+47:13.680 --> 47:17.680
+This is all about the information of negotiations.
+
+47:20.680 --> 47:22.680
+This includes who,
+
+47:22.680 --> 47:25.680
+or rather, what companies are negotiated with,
+
+47:25.680 --> 47:28.680
+what topic, what conditions, everything that concerns.
+
+47:28.680 --> 47:31.680
+Everything that concerns some kind of contracts,
+
+47:31.680 --> 47:33.680
+contracts in business relations.
+
+47:33.680 --> 47:35.680
+Pricing policy,
+
+47:35.680 --> 47:37.680
+it can be the terms of the contract,
+
+47:37.680 --> 47:39.680
+benefits, and everything else.
+
+47:41.680 --> 47:43.680
+There may be some other things.
+
+47:43.680 --> 47:45.680
+That is, naturally, each company,
+
+47:45.680 --> 47:49.680
+depending on what it does,
+
+47:49.680 --> 47:52.680
+it compiles its information
+
+47:52.680 --> 47:54.680
+related to the commercial secret.
+
+47:55.680 --> 47:57.680
+So...
+
+48:00.680 --> 48:02.680
+Well, here, probably,
+
+48:02.680 --> 48:05.680
+this is what I would like to emphasize again.
+
+48:05.680 --> 48:08.680
+Will you create the commercial secret regime?
+
+48:08.680 --> 48:09.680
+You will not.
+
+48:09.680 --> 48:11.680
+These are your questions.
+
+48:11.680 --> 48:13.680
+If you create the commercial secret regime,
+
+48:13.680 --> 48:17.680
+then try to close a very small amount of information first.
+
+48:17.680 --> 48:19.680
+If you succeed, then gradually expand.
+
+48:19.680 --> 48:23.680
+Because closing information is a rather expensive method.
+
+48:23.680 --> 48:25.680
+And, as a rule,
+
+48:25.680 --> 48:29.680
+not all companies can seriously approach this.
+
+48:29.680 --> 48:32.680
+And they cannot seriously allocate serious funds
+
+48:32.680 --> 48:34.680
+to protect, to close information.
+
+48:34.680 --> 48:37.680
+If it is half a percent of information resources,
+
+48:37.680 --> 48:39.680
+you can still close.
+
+48:39.680 --> 48:42.680
+If you are trying to close 30% of information resources,
+
+48:42.680 --> 48:44.680
+yes, it is possible, but it is very expensive.
+
+48:46.680 --> 48:49.680
+So, this is about the commercial secret.
+
+48:49.680 --> 48:51.680
+Well, in relation to the responsibility
+
+48:51.680 --> 48:53.680
+for disclosure of the commercial secret,
+
+48:53.680 --> 48:55.680
+I will not talk about it now,
+
+48:55.680 --> 48:57.680
+because I have already talked about it
+
+48:57.680 --> 49:00.680
+in the section called personnel security.
+
+49:00.680 --> 49:02.680
+So, here, probably,
+
+49:02.680 --> 49:05.680
+this is what I would like to focus on.
+
+49:05.680 --> 49:10.680
+So, this is about, let's say,
+
+49:12.680 --> 49:17.680
+in general, protection of information with limited access.
+
+49:17.680 --> 49:20.680
+So, all protection of information with limited access,
+
+49:20.680 --> 49:24.680
+in general, I have already said that it is complex.
+
+49:24.680 --> 49:27.680
+That is, you cannot protect information resources
+
+49:27.680 --> 49:30.680
+just with some piece.
+
+49:30.680 --> 49:34.680
+The forms in which the information is located
+
+49:34.680 --> 49:36.680
+are determined by means of these forms,
+
+49:36.680 --> 49:40.680
+the methods of protection of information are determined.
+
+49:40.680 --> 49:44.680
+So, as a rule, everything that concerns a complex solution,
+
+49:44.680 --> 49:46.680
+protection,
+
+49:48.680 --> 49:53.680
+is organizational measures,
+
+49:56.680 --> 49:58.680
+is legal measures,
+
+50:02.680 --> 50:04.680
+is technical measures.
+
+50:08.680 --> 50:12.680
+Technically, IT security measures are included here,
+
+50:12.680 --> 50:16.680
+and protection from channels of information leakage is included.
+
+50:16.680 --> 50:20.680
+This is a confidential matter of production,
+
+50:24.680 --> 50:26.680
+an official matter of production.
+
+50:28.680 --> 50:33.680
+And this is, let's call it, a regime event.
+
+50:37.680 --> 50:39.680
+A regime event.
+
+50:40.680 --> 50:44.680
+Now, in a nutshell,
+
+50:44.680 --> 50:49.680
+I would like to talk about a confidential matter of production,
+
+50:49.680 --> 50:51.680
+because I mentioned it,
+
+50:51.680 --> 50:55.680
+and now I will just remind you about a confidential matter of production.
+
+50:55.680 --> 51:00.680
+So, the question related to a confidential matter of production.
+
+51:00.680 --> 51:03.680
+This is also a component of IT security.
+
+51:03.680 --> 51:05.680
+As I said,
+
+51:05.680 --> 51:08.680
+this is one of the directions,
+
+51:08.680 --> 51:13.680
+some events are related to IT security.
+
+51:13.680 --> 51:18.680
+So, when does a confidential matter of production occur?
+
+51:21.680 --> 51:24.680
+A confidential matter of production.
+
+51:27.680 --> 51:30.680
+Naturally, it occurs, first of all,
+
+51:30.680 --> 51:33.680
+when some information is protected,
+
+51:33.680 --> 51:35.680
+this is clear.
+
+51:35.680 --> 51:39.680
+And the second, when confidential information is presented in the form of certain documents,
+
+51:39.680 --> 51:43.680
+they can be material, paper, electronic.
+
+51:43.680 --> 51:48.680
+The point is that these documents are created somewhere,
+
+51:48.680 --> 51:51.680
+they are moved somewhere, stored somewhere,
+
+51:51.680 --> 51:53.680
+some resolutions are applied to them,
+
+51:53.680 --> 51:55.680
+something is done on them,
+
+51:55.680 --> 51:57.680
+that is, when there are certain documents of circulation.
+
+51:57.680 --> 51:59.680
+If these two conditions coincide,
+
+51:59.680 --> 52:03.680
+then it is necessary to create a confidential matter of production.
+
+52:03.680 --> 52:06.680
+It consists of two parts,
+
+52:06.680 --> 52:08.680
+in such a classic version.
+
+52:08.680 --> 52:13.680
+This is all that concerns the material matter of production.
+
+52:13.680 --> 52:15.680
+Material.
+
+52:15.680 --> 52:18.680
+Confidential matter of production.
+
+52:18.680 --> 52:20.680
+Everything that concerns the electronic.
+
+52:20.680 --> 52:22.680
+Electronic.
+
+52:22.680 --> 52:24.680
+Confidential matter of production.
+
+52:25.680 --> 52:27.680
+Electronic.
+
+52:27.680 --> 52:29.680
+Confidential matter of production.
+
+52:29.680 --> 52:33.680
+It occurs only when there is such a concept as an electronic document.
+
+52:33.680 --> 52:36.680
+The concept of an electronic document can only be understood
+
+52:36.680 --> 52:41.680
+when the authorship and authenticity of this electronic document is carried out,
+
+52:41.680 --> 52:44.680
+that is, when the electronic digital signature is applied.
+
+52:44.680 --> 52:48.680
+If you do not apply an electronic digital signature in the company,
+
+52:48.680 --> 52:53.680
+then, in general, it is pointless to create an electronic confidential matter of production.
+
+52:53.680 --> 52:56.680
+It will no longer be an electronic matter of production,
+
+52:56.680 --> 53:00.680
+but an electronic copy of the material matter of production.
+
+53:00.680 --> 53:02.680
+As soon as the ECP arises,
+
+53:02.680 --> 53:06.680
+you can create an electronic confidential matter of production.
+
+53:06.680 --> 53:10.680
+Please note that there is a law on electronic digital signatures,
+
+53:10.680 --> 53:13.680
+where certain rules of the game with the ECP are defined.
+
+53:13.680 --> 53:20.680
+A law on information, information technologies and information protection has also been adopted recently,
+
+53:21.680 --> 53:27.680
+where the electronic digital signature is recognized as an analogue of the confidential signature.
+
+53:27.680 --> 53:31.680
+Both the document signed by the electronic digital signature
+
+53:31.680 --> 53:37.680
+and the document signed by the confidential signature have the same legal power.
+
+53:37.680 --> 53:40.680
+But regarding the electronic digital signature,
+
+53:40.680 --> 53:44.680
+we also note that this is not a protection of information.
+
+53:44.680 --> 53:50.680
+The goal of the electronic digital signature is to confirm the authorship and authenticity of the document.
+
+53:50.680 --> 53:53.680
+That is, protection should be built separately.
+
+53:53.680 --> 53:56.680
+This is not a means of protection, but a means of authorship and authenticity.
+
+53:56.680 --> 54:00.680
+Everything that concerns the material matter of production,
+
+54:00.680 --> 54:03.680
+it consists of two directions.
+
+54:03.680 --> 54:06.680
+This is everything that concerns the document of circulation.
+
+54:06.680 --> 54:20.680
+And this is everything that concerns the archive, the information storage.
+
+54:20.680 --> 54:24.680
+In the simplified version of the archive, it is like an archive.
+
+54:24.680 --> 54:29.680
+In the more complex version of the archive, there is only the concept of an active archive.
+
+54:29.680 --> 54:31.680
+That is, the documents are submitted there,
+
+54:31.680 --> 54:34.680
+and from there they can be obtained.
+
+54:34.680 --> 54:39.680
+And it is necessary to check whether there is permission for these documents,
+
+54:39.680 --> 54:42.680
+which are submitted to the archive, whether the documents are returned,
+
+54:42.680 --> 54:45.680
+whether copies are made of them, whether they are changed.
+
+54:45.680 --> 54:47.680
+That is, the so-called life of the archive.
+
+54:47.680 --> 54:50.680
+Confidential case of production.
+
+54:53.680 --> 54:56.680
+Before creating a confidential case of production,
+
+54:56.680 --> 55:02.680
+the game rules are usually determined by some round stones.
+
+55:02.680 --> 55:05.680
+In particular, what to determine.
+
+55:08.680 --> 55:14.680
+That is, what questions should be answered before creating a confidential case of production.
+
+55:18.680 --> 55:25.680
+The first thing to do, let's say, when creating a confidential case of production,
+
+55:25.680 --> 55:34.680
+is to determine who appropriates and removes the neck.
+
+55:39.680 --> 55:42.680
+This is a rather unimportant question,
+
+55:42.680 --> 55:49.680
+because you have determined that, for example, the planned documents of the company are a commercial secret.
+
+55:50.680 --> 55:53.680
+Then there should be some official who would determine
+
+55:53.680 --> 55:56.680
+what documents the company's planned documents contain,
+
+55:56.680 --> 55:59.680
+which documents to include in the confidential case of production.
+
+55:59.680 --> 56:02.680
+This is a rather difficult option.
+
+56:02.680 --> 56:04.680
+You can go along the way that,
+
+56:04.680 --> 56:08.680
+usually in small organizations, some official determines this.
+
+56:08.680 --> 56:12.680
+You can go along the way that the document's executor determines
+
+56:12.680 --> 56:17.680
+whether the confidential information of this document is confidential,
+
+56:17.680 --> 56:20.680
+whether to include it or not in the confidential case of production.
+
+56:22.680 --> 56:35.680
+So, let's say, what documents should be included in the confidential case of production.
+
+56:37.680 --> 56:39.680
+This is also an important question,
+
+56:39.680 --> 56:42.680
+because in the classic case,
+
+56:42.680 --> 56:47.680
+the documents containing or making up the commercial secret are included in the confidential case of production.
+
+56:49.680 --> 56:56.680
+But in practice, there are a lot of documents that need to be included in this confidential case of production.
+
+56:56.680 --> 57:01.680
+These are some strict reporting forms, some numbered documents and everything else.
+
+57:02.680 --> 57:07.680
+So, what kind of accounting is determined?
+
+57:13.680 --> 57:15.680
+What is it about?
+
+57:15.680 --> 57:18.680
+There are two options for accounting documents.
+
+57:18.680 --> 57:23.680
+It can be manual accounting or automated accounting.
+
+57:23.680 --> 57:30.680
+One of the distinguishing features of the confidential case of production is strict accounting control.
+
+57:31.680 --> 57:33.680
+Any document that is created,
+
+57:33.680 --> 57:36.680
+it is assigned a number, it must be registered,
+
+57:36.680 --> 57:41.680
+the number of copies that are taken from it must be determined,
+
+57:41.680 --> 57:44.680
+which officials can get acquainted with it.
+
+57:44.680 --> 57:46.680
+If Ivanov gave it to Petrov,
+
+57:46.680 --> 57:51.680
+it means that it is necessary to clearly record that at that time Ivanov gave the document to Petrov.
+
+57:51.680 --> 57:53.680
+That is, strict accounting control.
+
+57:53.680 --> 57:57.680
+It can be handled in a manual version,
+
+57:57.680 --> 58:01.680
+that is, in the form of various magazines, registers, notes, and so on.
+
+58:01.680 --> 58:03.680
+It can be handled in an electronic version.
+
+58:03.680 --> 58:10.680
+Now there are quite a lot of products that are handled in an electronic version of the confidential case of production.
+
+58:13.680 --> 58:15.680
+This must be determined.
+
+58:15.680 --> 58:22.680
+It is determined, let's say, how to create.
+
+58:22.680 --> 58:24.680
+How to create?
+
+58:24.680 --> 58:27.680
+It is about two options,
+
+58:27.680 --> 58:34.680
+separately or on the basis of the open one.
+
+58:34.680 --> 58:39.680
+It is clear that in any company there is an open case of production.
+
+58:39.680 --> 58:41.680
+There is a case of production gospel,
+
+58:41.680 --> 58:45.680
+where documents are written, how to design, how to create, how to send.
+
+58:45.680 --> 58:50.680
+The confidential case of production can be created on the basis of the open case of production,
+
+58:50.680 --> 58:54.680
+that is, some information sections are allocated, which are closed,
+
+58:54.680 --> 58:56.680
+safes are inserted, and so on.
+
+58:56.680 --> 59:02.680
+This is the first option, it is perhaps the simplest and most common.
+
+59:02.680 --> 59:06.680
+The second option is to create a confidential case of production separately,
+
+59:06.680 --> 59:09.680
+that is, in no way connected with the open case of production.
+
+59:09.680 --> 59:12.680
+This option is also possible, there are pluses and minuses,
+
+59:12.680 --> 59:14.680
+you need to proceed with a specific situation.
+
+59:14.680 --> 59:18.680
+What is determined?
+
+59:19.680 --> 59:21.680
+How are documents created?
+
+59:21.680 --> 59:25.680
+How and where are they created?
+
+59:27.680 --> 59:29.680
+Some premises are determined,
+
+59:29.680 --> 59:32.680
+where you can create a confidential case of production.
+
+59:32.680 --> 59:37.680
+The officials who can create documents are determined.
+
+59:37.680 --> 59:39.680
+The means of protection are established,
+
+59:39.680 --> 59:43.680
+technical means, all sorts of, say, alarms, and so on.
+
+59:43.680 --> 59:49.680
+It is determined how to store, how to create,
+
+59:49.680 --> 59:56.680
+how to create, how to store confidential documents.
+
+59:56.680 --> 59:58.680
+Well, the storage is generally clear,
+
+59:58.680 --> 01:00:06.680
+the main goal here is to make it so that the unauthorized persons
+
+01:00:06.680 --> 01:00:08.680
+exclude access to these documents.
+
+01:00:08.680 --> 01:00:11.680
+Basically, these are either safes or systems,
+
+01:00:11.680 --> 01:00:14.680
+say, some kind of metal cabinets.
+
+01:00:14.680 --> 01:00:19.680
+Everything depends on the need, value, and safety of these documents.
+
+01:00:19.680 --> 01:00:29.680
+In terms of storage, the moment of destruction of documents is determined.
+
+01:00:33.680 --> 01:00:36.680
+There are different approaches to destruction.
+
+01:00:36.680 --> 01:00:41.680
+The classic option is destruction in shredders,
+
+01:00:41.680 --> 01:00:44.680
+special machines for shredding documents.
+
+01:00:44.680 --> 01:00:46.680
+They come in different classes.
+
+01:00:48.680 --> 01:00:52.680
+There are shredders that cut a sheet of paper only along,
+
+01:00:52.680 --> 01:00:56.680
+and there are shredders that cut a sheet of paper not only along, but also across.
+
+01:00:56.680 --> 01:01:02.680
+There are shredders that are guaranteed not to be restored.
+
+01:01:02.680 --> 01:01:05.680
+That is, they cut such a small number of particles,
+
+01:01:05.680 --> 01:01:07.680
+A4, in my opinion, for 15,000 parts.
+
+01:01:07.680 --> 01:01:13.680
+Basically, they cut a standard sheet of A4 into powder.
+
+01:01:15.680 --> 01:01:20.680
+I would recommend using shredders that are guaranteed not to be restored,
+
+01:01:20.680 --> 01:01:23.680
+that is, those that cut not only along, but also across.
+
+01:01:23.680 --> 01:01:27.680
+If necessary, you can buy large shredders.
+
+01:01:27.680 --> 01:01:31.680
+There are shredders that can destroy a whole pack of papers at once.
+
+01:01:32.680 --> 01:01:36.680
+They are expensive, but the principle is the same.
+
+01:01:36.680 --> 01:01:39.680
+The same knives, just bigger, and the same motors, only more powerful.
+
+01:01:41.680 --> 01:01:45.680
+They are expensive, but if necessary, there are also such shredders.
+
+01:01:47.680 --> 01:01:51.680
+I would recommend setting up a rule in the company,
+
+01:01:51.680 --> 01:01:57.680
+which says that any company documents should be destroyed using shredders.
+
+01:01:57.680 --> 01:02:02.680
+Because as soon as you start to determine that these documents can be put in a garbage basket,
+
+01:02:02.680 --> 01:02:05.680
+these documents can be put in shredders,
+
+01:02:05.680 --> 01:02:08.680
+usually, again, taking into account the human factor,
+
+01:02:08.680 --> 01:02:12.680
+someone will confuse something, someone will throw something wrong.
+
+01:02:12.680 --> 01:02:18.680
+Therefore, it may make sense to determine that all documents are destroyed using shredders.
+
+01:02:19.680 --> 01:02:28.680
+And garbage baskets are intended for apple peels, banana peels, empty cans of beer, etc.
+
+01:02:29.680 --> 01:02:33.680
+Here is what I would like to draw your attention to in relation to the destruction of documents.
+
+01:02:33.680 --> 01:02:38.680
+This is a collegiality of destruction.
+
+01:02:40.680 --> 01:02:45.680
+It may make sense to make such a procedure in the organization,
+
+01:02:45.680 --> 01:02:49.680
+that some confidential documents are destroyed collegially.
+
+01:02:49.680 --> 01:02:51.680
+That is, a commission is created,
+
+01:02:51.680 --> 01:02:55.680
+this can be the executor of the document and the security service employee,
+
+01:02:55.680 --> 01:03:03.680
+who is signed that this sheet of paper was not turned into a tube and not taken out,
+
+01:03:03.680 --> 01:03:05.680
+but it was destroyed.
+
+01:03:06.680 --> 01:03:11.680
+This may be unacceptable in many companies,
+
+01:03:11.680 --> 01:03:17.680
+because it is a bureaucratic procedure, it distracts the forces of the means.
+
+01:03:17.680 --> 01:03:22.680
+But in some situations and according to some confidential documents, this is probably possible.
+
+01:03:23.680 --> 01:03:25.680
+This is for destruction.
+
+01:03:25.680 --> 01:03:27.680
+You can destroy documents by burning,
+
+01:03:27.680 --> 01:03:32.680
+although it is probably convenient when there are a lot of documents.
+
+01:03:32.680 --> 01:03:37.680
+If there are not many documents, it makes sense to use shredders.
+
+01:03:38.680 --> 01:03:44.680
+In relation to the destruction of documents, what else is determined?
+
+01:03:45.680 --> 01:03:53.680
+As a rule, the order of the transfer of confidential documents is determined.
+
+01:03:54.680 --> 01:03:56.680
+Here, what I will draw your attention to,
+
+01:03:56.680 --> 01:04:01.680
+in any case, there will be a need to transfer some confidential documents,
+
+01:04:01.680 --> 01:04:03.680
+move some documents,
+
+01:04:03.680 --> 01:04:06.680
+some documents will be taken by the management to work at home.
+
+01:04:06.680 --> 01:04:08.680
+Unfortunately, this is an objective reality.
+
+01:04:08.680 --> 01:04:13.680
+Ideally, the document should not go beyond the controlled room.
+
+01:04:13.680 --> 01:04:18.680
+But life is multifaceted, and this is why such situations arise.
+
+01:04:18.680 --> 01:04:21.680
+You can foresee such situations,
+
+01:04:21.680 --> 01:04:28.680
+and it makes sense to determine some order of transferring documents from the controlled territory.
+
+01:04:28.680 --> 01:04:32.680
+In the vast majority of cases, a certain permission is required.
+
+01:04:32.680 --> 01:04:33.680
+How is it determined?
+
+01:04:33.680 --> 01:04:34.680
+A permission is required.
+
+01:04:34.680 --> 01:04:38.680
+The official who gives this permission is required.
+
+01:04:41.680 --> 01:04:44.680
+When moving between objects,
+
+01:04:44.680 --> 01:04:49.680
+usually several people move the confidential document in their car.
+
+01:04:49.680 --> 01:04:53.680
+That is, a driver goes, a person with a document goes.
+
+01:04:55.680 --> 01:04:58.680
+It is forbidden for them to deviate from the route,
+
+01:04:58.680 --> 01:05:00.680
+it is forbidden to take passengers,
+
+01:05:00.680 --> 01:05:02.680
+it is forbidden to enter some five-star hotels.
+
+01:05:02.680 --> 01:05:06.680
+But there should be an order of transfer plus an order of movement.
+
+01:05:10.680 --> 01:05:18.680
+The order of movement is beyond the control zone.
+
+01:05:19.680 --> 01:05:28.680
+Usually, the order of transferring confidential documents is determined.
+
+01:05:37.680 --> 01:05:41.680
+The order of transferring confidential documents is about the provision,
+
+01:05:41.680 --> 01:05:44.680
+for example, within the framework of some verification activities.
+
+01:05:45.680 --> 01:05:48.680
+We are talking about the creation of certain algorithms in action.
+
+01:05:48.680 --> 01:05:55.680
+For example, a tax office, a police, a fire brigade, or anyone else comes.
+
+01:05:55.680 --> 01:05:59.680
+They can require certain documents within the framework of verification activities.
+
+01:05:59.680 --> 01:06:05.680
+What is the order of providing these documents within the framework of verification activities?
+
+01:06:05.680 --> 01:06:08.680
+This order must be regulated, determined.
+
+01:06:08.680 --> 01:06:12.680
+It should not go beyond the framework of the current legislation.
+
+01:06:12.680 --> 01:06:17.680
+But in order to regulate it, it is necessary to introduce a certain order,
+
+01:06:17.680 --> 01:06:19.680
+that is, there must be some kind of instruction.
+
+01:06:20.680 --> 01:06:25.680
+Here you can include the order of providing information,
+
+01:06:25.680 --> 01:06:27.680
+for example, in the Internet resource,
+
+01:06:27.680 --> 01:06:30.680
+the order of providing confidential information,
+
+01:06:30.680 --> 01:06:34.680
+for example, at some negotiations, at some exhibition events.
+
+01:06:34.680 --> 01:06:37.680
+That is, it is the confidential documents.
+
+01:06:38.680 --> 01:06:44.680
+And, probably, a certain control is determined.
+
+01:06:46.680 --> 01:06:49.680
+Control over the confidential production.
+
+01:06:49.680 --> 01:06:52.680
+Control can be…
+
+01:06:52.680 --> 01:07:00.680
+Well, I have already said that various control measures can go both planned and unplanned.
+
+01:07:00.680 --> 01:07:05.680
+Control over the copying and multiplying technique,
+
+01:07:05.680 --> 01:07:10.680
+control over multiplication, printing, sending documents.
+
+01:07:10.680 --> 01:07:16.680
+Unfortunately, the modern office is flooded with various copying and multiplying techniques.
+
+01:07:16.680 --> 01:07:21.680
+Any confidential document does not imply unauthorized multiplication.
+
+01:07:21.680 --> 01:07:25.680
+Therefore, it is necessary to clearly track the number of copies made,
+
+01:07:25.680 --> 01:07:28.680
+who met which copy and where they are.
+
+01:07:29.680 --> 01:07:32.680
+Therefore, there must be a certain control.
+
+01:07:32.680 --> 01:07:36.680
+Technical means are also included here.
+
+01:07:36.680 --> 01:07:39.680
+Control over the copying of information from the computer,
+
+01:07:39.680 --> 01:07:42.680
+for example, on the movement of documents on the network,
+
+01:07:42.680 --> 01:07:45.680
+on the sending of confidential documents,
+
+01:07:45.680 --> 01:07:49.680
+for example, by email, and so on.
+
+01:07:50.680 --> 01:07:53.680
+I would probably include control here,
+
+01:07:53.680 --> 01:07:59.680
+and the question of who will be subject to the confidential production.
+
+01:07:59.680 --> 01:08:04.680
+That is, the management of the company must have a certain designated official,
+
+01:08:04.680 --> 01:08:07.680
+to whom the confidential production will be closed.
+
+01:08:07.680 --> 01:08:11.680
+That is, who will solve the issues of the confidential production.
+
+01:08:11.680 --> 01:08:16.680
+Because, as a rule, there are a lot of issues and problems in the confidential production,
+
+01:08:16.680 --> 01:08:21.680
+which require solutions, including at the level of the management.
+
+01:08:22.680 --> 01:08:25.680
+This is the confidential production.
+
+01:08:25.680 --> 01:08:28.680
+When all these issues are determined,
+
+01:08:28.680 --> 01:08:31.680
+the confidential production is created,
+
+01:08:31.680 --> 01:08:34.680
+the necessary equipment is purchased,
+
+01:08:34.680 --> 01:08:37.680
+the necessary regulatory documents are created,
+
+01:08:37.680 --> 01:08:40.680
+personnel training is carried out,
+
+01:08:40.680 --> 01:08:47.680
+and then this system, when properly operated, should work.
+
+01:08:48.680 --> 01:08:54.680
+Here, look at the automated systems of the confidential production on the market.
+
+01:08:54.680 --> 01:08:58.680
+They are presented, they are configured for a specific organization,
+
+01:08:58.680 --> 01:09:01.680
+they can be sold as scramble systems.
+
+01:09:01.680 --> 01:09:04.680
+Therefore, the issues that are solved,
+
+01:09:04.680 --> 01:09:11.680
+they must be solved in accordance with the answers to the issues that you have set for yourself.
+
+01:09:17.680 --> 01:09:20.680
+Economic security
+
+01:09:20.680 --> 01:09:25.680
+The next topic that we will discuss is economic security.
+
+01:09:25.680 --> 01:09:30.680
+I will remind you that economic security,
+
+01:09:30.680 --> 01:09:33.680
+economic security,
+
+01:09:33.680 --> 01:09:38.680
+in fact, is the security of business processes that take place in the company.
+
+01:09:38.680 --> 01:09:42.680
+It is built in several directions.
+
+01:09:42.680 --> 01:09:45.680
+This is business intelligence.
+
+01:09:46.680 --> 01:09:49.680
+Business intelligence.
+
+01:09:49.680 --> 01:09:52.680
+This is information and analytical work.
+
+01:09:52.680 --> 01:09:57.680
+This is analysis and risk management.
+
+01:09:59.680 --> 01:10:02.680
+Economic risks.
+
+01:10:04.680 --> 01:10:08.680
+This is protection against fraud.
+
+01:10:11.680 --> 01:10:14.680
+Protection against fraud.
+
+01:10:16.680 --> 01:10:21.680
+This can be protection against hostile absorption.
+
+01:10:26.680 --> 01:10:29.680
+Hostile absorption.
+
+01:10:31.680 --> 01:10:35.680
+This can be protection against some illegal actions,
+
+01:10:35.680 --> 01:10:38.680
+depending on the company's activities.
+
+01:10:38.680 --> 01:10:41.680
+If this is the financial sphere,
+
+01:10:41.680 --> 01:10:44.680
+then protection against illegal actions,
+
+01:10:44.680 --> 01:10:47.680
+such as non-return of loans,
+
+01:10:47.680 --> 01:10:50.680
+with plastic cards,
+
+01:10:50.680 --> 01:10:53.680
+with fraud in plastic cards, etc.
+
+01:10:53.680 --> 01:10:56.680
+This is more protection against fraud.
+
+01:10:56.680 --> 01:10:59.680
+Economic security.
+
+01:10:59.680 --> 01:11:02.680
+This topic is very extensive.
+
+01:11:02.680 --> 01:11:05.680
+I can talk for hours about economic security.
+
+01:11:05.680 --> 01:11:08.680
+I will probably stop at one direction,
+
+01:11:08.680 --> 01:11:11.680
+and I will talk about business intelligence.
+
+01:11:13.680 --> 01:11:16.680
+Business intelligence.
+
+01:11:17.680 --> 01:11:20.680
+There are different interpretations.
+
+01:11:20.680 --> 01:11:23.680
+There is corporate intelligence,
+
+01:11:23.680 --> 01:11:26.680
+there is competitive intelligence,
+
+01:11:26.680 --> 01:11:29.680
+there is business intelligence.
+
+01:11:29.680 --> 01:11:32.680
+In fact, business intelligence is built in two directions.
+
+01:11:32.680 --> 01:11:35.680
+This is information work.
+
+01:11:36.680 --> 01:11:39.680
+This is analytical work.
+
+01:11:47.680 --> 01:11:50.680
+This is a kind of information collection,
+
+01:11:50.680 --> 01:11:53.680
+and this is done exclusively by legal means.
+
+01:11:53.680 --> 01:11:56.680
+Business intelligence does not engage in illegal methods.
+
+01:11:56.680 --> 01:11:59.680
+Information collection is also industrial espionage.
+
+01:11:59.680 --> 01:12:02.680
+There may be non-ethical methods,
+
+01:12:02.680 --> 01:12:05.680
+but legal ones.
+
+01:12:05.680 --> 01:12:08.680
+Analytical work is done from the point of view of business intelligence.
+
+01:12:08.680 --> 01:12:11.680
+There are two directions in business intelligence.
+
+01:12:11.680 --> 01:12:14.680
+The first direction is strategic.
+
+01:12:23.680 --> 01:12:26.680
+The second direction is operational.
+
+01:12:26.680 --> 01:12:29.680
+The third direction is strategic.
+
+01:12:32.680 --> 01:12:35.680
+What is a strategic direction?
+
+01:12:35.680 --> 01:12:38.680
+It is a solution of strategic tasks
+
+01:12:38.680 --> 01:12:41.680
+from the perspective of the security of the organization.
+
+01:12:41.680 --> 01:12:44.680
+What do I mean by strategic tasks?
+
+01:12:44.680 --> 01:12:47.680
+This is the analysis of the legislation
+
+01:12:47.680 --> 01:12:50.680
+from the point of view of a particular company,
+
+01:12:50.680 --> 01:12:53.680
+that is, in the field of activity of a particular company.
+
+01:12:54.680 --> 01:12:57.680
+This is an analysis of the competitive environment,
+
+01:12:57.680 --> 01:13:00.680
+that is, what companies exist in this market,
+
+01:13:00.680 --> 01:13:03.680
+how they develop, what threats they pose.
+
+01:13:03.680 --> 01:13:06.680
+This is an analysis of the market as a whole,
+
+01:13:06.680 --> 01:13:09.680
+the analysis of the possibility of the emergence of some products or substitutes,
+
+01:13:09.680 --> 01:13:12.680
+the analysis of some resources of this market,
+
+01:13:12.680 --> 01:13:15.680
+the analysis of the needs of this market.
+
+01:13:15.680 --> 01:13:18.680
+These are quite similar things
+
+01:13:18.680 --> 01:13:21.680
+from the point of view of strategic planning.
+
+01:13:22.680 --> 01:13:25.680
+Although business intelligence
+
+01:13:25.680 --> 01:13:28.680
+is about threats and risks.
+
+01:13:28.680 --> 01:13:31.680
+Strategic planning can come from the point of view of profit,
+
+01:13:31.680 --> 01:13:34.680
+business intelligence comes from the point of view of threats.
+
+01:13:37.680 --> 01:13:40.680
+The operational direction is a private local direction.
+
+01:13:42.680 --> 01:13:45.680
+Usually, it is about checking a particular company,
+
+01:13:45.680 --> 01:13:48.680
+a particular organization.
+
+01:13:49.680 --> 01:13:52.680
+You want to conclude an agreement with a particular organization,
+
+01:13:52.680 --> 01:13:55.680
+you want to see what kind of organization it is,
+
+01:13:55.680 --> 01:13:58.680
+what it is like,
+
+01:13:58.680 --> 01:14:01.680
+whether it will pay for its obligations,
+
+01:14:01.680 --> 01:14:04.680
+who is behind this company,
+
+01:14:04.680 --> 01:14:07.680
+and how decent this company is.
+
+01:14:07.680 --> 01:14:10.680
+This is a so-called payment capability check,
+
+01:14:10.680 --> 01:14:13.680
+or partner reliability.
+
+01:14:13.680 --> 01:14:16.680
+This is a local operational direction.
+
+01:14:17.680 --> 01:14:20.680
+Information is collected for negotiations.
+
+01:14:20.680 --> 01:14:23.680
+That is, it is planned to carry out some negotiations
+
+01:14:23.680 --> 01:14:26.680
+with a person or an organization.
+
+01:14:26.680 --> 01:14:29.680
+Information is collected for negotiations.
+
+01:14:29.680 --> 01:14:32.680
+Or, in the vast majority of cases,
+
+01:14:32.680 --> 01:14:35.680
+this is a collection of information before concluding a deal.
+
+01:14:35.680 --> 01:14:38.680
+If you work as a swordsman's watchman,
+
+01:14:38.680 --> 01:14:41.680
+in a twelve-chair,
+
+01:14:41.680 --> 01:14:44.680
+in the morning money, in the evening chair,
+
+01:14:44.680 --> 01:14:47.680
+this is very relevant.
+
+01:14:47.680 --> 01:14:50.680
+If you work with the source,
+
+01:14:50.680 --> 01:14:53.680
+that is, first you send money somewhere,
+
+01:14:53.680 --> 01:14:56.680
+then you wait for some product,
+
+01:14:56.680 --> 01:14:59.680
+or vice versa, you send a product,
+
+01:14:59.680 --> 01:15:02.680
+then you wait for money,
+
+01:15:02.680 --> 01:15:05.680
+then it makes sense to check
+
+01:15:05.680 --> 01:15:08.680
+whether the organization will pay for the debts that do not exist.
+
+01:15:08.680 --> 01:15:11.680
+There are stages of business intelligence.
+
+01:15:14.680 --> 01:15:17.680
+I will dwell on them a little.
+
+01:15:17.680 --> 01:15:20.680
+The first stage is the task setting.
+
+01:15:25.680 --> 01:15:28.680
+The more correct and clear you set the task,
+
+01:15:28.680 --> 01:15:31.680
+the easier and cheaper it will be
+
+01:15:31.680 --> 01:15:34.680
+to go into business intelligence.
+
+01:15:34.680 --> 01:15:37.680
+Because the task must always be set clearly
+
+01:15:37.680 --> 01:15:40.680
+based on the questions
+
+01:15:40.680 --> 01:15:43.680
+you want to get an answer to.
+
+01:15:43.680 --> 01:15:46.680
+This is about the same as the lie detector test,
+
+01:15:46.680 --> 01:15:49.680
+which I talked about in the security video.
+
+01:15:49.680 --> 01:15:52.680
+That is, you can't just test a person on a lie detector.
+
+01:15:52.680 --> 01:15:55.680
+As a rule, they test the answer to some questions.
+
+01:15:55.680 --> 01:15:58.680
+The same cannot be done
+
+01:15:58.680 --> 01:16:01.680
+when you ask to collect all the information
+
+01:16:01.680 --> 01:16:04.680
+from some company,
+
+01:16:04.680 --> 01:16:07.680
+but it will be completely useless for use.
+
+01:16:07.680 --> 01:16:10.680
+That is, you need to set the task in the following way.
+
+01:16:10.680 --> 01:16:13.680
+Collect the information I need
+
+01:16:13.680 --> 01:16:16.680
+to make a decision.
+
+01:16:16.680 --> 01:16:19.680
+The decision may be to sign a contract with this company
+
+01:16:19.680 --> 01:16:22.680
+or not.
+
+01:16:22.680 --> 01:16:25.680
+The information is collected and analytical work is carried out
+
+01:16:25.680 --> 01:16:28.680
+from the point of view of the organization's payability.
+
+01:16:28.680 --> 01:16:31.680
+You need to pay attention to this
+
+01:16:31.680 --> 01:16:34.680
+because you need to set the question very clearly and correctly.
+
+01:16:34.680 --> 01:16:37.680
+The second stage is the information collection.
+
+01:16:40.680 --> 01:16:43.680
+There are different methods of collecting information.
+
+01:16:43.680 --> 01:16:46.680
+I will talk about them in more detail.
+
+01:16:46.680 --> 01:16:49.680
+That is, they collect information
+
+01:16:49.680 --> 01:16:52.680
+in various methods.
+
+01:16:52.680 --> 01:16:55.680
+The third stage is the evaluation of information.
+
+01:17:04.680 --> 01:17:07.680
+This is about translating it into information.
+
+01:17:08.680 --> 01:17:11.680
+Information is some kind of information.
+
+01:17:11.680 --> 01:17:14.680
+To make a decision, it is pointless to collect information.
+
+01:17:14.680 --> 01:17:17.680
+You need to collect it,
+
+01:17:17.680 --> 01:17:20.680
+evaluate it and transfer the information to the data.
+
+01:17:20.680 --> 01:17:23.680
+The data is different from the information
+
+01:17:23.680 --> 01:17:26.680
+because the data is already evaluated.
+
+01:17:26.680 --> 01:17:29.680
+The evaluation can take place in different directions.
+
+01:17:29.680 --> 01:17:32.680
+From the point of view of reliability,
+
+01:17:32.680 --> 01:17:35.680
+completeness, relevance,
+
+01:17:35.680 --> 01:17:38.680
+secrecy, reliability of the source and so on.
+
+01:17:41.680 --> 01:17:44.680
+The fourth stage is the analysis.
+
+01:17:47.680 --> 01:17:50.680
+After the information is translated into the data,
+
+01:17:50.680 --> 01:17:53.680
+analytical work is carried out based on this data.
+
+01:17:53.680 --> 01:17:56.680
+Again, this is done to answer the questions
+
+01:17:56.680 --> 01:17:59.680
+that are initially put in the task.
+
+01:18:01.680 --> 01:18:04.680
+The fifth stage is the preparation of conclusions.
+
+01:18:05.680 --> 01:18:08.680
+The preparation of conclusions is usually done
+
+01:18:08.680 --> 01:18:11.680
+in the form of a certain document.
+
+01:18:11.680 --> 01:18:14.680
+This is an information-analytical note,
+
+01:18:14.680 --> 01:18:17.680
+a reference.
+
+01:18:17.680 --> 01:18:20.680
+It is made up of two parts.
+
+01:18:20.680 --> 01:18:23.680
+This is the information part.
+
+01:18:23.680 --> 01:18:26.680
+The information that has been collected
+
+01:18:26.680 --> 01:18:29.680
+is stated here.
+
+01:18:29.680 --> 01:18:32.680
+The information is then collected
+
+01:18:32.680 --> 01:18:35.680
+and the information that has been collected is stated.
+
+01:18:35.680 --> 01:18:38.680
+This is either information or certain information.
+
+01:18:38.680 --> 01:18:41.680
+The part that is dedicated to the answers to those questions.
+
+01:18:41.680 --> 01:18:44.680
+The conclusions should be the answer
+
+01:18:44.680 --> 01:18:47.680
+to the questions that were asked.
+
+01:18:50.680 --> 01:18:53.680
+Here you need to start from the fact
+
+01:18:53.680 --> 01:18:56.680
+that business intelligence
+
+01:18:56.680 --> 01:18:59.680
+is a prediction of the future.
+
+01:18:59.680 --> 01:19:02.680
+An attempt to find out what will happen.
+
+01:19:02.680 --> 01:19:05.680
+Will the organization pay its debts?
+
+01:19:05.680 --> 01:19:08.680
+Will it fulfill its obligations?
+
+01:19:08.680 --> 01:19:11.680
+Or not?
+
+01:19:11.680 --> 01:19:14.680
+Therefore, the conclusions are usually not categorical.
+
+01:19:14.680 --> 01:19:17.680
+Certain terminologies are carried out.
+
+01:19:17.680 --> 01:19:20.680
+The most likely is the possibility.
+
+01:19:20.680 --> 01:19:23.680
+If you can calculate the percentage,
+
+01:19:23.680 --> 01:19:26.680
+the percentage is calculated.
+
+01:19:26.680 --> 01:19:29.680
+It is difficult to calculate the percentage.
+
+01:19:29.680 --> 01:19:32.680
+This is possible when you can apply
+
+01:19:32.680 --> 01:19:35.680
+mathematical calculations or statistics.
+
+01:19:35.680 --> 01:19:38.680
+There is a poll at the elections.
+
+01:19:38.680 --> 01:19:41.680
+You can say that a certain percentage
+
+01:19:41.680 --> 01:19:44.680
+will vote for Ivanov and Ivan Ivanovich.
+
+01:19:44.680 --> 01:19:47.680
+You can make a certain percentage
+
+01:19:47.680 --> 01:19:50.680
+based on statistics in an information-analytical note.
+
+01:19:50.680 --> 01:19:53.680
+If this cannot be done,
+
+01:19:53.680 --> 01:19:56.680
+then you can use terminologies.
+
+01:19:56.680 --> 01:19:59.680
+This is a gradation of the five-point system.
+
+01:19:59.680 --> 01:20:02.680
+Very likely, likely, unlikely,
+
+01:20:02.680 --> 01:20:05.680
+unlikely.
+
+01:20:05.680 --> 01:20:08.680
+Again, it depends on how you look at it.
+
+01:20:08.680 --> 01:20:11.680
+You can look at a bottle half empty
+
+01:20:11.680 --> 01:20:14.680
+or a bottle half full.
+
+01:20:14.680 --> 01:20:17.680
+You can say that Ivanov and Ivan Ivanovich
+
+01:20:17.680 --> 01:20:20.680
+will win the elections with a 50% chance.
+
+01:20:20.680 --> 01:20:23.680
+Petrov and Petrovich will win with a 50% chance.
+
+01:20:23.680 --> 01:20:26.680
+Therefore, you should be careful
+
+01:20:26.680 --> 01:20:29.680
+with conclusions.
+
+01:20:29.680 --> 01:20:32.680
+It is desirable to do so,
+
+01:20:32.680 --> 01:20:35.680
+so that later it is not so shameful
+
+01:20:35.680 --> 01:20:38.680
+for the conclusions you have presented.
+
+01:20:38.680 --> 01:20:41.680
+I will focus on two things.
+
+01:20:41.680 --> 01:20:44.680
+This is information collection and information analysis.
+
+01:20:44.680 --> 01:20:47.680
+What are the methods of information collection?
+
+01:20:47.680 --> 01:20:50.680
+There are so-called office methods.
+
+01:20:50.680 --> 01:20:53.680
+They are easy to access.
+
+01:20:53.680 --> 01:20:56.680
+What do I include here?
+
+01:20:56.680 --> 01:20:59.680
+These are various media
+
+01:20:59.680 --> 01:21:02.680
+that can be easily obtained
+
+01:21:02.680 --> 01:21:05.680
+by using the information collection
+
+01:21:05.680 --> 01:21:08.680
+and information analysis.
+
+01:21:08.680 --> 01:21:11.680
+I will not go into details.
+
+01:21:11.680 --> 01:21:14.680
+I will just show you
+
+01:21:14.680 --> 01:21:17.680
+the methods of information collection.
+
+01:21:17.680 --> 01:21:20.680
+Here is the Internet.
+
+01:21:20.680 --> 01:21:23.680
+There is a large number of Internet resources
+
+01:21:23.680 --> 01:21:26.680
+that can be used for business intelligence.
+
+01:21:26.680 --> 01:21:29.680
+You can include various books, CD-ROMs,
+
+01:21:29.680 --> 01:21:32.680
+databases, etc.
+
+01:21:32.680 --> 01:21:35.680
+These are the methods that can be used
+
+01:21:35.680 --> 01:21:38.680
+for obtaining information without leaving the office.
+
+01:21:38.680 --> 01:21:41.680
+There is a concept of office hard-to-access methods.
+
+01:21:45.680 --> 01:21:48.680
+Office hard-to-access methods.
+
+01:21:51.680 --> 01:21:54.680
+This is about collecting this information
+
+01:21:54.680 --> 01:21:57.680
+without leaving the office.
+
+01:22:06.680 --> 01:22:09.680
+There are certain difficulties
+
+01:22:09.680 --> 01:22:12.680
+in obtaining this information.
+
+01:22:12.680 --> 01:22:15.680
+For example, there are some information arrays
+
+01:22:15.680 --> 01:22:18.680
+that are difficult to read.
+
+01:22:18.680 --> 01:22:21.680
+They are in Chinese.
+
+01:22:21.680 --> 01:22:24.680
+They can be translated,
+
+01:22:24.680 --> 01:22:27.680
+but it requires some effort.
+
+01:22:27.680 --> 01:22:30.680
+For example, the translator's effort is required.
+
+01:22:30.680 --> 01:22:33.680
+There can be some closed reports,
+
+01:22:33.680 --> 01:22:36.680
+some unpublished collections or reference books, etc.
+
+01:22:37.680 --> 01:22:40.680
+There are methods that require
+
+01:22:40.680 --> 01:22:43.680
+leaving the office.
+
+01:22:43.680 --> 01:22:46.680
+They are called field methods.
+
+01:22:54.680 --> 01:22:57.680
+What I mean by field methods
+
+01:22:57.680 --> 01:23:00.680
+is various surveys, interviews,
+
+01:23:00.680 --> 01:23:03.680
+exhibitions, observations, presentations.
+
+01:23:04.680 --> 01:23:07.680
+You can come to a research firm,
+
+01:23:07.680 --> 01:23:10.680
+observe the company's activities
+
+01:23:10.680 --> 01:23:13.680
+for a certain period of time.
+
+01:23:13.680 --> 01:23:16.680
+You can understand whether this firm is alive or not.
+
+01:23:16.680 --> 01:23:19.680
+You can understand whether someone leaves the firm
+
+01:23:19.680 --> 01:23:22.680
+or not, whether some cars enter the firm
+
+01:23:22.680 --> 01:23:25.680
+or not.
+
+01:23:25.680 --> 01:23:28.680
+You can understand the number of cars
+
+01:23:28.680 --> 01:23:31.680
+that leave the firm, etc.
+
+01:23:32.680 --> 01:23:35.680
+There are so-called operational methods.
+
+01:23:43.680 --> 01:23:46.680
+What do they imply?
+
+01:23:46.680 --> 01:23:49.680
+They imply the implementation of certain
+
+01:23:49.680 --> 01:23:52.680
+operational events.
+
+01:23:52.680 --> 01:23:55.680
+These are events related to certain games.
+
+01:23:55.680 --> 01:23:58.680
+This is an example of a game
+
+01:23:58.680 --> 01:24:01.680
+or a visit to a restaurant
+
+01:24:01.680 --> 01:24:04.680
+and to infuse a person with a drink.
+
+01:24:04.680 --> 01:24:07.680
+These are also operational methods.
+
+01:24:07.680 --> 01:24:10.680
+A meeting of a light chess player
+
+01:24:10.680 --> 01:24:13.680
+with the company's secretary
+
+01:24:13.680 --> 01:24:16.680
+is also an operational method.
+
+01:24:19.680 --> 01:24:22.680
+There are so-called expert methods.
+
+01:24:28.680 --> 01:24:31.680
+Expert methods imply the attraction of experts.
+
+01:24:31.680 --> 01:24:34.680
+There is a number of organizations
+
+01:24:34.680 --> 01:24:37.680
+that provide information resources.
+
+01:24:37.680 --> 01:24:40.680
+There are many information companies
+
+01:24:40.680 --> 01:24:43.680
+that can collect information
+
+01:24:43.680 --> 01:24:46.680
+about a particular organization,
+
+01:24:46.680 --> 01:24:49.680
+conduct analysis of the region,
+
+01:24:49.680 --> 01:24:52.680
+industry, etc.
+
+01:24:58.680 --> 01:25:01.680
+I would like to draw your attention
+
+01:25:01.680 --> 01:25:04.680
+to the following point.
+
+01:25:04.680 --> 01:25:07.680
+We have official methods
+
+01:25:07.680 --> 01:25:10.680
+of obtaining information
+
+01:25:10.680 --> 01:25:13.680
+from state bodies.
+
+01:25:13.680 --> 01:25:16.680
+Unlike personal data,
+
+01:25:16.680 --> 01:25:19.680
+there are official channels
+
+01:25:19.680 --> 01:25:22.680
+of obtaining information
+
+01:25:22.680 --> 01:25:25.680
+from state bodies by legal entities.
+
+01:25:26.680 --> 01:25:29.680
+This can be obtained
+
+01:25:29.680 --> 01:25:32.680
+from the Tax Service,
+
+01:25:32.680 --> 01:25:35.680
+from the Spark information database,
+
+01:25:35.680 --> 01:25:38.680
+a professional system
+
+01:25:38.680 --> 01:25:41.680
+for analyzing markets and companies.
+
+01:25:41.680 --> 01:25:44.680
+There is an opportunity
+
+01:25:44.680 --> 01:25:47.680
+to obtain official information
+
+01:25:47.680 --> 01:25:50.680
+from the Redina State Register
+
+01:25:50.680 --> 01:25:53.680
+on real estate.
+
+01:25:53.680 --> 01:25:56.680
+There is an opportunity
+
+01:25:56.680 --> 01:25:59.680
+to obtain official information
+
+01:25:59.680 --> 01:26:02.680
+from the Trade and Industry Chamber database.
+
+01:26:02.680 --> 01:26:05.680
+There are many Internet resources
+
+01:26:05.680 --> 01:26:08.680
+for obtaining information
+
+01:26:08.680 --> 01:26:11.680
+from the official website
+
+01:26:11.680 --> 01:26:14.680
+and from the state websites
+
+01:26:14.680 --> 01:26:17.680
+and specialized websites
+
+01:26:17.680 --> 01:26:20.680
+that provide information
+
+01:26:20.680 --> 01:26:23.680
+about a particular organization
+
+01:26:23.680 --> 01:26:26.680
+or specific areas of activity.
+
+01:26:26.680 --> 01:26:29.680
+There are information resources
+
+01:26:29.680 --> 01:26:32.680
+in the form of professional databases.
+
+01:26:32.680 --> 01:26:35.680
+For example,
+
+01:26:35.680 --> 01:26:38.680
+there is a company called LexisNexis
+
+01:26:38.680 --> 01:26:41.680
+and there is a company called
+
+01:26:41.680 --> 01:26:44.680
+Dunton Brandstreet.
+
+01:26:44.680 --> 01:26:47.680
+These are international databases
+
+01:26:47.680 --> 01:26:50.680
+that provide information
+
+01:26:50.680 --> 01:26:53.680
+and can be used to obtain information.
+
+01:26:53.680 --> 01:26:56.680
+There is a professional database
+
+01:26:56.680 --> 01:26:59.680
+on the Russian market.
+
+01:26:59.680 --> 01:27:02.680
+There is a company called SINZ,
+
+01:27:02.680 --> 01:27:05.680
+Lex, Lines, RIP, Integrum,
+
+01:27:05.680 --> 01:27:08.680
+Intralex, Astarte, and many more.
+
+01:27:09.680 --> 01:27:12.680
+There is a database
+
+01:27:12.680 --> 01:27:15.680
+that is not official
+
+01:27:15.680 --> 01:27:18.680
+and is presented on the Russian market.
+
+01:27:18.680 --> 01:27:21.680
+It can be used to obtain information
+
+01:27:21.680 --> 01:27:24.680
+about companies that are interested.
+
+01:27:24.680 --> 01:27:27.680
+It includes manufacturers of goods and services,
+
+01:27:27.680 --> 01:27:30.680
+statistical reporting,
+
+01:27:30.680 --> 01:27:33.680
+labyrinth, customs, press,
+
+01:27:33.680 --> 01:27:36.680
+registration room,
+
+01:27:37.680 --> 01:27:40.680
+and many more.
+
+01:27:40.680 --> 01:27:43.680
+At least, it can be used
+
+01:27:43.680 --> 01:27:46.680
+as a channel to obtain information.
+
+01:27:46.680 --> 01:27:49.680
+Now I will draw an analytical work
+
+01:27:49.680 --> 01:27:52.680
+in a few words.
+
+01:27:56.680 --> 01:27:59.680
+In general,
+
+01:27:59.680 --> 01:28:02.680
+the work of an analytical
+
+01:28:02.680 --> 01:28:05.680
+is more complex
+
+01:28:06.680 --> 01:28:09.680
+than the work of an information specialist.
+
+01:28:09.680 --> 01:28:12.680
+It is more difficult
+
+01:28:12.680 --> 01:28:15.680
+to find a good analyst
+
+01:28:15.680 --> 01:28:18.680
+than a good information specialist.
+
+01:28:23.680 --> 01:28:26.680
+Unfortunately,
+
+01:28:26.680 --> 01:28:29.680
+there are not many specialists
+
+01:28:29.680 --> 01:28:32.680
+in the field of business intelligence
+
+01:28:32.680 --> 01:28:35.680
+and it is much more difficult to find one.
+
+01:28:35.680 --> 01:28:38.680
+An analytical work is carried out
+
+01:28:38.680 --> 01:28:41.680
+in two directions.
+
+01:28:41.680 --> 01:28:44.680
+The first one is the work of an analyst
+
+01:28:44.680 --> 01:28:47.680
+as a person.
+
+01:28:52.680 --> 01:28:55.680
+The second one is the work
+
+01:28:55.680 --> 01:28:58.680
+of automated analytical systems.
+
+01:29:03.680 --> 01:29:06.680
+I am quite calm
+
+01:29:06.680 --> 01:29:09.680
+about automated analytical systems
+
+01:29:09.680 --> 01:29:12.680
+because they cannot replace
+
+01:29:12.680 --> 01:29:15.680
+the analytical mind of a person.
+
+01:29:15.680 --> 01:29:18.680
+They can work well
+
+01:29:18.680 --> 01:29:21.680
+when they are used as a help
+
+01:29:21.680 --> 01:29:24.680
+for the work of an analyst.
+
+01:29:24.680 --> 01:29:27.680
+The basis should be done
+
+01:29:27.680 --> 01:29:30.680
+for the work of an analyst,
+
+01:29:30.680 --> 01:29:33.680
+but the automated systems
+
+01:29:33.680 --> 01:29:36.680
+can handle the processing
+
+01:29:36.680 --> 01:29:39.680
+of large amounts of information.
+
+01:29:39.680 --> 01:29:42.680
+They work very well
+
+01:29:42.680 --> 01:29:45.680
+when it is necessary
+
+01:29:45.680 --> 01:29:48.680
+to process and track the connections
+
+01:29:48.680 --> 01:29:51.680
+between a huge number of information resources.
+
+01:29:51.680 --> 01:29:54.680
+They work very well
+
+01:29:54.680 --> 01:29:57.680
+according to the scenarios.
+
+01:29:57.680 --> 01:30:00.680
+If the system is used in a different region
+
+01:30:00.680 --> 01:30:03.680
+or in a different country,
+
+01:30:03.680 --> 01:30:06.680
+it will tell you that it is working
+
+01:30:06.680 --> 01:30:09.680
+according to the scenario.
+
+01:30:09.680 --> 01:30:12.680
+Such things are well tracked.
+
+01:30:12.680 --> 01:30:15.680
+The disadvantage of automated systems
+
+01:30:15.680 --> 01:30:18.680
+is that they do not take into account
+
+01:30:18.680 --> 01:30:21.680
+many things that an analyst can take into account
+
+01:30:21.680 --> 01:30:24.680
+such as inner feelings, experience,
+
+01:30:24.680 --> 01:30:27.680
+voice, intuition, etc.
+
+01:30:27.680 --> 01:30:30.680
+It is a machine, it works
+
+01:30:30.680 --> 01:30:33.680
+according to a certain algorithm.
+
+01:30:33.680 --> 01:30:36.680
+Life is more complicated.
+
+01:30:36.680 --> 01:30:39.680
+It should happen
+
+01:30:39.680 --> 01:30:42.680
+according to the automated system.
+
+01:30:42.680 --> 01:30:45.680
+Ivan Ivanovich went to the sauna
+
+01:30:45.680 --> 01:30:48.680
+with Petrov and Petrovich
+
+01:30:48.680 --> 01:30:51.680
+and everything began to go a little differently.
+
+01:30:51.680 --> 01:30:54.680
+The disadvantage of automated systems
+
+01:30:54.680 --> 01:30:57.680
+is that they have a tough result.
+
+01:30:57.680 --> 01:31:00.680
+They can estimate some events
+
+01:31:00.680 --> 01:31:03.680
+because the automated system
+
+01:31:03.680 --> 01:31:06.680
+is a computer, it is a unit of zeros.
+
+01:31:06.680 --> 01:31:09.680
+As a result, we can say
+
+01:31:09.680 --> 01:31:12.680
+that there will be a scenario A,
+
+01:31:12.680 --> 01:31:15.680
+or scenario B, or scenario C.
+
+01:31:15.680 --> 01:31:18.680
+We already put the development scenario
+
+01:31:18.680 --> 01:31:21.680
+An analyst can say
+
+01:31:21.680 --> 01:31:24.680
+that there will be not the same scenarios,
+
+01:31:24.680 --> 01:31:27.680
+but scenarios C or E.
+
+01:31:27.680 --> 01:31:30.680
+The machine will not be able to do this.
+
+01:31:30.680 --> 01:31:33.680
+It is a system that works according to the program.
+
+01:31:33.680 --> 01:31:36.680
+It will say that there will be either the first,
+
+01:31:36.680 --> 01:31:39.680
+second or third scenario.
+
+01:31:42.680 --> 01:31:45.680
+This is the end of our seminar.
+
+01:31:46.680 --> 01:31:49.680
+I hope that the information
+
+01:31:49.680 --> 01:31:52.680
+that you have learned in this video
+
+01:31:52.680 --> 01:31:55.680
+will help you to build an effective
+
+01:31:55.680 --> 01:31:58.680
+corporate security system
+
+01:31:58.680 --> 01:32:01.680
+and protect yourself from the threats
+
+01:32:01.680 --> 01:32:04.680
+that exist in your business.
+
+01:32:04.680 --> 01:32:06.680
+Thank you.

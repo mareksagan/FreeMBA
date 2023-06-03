@@ -1,0 +1,6589 @@
+WEBVTT
+
+00:00.000 --> 00:18.000
+Hello, my name is Evgeny Lunev. I am a teacher of IT module for a manager, which is part of MBA Start program.
+
+00:18.000 --> 00:23.000
+In previous lectures we have learned about the concept of information and its forms of transformation,
+
+00:23.000 --> 00:26.000
+such as information technology and information system.
+
+00:26.000 --> 00:32.000
+We have learned about the main concepts of IT strategy, IT standardization, business modeling,
+
+00:32.000 --> 00:41.000
+and defined the key areas for IT in business. These areas are related to security, IT audit and economic efficiency.
+
+00:41.000 --> 00:49.000
+Finally, we have analyzed one of the most advanced and modern and promising methodologies of building relationships between IT and business,
+
+00:49.000 --> 00:56.000
+namely, the organization of a service approach to the building of the information infrastructure of the company's enterprises
+
+00:56.000 --> 00:59.000
+according to the recommendations of the ITIL library.
+
+01:04.000 --> 01:10.000
+We will start our journey with the concept of MRP and RP, that is, management of corporate resources.
+
+01:11.000 --> 01:18.000
+The perspective of the organization will be based on the position of a business corporation,
+
+01:18.000 --> 01:25.000
+which provides that this corporation has some kind of a remote ownership, some kind of legal address,
+
+01:25.000 --> 01:32.000
+that its functions of managing this corporation are concentrated in the hands of professional managers,
+
+01:32.000 --> 01:36.000
+that is, employees who work for hiring.
+
+01:36.000 --> 01:44.000
+Next, our corporation is inclined to expand diversification of various types of economic activities.
+
+01:44.000 --> 01:51.000
+For it, the growth of the scale of the volume of resources, including, for example, the increase in the number of employees, is characterized.
+
+01:51.000 --> 01:58.000
+Finally, it is inclined to expand the geography of its organizational units, that is, divisions,
+
+01:58.000 --> 02:04.000
+that is, their expansion over the territory of Russia.
+
+02:04.000 --> 02:10.000
+Next, our corporation is virtually inclined to take into account the external economic environment,
+
+02:10.000 --> 02:15.000
+that is, the normative right environment, market infrastructure, competition and others,
+
+02:15.000 --> 02:19.000
+when developing some kind of its own strategy of activity.
+
+02:19.000 --> 02:32.000
+And finally, managers and top management of our virtual corporation are inclined or are the apologetics of the application of information technologies.
+
+02:32.000 --> 02:35.000
+As for the size and scale of the business of our corporation,
+
+02:35.000 --> 02:39.000
+from the position in which we will assess certain IT solutions or IT products,
+
+02:39.000 --> 02:44.000
+our corporation will correspond to the category of small and medium-sized business SMB,
+
+02:44.000 --> 02:49.000
+which is striving to become a large distributed territorial holding.
+
+02:49.000 --> 02:54.000
+So, below is a incomplete list of the geographical business concepts,
+
+02:54.000 --> 02:58.000
+which were formed approximately from the 50s of the last century,
+
+02:58.000 --> 03:04.000
+and which were the basis of the standards of management and distribution of modern IT systems.
+
+03:04.000 --> 03:06.000
+Look at the slides.
+
+03:06.000 --> 03:13.000
+So, I remind you that somewhere in the mid-50s, the first concept was the Taylor Scientific Labor Organization,
+
+03:13.000 --> 03:16.000
+and the cycle of quality of daming.
+
+03:16.000 --> 03:20.000
+Then, somewhere in about 1965, the concept of MRP appeared,
+
+03:20.000 --> 03:23.000
+the planning of needs in materials.
+
+03:23.000 --> 03:26.000
+In 1975, this concept was transformed into MRP-1,
+
+03:26.000 --> 03:30.000
+the planning of needs in materials in a closed cycle,
+
+03:30.000 --> 03:35.000
+the composition of the production program and the control of its execution.
+
+03:35.000 --> 03:38.000
+Further, in 1980, the concept of MRP-2 appeared,
+
+03:39.000 --> 03:45.000
+which is already a planning of production resources based on data from suppliers and consumers.
+
+03:45.000 --> 03:50.000
+It was also introduced a prognosis, planning, production control.
+
+03:50.000 --> 03:57.000
+In 1985, the methodology or concept of MRP-2 was combined with the concept of Just-in-Time,
+
+03:57.000 --> 04:00.000
+that is, exactly in time, JIT,
+
+04:00.000 --> 04:07.000
+and the so-called ability to optimize and narrow places in production and production appeared.
+
+04:07.000 --> 04:13.000
+In 1987, the significant event was the introduction of the standard of quality management,
+
+04:13.000 --> 04:15.000
+the ISO 9000.
+
+04:15.000 --> 04:20.000
+And in 1990, combining MRP with financial planning,
+
+04:20.000 --> 04:23.000
+an analogue of the modern ERP system appeared,
+
+04:23.000 --> 04:26.000
+that is, the planning of enterprise resources.
+
+04:26.000 --> 04:31.000
+Distribution and planning have already become the subject of the information system itself,
+
+04:31.000 --> 04:34.000
+as well as financial planning, I repeat.
+
+04:34.000 --> 04:39.000
+In 1994, the concept of business process re-engineering was announced,
+
+04:39.000 --> 04:44.000
+the concepts of the life cycle of production were unified,
+
+04:44.000 --> 04:50.000
+the transition to the principles of constant improvement of corporate activities was carried out.
+
+04:50.000 --> 04:56.000
+And in 1996, the concept of SCM appeared,
+
+04:56.000 --> 05:01.000
+that is, the management of chains of traffic, the movement of material and information flows,
+
+05:01.000 --> 05:04.000
+and the concept of CRM, management of marketing information,
+
+05:04.000 --> 05:07.000
+that is, contacts, sales and campaigns.
+
+05:07.000 --> 05:20.000
+All this was integrated or synergized in 2001-2002 into the so-called ERP-2 concept,
+
+05:20.000 --> 05:28.000
+that is, the concept became integrated into the planning system of enterprise resources and external connections.
+
+05:28.000 --> 05:35.000
+The textbook shows the structure and the name of most of these theoretical concepts,
+
+05:35.000 --> 05:40.000
+with English and Russian translations.
+
+05:40.000 --> 05:46.000
+We will not dwell on all these concepts,
+
+05:46.000 --> 05:49.000
+we will consider only some of them,
+
+05:49.000 --> 05:59.000
+which will allow us to assess the evolution, logic and dynamics of the development of theoretical concepts for information technologies.
+
+05:59.000 --> 06:11.000
+We will also consider only the key systems, such as ERP, SCM, BI, CRM systems,
+
+06:11.000 --> 06:18.000
+which affect the business of any manager in any company.
+
+06:18.000 --> 06:24.000
+The concept of planning of material needs in ERP-1
+
+06:24.000 --> 06:28.000
+involves the method of solving the following management tasks.
+
+06:28.000 --> 06:34.000
+Namely, the formation of a schedule of supply, raw materials and components,
+
+06:34.000 --> 06:40.000
+management of warehouses and accounting of returns, that is, supplies of materials.
+
+06:40.000 --> 06:44.000
+The concept of planning of needs in ERP production capacities
+
+06:44.000 --> 06:49.000
+aims to improve the use of production capacities of work centers,
+
+06:49.000 --> 06:52.000
+that is, equipment, supply lines, work brigades.
+
+06:52.000 --> 06:57.000
+The system performs planning and balancing of the loading of these work centers,
+
+06:57.000 --> 07:01.000
+taking into account some resource restrictions, plans for the production of finished products.
+
+07:01.000 --> 07:04.000
+The information system of ERP and MRP classes
+
+07:04.000 --> 07:10.000
+provides the implementation of the management functions from top to bottom,
+
+07:10.000 --> 07:12.000
+without accounting for feedback,
+
+07:12.000 --> 07:18.000
+as well as the solution of functional tasks of planning of materials needs and production capacities.
+
+07:18.000 --> 07:21.000
+Such functions of management as business planning,
+
+07:21.000 --> 07:23.000
+planning of sales, planning of production,
+
+07:23.000 --> 07:26.000
+development of the main calendar plan of production,
+
+07:26.000 --> 07:28.000
+were not covered.
+
+07:28.000 --> 07:36.000
+Planning of ERP-2 resources is an improved method of planning of all types of business resources
+
+07:36.000 --> 07:40.000
+and extension of the closed cycle,
+
+07:40.000 --> 07:45.000
+which was at the previous stages of ERP development.
+
+07:45.000 --> 07:47.000
+The most important installation of the ERP standard
+
+07:47.000 --> 07:51.000
+is the provision of the leading personnel with the necessary information
+
+07:51.000 --> 07:53.000
+for making management decisions.
+
+07:53.000 --> 07:58.000
+The ERP-2 system provides support for 16 functions of the management of the corporation,
+
+07:58.000 --> 08:00.000
+which can be grouped as follows.
+
+08:00.000 --> 08:02.000
+The first is business planning,
+
+08:02.000 --> 08:05.000
+the second is planning of sales and operations,
+
+08:05.000 --> 08:07.000
+the third is planning of production,
+
+08:07.000 --> 08:11.000
+the fourth is the formation of the main calendar plan of production,
+
+08:11.000 --> 08:14.000
+the fifth is planning of materials needs,
+
+08:14.000 --> 08:17.000
+the sixth is planning of capacity needs,
+
+08:17.000 --> 08:22.000
+and finally, the seventh is the system of supporting the implementation of plans
+
+08:22.000 --> 08:25.000
+for production capacities.
+
+08:25.000 --> 08:31.000
+The ERP-2 system is a detailed and precise production model.
+
+08:31.000 --> 08:37.000
+The main objects are shown on the slide.
+
+08:37.000 --> 08:41.000
+This is the enlarged plan of production needs,
+
+08:41.000 --> 08:43.000
+the plan of materials needs,
+
+08:43.000 --> 08:46.000
+the plan of production needs,
+
+08:46.000 --> 08:48.000
+and the financial plan.
+
+08:48.000 --> 08:51.000
+The disadvantages of ERP-2 are the lack of integration
+
+08:51.000 --> 08:54.000
+with the management processes of finances and personnel,
+
+08:54.000 --> 08:58.000
+and the orientation to the existing orders.
+
+08:58.000 --> 09:04.000
+There is no special task complex for forecasting demand.
+
+09:04.000 --> 09:08.000
+Another disadvantage is the weak integration
+
+09:08.000 --> 09:11.000
+with the design and design systems,
+
+09:11.000 --> 09:15.000
+that is, with the so-called SAPR systems,
+
+09:15.000 --> 09:18.000
+that is, with the automated design systems,
+
+09:18.000 --> 09:21.000
+that is, with the construction and production systems.
+
+09:21.000 --> 09:27.000
+Since the 1990s, ERP-2 has been integrated with the financial resource planning module
+
+09:27.000 --> 09:29.000
+and the business planning system.
+
+09:29.000 --> 09:36.000
+As a result, the enterprise planning system has been formed,
+
+09:36.000 --> 09:41.000
+which allows to effectively plan the commercial activities of the corporation,
+
+09:41.000 --> 09:46.000
+the financial resources, equipment resources,
+
+09:46.000 --> 09:51.000
+as well as to prepare investment projects.
+
+09:51.000 --> 09:58.000
+The ERP methodology is based on the principle of a single repository of data,
+
+09:58.000 --> 10:02.000
+which contains all the business information accumulated by the corporation
+
+10:02.000 --> 10:05.000
+during the business operation.
+
+10:05.000 --> 10:07.000
+This includes financial information,
+
+10:07.000 --> 10:10.000
+data related to production, management of personnel,
+
+10:10.000 --> 10:13.000
+as well as any other information.
+
+10:13.000 --> 10:17.000
+The main feature of ERP-2 MRP system
+
+10:17.000 --> 10:24.000
+is the fundamental principle of systematic and functional integrity of the management system.
+
+10:24.000 --> 10:28.000
+Such systems can be used to manage enterprises of various scales,
+
+10:28.000 --> 10:32.000
+as they allow to optimize business processes
+
+10:32.000 --> 10:37.000
+to reduce production costs and to implement the production, work and services.
+
+10:37.000 --> 10:42.000
+They can be used to plan and manage the stock of material values,
+
+10:42.000 --> 10:45.000
+to manage the cost of the product,
+
+10:45.000 --> 10:49.000
+to reduce costs or unfinished production,
+
+10:49.000 --> 10:54.000
+to reduce the production cycle,
+
+10:54.000 --> 10:59.000
+to take into account the work of each production unit,
+
+10:59.000 --> 11:03.000
+to make changes to the production plan
+
+11:03.000 --> 11:07.000
+and to improve the service of the clients and customers of the corporation.
+
+11:07.000 --> 11:13.000
+However, with the accumulation of experience of modeling production and non-production business processes,
+
+11:13.000 --> 11:16.000
+the concept of ERP is constantly being refined,
+
+11:16.000 --> 11:19.000
+improving, embracing more and more business functions,
+
+11:19.000 --> 11:21.000
+such as working with clients,
+
+11:21.000 --> 11:24.000
+working with supply chain management,
+
+11:24.000 --> 11:26.000
+assistance system in decision-making,
+
+11:26.000 --> 11:28.000
+e-commerce system.
+
+11:29.000 --> 11:36.000
+The foundation of such integration is the unification of the concept of the life cycle of the product,
+
+11:36.000 --> 11:41.000
+the transition to the principles of constant improvement of the enterprise,
+
+11:41.000 --> 11:48.000
+which often forced to abandon the strict administrative hierarchical management schemes,
+
+11:48.000 --> 11:53.000
+as well as the aspiration and the emergence of information system
+
+11:53.000 --> 11:56.000
+for the description of business processes and enterprise models,
+
+11:57.000 --> 12:02.000
+Therefore, the key integral definition of ERP system can be given as follows.
+
+12:02.000 --> 12:08.000
+ERP system is a kind of integration component approach to corporate management,
+
+12:08.000 --> 12:11.000
+which is based on information technology,
+
+12:11.000 --> 12:15.000
+quality management system, international standards, business model,
+
+12:15.000 --> 12:18.000
+mechanisms of constant improvement of management activities.
+
+12:18.000 --> 12:20.000
+Thanks to ERP system,
+
+12:20.000 --> 12:26.000
+more than 90 business processes of any corporation can be integrated.
+
+12:26.000 --> 12:33.000
+In 2001, the already mentioned consulting system Gartner Group introduced the concept of ERP-2,
+
+12:33.000 --> 12:39.000
+which differs from the usual traditional ERP systems by the following features.
+
+12:39.000 --> 12:43.000
+First of all, it is an expanded functionality of ERP systems,
+
+12:43.000 --> 12:47.000
+that is, a complete automation of the functions of the management system in real-time.
+
+12:47.000 --> 12:50.000
+Next, it is the significance of ERP system for the activities of the corporation.
+
+12:50.000 --> 12:55.000
+That is, ERP system becomes the core of the corporate management system.
+
+12:55.000 --> 13:00.000
+Next, it is the transition from the automation of internal business processes in the company
+
+13:00.000 --> 13:04.000
+to the free interaction of the company with its counter-agents,
+
+13:04.000 --> 13:08.000
+that is, customers, suppliers, banks, tax authorities, and so on.
+
+13:08.000 --> 13:14.000
+The next distinguishing feature is that ERP-2 systems,
+
+13:14.000 --> 13:25.000
+both internal and external, do not feel any restrictions on the scale or geographical location.
+
+13:25.000 --> 13:31.000
+In fact, the distance does not matter for the ERP system user.
+
+13:31.000 --> 13:35.000
+The next feature of ERP system is openness,
+
+13:35.000 --> 13:38.000
+that is, support for interaction with external information systems
+
+13:38.000 --> 13:43.000
+based on standard technologies and software interfaces.
+
+13:44.000 --> 13:48.000
+The next feature is a unified information space,
+
+13:48.000 --> 13:53.000
+which is created in ERP-2 system for the adoption of management decisions,
+
+13:53.000 --> 13:58.000
+high level of information quality for the implementation of functions of management,
+
+13:58.000 --> 14:03.000
+as well as the introduction of modern information methods and data processing technologies.
+
+14:03.000 --> 14:10.000
+And, of course, another distinctive feature is high reliability of ERP-2 systems
+
+14:10.000 --> 14:14.000
+and corporate information systems based on ERP-2,
+
+14:14.000 --> 14:21.000
+protection of data from unauthorized access and other threats of integrity and data preservation,
+
+14:21.000 --> 14:25.000
+as well as a friendly user interface.
+
+14:27.000 --> 14:35.000
+In fact, the descriptive answers to the following points are based on the business model of the corporation.
+
+14:35.000 --> 14:40.000
+What business functions do they have?
+
+14:40.000 --> 14:42.000
+What does the business do?
+
+14:42.000 --> 14:46.000
+How does the enterprise implement these functions?
+
+14:46.000 --> 14:50.000
+What business processes exist for the implementation of these functions?
+
+14:50.000 --> 14:54.000
+Where are these business functions and processes executed?
+
+14:54.000 --> 14:59.000
+What is the organizational structure of the enterprise or corporation?
+
+14:59.000 --> 15:06.000
+When or in what sequence should these business functions or processes be implemented?
+
+15:06.000 --> 15:13.000
+This question determines the phases of these business functions and processes.
+
+15:13.000 --> 15:18.000
+And, of course, who performs these business processes?
+
+15:18.000 --> 15:25.000
+Who determines the roles of these business units in the implementation of these business functions or processes?
+
+15:25.000 --> 15:35.000
+And all this is connected with some general rules.
+
+15:35.000 --> 15:42.000
+And this is expressed in the corresponding descriptions, regulations and models.
+
+15:42.000 --> 15:50.000
+The slide shows the business model of the corporation for understanding the ERP system.
+
+15:50.000 --> 15:56.000
+It makes sense for our virtual SMB corporation,
+
+15:56.000 --> 16:00.000
+that is, a corporation related to medium and small business,
+
+16:00.000 --> 16:07.000
+to focus on some requirements that should be applied to its ERP system.
+
+16:07.000 --> 16:12.000
+One of these requirements should be full functionality.
+
+16:12.000 --> 16:15.000
+This is the most comprehensive coverage of business functions.
+
+16:15.000 --> 16:19.000
+That is, the answer to the question, what does the business do?
+
+16:19.000 --> 16:23.000
+According to the research corporation Aberdeen Group,
+
+16:23.000 --> 16:26.000
+it was in August 2006,
+
+16:26.000 --> 16:32.000
+69% of medium enterprises and 64% of small businesses
+
+16:32.000 --> 16:37.000
+were chosen by the functionality as a determining factor
+
+16:37.000 --> 16:40.000
+by the criteria of the function of the ERP system.
+
+16:40.000 --> 16:45.000
+That is, they operate the system for 3-5 years,
+
+16:45.000 --> 16:48.000
+and this system should give feedback,
+
+16:48.000 --> 16:51.000
+that is, perform the functions that they put into it.
+
+16:51.000 --> 16:57.000
+And it is desirable that the chosen ERP solution or ERP system
+
+16:57.000 --> 16:59.000
+allowed to expand the business,
+
+16:59.000 --> 17:03.000
+that is, it should be scalable, not only fully functional.
+
+17:03.000 --> 17:05.000
+The next requirement is flexibility and control.
+
+17:05.000 --> 17:08.000
+That is, the ability to better control the business,
+
+17:08.000 --> 17:12.000
+which implies some development, some rules, procedures
+
+17:12.000 --> 17:15.000
+throughout the enterprise, throughout the corporation,
+
+17:15.000 --> 17:18.000
+the creation of some accounting backbone,
+
+17:18.000 --> 17:22.000
+finance, materials and other resources.
+
+17:22.000 --> 17:24.000
+Based on this backbone,
+
+17:24.000 --> 17:29.000
+some decisions on the issues of the corporation will be made.
+
+17:29.000 --> 17:32.000
+Further, such a system as the ERP system,
+
+17:32.000 --> 17:34.000
+as the ease of mastering,
+
+17:34.000 --> 17:37.000
+it is clear, because small and medium enterprises
+
+17:37.000 --> 17:41.000
+do not have large IT resources,
+
+17:41.000 --> 17:44.000
+so the degree of complexity of installation or implementation of the system
+
+17:44.000 --> 17:49.000
+should be provided with ease of mastering.
+
+17:49.000 --> 17:53.000
+Therefore, the basic requirement here is some kind of graphical interfaces,
+
+17:53.000 --> 17:58.000
+allowing the user to easily and quickly master some expanded functions of the ERP system.
+
+17:58.000 --> 18:03.000
+These interfaces are preferred to be localized,
+
+18:03.000 --> 18:07.000
+translated to the language of the business owner,
+
+18:07.000 --> 18:09.000
+or the manager.
+
+18:09.000 --> 18:13.000
+They should offer the user convenience of configuration,
+
+18:13.000 --> 18:16.000
+simple, in fact, methods.
+
+18:16.000 --> 18:18.000
+Drag and drop,
+
+18:18.000 --> 18:20.000
+that is, you take the icon,
+
+18:20.000 --> 18:22.000
+transfer it, grab it,
+
+18:22.000 --> 18:24.000
+with this minimum number of clicks,
+
+18:24.000 --> 18:26.000
+you need to control.
+
+18:26.000 --> 18:31.000
+Also, as ease of mastering,
+
+18:31.000 --> 18:36.000
+it is desirable that the ERP system has so-called dashboards,
+
+18:36.000 --> 18:39.000
+that is, the dashboards of the device parallel management,
+
+18:39.000 --> 18:43.000
+where the manager can see on certain issues
+
+18:43.000 --> 18:48.000
+how a given indicator, KPI, changes.
+
+18:48.000 --> 18:55.000
+If, for example, something on production changes in the worse direction,
+
+18:55.000 --> 19:01.000
+then, of course, this indicator, as an indicator dashboard,
+
+19:01.000 --> 19:08.000
+should show, for example, red, yellow, or green, if everything is in order.
+
+19:08.000 --> 19:12.000
+Further, the requirements of ease of maintenance, in fact,
+
+19:12.000 --> 19:15.000
+that is, ease of support and maintenance,
+
+19:15.000 --> 19:20.000
+since IT departments of our corporations, especially small and medium-sized,
+
+19:20.000 --> 19:24.000
+have insignificant resources, I have already mentioned this.
+
+19:24.000 --> 19:27.000
+Further, availability at the price and predictability.
+
+19:27.000 --> 19:33.000
+It is meant that the ERP system itself for small and medium-sized enterprises
+
+19:33.000 --> 19:38.000
+should not affect too much and be available at the total cost of ownership,
+
+19:38.000 --> 19:42.000
+and not only for purchase, but also for support,
+
+19:42.000 --> 19:46.000
+for expansion, for changing some functionality, and so on.
+
+19:46.000 --> 19:50.000
+And, of course, the last requirement for our ERP systems
+
+19:50.000 --> 19:57.000
+is to use the best practice, the best experience in a particular business area.
+
+19:57.000 --> 20:06.000
+Therefore, there is a typical set that can automate the ERP system.
+
+20:06.000 --> 20:14.000
+In your textbook, you have a complete set of automated business processes.
+
+20:15.000 --> 20:17.000
+Here I will only point out some of them.
+
+20:17.000 --> 20:22.000
+Production, for example, management of the workshop schedule,
+
+20:22.000 --> 20:25.000
+product configuration, business analysis,
+
+20:25.000 --> 20:29.000
+that is, working with the system in self-related indicators,
+
+20:29.000 --> 20:31.000
+the Balancer Scorecard,
+
+20:31.000 --> 20:34.000
+design of some multidimensional analytical cubes,
+
+20:34.000 --> 20:37.000
+we will talk about this a little bit later,
+
+20:37.000 --> 20:39.000
+internal and external audit,
+
+20:39.000 --> 20:42.000
+in order to understand and analyze the business process,
+
+20:42.000 --> 20:45.000
+distribution, some distribution functions,
+
+20:45.000 --> 20:48.000
+that is, management of the distribution system,
+
+20:48.000 --> 20:50.000
+processing of orders,
+
+20:50.000 --> 20:53.000
+orders taking into account some commercial agreements,
+
+20:53.000 --> 20:55.000
+management of sales and marketing,
+
+20:55.000 --> 20:57.000
+telemarketing, again,
+
+20:57.000 --> 21:00.000
+marketing, management of sales,
+
+21:00.000 --> 21:02.000
+service to customers via the Internet,
+
+21:02.000 --> 21:04.000
+management of supply chains,
+
+21:04.000 --> 21:07.000
+again, forecast planning,
+
+21:07.000 --> 21:09.000
+management of supply,
+
+21:09.000 --> 21:11.000
+further, management of service activities,
+
+21:11.000 --> 21:15.000
+that is, support of the widest possible range of service operations,
+
+21:15.000 --> 21:17.000
+again, management of repairs,
+
+21:17.000 --> 21:19.000
+further, management of projects,
+
+21:19.000 --> 21:22.000
+implementation of some current activity for various projects,
+
+21:22.000 --> 21:25.000
+planning and analysis of the results of these projects,
+
+21:25.000 --> 21:27.000
+of course, management of personnel,
+
+21:27.000 --> 21:29.000
+that is, organizational structure of the enterprise,
+
+21:29.000 --> 21:31.000
+monitoring, moving of personnel,
+
+21:31.000 --> 21:33.000
+selection, management of personnel qualification,
+
+21:33.000 --> 21:35.000
+management of finances,
+
+21:35.000 --> 21:38.000
+that is, accounting of the main funds,
+
+21:38.000 --> 21:40.000
+calculation of the salary,
+
+21:40.000 --> 21:42.000
+accounting of the accounts, and so on.
+
+21:42.000 --> 21:46.000
+These are the main business processes
+
+21:46.000 --> 21:48.000
+and business functions,
+
+21:48.000 --> 21:51.000
+that the ERP system should automate.
+
+21:51.000 --> 21:54.000
+As the history of the development of the ERP concept shows,
+
+21:54.000 --> 21:56.000
+traditionally, in fact,
+
+21:56.000 --> 21:59.000
+at the very beginning of the traditional ERP system,
+
+21:59.000 --> 22:03.000
+they were also oriented to increase flexibility and transparency.
+
+22:03.000 --> 22:05.000
+And although these systems allowed to improve
+
+22:05.000 --> 22:07.000
+the processing of orders, products,
+
+22:07.000 --> 22:09.000
+their capabilities were not enough
+
+22:09.000 --> 22:12.000
+to manage complex business processes.
+
+22:12.000 --> 22:16.000
+Since to solve this task,
+
+22:16.000 --> 22:18.000
+especially at the modern stage,
+
+22:18.000 --> 22:20.000
+any business needs to create
+
+22:20.000 --> 22:23.000
+some kind of ecosystem around itself,
+
+22:23.000 --> 22:26.000
+which would push the most valuable clients
+
+22:26.000 --> 22:28.000
+and interested persons
+
+22:28.000 --> 22:31.000
+to share business knowledge with each other.
+
+22:31.000 --> 22:35.000
+This is what the ERP-2 system should do.
+
+22:35.000 --> 22:37.000
+In fact,
+
+22:37.000 --> 22:39.000
+again,
+
+22:39.000 --> 22:43.000
+translating the words of the analysts from Gartner,
+
+22:43.000 --> 22:45.000
+we can say that the ERP system,
+
+22:45.000 --> 22:47.000
+ERP-2,
+
+22:47.000 --> 22:50.000
+is a kind of business strategy
+
+22:50.000 --> 22:52.000
+and a set of applications
+
+22:52.000 --> 22:54.000
+oriented to provide a specific industry,
+
+22:54.000 --> 22:56.000
+a corporation,
+
+22:56.000 --> 22:58.000
+and to increase the value of the company
+
+22:58.000 --> 23:00.000
+for its clients
+
+23:00.000 --> 23:02.000
+and for its owners
+
+23:02.000 --> 23:04.000
+by supporting and optimizing
+
+23:04.000 --> 23:06.000
+operational and financial processes,
+
+23:06.000 --> 23:09.000
+by working together inside and between enterprises.
+
+23:09.000 --> 23:11.000
+In other words,
+
+23:11.000 --> 23:13.000
+ERP-2 is a competitive strategy
+
+23:13.000 --> 23:17.000
+of integrating the centralized ERP system base
+
+23:17.000 --> 23:20.000
+with such narrowly specialized solutions
+
+23:20.000 --> 23:23.000
+as client management system,
+
+23:23.000 --> 23:25.000
+supplier management system,
+
+23:25.000 --> 23:28.000
+knowledge management system,
+
+23:28.000 --> 23:30.000
+and so on.
+
+23:30.000 --> 23:34.000
+The high-quality difference between ERP-2 and traditional ERP systems
+
+23:34.000 --> 23:38.000
+is the ability to manage the information chain of values
+
+23:38.000 --> 23:40.000
+to create a massive long-term
+
+23:40.000 --> 23:43.000
+internal and external relations.
+
+23:43.000 --> 23:45.000
+In other words,
+
+23:45.000 --> 23:48.000
+a chain of community of values is created,
+
+23:48.000 --> 23:52.000
+which increases the transparency of access to information,
+
+23:52.000 --> 23:54.000
+speeds up the decision-making process
+
+23:54.000 --> 23:56.000
+and reduces the most important response time
+
+23:56.000 --> 23:58.000
+to these decisions.
+
+23:58.000 --> 24:00.000
+It promotes the availability of knowledge
+
+24:00.000 --> 24:02.000
+for joint dialogue,
+
+24:02.000 --> 24:05.000
+which may result in new ideas,
+
+24:05.000 --> 24:07.000
+innovations,
+
+24:07.000 --> 24:10.000
+and optimal solutions to complex problems.
+
+24:10.000 --> 24:12.000
+The next slide shows
+
+24:12.000 --> 24:14.000
+the cross-section of knowledge areas
+
+24:14.000 --> 24:16.000
+for continuous business improvement.
+
+24:16.000 --> 24:18.000
+ERP system is a part of the system
+
+24:18.000 --> 24:20.000
+and integrates with business modeling,
+
+24:20.000 --> 24:22.000
+corporate culture,
+
+24:22.000 --> 24:24.000
+and human factor.
+
+24:24.000 --> 24:26.000
+This synergy allows
+
+24:26.000 --> 24:29.000
+to constantly improve corporations,
+
+24:29.000 --> 24:32.000
+to constantly innovate corporations.
+
+24:32.000 --> 24:34.000
+Joseph Schumpeter,
+
+24:34.000 --> 24:37.000
+the great economist of the last century,
+
+24:37.000 --> 24:39.000
+said that profit can be obtained
+
+24:39.000 --> 24:41.000
+not only from exploitation of a person
+
+24:41.000 --> 24:43.000
+or from some kind of economy,
+
+24:43.000 --> 24:45.000
+but also from the fact that an entrepreneur
+
+24:45.000 --> 24:48.000
+can constantly come up with new ideas
+
+24:48.000 --> 24:50.000
+for his business
+
+24:50.000 --> 24:53.000
+and draw profit from it.
+
+24:53.000 --> 24:57.000
+Now, a little bit about the ERP market in Russia.
+
+24:57.000 --> 24:59.000
+It is growing
+
+24:59.000 --> 25:01.000
+by 30-35% per year,
+
+25:01.000 --> 25:03.000
+according to the analysts.
+
+25:03.000 --> 25:05.000
+It is a good growth.
+
+25:05.000 --> 25:07.000
+The main ERP vendors
+
+25:07.000 --> 25:10.000
+are shown on the slide.
+
+25:10.000 --> 25:12.000
+The main share is
+
+25:12.000 --> 25:15.000
+owned by German company SAP,
+
+25:15.000 --> 25:17.000
+American company Oracle,
+
+25:17.000 --> 25:19.000
+Russian company 1S,
+
+25:19.000 --> 25:21.000
+Microsoft,
+
+25:21.000 --> 25:23.000
+Russian company Paros.
+
+25:23.000 --> 25:25.000
+The second slide shows
+
+25:25.000 --> 25:27.000
+the evaluation of the ERP implementation
+
+25:27.000 --> 25:29.000
+of two leading vendors,
+
+25:29.000 --> 25:31.000
+Oracle and SAP.
+
+25:31.000 --> 25:33.000
+These evaluations are
+
+25:33.000 --> 25:35.000
+from the point of view
+
+25:35.000 --> 25:37.000
+of small and medium business.
+
+25:37.000 --> 25:39.000
+The most significant criteria
+
+25:39.000 --> 25:41.000
+for choosing ERP are also shown,
+
+25:41.000 --> 25:43.000
+such as functionality,
+
+25:43.000 --> 25:45.000
+ease of use,
+
+25:45.000 --> 25:47.000
+and total value of ownership.
+
+25:47.000 --> 25:49.000
+The following two slides
+
+25:49.000 --> 25:51.000
+show the demand for different IT systems
+
+25:51.000 --> 25:53.000
+for small and medium business,
+
+25:53.000 --> 25:55.000
+as well as the cost of ERP projects,
+
+25:55.000 --> 25:57.000
+average costs of their implementation,
+
+25:57.000 --> 25:59.000
+and the time duration of these projects
+
+25:59.000 --> 26:01.000
+for the implementation of ERP systems.
+
+26:01.000 --> 26:03.000
+So, those customers
+
+26:03.000 --> 26:05.000
+who do not have enough funds
+
+26:05.000 --> 26:07.000
+for the comprehensive,
+
+26:07.000 --> 26:09.000
+that is, the whole purchase
+
+26:09.000 --> 26:11.000
+and implementation of ERP systems,
+
+26:11.000 --> 26:13.000
+usually start the implementation
+
+26:13.000 --> 26:15.000
+with some modules.
+
+26:15.000 --> 26:17.000
+Usually, it is an accounting module
+
+26:17.000 --> 26:19.000
+or accounting of the main funds,
+
+26:19.000 --> 26:21.000
+commodity values,
+
+26:21.000 --> 26:23.000
+or management of staff
+
+26:23.000 --> 26:25.000
+and salary calculations,
+
+26:25.000 --> 26:27.000
+or management of production,
+
+26:27.000 --> 26:29.000
+planning, logistics,
+
+26:29.000 --> 26:31.000
+or management of relations with clients.
+
+26:31.000 --> 26:33.000
+It depends on
+
+26:33.000 --> 26:35.000
+which business is the most critical
+
+26:35.000 --> 26:37.000
+or which business function is the most critical.
+
+26:37.000 --> 26:39.000
+According to many IT companies
+
+26:39.000 --> 26:41.000
+that implement ERP systems
+
+26:41.000 --> 26:43.000
+for their business customers,
+
+26:43.000 --> 26:45.000
+the threshold for the implementation
+
+26:45.000 --> 26:47.000
+of the western ERP system
+
+26:47.000 --> 26:49.000
+is about 5 million dollars.
+
+26:49.000 --> 26:51.000
+And even 1 million dollars
+
+26:51.000 --> 26:53.000
+is enough
+
+26:53.000 --> 26:55.000
+to implement some flexible modules,
+
+26:55.000 --> 26:57.000
+some key modules,
+
+26:57.000 --> 26:59.000
+that will allow
+
+26:59.000 --> 27:01.000
+to raise the business
+
+27:01.000 --> 27:03.000
+to a new height.
+
+27:03.000 --> 27:05.000
+As for the domestic ERPs,
+
+27:05.000 --> 27:07.000
+the initial cost of the implementation,
+
+27:07.000 --> 27:09.000
+including costs for IT audit and consulting,
+
+27:09.000 --> 27:11.000
+is about 100 thousand dollars.
+
+27:11.000 --> 27:13.000
+Again, I repeat,
+
+27:13.000 --> 27:15.000
+that the examples of such systems
+
+27:15.000 --> 27:17.000
+for the medium enterprises
+
+27:17.000 --> 27:19.000
+are called
+
+27:19.000 --> 27:21.000
+Microsoft Dynamics X-Apto,
+
+27:21.000 --> 27:23.000
+Microsoft Dynamics Navision,
+
+27:23.000 --> 27:25.000
+SAP Business One,
+
+27:25.000 --> 27:27.000
+Oracle Standard Edition,
+
+27:27.000 --> 27:29.000
+and our domestic 1S enterprise
+
+27:29.000 --> 27:31.000
+version 8.
+
+27:31.000 --> 27:33.000
+Of course, there are others.
+
+27:33.000 --> 27:35.000
+As the Russian economy develops,
+
+27:35.000 --> 27:37.000
+the sector of the medium-to-small business
+
+27:37.000 --> 27:39.000
+will develop rapidly,
+
+27:39.000 --> 27:41.000
+and it is developing
+
+27:41.000 --> 27:43.000
+rapidly now.
+
+27:43.000 --> 27:45.000
+This leads to the improvement
+
+27:45.000 --> 27:47.000
+of organizational structure
+
+27:47.000 --> 27:49.000
+and business processes,
+
+27:49.000 --> 27:51.000
+to the increase of competition.
+
+27:51.000 --> 27:53.000
+And here it is impossible
+
+27:53.000 --> 27:55.000
+to do without IT management solutions.
+
+27:55.000 --> 27:57.000
+In fact, one of such solutions
+
+27:57.000 --> 27:59.000
+is the implementation of ERP systems
+
+27:59.000 --> 28:01.000
+in the practice of the economy.
+
+28:01.000 --> 28:03.000
+So, let's continue our journey
+
+28:03.000 --> 28:05.000
+on IT concepts.
+
+28:05.000 --> 28:07.000
+Let's consider CRM systems
+
+28:07.000 --> 28:09.000
+and SCM systems,
+
+28:09.000 --> 28:11.000
+that is, the work with clients,
+
+28:11.000 --> 28:13.000
+customers and suppliers.
+
+28:13.000 --> 28:15.000
+Here we will consider the issues
+
+28:15.000 --> 28:17.000
+of marketing and logistics automation.
+
+28:17.000 --> 28:19.000
+According to the definition
+
+28:19.000 --> 28:21.000
+of the same Gartner Group,
+
+28:21.000 --> 28:23.000
+the system of client-to-client relations
+
+28:23.000 --> 28:25.000
+is, in fact, a business strategy
+
+28:25.000 --> 28:27.000
+designed to optimize
+
+28:27.000 --> 28:29.000
+the income, profitability
+
+28:29.000 --> 28:31.000
+and satisfaction of clients.
+
+28:31.000 --> 28:33.000
+In fact, according to the research
+
+28:33.000 --> 28:35.000
+of the Russian market,
+
+28:35.000 --> 28:37.000
+the CRM system,
+
+28:37.000 --> 28:39.000
+which was developed by the company
+
+28:39.000 --> 28:41.000
+DSS Consulting in July 2007,
+
+28:41.000 --> 28:43.000
+more than 50% of all CRM solutions
+
+28:43.000 --> 28:45.000
+are now in the hands
+
+28:45.000 --> 28:47.000
+of banks, insurance companies
+
+28:47.000 --> 28:49.000
+and some investment companies.
+
+28:49.000 --> 28:51.000
+This is shown in the slide.
+
+28:51.000 --> 28:53.000
+The modern stage of development
+
+28:53.000 --> 28:55.000
+of the management system
+
+28:55.000 --> 28:57.000
+corresponds to the concept
+
+28:57.000 --> 28:59.000
+of marketing interaction,
+
+28:59.000 --> 29:01.000
+that is, the construction of a network
+
+29:01.000 --> 29:03.000
+of suppliers and consumers.
+
+29:03.000 --> 29:05.000
+The basis of this is the use
+
+29:05.000 --> 29:07.000
+of the electronic business,
+
+29:07.000 --> 29:09.000
+which significantly transformed
+
+29:09.000 --> 29:11.000
+the structure of the enterprise,
+
+29:11.000 --> 29:13.000
+influenced the automation
+
+29:13.000 --> 29:15.000
+of business processes
+
+29:15.000 --> 29:17.000
+of such branches as marketing,
+
+29:17.000 --> 29:19.000
+production, supply and demand.
+
+29:19.000 --> 29:21.000
+The main goal of the CRM system
+
+29:21.000 --> 29:23.000
+is to create a network
+
+29:23.000 --> 29:25.000
+of suppliers and consumers
+
+29:25.000 --> 29:27.000
+that will be able
+
+29:27.000 --> 29:29.000
+to provide the necessary
+
+29:29.000 --> 29:31.000
+information to the client
+
+29:31.000 --> 29:33.000
+and to the client
+
+29:33.000 --> 29:35.000
+in the process of marketing,
+
+29:35.000 --> 29:37.000
+production, supply and demand,
+
+29:37.000 --> 29:39.000
+neocor, finance, personnel,
+
+29:39.000 --> 29:41.000
+as well as for the collective use
+
+29:41.000 --> 29:43.000
+of which are some legal
+
+29:43.000 --> 29:45.000
+or recruiting agencies or audits.
+
+29:47.000 --> 29:49.000
+In this regard, the tasks
+
+29:49.000 --> 29:51.000
+of the CRM system are
+
+29:51.000 --> 29:53.000
+the first one,
+
+29:53.000 --> 29:55.000
+to provide the operational access
+
+29:55.000 --> 29:57.000
+to information during contact
+
+29:57.000 --> 29:59.000
+with the client
+
+29:59.000 --> 30:01.000
+in the process of sale or service.
+
+30:01.000 --> 30:03.000
+This includes marketing,
+
+30:03.000 --> 30:05.000
+sales and service.
+
+30:05.000 --> 30:07.000
+The second one is the joint analysis
+
+30:07.000 --> 30:09.000
+of the data that characterizes
+
+30:09.000 --> 30:11.000
+the activity of the client and the company.
+
+30:11.000 --> 30:13.000
+The third one is to get new knowledge
+
+30:13.000 --> 30:15.000
+and conclusions of the recommendations.
+
+30:15.000 --> 30:17.000
+Here, complex mathematical models
+
+30:17.000 --> 30:19.000
+for searching some statistical
+
+30:19.000 --> 30:21.000
+patterns are used,
+
+30:21.000 --> 30:23.000
+the most effective marketing,
+
+30:23.000 --> 30:25.000
+sales or service strategies
+
+30:25.000 --> 30:27.000
+are developed.
+
+30:27.000 --> 30:29.000
+The fourth task is to provide
+
+30:29.000 --> 30:31.000
+the direct participation of the client
+
+30:31.000 --> 30:33.000
+in the activities of the corporation
+
+30:33.000 --> 30:35.000
+and the possibility to influence
+
+30:35.000 --> 30:37.000
+the processes of the product development,
+
+30:37.000 --> 30:39.000
+production or service service.
+
+30:39.000 --> 30:41.000
+Let's stop at the typical
+
+30:41.000 --> 30:43.000
+possibilities of the modern CRM systems.
+
+30:43.000 --> 30:45.000
+The first one is the classification
+
+30:45.000 --> 30:47.000
+of contacts in different categories.
+
+30:47.000 --> 30:49.000
+The second one is the determination
+
+30:49.000 --> 30:51.000
+of the target groups for advertising companies.
+
+30:51.000 --> 30:53.000
+The third one is the development
+
+30:53.000 --> 30:55.000
+of the sales cycle, management
+
+30:55.000 --> 30:57.000
+of their capabilities and analysis,
+
+30:57.000 --> 30:59.000
+the fourth one is the planning
+
+30:59.000 --> 31:01.000
+and control of the actions for each contact,
+
+31:01.000 --> 31:03.000
+such as phone calls,
+
+31:03.000 --> 31:05.000
+visits, marketing materials
+
+31:05.000 --> 31:07.000
+and so on.
+
+31:07.000 --> 31:09.000
+The fifth one is the simplified
+
+31:09.000 --> 31:11.000
+access to the data of existing
+
+31:11.000 --> 31:13.000
+and potential clients,
+
+31:13.000 --> 31:15.000
+dealers, agents, partners,
+
+31:15.000 --> 31:17.000
+competitors and in general contact persons.
+
+31:17.000 --> 31:19.000
+The sixth one is the implementation
+
+31:19.000 --> 31:21.000
+of some marketing tasks.
+
+31:21.000 --> 31:23.000
+The seventh one is the effective management
+
+31:23.000 --> 31:25.000
+of the trading and marketing information.
+
+31:25.000 --> 31:27.000
+The eighth one is the implementation
+
+31:27.000 --> 31:29.000
+of the services of the companies
+
+31:29.000 --> 31:31.000
+and the clients' requirements
+
+31:31.000 --> 31:33.000
+and the automation of the tasks
+
+31:33.000 --> 31:35.000
+for the implementation of the services.
+
+31:35.000 --> 31:37.000
+The development of the CRM concept
+
+31:37.000 --> 31:39.000
+led to the emergence of other concepts
+
+31:39.000 --> 31:41.000
+and directions, such as
+
+31:41.000 --> 31:43.000
+the management of the relationships
+
+31:43.000 --> 31:45.000
+with the enterprises,
+
+31:45.000 --> 31:47.000
+the so-called Enterprise Relationship Management,
+
+31:47.000 --> 31:49.000
+the ERM.
+
+31:49.000 --> 31:51.000
+The peculiarity of this system
+
+31:51.000 --> 31:53.000
+is that when the systems
+
+31:53.000 --> 31:55.000
+of supply chains
+
+31:55.000 --> 31:57.000
+and the systems of clients
+
+31:57.000 --> 31:59.000
+are connected together,
+
+31:59.000 --> 32:01.000
+that is, their synergy
+
+32:01.000 --> 32:03.000
+develops at the same speed,
+
+32:03.000 --> 32:05.000
+that is, if these two systems
+
+32:05.000 --> 32:07.000
+are combined,
+
+32:07.000 --> 32:09.000
+it will be a super system
+
+32:09.000 --> 32:11.000
+that automates all the relationships
+
+32:11.000 --> 32:13.000
+and business processes
+
+32:13.000 --> 32:15.000
+in a separately owned company.
+
+32:15.000 --> 32:17.000
+Such systems are called
+
+32:17.000 --> 32:19.000
+ERM – Enterprise Relationship Management.
+
+32:19.000 --> 32:21.000
+The main advantage of this system
+
+32:21.000 --> 32:23.000
+is that it is a comprehensive
+
+32:23.000 --> 32:25.000
+management system.
+
+32:25.000 --> 32:27.000
+The ERM plus SCM equals EIM.
+
+32:27.000 --> 32:29.000
+You can write it like this.
+
+32:29.000 --> 32:31.000
+The second concept is the management
+
+32:31.000 --> 32:33.000
+of the main funds.
+
+32:33.000 --> 32:35.000
+EAM – Enterprise Asset Management.
+
+32:35.000 --> 32:37.000
+This is also a management methodology
+
+32:37.000 --> 32:39.000
+that allows you to increase
+
+32:39.000 --> 32:41.000
+the production capacity of the enterprise
+
+32:41.000 --> 32:43.000
+only by using IT,
+
+32:43.000 --> 32:45.000
+IT technologies, products or solutions,
+
+32:45.000 --> 32:47.000
+without resorting to the purchase
+
+32:47.000 --> 32:49.000
+of some kind of a product.
+
+32:49.000 --> 32:51.000
+At the same time,
+
+32:51.000 --> 32:53.000
+EAM solution is one of the main links
+
+32:53.000 --> 32:55.000
+that connect the information management
+
+32:55.000 --> 32:57.000
+systems of the production processes
+
+32:57.000 --> 32:59.000
+with the business processes
+
+32:59.000 --> 33:01.000
+of the enterprise management,
+
+33:01.000 --> 33:03.000
+that is, ERP systems.
+
+33:03.000 --> 33:05.000
+As a result,
+
+33:05.000 --> 33:07.000
+the EAM system reduces
+
+33:07.000 --> 33:09.000
+the time of waiting,
+
+33:09.000 --> 33:11.000
+the costs of maintenance,
+
+33:11.000 --> 33:13.000
+equipment,
+
+33:13.000 --> 33:15.000
+and so on.
+
+33:15.000 --> 33:17.000
+This is a very important
+
+33:17.000 --> 33:19.000
+reason why the main funds
+
+33:19.000 --> 33:21.000
+are becoming more economical
+
+33:21.000 --> 33:23.000
+and more efficient.
+
+33:23.000 --> 33:25.000
+Examples of ERP systems solutions
+
+33:25.000 --> 33:27.000
+can be in the case of small
+
+33:27.000 --> 33:29.000
+and medium-sized businesses.
+
+33:29.000 --> 33:31.000
+I will name them only.
+
+33:31.000 --> 33:33.000
+There are a lot of them.
+
+33:33.000 --> 33:35.000
+These are Sales Expert,
+
+33:35.000 --> 33:37.000
+Consi Marketing,
+
+33:37.000 --> 33:39.000
+Sales Logics,
+
+33:39.000 --> 33:41.000
+IST,
+
+33:41.000 --> 33:43.000
+Oracle,
+
+33:43.000 --> 33:45.000
+SAP,
+
+33:45.000 --> 33:47.000
+BAN,
+
+33:47.000 --> 33:49.000
+and other.
+
+33:49.000 --> 33:51.000
+There are a lot of them.
+
+33:51.000 --> 33:53.000
+So,
+
+33:53.000 --> 33:55.000
+let's summarize.
+
+33:55.000 --> 33:57.000
+The core of the ERP system
+
+33:57.000 --> 33:59.000
+is the functional
+
+33:59.000 --> 34:01.000
+for managing the business
+
+34:01.000 --> 34:03.000
+processes of the companies,
+
+34:03.000 --> 34:05.000
+which determines the ability
+
+34:05.000 --> 34:07.000
+of the ERP system
+
+34:07.000 --> 34:09.000
+to increase the efficiency of the business.
+
+34:09.000 --> 34:11.000
+Due to what?
+
+34:11.000 --> 34:13.000
+Due to the reduction of some
+
+34:13.000 --> 34:15.000
+routine functions,
+
+34:15.000 --> 34:17.000
+due to the training of new staff,
+
+34:17.000 --> 34:19.000
+due to the implementation
+
+34:19.000 --> 34:21.000
+of the best practices
+
+34:21.000 --> 34:23.000
+and organization of work
+
+34:23.000 --> 34:25.000
+according to some regulations.
+
+34:25.000 --> 34:27.000
+Another feature of the ERP system
+
+34:27.000 --> 34:29.000
+is the modules
+
+34:29.000 --> 34:31.000
+providing high-quality
+
+34:31.000 --> 34:33.000
+and fast service to the clients.
+
+34:33.000 --> 34:35.000
+I mean the modules
+
+34:35.000 --> 34:37.000
+of the Call Center,
+
+34:37.000 --> 34:39.000
+as well as the Service Desk,
+
+34:39.000 --> 34:41.000
+Help Desk,
+
+34:41.000 --> 34:43.000
+Service Service.
+
+34:43.000 --> 34:45.000
+This module
+
+34:45.000 --> 34:47.000
+helps the companies
+
+34:47.000 --> 34:49.000
+with a large number of clients
+
+34:49.000 --> 34:51.000
+to manage the incidents and problems,
+
+34:51.000 --> 34:53.000
+to process the requests,
+
+34:53.000 --> 34:55.000
+to serve the clients on time,
+
+34:55.000 --> 34:57.000
+and to take into account
+
+34:57.000 --> 34:59.000
+the costs of their service.
+
+34:59.000 --> 35:01.000
+Another
+
+35:01.000 --> 35:03.000
+very remarkable
+
+35:03.000 --> 35:05.000
+feature of the ERP system
+
+35:05.000 --> 35:07.000
+is the implementation
+
+35:07.000 --> 35:09.000
+of the so-called sales pipeline.
+
+35:09.000 --> 35:11.000
+You've probably
+
+35:11.000 --> 35:13.000
+studied it in marketing.
+
+35:13.000 --> 35:15.000
+I'll just mention it.
+
+35:15.000 --> 35:17.000
+The sales pipeline
+
+35:17.000 --> 35:19.000
+and the forecast technology
+
+35:19.000 --> 35:21.000
+are designed to provide
+
+35:21.000 --> 35:23.000
+a reasonable planning
+
+35:23.000 --> 35:25.000
+of the sales.
+
+35:25.000 --> 35:27.000
+The pipeline serves
+
+35:27.000 --> 35:29.000
+to assess the number
+
+35:29.000 --> 35:31.000
+and quality of the possible deals
+
+35:31.000 --> 35:33.000
+with potential clients.
+
+35:33.000 --> 35:35.000
+The sales cycle is based on
+
+35:35.000 --> 35:37.000
+the initial investment
+
+35:37.000 --> 35:39.000
+and the sales that starts
+
+35:39.000 --> 35:41.000
+with the information
+
+35:41.000 --> 35:43.000
+that comes in the form
+
+35:43.000 --> 35:45.000
+of incoming calls,
+
+35:45.000 --> 35:47.000
+letters, requests
+
+35:47.000 --> 35:49.000
+from potential clients
+
+35:49.000 --> 35:51.000
+and accumulates
+
+35:51.000 --> 35:53.000
+either in the marketing department
+
+35:53.000 --> 35:55.000
+or actively gathers
+
+35:55.000 --> 35:57.000
+in the telemarketing department
+
+35:57.000 --> 35:59.000
+through some cold calls.
+
+35:59.000 --> 36:01.000
+Then the filter of the adequacy
+
+36:01.000 --> 36:03.000
+of the received information
+
+36:03.000 --> 36:05.000
+starts to work,
+
+36:05.000 --> 36:07.000
+and the profile of the client
+
+36:07.000 --> 36:09.000
+is determined.
+
+36:09.000 --> 36:11.000
+The deal may be disqualified
+
+36:11.000 --> 36:13.000
+and not be accepted
+
+36:13.000 --> 36:15.000
+into the pipeline.
+
+36:15.000 --> 36:17.000
+The sales department
+
+36:17.000 --> 36:19.000
+does not take any action
+
+36:19.000 --> 36:21.000
+on this information.
+
+36:21.000 --> 36:23.000
+But this information is registered
+
+36:23.000 --> 36:25.000
+in the ERP system
+
+36:25.000 --> 36:27.000
+so that it can be returned
+
+36:27.000 --> 36:29.000
+after a certain period of time
+
+36:29.000 --> 36:31.000
+or to avoid any
+
+36:31.000 --> 36:33.000
+repeated actions in the future.
+
+36:33.000 --> 36:35.000
+The information is transferred
+
+36:35.000 --> 36:37.000
+to the sales manager
+
+36:37.000 --> 36:39.000
+for subsequent qualifications
+
+36:39.000 --> 36:41.000
+and the next sales cycle
+
+36:41.000 --> 36:43.000
+starts here.
+
+36:43.000 --> 36:45.000
+It turns out to be
+
+36:45.000 --> 36:47.000
+a funnel that is spinning
+
+36:47.000 --> 36:49.000
+until the deal is closed
+
+36:49.000 --> 36:51.000
+and the sale is made.
+
+36:51.000 --> 36:53.000
+That's why it is called
+
+36:53.000 --> 36:55.000
+a funnel of sales.
+
+36:55.000 --> 36:57.000
+Let's briefly talk about
+
+36:57.000 --> 36:59.000
+SCM systems.
+
+36:59.000 --> 37:01.000
+You have already studied them
+
+37:01.000 --> 37:03.000
+in the Start MBA module
+
+37:03.000 --> 37:05.000
+on the program
+
+37:07.000 --> 37:09.000
+dedicated to production management.
+
+37:09.000 --> 37:11.000
+Here we will only touch upon
+
+37:11.000 --> 37:13.000
+those issues that explain
+
+37:13.000 --> 37:15.000
+how IT affects the supply chain in general.
+
+37:15.000 --> 37:17.000
+Let me remind you
+
+37:17.000 --> 37:19.000
+what is Supply Chain Management.
+
+37:21.000 --> 37:23.000
+SCM.
+
+37:23.000 --> 37:25.000
+In literal translation,
+
+37:25.000 --> 37:27.000
+it means the management
+
+37:27.000 --> 37:29.000
+of the supply chain.
+
+37:29.000 --> 37:31.000
+It is a chain of
+
+37:31.000 --> 37:33.000
+interconnected objects,
+
+37:33.000 --> 37:35.000
+material and information
+
+37:35.000 --> 37:37.000
+flows of the enterprise,
+
+37:37.000 --> 37:39.000
+its suppliers, distributors and clients.
+
+37:39.000 --> 37:41.000
+In every link of this complex chain
+
+37:41.000 --> 37:43.000
+there is an inevitable loss of time,
+
+37:43.000 --> 37:45.000
+resources, money.
+
+37:45.000 --> 37:47.000
+Money is lost somewhere.
+
+37:47.000 --> 37:49.000
+For example,
+
+37:49.000 --> 37:51.000
+due to some disagreements,
+
+37:51.000 --> 37:53.000
+due to excessive storage,
+
+37:53.000 --> 37:55.000
+due to irrational delivery
+
+37:55.000 --> 37:57.000
+and so on.
+
+37:57.000 --> 37:59.000
+Unlike ERP system,
+
+37:59.000 --> 38:01.000
+SCM solution
+
+38:01.000 --> 38:03.000
+is based on
+
+38:03.000 --> 38:05.000
+the minimization of these costs.
+
+38:05.000 --> 38:07.000
+That is, increasing productivity
+
+38:07.000 --> 38:09.000
+and delivery speed.
+
+38:09.000 --> 38:11.000
+And the main thing is synchronization
+
+38:11.000 --> 38:13.000
+of management of connected business processes
+
+38:13.000 --> 38:15.000
+in all links of the supply chain.
+
+38:17.000 --> 38:19.000
+It is shown very well on the slide.
+
+38:21.000 --> 38:23.000
+The general process scheme works on the warehouse.
+
+38:23.000 --> 38:25.000
+Receiving, placing, planning,
+
+38:25.000 --> 38:27.000
+selection, ordering, replenishment.
+
+38:29.000 --> 38:31.000
+And the main thing that supports
+
+38:31.000 --> 38:33.000
+business processes
+
+38:33.000 --> 38:35.000
+in SCM chain is
+
+38:35.000 --> 38:37.000
+inventorying, moving,
+
+38:37.000 --> 38:39.000
+correction, processing,
+
+38:39.000 --> 38:41.000
+forming accounts,
+
+38:41.000 --> 38:43.000
+management of warehouse resources,
+
+38:43.000 --> 38:45.000
+transaction control,
+
+38:45.000 --> 38:47.000
+processing of returns, transfer, billing.
+
+38:49.000 --> 38:51.000
+Traditionally,
+
+38:51.000 --> 38:53.000
+SCM system is divided
+
+38:53.000 --> 38:55.000
+into planning system,
+
+38:55.000 --> 38:57.000
+supply chain planning,
+
+38:57.000 --> 38:59.000
+and management system,
+
+38:59.000 --> 39:01.000
+supply chain execution,
+
+39:01.000 --> 39:03.000
+SCE.
+
+39:05.000 --> 39:07.000
+SCE system allows
+
+39:07.000 --> 39:09.000
+to calculate optimal structure
+
+39:09.000 --> 39:11.000
+of the supply chain,
+
+39:11.000 --> 39:13.000
+and also provides a complex planning
+
+39:13.000 --> 39:15.000
+of the entire supply chain and management of reserves.
+
+39:15.000 --> 39:17.000
+And at the same time,
+
+39:17.000 --> 39:19.000
+taking into account some resource limitations
+
+39:19.000 --> 39:21.000
+of production,
+
+39:21.000 --> 39:23.000
+SCM system is building a supply chain.
+
+39:25.000 --> 39:27.000
+Using the SCE system,
+
+39:31.000 --> 39:33.000
+which is gaining popularity now,
+
+39:33.000 --> 39:35.000
+planning and management of the supply
+
+39:35.000 --> 39:37.000
+is carried out.
+
+39:39.000 --> 39:41.000
+It is called
+
+39:41.000 --> 39:43.000
+SRM, Supply Relationship Management.
+
+39:43.000 --> 39:45.000
+And also storage,
+
+39:45.000 --> 39:47.000
+warehouse management system,
+
+39:47.000 --> 39:49.000
+WMS,
+
+39:49.000 --> 39:51.000
+and transportation.
+
+39:53.000 --> 39:55.000
+The development of SCM
+
+39:55.000 --> 39:57.000
+is the most active
+
+39:57.000 --> 39:59.000
+in such growing
+
+39:59.000 --> 40:01.000
+and consolidating markets
+
+40:01.000 --> 40:03.000
+as retail,
+
+40:03.000 --> 40:05.000
+distribution,
+
+40:05.000 --> 40:07.000
+car manufacturing,
+
+40:07.000 --> 40:09.000
+metallurgy, and so on.
+
+40:09.000 --> 40:11.000
+That is, where the role of planning
+
+40:11.000 --> 40:13.000
+of supply is important,
+
+40:13.000 --> 40:15.000
+and the minimization of logistic costs,
+
+40:15.000 --> 40:17.000
+and the clear control of cost
+
+40:17.000 --> 40:19.000
+and supply channels.
+
+40:21.000 --> 40:23.000
+Let's turn to the analysts
+
+40:23.000 --> 40:25.000
+of Gartner Group.
+
+40:25.000 --> 40:27.000
+They highlight the following
+
+40:27.000 --> 40:29.000
+most capacious and business-like
+
+40:29.000 --> 40:31.000
+applications of logistic management
+
+40:31.000 --> 40:33.000
+systems in business.
+
+40:33.000 --> 40:35.000
+The first is non-stop production.
+
+40:37.000 --> 40:39.000
+The second is warehouse production.
+
+40:39.000 --> 40:41.000
+The third is order production.
+
+40:41.000 --> 40:43.000
+The fourth is order assembly.
+
+40:43.000 --> 40:45.000
+The fifth is retail trading.
+
+40:47.000 --> 40:49.000
+The sixth is service-oriented business.
+
+40:51.000 --> 40:53.000
+That is, business for a specific client
+
+40:53.000 --> 40:55.000
+or for a particular manufacturer.
+
+40:57.000 --> 40:59.000
+And distribution.
+
+41:01.000 --> 41:03.000
+Recently,
+
+41:03.000 --> 41:05.000
+there has been a tendency
+
+41:05.000 --> 41:07.000
+to include retail trading
+
+41:07.000 --> 41:09.000
+in a single integrated business management system.
+
+41:09.000 --> 41:11.000
+In modern SEM solutions,
+
+41:11.000 --> 41:13.000
+it is necessary to have
+
+41:13.000 --> 41:15.000
+both optimal and synchronous planning
+
+41:15.000 --> 41:17.000
+of the goods movement
+
+41:17.000 --> 41:19.000
+in both directions.
+
+41:19.000 --> 41:21.000
+That is, from the ready-made product,
+
+41:21.000 --> 41:23.000
+that is, from the supplier to the consumer,
+
+41:23.000 --> 41:25.000
+back to the defective product,
+
+41:25.000 --> 41:27.000
+from the consumer back to the supplier.
+
+41:31.000 --> 41:33.000
+That is, the return chain of supplies
+
+41:33.000 --> 41:35.000
+is also of great importance.
+
+41:39.000 --> 41:41.000
+The main functional areas
+
+41:41.000 --> 41:43.000
+and processes of the return chain of supplies,
+
+41:43.000 --> 41:45.000
+although they include
+
+41:45.000 --> 41:47.000
+stores, warehouses, production,
+
+41:47.000 --> 41:49.000
+but they are very different
+
+41:49.000 --> 41:51.000
+from the functionality
+
+41:51.000 --> 41:53.000
+that supports the direct supply chain,
+
+41:53.000 --> 41:55.000
+that is, from the traditional SEM solution.
+
+41:59.000 --> 42:01.000
+Therefore, companies
+
+42:01.000 --> 42:03.000
+that very often deal with returns,
+
+42:03.000 --> 42:05.000
+let's say, cell operators,
+
+42:05.000 --> 42:07.000
+electronics sellers,
+
+42:07.000 --> 42:09.000
+clothing manufacturers,
+
+42:09.000 --> 42:11.000
+and so on,
+
+42:11.000 --> 42:13.000
+allocate the return management
+
+42:13.000 --> 42:15.000
+and service management
+
+42:15.000 --> 42:17.000
+to a separate business.
+
+42:17.000 --> 42:19.000
+Sometimes they even transfer it to outsourcing,
+
+42:19.000 --> 42:21.000
+which can bring up to 40% of the profit.
+
+42:25.000 --> 42:27.000
+Finally,
+
+42:27.000 --> 42:29.000
+another key trend
+
+42:29.000 --> 42:31.000
+of the development of SEM systems
+
+42:31.000 --> 42:33.000
+is the transition from the push,
+
+42:33.000 --> 42:35.000
+that is, the strategy of managing
+
+42:35.000 --> 42:37.000
+the supply chain,
+
+42:37.000 --> 42:39.000
+to the pull, the strategy.
+
+42:39.000 --> 42:41.000
+It is designed to change
+
+42:41.000 --> 42:43.000
+the conceptual basis of the SEM solution.
+
+42:43.000 --> 42:45.000
+Most of the modern systems
+
+42:45.000 --> 42:47.000
+of this class
+
+42:47.000 --> 42:49.000
+are based on the push strategy,
+
+42:49.000 --> 42:51.000
+that is, the maximization of the passability
+
+42:51.000 --> 42:53.000
+of existing distribution channels
+
+42:53.000 --> 42:55.000
+and the minimization of production
+
+42:55.000 --> 42:57.000
+of logistical costs.
+
+42:57.000 --> 42:59.000
+This is their paradigm of work.
+
+43:01.000 --> 43:03.000
+At the same time,
+
+43:03.000 --> 43:05.000
+the algorithm of the optimal plan
+
+43:05.000 --> 43:07.000
+implies that if a company
+
+43:07.000 --> 43:09.000
+strives to raise the service level,
+
+43:09.000 --> 43:11.000
+it has to deal
+
+43:11.000 --> 43:13.000
+with the absence of a product.
+
+43:13.000 --> 43:15.000
+It has to deal with it automatically,
+
+43:15.000 --> 43:17.000
+with the increase of costs
+
+43:17.000 --> 43:19.000
+for the maintenance of some reserves,
+
+43:19.000 --> 43:21.000
+for more frequent transportation.
+
+43:21.000 --> 43:23.000
+The task of the optimization of the chain
+
+43:23.000 --> 43:25.000
+is to find the minimum
+
+43:25.000 --> 43:27.000
+when the service level
+
+43:27.000 --> 43:29.000
+is increased.
+
+43:29.000 --> 43:31.000
+The strategy pull
+
+43:31.000 --> 43:33.000
+is opposed to this statement.
+
+43:33.000 --> 43:35.000
+The effectively organized supply chains
+
+43:35.000 --> 43:37.000
+are able to raise the service level
+
+43:37.000 --> 43:39.000
+and reduce the production
+
+43:39.000 --> 43:41.000
+logistical costs.
+
+43:43.000 --> 43:45.000
+If earlier companies built
+
+43:45.000 --> 43:47.000
+their supply chains
+
+43:47.000 --> 43:49.000
+based on their own cost,
+
+43:49.000 --> 43:51.000
+production schedules,
+
+43:51.000 --> 43:53.000
+then the mass outsourcing
+
+43:53.000 --> 43:55.000
+in China, India
+
+43:55.000 --> 43:57.000
+or other countries
+
+43:57.000 --> 43:59.000
+led to the realization
+
+43:59.000 --> 44:01.000
+that the reduction of the stock
+
+44:01.000 --> 44:03.000
+and the timely delivery
+
+44:03.000 --> 44:05.000
+of the goods
+
+44:05.000 --> 44:07.000
+is no less important
+
+44:07.000 --> 44:09.000
+than the reduction of the cost
+
+44:09.000 --> 44:11.000
+and production.
+
+44:11.000 --> 44:13.000
+The new generation
+
+44:13.000 --> 44:15.000
+of the S7 system
+
+44:15.000 --> 44:17.000
+emphasizes the prognosis
+
+44:17.000 --> 44:19.000
+of demand
+
+44:19.000 --> 44:21.000
+and the effective supply chain
+
+44:21.000 --> 44:23.000
+through the reverse distribution
+
+44:23.000 --> 44:25.000
+of demand
+
+44:25.000 --> 44:27.000
+in the chain of cost.
+
+44:27.000 --> 44:29.000
+The logistics of production
+
+44:29.000 --> 44:31.000
+is a simple example.
+
+44:31.000 --> 44:33.000
+The most popular
+
+44:33.000 --> 44:35.000
+Apple iPod
+
+44:35.000 --> 44:37.000
+costs about $1000.
+
+44:37.000 --> 44:39.000
+Its cost in the West
+
+44:39.000 --> 44:41.000
+is about $299.
+
+44:41.000 --> 44:43.000
+The cost of production
+
+44:43.000 --> 44:45.000
+is about $5.
+
+44:45.000 --> 44:47.000
+The rest of the
+
+44:47.000 --> 44:49.000
+$299
+
+44:49.000 --> 44:51.000
+is divided
+
+44:51.000 --> 44:53.000
+by the designers
+
+44:53.000 --> 44:55.000
+and programmers
+
+44:55.000 --> 44:57.000
+of the brand.
+
+44:57.000 --> 44:59.000
+The second half
+
+44:59.000 --> 45:01.000
+is taken by the tax authorities
+
+45:01.000 --> 45:03.000
+and logistic firms.
+
+45:03.000 --> 45:05.000
+The cost of $5
+
+45:05.000 --> 45:07.000
+cannot be compared
+
+45:07.000 --> 45:09.000
+to the cost of the logistic firm.
+
+45:09.000 --> 45:11.000
+In this case,
+
+45:11.000 --> 45:13.000
+the S7 solution
+
+45:13.000 --> 45:15.000
+will be the most advanced
+
+45:15.000 --> 45:17.000
+than the implementation
+
+45:17.000 --> 45:19.000
+of the ERP system
+
+45:19.000 --> 45:21.000
+in the Chinese enterprise.
+
+45:21.000 --> 45:23.000
+This is an example.
+
+45:23.000 --> 45:25.000
+What are the suppliers
+
+45:25.000 --> 45:27.000
+of the S7 solution?
+
+45:27.000 --> 45:29.000
+They are the big companies
+
+45:29.000 --> 45:31.000
+that offer the same ERP systems.
+
+45:31.000 --> 45:33.000
+This is a module of the solution
+
+45:33.000 --> 45:35.000
+that is included
+
+45:35.000 --> 45:37.000
+in the general structure of ERP.
+
+45:37.000 --> 45:39.000
+There is also
+
+45:39.000 --> 45:41.000
+a whole assortment
+
+45:41.000 --> 45:43.000
+of solutions
+
+45:43.000 --> 45:45.000
+of the B2B class.
+
+45:45.000 --> 45:47.000
+In particular,
+
+45:47.000 --> 45:49.000
+SAP offers
+
+45:49.000 --> 45:51.000
+the solution
+
+45:51.000 --> 45:53.000
+of the German company
+
+45:53.000 --> 45:55.000
+or the company
+
+45:55.000 --> 45:57.000
+of the I2 class.
+
+45:57.000 --> 45:59.000
+There are other solutions
+
+45:59.000 --> 46:01.000
+and other vendors.
+
+46:01.000 --> 46:03.000
+So, we have
+
+46:03.000 --> 46:05.000
+a stable trend
+
+46:05.000 --> 46:07.000
+when three key sources
+
+46:07.000 --> 46:09.000
+of information for marketing,
+
+46:09.000 --> 46:11.000
+sales and advertising,
+
+46:11.000 --> 46:13.000
+namely, the marketing research,
+
+46:13.000 --> 46:15.000
+the SRM and SCM systems,
+
+46:15.000 --> 46:17.000
+as well as the business intelligence data
+
+46:17.000 --> 46:19.000
+are integrated into a single system
+
+46:19.000 --> 46:21.000
+based on the modernized data collection,
+
+46:21.000 --> 46:23.000
+analysis and delivery.
+
+46:23.000 --> 46:25.000
+This system is the basis
+
+46:25.000 --> 46:27.000
+of a higher level
+
+46:27.000 --> 46:29.000
+of business management.
+
+46:29.000 --> 46:31.000
+It is necessary to generate ideas
+
+46:31.000 --> 46:33.000
+and make decisions,
+
+46:33.000 --> 46:35.000
+as well as to manage knowledge.
+
+46:35.000 --> 46:37.000
+If we take a look at the full-fledged
+
+46:37.000 --> 46:39.000
+functioning human body,
+
+46:39.000 --> 46:41.000
+the digital nervous system,
+
+46:41.000 --> 46:43.000
+namely, the SRM system,
+
+46:43.000 --> 46:45.000
+will consist of
+
+46:45.000 --> 46:47.000
+the brain of the marketing research
+
+46:47.000 --> 46:49.000
+as well as the sensor system,
+
+46:49.000 --> 46:51.000
+namely, the business intelligence data
+
+46:51.000 --> 46:53.000
+and the specialized components,
+
+46:53.000 --> 46:55.000
+as well as the CSM system
+
+46:55.000 --> 46:57.000
+or other specialized components.
+
+46:57.000 --> 46:59.000
+The network communications,
+
+46:59.000 --> 47:01.000
+analytics,
+
+47:01.000 --> 47:03.000
+the integrated elements
+
+47:03.000 --> 47:05.000
+of the software applications,
+
+47:05.000 --> 47:07.000
+data collection
+
+47:07.000 --> 47:09.000
+and the results of the marketing research
+
+47:09.000 --> 47:11.000
+will be necessary
+
+47:11.000 --> 47:13.000
+to bring everything
+
+47:13.000 --> 47:15.000
+into harmony and order.
+
+47:15.000 --> 47:17.000
+In order to understand the consumer
+
+47:17.000 --> 47:19.000
+and to declare,
+
+47:19.000 --> 47:21.000
+or as the founder of the management,
+
+47:21.000 --> 47:23.000
+Mr. Drucker,
+
+47:23.000 --> 47:25.000
+said,
+
+47:25.000 --> 47:27.000
+that the goal of the business
+
+47:27.000 --> 47:29.000
+is to produce a satisfied client,
+
+47:29.000 --> 47:31.000
+in order to produce
+
+47:31.000 --> 47:33.000
+a satisfied client,
+
+47:33.000 --> 47:35.000
+we need to strive for some new
+
+47:35.000 --> 47:37.000
+conceptual and functional changes,
+
+47:37.000 --> 47:39.000
+the result of which
+
+47:39.000 --> 47:41.000
+should be the unification of companies
+
+47:41.000 --> 47:43.000
+specialized in the CRM systems
+
+47:43.000 --> 47:45.000
+and ERP systems,
+
+47:45.000 --> 47:47.000
+the SCM systems,
+
+47:47.000 --> 47:49.000
+the marketing research
+
+47:49.000 --> 47:51.000
+and the business analysis.
+
+47:51.000 --> 47:53.000
+So,
+
+47:53.000 --> 47:55.000
+let's continue
+
+47:55.000 --> 47:57.000
+to look at our concepts
+
+47:57.000 --> 47:59.000
+and now we will look at the concept
+
+47:59.000 --> 48:01.000
+of business efficiency monitoring,
+
+48:01.000 --> 48:03.000
+that is, the products of business analytics
+
+48:03.000 --> 48:05.000
+or, as it is now called,
+
+48:05.000 --> 48:07.000
+business intelligence.
+
+48:07.000 --> 48:09.000
+The term business intelligence,
+
+48:09.000 --> 48:11.000
+BI,
+
+48:11.000 --> 48:13.000
+was coined by Howard Dressner,
+
+48:13.000 --> 48:15.000
+now the vice-president of Gardner Group,
+
+48:15.000 --> 48:17.000
+a company that is now gone,
+
+48:17.000 --> 48:19.000
+in 1989.
+
+48:19.000 --> 48:21.000
+It was coined
+
+48:21.000 --> 48:23.000
+to design a set of concepts
+
+48:23.000 --> 48:25.000
+and a method of increasing
+
+48:25.000 --> 48:27.000
+the efficiency of business decision-making
+
+48:27.000 --> 48:29.000
+using some kind of fact-graphic
+
+48:29.000 --> 48:31.000
+information systems.
+
+48:31.000 --> 48:33.000
+The correct translation of business intelligence
+
+48:33.000 --> 48:35.000
+is business intelligence,
+
+48:35.000 --> 48:37.000
+that is, business intelligence,
+
+48:37.000 --> 48:39.000
+competitive intelligence,
+
+48:39.000 --> 48:41.000
+which has nothing to do
+
+48:41.000 --> 48:43.000
+with IT technologies and IT solutions.
+
+48:43.000 --> 48:45.000
+But the BI systems
+
+48:45.000 --> 48:47.000
+of the early 90s,
+
+48:47.000 --> 48:49.000
+of the 20th century
+
+48:49.000 --> 48:51.000
+and the end of the 90s
+
+48:51.000 --> 48:53.000
+brought IT technologies
+
+48:53.000 --> 48:55.000
+to the concept
+
+48:55.000 --> 48:57.000
+of business intelligence,
+
+48:57.000 --> 48:59.000
+that is,
+
+48:59.000 --> 49:01.000
+to the BI concept.
+
+49:01.000 --> 49:03.000
+That is,
+
+49:03.000 --> 49:05.000
+BI systems appeared
+
+49:05.000 --> 49:07.000
+in the early 90s
+
+49:07.000 --> 49:09.000
+and the main reason
+
+49:09.000 --> 49:11.000
+for their appearance
+
+49:11.000 --> 49:13.000
+was the widespread
+
+49:13.000 --> 49:15.000
+introduction of
+
+49:15.000 --> 49:17.000
+some corporate information systems,
+
+49:17.000 --> 49:19.000
+which allowed
+
+49:19.000 --> 49:21.000
+to quickly collect
+
+49:21.000 --> 49:23.000
+significant volumes of data
+
+49:23.000 --> 49:25.000
+and process it.
+
+49:25.000 --> 49:27.000
+Before them,
+
+49:27.000 --> 49:29.000
+according to the estimates
+
+49:29.000 --> 49:31.000
+of other analysts
+
+49:31.000 --> 49:33.000
+from IBM,
+
+49:33.000 --> 49:35.000
+only 2 or even 4%
+
+49:35.000 --> 49:37.000
+of the data
+
+49:37.000 --> 49:39.000
+was processed by companies
+
+49:39.000 --> 49:41.000
+or influenced the decision-making.
+
+49:41.000 --> 49:43.000
+Thus,
+
+49:43.000 --> 49:45.000
+the information systems
+
+49:45.000 --> 49:47.000
+and information resources
+
+49:47.000 --> 49:49.000
+that were not used effectively
+
+49:49.000 --> 49:51.000
+were, in fact,
+
+49:51.000 --> 49:53.000
+the reason for the birth
+
+49:53.000 --> 49:55.000
+of BI systems.
+
+49:55.000 --> 49:57.000
+Another event
+
+49:57.000 --> 49:59.000
+that influenced
+
+49:59.000 --> 50:01.000
+the emergence
+
+50:01.000 --> 50:03.000
+of business analytics
+
+50:03.000 --> 50:05.000
+was the fact
+
+50:05.000 --> 50:07.000
+that since 2004
+
+50:07.000 --> 50:09.000
+there was
+
+50:09.000 --> 50:11.000
+a legislative
+
+50:11.000 --> 50:13.000
+or legal reason
+
+50:13.000 --> 50:15.000
+for the enterprises
+
+50:15.000 --> 50:17.000
+that wanted
+
+50:17.000 --> 50:19.000
+or were associated
+
+50:19.000 --> 50:21.000
+with the US business.
+
+50:21.000 --> 50:23.000
+Namely,
+
+50:23.000 --> 50:25.000
+the well-known
+
+50:25.000 --> 50:27.000
+financial abuse scandals
+
+50:27.000 --> 50:29.000
+of the leadership
+
+50:29.000 --> 50:31.000
+of a number of corporations
+
+50:31.000 --> 50:33.000
+such as Enron or Worldcom.
+
+50:33.000 --> 50:35.000
+Approximately,
+
+50:35.000 --> 50:37.000
+on November 15, 2004,
+
+50:37.000 --> 50:39.000
+the law of
+
+50:39.000 --> 50:41.000
+Sarbanes-Oxley
+
+50:41.000 --> 50:43.000
+was finally introduced
+
+50:43.000 --> 50:45.000
+and adopted in 2002.
+
+50:45.000 --> 50:47.000
+It was also called
+
+50:47.000 --> 50:49.000
+SOX.
+
+50:49.000 --> 50:51.000
+S-O-X
+
+50:51.000 --> 50:53.000
+It was intended to provide
+
+50:53.000 --> 50:55.000
+some ethical behavior
+
+50:55.000 --> 50:57.000
+to the companies
+
+50:57.000 --> 50:59.000
+by observing
+
+50:59.000 --> 51:01.000
+the information disclosure process.
+
+51:01.000 --> 51:03.000
+In particular,
+
+51:03.000 --> 51:05.000
+all financial accounts
+
+51:05.000 --> 51:07.000
+should contain information
+
+51:07.000 --> 51:09.000
+about all transactions,
+
+51:09.000 --> 51:11.000
+agreements,
+
+51:11.000 --> 51:13.000
+obligations and other
+
+51:13.000 --> 51:15.000
+relations related
+
+51:15.000 --> 51:17.000
+to the business processes
+
+51:17.000 --> 51:19.000
+of the company.
+
+51:19.000 --> 51:21.000
+This was also the reason
+
+51:21.000 --> 51:23.000
+for the birth
+
+51:23.000 --> 51:25.000
+or the stimulus
+
+51:25.000 --> 51:27.000
+of the emergence
+
+51:27.000 --> 51:29.000
+of the BIOSystems
+
+51:29.000 --> 51:31.000
+that provide
+
+51:31.000 --> 51:33.000
+a fast data collection
+
+51:33.000 --> 51:35.000
+and a complex data analysis
+
+51:35.000 --> 51:37.000
+of the business processes.
+
+51:37.000 --> 51:39.000
+Thus,
+
+51:39.000 --> 51:41.000
+today's BIOSystems
+
+51:41.000 --> 51:43.000
+are a means
+
+51:43.000 --> 51:45.000
+of turning the information
+
+51:45.000 --> 51:47.000
+accumulated by the enterprises
+
+51:47.000 --> 51:49.000
+or corporations into capital
+
+51:49.000 --> 51:51.000
+and a monitoring system
+
+51:51.000 --> 51:53.000
+for the managers' actions
+
+51:53.000 --> 51:55.000
+in the corporations.
+
+51:55.000 --> 51:57.000
+It is important
+
+51:57.000 --> 51:59.000
+that the information
+
+51:59.000 --> 52:01.000
+is delivered to the employees
+
+52:01.000 --> 52:03.000
+in a convenient way and on time.
+
+52:03.000 --> 52:05.000
+Today, it is necessary
+
+52:05.000 --> 52:07.000
+to understand the vast amount
+
+52:07.000 --> 52:09.000
+of fast data,
+
+52:09.000 --> 52:11.000
+to present the information
+
+52:11.000 --> 52:13.000
+systematically and
+
+52:13.000 --> 52:15.000
+to assess the effectiveness
+
+52:15.000 --> 52:17.000
+of the activity
+
+52:17.000 --> 52:19.000
+based on specific KPIs.
+
+52:19.000 --> 52:21.000
+Companies that want
+
+52:21.000 --> 52:23.000
+to make a step forward
+
+52:23.000 --> 52:25.000
+should do everything
+
+52:25.000 --> 52:27.000
+to ensure that their employees
+
+52:27.000 --> 52:29.000
+always have access
+
+52:29.000 --> 52:31.000
+to the important information
+
+52:31.000 --> 52:33.000
+and deliver it on time.
+
+52:33.000 --> 52:35.000
+The following two slides
+
+52:35.000 --> 52:37.000
+show the entire cycle
+
+52:37.000 --> 52:39.000
+of business analysis
+
+52:39.000 --> 52:41.000
+and management
+
+52:41.000 --> 52:43.000
+of the business processes
+
+52:43.000 --> 52:45.000
+of the corporations
+
+52:45.000 --> 52:47.000
+from the perspective of BIOSystems.
+
+52:47.000 --> 52:49.000
+It is a report and analysis,
+
+52:49.000 --> 52:51.000
+then we move to the management
+
+52:51.000 --> 52:53.000
+of the data storage,
+
+52:53.000 --> 52:55.000
+and then we move to the report
+
+52:55.000 --> 52:57.000
+and analysis.
+
+52:57.000 --> 52:59.000
+It is a cycle of business analysis
+
+52:59.000 --> 53:01.000
+that manages
+
+53:01.000 --> 53:03.000
+the modern corporation.
+
+53:03.000 --> 53:05.000
+At the current stage,
+
+53:05.000 --> 53:07.000
+the BI Concept is a separate
+
+53:07.000 --> 53:09.000
+direction of activity
+
+53:09.000 --> 53:11.000
+that includes data collection
+
+53:11.000 --> 53:13.000
+on the economic security
+
+53:13.000 --> 53:15.000
+of the enterprise,
+
+53:15.000 --> 53:17.000
+statistical and logical analysis
+
+53:17.000 --> 53:19.000
+and the management
+
+53:19.000 --> 53:21.000
+of the important information
+
+53:21.000 --> 53:23.000
+that allows to reduce the risk
+
+53:23.000 --> 53:25.000
+when making some important
+
+53:25.000 --> 53:27.000
+and fundamental decisions
+
+53:27.000 --> 53:29.000
+for the development of the business.
+
+53:29.000 --> 53:31.000
+Data collection and analysis
+
+53:31.000 --> 53:33.000
+within the scope of business analysis
+
+53:33.000 --> 53:35.000
+includes both macroeconomic processes
+
+53:35.000 --> 53:37.000
+and legal field,
+
+53:37.000 --> 53:39.000
+that is, monitoring of the general state
+
+53:39.000 --> 53:41.000
+of the external environment
+
+53:41.000 --> 53:43.000
+in the state of the legal environment,
+
+53:43.000 --> 53:45.000
+as well as external microeconomic processes,
+
+53:45.000 --> 53:47.000
+that is, monitoring of competitors,
+
+53:47.000 --> 53:49.000
+as well as internal corporate processes,
+
+53:49.000 --> 53:51.000
+that is, monitoring of the internal
+
+53:51.000 --> 53:53.000
+state of the activities of the unit
+
+53:53.000 --> 53:55.000
+up to a specific employee.
+
+53:55.000 --> 53:57.000
+The typical BIOSystem contains the following modules.
+
+53:57.000 --> 53:59.000
+They are shown on the slide.
+
+53:59.000 --> 54:01.000
+Module 1 is a set of
+
+54:01.000 --> 54:03.000
+data storage organization tools,
+
+54:03.000 --> 54:05.000
+so-called data warehouse,
+
+54:09.000 --> 54:11.000
+Module 2 is a subsystem
+
+54:11.000 --> 54:13.000
+for extracting data
+
+54:13.000 --> 54:15.000
+about transactions from various database
+
+54:15.000 --> 54:17.000
+and converting them into a standard
+
+54:17.000 --> 54:19.000
+BIOSystem,
+
+54:19.000 --> 54:21.000
+that is, the so-called ETL system,
+
+54:21.000 --> 54:23.000
+Extract, Transform and Load.
+
+54:23.000 --> 54:25.000
+Then the third module is a system
+
+54:25.000 --> 54:27.000
+of business activity monitoring,
+
+54:27.000 --> 54:29.000
+business processes,
+
+54:29.000 --> 54:31.000
+business activity monitoring
+
+54:31.000 --> 54:33.000
+or business process monitoring.
+
+54:33.000 --> 54:35.000
+The fourth module is a subsystem
+
+54:35.000 --> 54:37.000
+for generating requests and reports,
+
+54:37.000 --> 54:39.000
+query and reporting.
+
+54:39.000 --> 54:41.000
+And the fifth module is
+
+54:41.000 --> 54:43.000
+a module of the business process
+
+54:43.000 --> 54:45.000
+analysis,
+
+54:45.000 --> 54:47.000
+that is,
+
+54:47.000 --> 54:49.000
+online analytic processing,
+
+54:49.000 --> 54:51.000
+or lab system,
+
+54:51.000 --> 54:53.000
+and data mining.
+
+54:55.000 --> 54:57.000
+Let's take a look at the functioning
+
+54:57.000 --> 54:59.000
+of these systems.
+
+54:59.000 --> 55:01.000
+Data storage organization tools
+
+55:01.000 --> 55:03.000
+and data showcase provide
+
+55:03.000 --> 55:05.000
+the BIOSystem with some
+
+55:05.000 --> 55:07.000
+data arrays,
+
+55:07.000 --> 55:09.000
+and they must be specialized,
+
+55:09.000 --> 55:11.000
+extracted from the corporate system.
+
+55:11.000 --> 55:13.000
+They are also structured
+
+55:13.000 --> 55:15.000
+in an optimal way
+
+55:15.000 --> 55:17.000
+for subsequent analysis.
+
+55:17.000 --> 55:19.000
+The slide shows
+
+55:19.000 --> 55:21.000
+how the BIOSystem functions.
+
+55:21.000 --> 55:23.000
+That is,
+
+55:23.000 --> 55:25.000
+data is extracted from the operational sub-system
+
+55:25.000 --> 55:27.000
+and some external data,
+
+55:27.000 --> 55:29.000
+data storage is created,
+
+55:29.000 --> 55:31.000
+that is, the so-called OLAP cube.
+
+55:31.000 --> 55:33.000
+OLAP cube is,
+
+55:33.000 --> 55:35.000
+to explain it with fingers,
+
+55:35.000 --> 55:37.000
+a representation of data
+
+55:37.000 --> 55:39.000
+in a three-dimensional
+
+55:39.000 --> 55:41.000
+and more spatial way.
+
+55:41.000 --> 55:43.000
+That is,
+
+55:43.000 --> 55:45.000
+when we have
+
+55:47.000 --> 55:49.000
+a two-dimensional system of coordinates,
+
+55:49.000 --> 55:51.000
+and this one is three-dimensional.
+
+55:51.000 --> 55:53.000
+This is an OLAP cube analog.
+
+55:53.000 --> 55:55.000
+That is, we can analyze
+
+55:55.000 --> 55:57.000
+data on, for example,
+
+55:57.000 --> 55:59.000
+sales,
+
+55:59.000 --> 56:01.000
+here on time of sales,
+
+56:01.000 --> 56:03.000
+and here on territories.
+
+56:03.000 --> 56:05.000
+Or instead of territories,
+
+56:05.000 --> 56:07.000
+maybe a third one,
+
+56:07.000 --> 56:09.000
+here it is,
+
+56:09.000 --> 56:11.000
+to explain with fingers what OLAP cube is.
+
+56:13.000 --> 56:15.000
+Next, we will look at it again.
+
+56:15.000 --> 56:17.000
+And from OLAP cubes
+
+56:17.000 --> 56:19.000
+some data showcases are obtained,
+
+56:19.000 --> 56:21.000
+that is,
+
+56:21.000 --> 56:23.000
+sharpened for some specific purposes,
+
+56:23.000 --> 56:25.000
+some specific tasks
+
+56:25.000 --> 56:27.000
+of data storage.
+
+56:27.000 --> 56:29.000
+As a rule,
+
+56:29.000 --> 56:31.000
+data showcases differ from data storage
+
+56:31.000 --> 56:33.000
+in that they contain
+
+56:33.000 --> 56:35.000
+a multitude of data,
+
+56:35.000 --> 56:37.000
+not all, but a multitude
+
+56:37.000 --> 56:39.000
+relating to some particular topic or activity.
+
+56:39.000 --> 56:41.000
+And the whole operational database
+
+56:43.000 --> 56:45.000
+together with external sources of information
+
+56:45.000 --> 56:47.000
+should be considered as raw material
+
+56:47.000 --> 56:49.000
+for the creation of subject-oriented,
+
+56:49.000 --> 56:51.000
+integrated,
+
+56:51.000 --> 56:53.000
+unchangeable by structure
+
+56:53.000 --> 56:55.000
+chronological data,
+
+56:55.000 --> 56:57.000
+that is, analyzed in systems
+
+56:57.000 --> 56:59.000
+to support decision-making,
+
+56:59.000 --> 57:01.000
+which subsequently
+
+57:01.000 --> 57:03.000
+and based on subsequent decisions.
+
+57:03.000 --> 57:05.000
+For example, a showcase or a kiosk
+
+57:05.000 --> 57:07.000
+is a multitude of chronological data
+
+57:07.000 --> 57:09.000
+providing the necessary
+
+57:09.000 --> 57:11.000
+performance of obtaining and analyzing data
+
+57:11.000 --> 57:13.000
+for the end users
+
+57:13.000 --> 57:15.000
+and protection from unauthorized access.
+
+57:15.000 --> 57:17.000
+Data storage itself
+
+57:17.000 --> 57:19.000
+is, in fact,
+
+57:19.000 --> 57:21.000
+subject-oriented,
+
+57:21.000 --> 57:23.000
+integrated and, again, unchangeable
+
+57:23.000 --> 57:25.000
+set of data
+
+57:25.000 --> 57:27.000
+supporting some chronology,
+
+57:27.000 --> 57:29.000
+organized for decision-making.
+
+57:29.000 --> 57:31.000
+As a rule, they are oriented
+
+57:31.000 --> 57:33.000
+towards analysis
+
+57:33.000 --> 57:35.000
+and decision-making
+
+57:35.000 --> 57:37.000
+and some data representation.
+
+57:37.000 --> 57:39.000
+Data integration
+
+57:39.000 --> 57:41.000
+between different transaction processing systems
+
+57:41.000 --> 57:43.000
+and multidimensional data storage
+
+57:43.000 --> 57:45.000
+is provided
+
+57:45.000 --> 57:47.000
+by the system
+
+57:47.000 --> 57:49.000
+of data extraction,
+
+57:49.000 --> 57:51.000
+conversion and recording.
+
+57:51.000 --> 57:53.000
+In fact, it is a connecting link
+
+57:53.000 --> 57:55.000
+between OLTP systems
+
+57:55.000 --> 57:57.000
+and data storage,
+
+57:57.000 --> 57:59.000
+data showcases,
+
+57:59.000 --> 58:01.000
+and data showcases.
+
+58:01.000 --> 58:03.000
+OLTP systems are designed
+
+58:03.000 --> 58:05.000
+to access data databases,
+
+58:05.000 --> 58:07.000
+consolidate them,
+
+58:07.000 --> 58:09.000
+convert them into a certain format
+
+58:09.000 --> 58:11.000
+and store them
+
+58:11.000 --> 58:13.000
+and record them there.
+
+58:13.000 --> 58:15.000
+The monitoring system of business activity
+
+58:15.000 --> 58:17.000
+monitors the business processes
+
+58:17.000 --> 58:19.000
+at the enterprise in real time,
+
+58:19.000 --> 58:21.000
+receives data from the transaction processing system,
+
+58:21.000 --> 58:23.000
+and stores the monitoring data
+
+58:23.000 --> 58:25.000
+while simultaneously
+
+58:25.000 --> 58:27.000
+undergoing some kind of analysis
+
+58:27.000 --> 58:29.000
+and control of the state.
+
+58:29.000 --> 58:31.000
+In case of any rules
+
+58:31.000 --> 58:33.000
+or indicators
+
+58:33.000 --> 58:35.000
+being activated,
+
+58:35.000 --> 58:37.000
+for example, the process
+
+58:37.000 --> 58:39.000
+going beyond the standard limits,
+
+58:39.000 --> 58:41.000
+the OLTP system automatically
+
+58:41.000 --> 58:43.000
+notifies the person responsible
+
+58:43.000 --> 58:45.000
+for the process
+
+58:45.000 --> 58:47.000
+about the occurrence of a problem
+
+58:47.000 --> 58:49.000
+and provides detailed data
+
+58:49.000 --> 58:51.000
+for optimal decision-making.
+
+58:51.000 --> 58:53.000
+It is usually expressed
+
+58:53.000 --> 58:55.000
+as an interface
+
+58:55.000 --> 58:57.000
+or a dashboard
+
+58:57.000 --> 58:59.000
+or a dashboard
+
+58:59.000 --> 59:01.000
+in which
+
+59:01.000 --> 59:03.000
+some KPI indicator
+
+59:03.000 --> 59:05.000
+is colored
+
+59:05.000 --> 59:07.000
+either red
+
+59:07.000 --> 59:09.000
+or yellow
+
+59:09.000 --> 59:11.000
+or green.
+
+59:11.000 --> 59:13.000
+The business is in order.
+
+59:13.000 --> 59:15.000
+The sub-system of generating
+
+59:15.000 --> 59:17.000
+requests and reports is designed
+
+59:17.000 --> 59:19.000
+to quickly generate
+
+59:19.000 --> 59:21.000
+and select data
+
+59:21.000 --> 59:23.000
+from the data storage
+
+59:23.000 --> 59:25.000
+for a specified shelter.
+
+59:25.000 --> 59:27.000
+Such selection
+
+59:27.000 --> 59:29.000
+provides the possibility
+
+59:29.000 --> 59:31.000
+of retrospective analysis
+
+59:31.000 --> 59:33.000
+of business processes
+
+59:33.000 --> 59:35.000
+in the right order
+
+59:35.000 --> 59:37.000
+and a certain degree of detail.
+
+59:37.000 --> 59:39.000
+The means of processing
+
+59:39.000 --> 59:41.000
+of arbitrary requests
+
+59:41.000 --> 59:43.000
+that select data
+
+59:43.000 --> 59:45.000
+more flexibly
+
+59:45.000 --> 59:47.000
+in accordance with
+
+59:47.000 --> 59:49.000
+some non-standard needs
+
+59:49.000 --> 59:51.000
+of the users
+
+59:51.000 --> 59:53.000
+is a high flexibility
+
+59:53.000 --> 59:55.000
+when creating
+
+59:55.000 --> 59:57.000
+complex reports
+
+59:57.000 --> 59:59.000
+and the possibility
+
+59:59.000 --> 01:00:01.000
+of obtaining information
+
+01:00:01.000 --> 01:00:03.000
+in real-time.
+
+01:00:03.000 --> 01:00:05.000
+OLAP requires some processing
+
+01:00:05.000 --> 01:00:07.000
+and some lag time
+
+01:00:07.000 --> 01:00:09.000
+for the system to be able
+
+01:00:09.000 --> 01:00:11.000
+to analyze and provide
+
+01:00:11.000 --> 01:00:13.000
+the necessary analysis result.
+
+01:00:13.000 --> 01:00:15.000
+The means of data analysis
+
+01:00:15.000 --> 01:00:17.000
+of the BI system
+
+01:00:17.000 --> 01:00:19.000
+is divided into two categories.
+
+01:00:19.000 --> 01:00:21.000
+The first one is OLAP
+
+01:00:21.000 --> 01:00:23.000
+and the second one is
+
+01:00:23.000 --> 01:00:25.000
+the Interactual Data Analysis
+
+01:00:25.000 --> 01:00:27.000
+or DM
+
+01:00:27.000 --> 01:00:29.000
+or Knowledge Discovery.
+
+01:00:29.000 --> 01:00:31.000
+The OLAP means
+
+01:00:31.000 --> 01:00:33.000
+that it is a system
+
+01:00:33.000 --> 01:00:35.000
+that conducts
+
+01:00:35.000 --> 01:00:37.000
+a multidimensional data analysis
+
+01:00:37.000 --> 01:00:39.000
+based on selected data
+
+01:00:39.000 --> 01:00:41.000
+and provides the necessary
+
+01:00:41.000 --> 01:00:43.000
+data analysis results
+
+01:00:43.000 --> 01:00:45.000
+in a cross-table
+
+01:00:45.000 --> 01:00:47.000
+with the possibility
+
+01:00:47.000 --> 01:00:49.000
+of detail analysis
+
+01:00:49.000 --> 01:00:51.000
+based on each indicator
+
+01:00:51.000 --> 01:00:53.000
+and forms the so-called
+
+01:00:53.000 --> 01:00:55.000
+OLAP-coupes that I mentioned.
+
+01:00:55.000 --> 01:00:57.000
+The means of data mining
+
+01:00:57.000 --> 01:00:59.000
+and corporate data analysis
+
+01:00:59.000 --> 01:01:01.000
+are designed
+
+01:01:01.000 --> 01:01:03.000
+to detect
+
+01:01:03.000 --> 01:01:05.000
+the correlation between
+
+01:01:05.000 --> 01:01:07.000
+the stored data
+
+01:01:07.000 --> 01:01:09.000
+and to identify some trends.
+
+01:01:09.000 --> 01:01:11.000
+For this purpose,
+
+01:01:11.000 --> 01:01:13.000
+complex mechanisms,
+
+01:01:13.000 --> 01:01:15.000
+statistical and special
+
+01:01:15.000 --> 01:01:17.000
+methods of data analysis
+
+01:01:17.000 --> 01:01:19.000
+can also be used.
+
+01:01:21.000 --> 01:01:23.000
+There are also imitation models
+
+01:01:23.000 --> 01:01:25.000
+of business processes.
+
+01:01:25.000 --> 01:01:27.000
+The slide shows
+
+01:01:27.000 --> 01:01:29.000
+the cycle of using
+
+01:01:29.000 --> 01:01:31.000
+the data mining technology
+
+01:01:31.000 --> 01:01:33.000
+in business analysis.
+
+01:01:33.000 --> 01:01:35.000
+The first stage
+
+01:01:35.000 --> 01:01:37.000
+is the business task setting.
+
+01:01:37.000 --> 01:01:39.000
+The specific business tasks
+
+01:01:39.000 --> 01:01:41.000
+are formulated.
+
+01:01:41.000 --> 01:01:43.000
+The task setting
+
+01:01:43.000 --> 01:01:45.000
+is quite extensive.
+
+01:01:45.000 --> 01:01:47.000
+For example,
+
+01:01:47.000 --> 01:01:49.000
+to build high-profit profiles
+
+01:01:49.000 --> 01:01:51.000
+or to identify groups
+
+01:01:51.000 --> 01:01:53.000
+of unloyal customers.
+
+01:01:53.000 --> 01:01:55.000
+In the future,
+
+01:01:55.000 --> 01:01:57.000
+the tasks will be clarified,
+
+01:01:57.000 --> 01:01:59.000
+expanded and deepened
+
+01:01:59.000 --> 01:02:01.000
+by the cycle.
+
+01:02:01.000 --> 01:02:03.000
+The second stage
+
+01:02:03.000 --> 01:02:05.000
+is the primary data analysis.
+
+01:02:05.000 --> 01:02:07.000
+The business task is formulated
+
+01:02:07.000 --> 01:02:09.000
+and the preliminary data analysis
+
+01:02:09.000 --> 01:02:11.000
+is started.
+
+01:02:11.000 --> 01:02:13.000
+The third stage
+
+01:02:13.000 --> 01:02:15.000
+is the data preparation
+
+01:02:15.000 --> 01:02:17.000
+for further analysis.
+
+01:02:17.000 --> 01:02:19.000
+For example,
+
+01:02:19.000 --> 01:02:21.000
+to deliver,
+
+01:02:21.000 --> 01:02:23.000
+to reformat, etc.
+
+01:02:23.000 --> 01:02:25.000
+The fourth stage
+
+01:02:25.000 --> 01:02:27.000
+is the data analysis.
+
+01:02:27.000 --> 01:02:29.000
+The technical process
+
+01:02:29.000 --> 01:02:31.000
+and the range of algorithms
+
+01:02:31.000 --> 01:02:33.000
+are very extensive.
+
+01:02:33.000 --> 01:02:35.000
+From the methods of
+
+01:02:35.000 --> 01:02:37.000
+unclear clustering
+
+01:02:37.000 --> 01:02:39.000
+and tree solutions
+
+01:02:39.000 --> 01:02:41.000
+to the methods of
+
+01:02:41.000 --> 01:02:43.000
+unclear linguistic rules.
+
+01:02:43.000 --> 01:02:45.000
+The fifth stage
+
+01:02:45.000 --> 01:02:47.000
+is the interpretation of the results.
+
+01:02:47.000 --> 01:02:49.000
+The final stage
+
+01:02:49.000 --> 01:02:51.000
+is the data presentation
+
+01:02:51.000 --> 01:02:53.000
+in a convenient and clear form
+
+01:02:53.000 --> 01:02:55.000
+to evaluate and make
+
+01:02:55.000 --> 01:02:57.000
+a business decision.
+
+01:02:57.000 --> 01:02:59.000
+As an example,
+
+01:02:59.000 --> 01:03:01.000
+we consider the business case
+
+01:03:01.000 --> 01:03:03.000
+of making a typical decision
+
+01:03:03.000 --> 01:03:05.000
+in business analysis
+
+01:03:05.000 --> 01:03:07.000
+based on the information collection
+
+01:03:07.000 --> 01:03:09.000
+from the mass media
+
+01:03:09.000 --> 01:03:11.000
+and the Internet.
+
+01:03:11.000 --> 01:03:13.000
+The following slides
+
+01:03:13.000 --> 01:03:15.000
+show the conceptual
+
+01:03:15.000 --> 01:03:17.000
+and logical scheme.
+
+01:03:17.000 --> 01:03:19.000
+As a rule,
+
+01:03:19.000 --> 01:03:21.000
+the user must solve
+
+01:03:21.000 --> 01:03:23.000
+three tasks.
+
+01:03:23.000 --> 01:03:25.000
+The first is to be able
+
+01:03:25.000 --> 01:03:27.000
+to connect to the sources
+
+01:03:27.000 --> 01:03:29.000
+of unstructured information
+
+01:03:29.000 --> 01:03:31.000
+and structured data.
+
+01:03:31.000 --> 01:03:33.000
+The second task is
+
+01:03:33.000 --> 01:03:35.000
+to be able to
+
+01:03:35.000 --> 01:03:37.000
+process large volumes of information
+
+01:03:37.000 --> 01:03:39.000
+in a normal and objective way.
+
+01:03:39.000 --> 01:03:41.000
+The third task is to present
+
+01:03:41.000 --> 01:03:43.000
+the results of the analysis
+
+01:03:43.000 --> 01:03:45.000
+in a convenient form.
+
+01:03:45.000 --> 01:03:47.000
+In other words,
+
+01:03:47.000 --> 01:03:49.000
+the connection,
+
+01:03:49.000 --> 01:03:51.000
+data extraction,
+
+01:03:51.000 --> 01:03:53.000
+processing and presentation.
+
+01:03:53.000 --> 01:03:55.000
+Analysts and experts are involved.
+
+01:03:55.000 --> 01:03:57.000
+There are internal and external sources
+
+01:03:57.000 --> 01:03:59.000
+and a single storage of information.
+
+01:03:59.000 --> 01:04:01.000
+The first task is partially solved
+
+01:04:01.000 --> 01:04:03.000
+by integrating unstructured sources
+
+01:04:03.000 --> 01:04:05.000
+with the help of corporate search engines.
+
+01:04:05.000 --> 01:04:07.000
+The search engine can index documents
+
+01:04:07.000 --> 01:04:09.000
+and centralize access to them.
+
+01:04:09.000 --> 01:04:11.000
+In this case,
+
+01:04:11.000 --> 01:04:13.000
+the corporate search engine
+
+01:04:13.000 --> 01:04:15.000
+is the entry point for all sources.
+
+01:04:15.000 --> 01:04:17.000
+The user can always get
+
+01:04:17.000 --> 01:04:19.000
+a hint of where
+
+01:04:19.000 --> 01:04:21.000
+a particular material is located.
+
+01:04:21.000 --> 01:04:23.000
+The second task of data extraction
+
+01:04:23.000 --> 01:04:25.000
+is to be able to solve
+
+01:04:25.000 --> 01:04:27.000
+data extraction with tools.
+
+01:04:27.000 --> 01:04:29.000
+These are classification,
+
+01:04:29.000 --> 01:04:31.000
+rubrication,
+
+01:04:31.000 --> 01:04:33.000
+data processing,
+
+01:04:33.000 --> 01:04:35.000
+so-called information extractors.
+
+01:04:35.000 --> 01:04:37.000
+It is possible to present
+
+01:04:37.000 --> 01:04:39.000
+data, money, addresses
+
+01:04:39.000 --> 01:04:41.000
+in a uniform way.
+
+01:04:41.000 --> 01:04:43.000
+As for the analysis tools,
+
+01:04:43.000 --> 01:04:45.000
+the third task,
+
+01:04:45.000 --> 01:04:47.000
+such tools as BI and Data Mining
+
+01:04:47.000 --> 01:04:49.000
+allow not only to apply
+
+01:04:49.000 --> 01:04:51.000
+standard analysis tools,
+
+01:04:51.000 --> 01:04:53.000
+but also to integrate information
+
+01:04:53.000 --> 01:04:55.000
+from structured and unstructured sources.
+
+01:04:55.000 --> 01:04:57.000
+This is a three-component solution
+
+01:04:57.000 --> 01:04:59.000
+of the search engine.
+
+01:04:59.000 --> 01:05:01.000
+Such a three-component solution
+
+01:05:01.000 --> 01:05:03.000
+of the search engine,
+
+01:05:03.000 --> 01:05:05.000
+data extraction and analysis tools
+
+01:05:05.000 --> 01:05:07.000
+is an optimal technological combination
+
+01:05:07.000 --> 01:05:09.000
+when solving business intelligence tasks.
+
+01:05:09.000 --> 01:05:11.000
+Why is it so?
+
+01:05:11.000 --> 01:05:13.000
+This is discussed in detail
+
+01:05:13.000 --> 01:05:15.000
+in the business case.
+
+01:05:15.000 --> 01:05:17.000
+You can see it in the textbook.
+
+01:05:17.000 --> 01:05:19.000
+Let's stop here.
+
+01:05:19.000 --> 01:05:21.000
+The existing systems
+
+01:05:21.000 --> 01:05:23.000
+that automate the process
+
+01:05:23.000 --> 01:05:25.000
+of search, extraction and analysis
+
+01:05:25.000 --> 01:05:27.000
+allow to change the nature
+
+01:05:27.000 --> 01:05:29.000
+of the analytical and expert's work.
+
+01:05:29.000 --> 01:05:31.000
+From the excavation of facts
+
+01:05:31.000 --> 01:05:33.000
+to their verification and analysis.
+
+01:05:33.000 --> 01:05:35.000
+The most important thing is
+
+01:05:35.000 --> 01:05:37.000
+to significantly increase
+
+01:05:37.000 --> 01:05:39.000
+the processing speed of information.
+
+01:05:39.000 --> 01:05:41.000
+For comparison,
+
+01:05:41.000 --> 01:05:43.000
+if we take one article
+
+01:05:43.000 --> 01:05:45.000
+with a size of 150-300 KB,
+
+01:05:45.000 --> 01:05:47.000
+an analyst can process
+
+01:05:47.000 --> 01:05:49.000
+200 articles in one day,
+
+01:05:49.000 --> 01:05:51.000
+an expert-analyst 400,
+
+01:05:51.000 --> 01:05:53.000
+and the extraction technology,
+
+01:05:53.000 --> 01:05:55.000
+similar to the one described
+
+01:05:55.000 --> 01:05:57.000
+in the textbook,
+
+01:05:57.000 --> 01:05:59.000
+can process 20,000 articles
+
+01:05:59.000 --> 01:06:01.000
+in one single-process machine configuration.
+
+01:06:01.000 --> 01:06:03.000
+So, the data is incomparable.
+
+01:06:07.000 --> 01:06:09.000
+Thanks to business intelligence tools
+
+01:06:09.000 --> 01:06:11.000
+our small corporation
+
+01:06:11.000 --> 01:06:13.000
+can become a big one
+
+01:06:13.000 --> 01:06:15.000
+if it can use
+
+01:06:15.000 --> 01:06:17.000
+the key performance indicators
+
+01:06:17.000 --> 01:06:19.000
+of KPI
+
+01:06:19.000 --> 01:06:21.000
+in order to increase scalability.
+
+01:06:21.000 --> 01:06:23.000
+Secondly,
+
+01:06:23.000 --> 01:06:25.000
+we can create the key performance indicators
+
+01:06:25.000 --> 01:06:27.000
+of the corporate strategy
+
+01:06:27.000 --> 01:06:29.000
+and manage them.
+
+01:06:29.000 --> 01:06:31.000
+We can use them as a basis
+
+01:06:31.000 --> 01:06:33.000
+for the cooperation between the corporations.
+
+01:06:33.000 --> 01:06:35.000
+Thirdly,
+
+01:06:35.000 --> 01:06:37.000
+we can make individual settings
+
+01:06:37.000 --> 01:06:39.000
+of the business analysis information panels,
+
+01:06:39.000 --> 01:06:41.000
+the so-called dashboards,
+
+01:06:41.000 --> 01:06:43.000
+that meet the needs of the individual employees
+
+01:06:43.000 --> 01:06:45.000
+and the general strategy of the company.
+
+01:06:45.000 --> 01:06:47.000
+Fourthly,
+
+01:06:47.000 --> 01:06:49.000
+we can use the working processes
+
+01:06:49.000 --> 01:06:51.000
+of the subscription and compensation
+
+01:06:51.000 --> 01:06:53.000
+of the employees of the corporation
+
+01:06:53.000 --> 01:06:55.000
+during the course of these changes.
+
+01:06:55.000 --> 01:06:57.000
+Fifthly,
+
+01:06:57.000 --> 01:06:59.000
+we can provide accountability
+
+01:06:59.000 --> 01:07:01.000
+by studying the specific performance indicators.
+
+01:07:01.000 --> 01:07:03.000
+We can also get the necessary information
+
+01:07:03.000 --> 01:07:05.000
+by creating free reports on the request.
+
+01:07:05.000 --> 01:07:07.000
+We can also distribute the information
+
+01:07:07.000 --> 01:07:09.000
+of the analytical instruments
+
+01:07:09.000 --> 01:07:11.000
+within the organization
+
+01:07:11.000 --> 01:07:13.000
+via the Internet,
+
+01:07:13.000 --> 01:07:15.000
+which is very cheap.
+
+01:07:15.000 --> 01:07:17.000
+It is easy to navigate the data
+
+01:07:17.000 --> 01:07:19.000
+and extract it from various sources
+
+01:07:19.000 --> 01:07:21.000
+using the most familiar terminology.
+
+01:07:21.000 --> 01:07:23.000
+It is also easy to understand
+
+01:07:23.000 --> 01:07:25.000
+the characteristics of the company's activities
+
+01:07:25.000 --> 01:07:27.000
+and to identify the business development trends
+
+01:07:27.000 --> 01:07:29.000
+in real-time,
+
+01:07:29.000 --> 01:07:31.000
+thanks to the constant connection
+
+01:07:31.000 --> 01:07:33.000
+to almost any data source
+
+01:07:33.000 --> 01:07:35.000
+in the process of analysis.
+
+01:07:35.000 --> 01:07:37.000
+Some enterprises
+
+01:07:37.000 --> 01:07:39.000
+develop the ALAP solutions
+
+01:07:39.000 --> 01:07:41.000
+with the help of their IT specialists,
+
+01:07:41.000 --> 01:07:43.000
+which are built on the existing
+
+01:07:43.000 --> 01:07:45.000
+data databases,
+
+01:07:45.000 --> 01:07:47.000
+such as the MAP,
+
+01:07:47.000 --> 01:07:49.000
+or the Oracle.
+
+01:07:49.000 --> 01:07:51.000
+However,
+
+01:07:51.000 --> 01:07:53.000
+such BI systems
+
+01:07:53.000 --> 01:07:55.000
+cannot be considered as full-fledged,
+
+01:07:55.000 --> 01:07:57.000
+because the business analytics blocks
+
+01:07:57.000 --> 01:07:59.000
+in accounting systems,
+
+01:07:59.000 --> 01:08:01.000
+especially ERPs,
+
+01:08:01.000 --> 01:08:03.000
+cannot provide all the necessary information
+
+01:08:03.000 --> 01:08:05.000
+in their own time.
+
+01:08:05.000 --> 01:08:07.000
+Also, the analytical models
+
+01:08:07.000 --> 01:08:09.000
+developed in these systems
+
+01:08:09.000 --> 01:08:11.000
+often do not contain a complete set
+
+01:08:11.000 --> 01:08:13.000
+of necessary analytical sections
+
+01:08:13.000 --> 01:08:15.000
+and indicators,
+
+01:08:15.000 --> 01:08:17.000
+which is why
+
+01:08:17.000 --> 01:08:19.000
+the announcements
+
+01:08:19.000 --> 01:08:21.000
+of developers and vendors
+
+01:08:21.000 --> 01:08:23.000
+such as Oracle,
+
+01:08:23.000 --> 01:08:25.000
+Business Object, or Microsoft
+
+01:08:25.000 --> 01:08:27.000
+have already appeared.
+
+01:08:27.000 --> 01:08:29.000
+The release of specialized BI tools
+
+01:08:29.000 --> 01:08:31.000
+for medium and small corporations
+
+01:08:31.000 --> 01:08:33.000
+is shown on the slide.
+
+01:08:33.000 --> 01:08:35.000
+The price of such solutions
+
+01:08:35.000 --> 01:08:37.000
+is approximately $1,000
+
+01:08:37.000 --> 01:08:39.000
+per one workplace.
+
+01:08:39.000 --> 01:08:41.000
+It is not that much money.
+
+01:08:41.000 --> 01:08:43.000
+Such BI tools
+
+01:08:43.000 --> 01:08:45.000
+are not designed for a specific business function
+
+01:08:45.000 --> 01:08:47.000
+or a specific area.
+
+01:08:47.000 --> 01:08:49.000
+They are more like a setting
+
+01:08:49.000 --> 01:08:51.000
+for an ERP system.
+
+01:08:51.000 --> 01:08:53.000
+In addition,
+
+01:08:53.000 --> 01:08:55.000
+the interface of such BI tools
+
+01:08:55.000 --> 01:08:57.000
+allows to obtain data
+
+01:08:57.000 --> 01:08:59.000
+not only in the form of tables,
+
+01:08:59.000 --> 01:09:01.000
+but also in the form of graphical data.
+
+01:09:01.000 --> 01:09:03.000
+I mean, in a graphical way.
+
+01:09:03.000 --> 01:09:05.000
+So, BI systems are especially relevant
+
+01:09:05.000 --> 01:09:07.000
+for companies operating
+
+01:09:07.000 --> 01:09:09.000
+in high competition
+
+01:09:09.000 --> 01:09:11.000
+and high dynamics.
+
+01:09:11.000 --> 01:09:13.000
+Their business is client-oriented.
+
+01:09:13.000 --> 01:09:15.000
+It usually includes
+
+01:09:15.000 --> 01:09:17.000
+retail,
+
+01:09:17.000 --> 01:09:19.000
+experimental,
+
+01:09:19.000 --> 01:09:21.000
+pharmaceutical,
+
+01:09:21.000 --> 01:09:23.000
+banking, telecommunications,
+
+01:09:23.000 --> 01:09:25.000
+insurance, etc.
+
+01:09:25.000 --> 01:09:27.000
+The IT infrastructure
+
+01:09:27.000 --> 01:09:29.000
+is usually well-developed
+
+01:09:29.000 --> 01:09:31.000
+in the mentioned segments,
+
+01:09:31.000 --> 01:09:33.000
+which is undoubtedly an important factor
+
+01:09:33.000 --> 01:09:35.000
+in the functioning of BI systems.
+
+01:09:35.000 --> 01:09:37.000
+And, as a rule,
+
+01:09:37.000 --> 01:09:39.000
+developers and vendors
+
+01:09:39.000 --> 01:09:41.000
+need to be able to assess
+
+01:09:41.000 --> 01:09:43.000
+the events of the business
+
+01:09:43.000 --> 01:09:45.000
+in a short time.
+
+01:09:45.000 --> 01:09:47.000
+They need to be able to manage
+
+01:09:47.000 --> 01:09:49.000
+the business in a real time.
+
+01:09:49.000 --> 01:09:51.000
+That's why
+
+01:09:51.000 --> 01:09:53.000
+BI systems are an important
+
+01:09:53.000 --> 01:09:55.000
+component
+
+01:09:55.000 --> 01:09:57.000
+or a core
+
+01:09:57.000 --> 01:09:59.000
+of their business.
+
+01:09:59.000 --> 01:10:01.000
+If a company
+
+01:10:01.000 --> 01:10:03.000
+needs to find
+
+01:10:03.000 --> 01:10:05.000
+an optimal solution
+
+01:10:05.000 --> 01:10:07.000
+considering many factors
+
+01:10:07.000 --> 01:10:09.000
+like raw materials quality,
+
+01:10:09.000 --> 01:10:11.000
+large batch load capacity,
+
+01:10:11.000 --> 01:10:13.000
+delay risk, payment deadline,
+
+01:10:13.000 --> 01:10:15.000
+delivery cost, etc.
+
+01:10:15.000 --> 01:10:17.000
+Then this task requires
+
+01:10:17.000 --> 01:10:19.000
+large amounts of calculations
+
+01:10:19.000 --> 01:10:21.000
+and specially prepared data.
+
+01:10:21.000 --> 01:10:23.000
+And you can't solve this task
+
+01:10:23.000 --> 01:10:25.000
+with just accounting systems
+
+01:10:25.000 --> 01:10:27.000
+or BI modules.
+
+01:10:27.000 --> 01:10:29.000
+For such problems,
+
+01:10:29.000 --> 01:10:31.000
+you need a special
+
+01:10:31.000 --> 01:10:33.000
+BI system,
+
+01:10:33.000 --> 01:10:35.000
+which allows you to make
+
+01:10:35.000 --> 01:10:37.000
+a decision with high accuracy
+
+01:10:37.000 --> 01:10:39.000
+and high probability.
+
+01:10:39.000 --> 01:10:41.000
+In fact,
+
+01:10:41.000 --> 01:10:43.000
+this is one of the
+
+01:10:43.000 --> 01:10:45.000
+undoubted advantages
+
+01:10:45.000 --> 01:10:47.000
+of our SMB corporation
+
+01:10:47.000 --> 01:10:49.000
+if managers
+
+01:10:49.000 --> 01:10:51.000
+make a decision
+
+01:10:51.000 --> 01:10:53.000
+about the introduction of BI systems.
+
+01:10:53.000 --> 01:10:55.000
+Let's move on
+
+01:10:55.000 --> 01:10:57.000
+to the next concept.
+
+01:10:57.000 --> 01:10:59.000
+Workflow concept
+
+01:10:59.000 --> 01:11:01.000
+and Enterprise Content Management
+
+01:11:01.000 --> 01:11:03.000
+for electronic document processing systems.
+
+01:11:03.000 --> 01:11:05.000
+Modern enterprise infrastructure
+
+01:11:05.000 --> 01:11:07.000
+consists of many
+
+01:11:07.000 --> 01:11:09.000
+interconnected subsystems
+
+01:11:09.000 --> 01:11:11.000
+which represent
+
+01:11:13.000 --> 01:11:15.000
+a wide range of activities
+
+01:11:15.000 --> 01:11:17.000
+and they meet
+
+01:11:17.000 --> 01:11:19.000
+numerous requirements
+
+01:11:19.000 --> 01:11:21.000
+for the entire
+
+01:11:21.000 --> 01:11:23.000
+electronic document processing system.
+
+01:11:23.000 --> 01:11:25.000
+In particular,
+
+01:11:25.000 --> 01:11:27.000
+for the SET system.
+
+01:11:27.000 --> 01:11:29.000
+That's why
+
+01:11:29.000 --> 01:11:31.000
+the use of SET systems
+
+01:11:31.000 --> 01:11:33.000
+is based on
+
+01:11:33.000 --> 01:11:35.000
+the organizational structure of the corporation,
+
+01:11:35.000 --> 01:11:37.000
+the direction and transparency
+
+01:11:37.000 --> 01:11:39.000
+of the information flows
+
+01:11:39.000 --> 01:11:41.000
+and the principles of accountability
+
+01:11:41.000 --> 01:11:43.000
+adopted by the corporation.
+
+01:11:43.000 --> 01:11:45.000
+The important factors for SET
+
+01:11:45.000 --> 01:11:47.000
+are the requirements
+
+01:11:47.000 --> 01:11:49.000
+for tracking all stages
+
+01:11:49.000 --> 01:11:51.000
+of the document lifecycle,
+
+01:11:51.000 --> 01:11:53.000
+its route,
+
+01:11:53.000 --> 01:11:55.000
+the introduction of protocols
+
+01:11:55.000 --> 01:11:57.000
+and the user's rights
+
+01:11:57.000 --> 01:11:59.000
+to access the document.
+
+01:11:59.000 --> 01:12:01.000
+The slide shows
+
+01:12:01.000 --> 01:12:03.000
+the place of the SET
+
+01:12:03.000 --> 01:12:05.000
+in the typical
+
+01:12:05.000 --> 01:12:07.000
+corporate information system
+
+01:12:07.000 --> 01:12:09.000
+KIS.
+
+01:12:09.000 --> 01:12:11.000
+It includes
+
+01:12:11.000 --> 01:12:13.000
+four key subsystems
+
+01:12:13.000 --> 01:12:15.000
+namely
+
+01:12:15.000 --> 01:12:17.000
+IT infrastructure management,
+
+01:12:17.000 --> 01:12:19.000
+ERP management,
+
+01:12:19.000 --> 01:12:21.000
+document and content management
+
+01:12:21.000 --> 01:12:23.000
+and business analytics.
+
+01:12:23.000 --> 01:12:25.000
+The core of any
+
+01:12:25.000 --> 01:12:27.000
+SET is
+
+01:12:27.000 --> 01:12:29.000
+the workflow technology.
+
+01:12:29.000 --> 01:12:31.000
+The term workflow
+
+01:12:31.000 --> 01:12:33.000
+is a term for the systems
+
+01:12:33.000 --> 01:12:35.000
+aimed at the automation
+
+01:12:35.000 --> 01:12:37.000
+of a large number of business processes
+
+01:12:37.000 --> 01:12:39.000
+with a small weight.
+
+01:12:39.000 --> 01:12:41.000
+The workflow allows
+
+01:12:41.000 --> 01:12:43.000
+to work with such business processes
+
+01:12:43.000 --> 01:12:45.000
+as content,
+
+01:12:45.000 --> 01:12:47.000
+which is constantly
+
+01:12:47.000 --> 01:12:49.000
+modified and supplemented.
+
+01:12:49.000 --> 01:12:51.000
+In our case,
+
+01:12:51.000 --> 01:12:53.000
+content is the term
+
+01:12:53.000 --> 01:12:55.000
+of the content of the document
+
+01:12:55.000 --> 01:12:57.000
+and the scenario of the document
+
+01:12:57.000 --> 01:12:59.000
+can be reflected on the paper
+
+01:12:59.000 --> 01:13:01.000
+or in the electronic form.
+
+01:13:01.000 --> 01:13:03.000
+The key feature
+
+01:13:03.000 --> 01:13:05.000
+is the ability to work
+
+01:13:05.000 --> 01:13:07.000
+with unstructured data.
+
+01:13:07.000 --> 01:13:09.000
+The workflow technology
+
+01:13:09.000 --> 01:13:11.000
+is created with the help
+
+01:13:11.000 --> 01:13:13.000
+of a graphical editor
+
+01:13:13.000 --> 01:13:15.000
+of a random route scheme.
+
+01:13:15.000 --> 01:13:17.000
+The workflow technology
+
+01:13:17.000 --> 01:13:19.000
+sets the transition rules
+
+01:13:19.000 --> 01:13:21.000
+for the business processes
+
+01:13:21.000 --> 01:13:23.000
+from one user to another
+
+01:13:23.000 --> 01:13:25.000
+and also performs a formal monitoring
+
+01:13:25.000 --> 01:13:27.000
+of the processes between users
+
+01:13:27.000 --> 01:13:29.000
+with the possibility of
+
+01:13:29.000 --> 01:13:31.000
+the distribution,
+
+01:13:31.000 --> 01:13:33.000
+the convergence,
+
+01:13:33.000 --> 01:13:35.000
+the investment
+
+01:13:35.000 --> 01:13:37.000
+and other conditions
+
+01:13:37.000 --> 01:13:39.000
+for the processing of the business process.
+
+01:13:39.000 --> 01:13:41.000
+The workflow technology
+
+01:13:41.000 --> 01:13:43.000
+allows to make changes
+
+01:13:43.000 --> 01:13:45.000
+and optimize any process
+
+01:13:45.000 --> 01:13:47.000
+based on the analysis of its current state
+
+01:13:47.000 --> 01:13:49.000
+and at the same time
+
+01:13:49.000 --> 01:13:51.000
+document the changes
+
+01:13:51.000 --> 01:13:53.000
+that the user made
+
+01:13:53.000 --> 01:13:55.000
+during the process.
+
+01:13:55.000 --> 01:13:57.000
+For example,
+
+01:13:57.000 --> 01:13:59.000
+one of the functions
+
+01:13:59.000 --> 01:14:01.000
+of the workflow system
+
+01:14:01.000 --> 01:14:03.000
+is the registration
+
+01:14:03.000 --> 01:14:05.000
+of the actions of the document.
+
+01:14:05.000 --> 01:14:07.000
+For example,
+
+01:14:07.000 --> 01:14:09.000
+the document is accepted
+
+01:14:09.000 --> 01:14:11.000
+to be executed
+
+01:14:11.000 --> 01:14:13.000
+or transferred to the employee
+
+01:14:13.000 --> 01:14:15.000
+or the document is given
+
+01:14:15.000 --> 01:14:17.000
+a corresponding answer.
+
+01:14:17.000 --> 01:14:19.000
+These are the rules
+
+01:14:19.000 --> 01:14:21.000
+for the registration of the document
+
+01:14:21.000 --> 01:14:23.000
+by the organizational managers
+
+01:14:23.000 --> 01:14:25.000
+and the preparation of the agreement,
+
+01:14:25.000 --> 01:14:27.000
+the signing of the agreement,
+
+01:14:27.000 --> 01:14:29.000
+the approval of the additional agreement,
+
+01:14:29.000 --> 01:14:31.000
+the registration,
+
+01:14:31.000 --> 01:14:33.000
+the cancellation of the archive.
+
+01:14:33.000 --> 01:14:35.000
+This scheme
+
+01:14:35.000 --> 01:14:37.000
+is the core of
+
+01:14:37.000 --> 01:14:39.000
+the workflow technology
+
+01:14:39.000 --> 01:14:41.000
+that is adopted
+
+01:14:41.000 --> 01:14:43.000
+in almost all
+
+01:14:43.000 --> 01:14:45.000
+and constitutes the core
+
+01:14:45.000 --> 01:14:47.000
+of any electronic document
+
+01:14:47.000 --> 01:14:49.000
+or any other electronic document
+
+01:14:49.000 --> 01:14:51.000
+system.
+
+01:14:51.000 --> 01:14:53.000
+However, the further development
+
+01:14:53.000 --> 01:14:55.000
+of the electronic document
+
+01:14:55.000 --> 01:14:57.000
+is connected with the concept
+
+01:14:57.000 --> 01:14:59.000
+of Enterprise Content Management
+
+01:14:59.000 --> 01:15:01.000
+or ECM.
+
+01:15:01.000 --> 01:15:03.000
+The corporations have accumulated
+
+01:15:03.000 --> 01:15:05.000
+a lot of documents,
+
+01:15:05.000 --> 01:15:07.000
+critical documents
+
+01:15:07.000 --> 01:15:09.000
+that exist not only in electronic
+
+01:15:09.000 --> 01:15:11.000
+but also in paper form
+
+01:15:11.000 --> 01:15:13.000
+and they need a well-constructed
+
+01:15:13.000 --> 01:15:15.000
+and interconnected system.
+
+01:15:15.000 --> 01:15:17.000
+The enterprise logic
+
+01:15:17.000 --> 01:15:19.000
+was supported with simple
+
+01:15:19.000 --> 01:15:21.000
+and complex means,
+
+01:15:21.000 --> 01:15:23.000
+from the file system,
+
+01:15:23.000 --> 01:15:25.000
+to the electronic mail,
+
+01:15:25.000 --> 01:15:27.000
+to the specialized applications.
+
+01:15:27.000 --> 01:15:29.000
+But the entire business logic
+
+01:15:29.000 --> 01:15:31.000
+was contained in the minds
+
+01:15:31.000 --> 01:15:33.000
+of people who served
+
+01:15:33.000 --> 01:15:35.000
+as a kind of information
+
+01:15:35.000 --> 01:15:37.000
+and verification system
+
+01:15:37.000 --> 01:15:39.000
+in any corporation.
+
+01:15:39.000 --> 01:15:41.000
+There are such employees
+
+01:15:41.000 --> 01:15:43.000
+who you can contact
+
+01:15:43.000 --> 01:15:45.000
+and he will answer
+
+01:15:45.000 --> 01:15:47.000
+a particular question.
+
+01:15:47.000 --> 01:15:49.000
+Therefore, the ECM system
+
+01:15:49.000 --> 01:15:51.000
+or Enterprise Content Management
+
+01:15:51.000 --> 01:15:53.000
+is a kind of challenge
+
+01:15:53.000 --> 01:15:55.000
+or an answer
+
+01:15:55.000 --> 01:15:57.000
+when one person
+
+01:15:57.000 --> 01:15:59.000
+is no longer able
+
+01:15:59.000 --> 01:16:01.000
+to keep in mind
+
+01:16:01.000 --> 01:16:03.000
+all the connections
+
+01:16:03.000 --> 01:16:05.000
+and the entire business logic
+
+01:16:05.000 --> 01:16:07.000
+of the organization.
+
+01:16:07.000 --> 01:16:09.000
+What is the ECM system?
+
+01:16:09.000 --> 01:16:11.000
+This concept unites
+
+01:16:11.000 --> 01:16:13.000
+the technologies used
+
+01:16:13.000 --> 01:16:15.000
+for processing unstructured information
+
+01:16:15.000 --> 01:16:17.000
+related to the implementation
+
+01:16:17.000 --> 01:16:19.000
+of certain organizational processes.
+
+01:16:19.000 --> 01:16:21.000
+The unstructured information
+
+01:16:21.000 --> 01:16:23.000
+includes documents
+
+01:16:23.000 --> 01:16:25.000
+as well as
+
+01:16:25.000 --> 01:16:27.000
+the more general concept
+
+01:16:27.000 --> 01:16:29.000
+of content,
+
+01:16:29.000 --> 01:16:31.000
+in particular,
+
+01:16:31.000 --> 01:16:33.000
+the information content
+
+01:16:33.000 --> 01:16:35.000
+of the Internet sites
+
+01:16:35.000 --> 01:16:37.000
+and other data storages.
+
+01:16:37.000 --> 01:16:39.000
+As a separate category,
+
+01:16:39.000 --> 01:16:41.000
+the information should be
+
+01:16:41.000 --> 01:16:43.000
+stored in an unchanged form.
+
+01:16:43.000 --> 01:16:45.000
+In Russian,
+
+01:16:45.000 --> 01:16:47.000
+there is no such thing.
+
+01:16:47.000 --> 01:16:49.000
+Maybe,
+
+01:16:49.000 --> 01:16:51.000
+usually records are characterized
+
+01:16:51.000 --> 01:16:53.000
+as with archival data.
+
+01:16:53.000 --> 01:16:55.000
+What is the ECM system?
+
+01:16:55.000 --> 01:16:57.000
+The concept of Enterprise Content Management
+
+01:16:57.000 --> 01:16:59.000
+unites all the technologies
+
+01:16:59.000 --> 01:17:01.000
+related to the processing
+
+01:17:01.000 --> 01:17:03.000
+of unstructured information.
+
+01:17:03.000 --> 01:17:05.000
+The concept of processing information
+
+01:17:05.000 --> 01:17:07.000
+is explained as follows.
+
+01:17:07.000 --> 01:17:09.000
+The main function of the ECM system
+
+01:17:09.000 --> 01:17:11.000
+is to store, manage,
+
+01:17:11.000 --> 01:17:13.000
+ensure integrity
+
+01:17:13.000 --> 01:17:15.000
+and provide information.
+
+01:17:15.000 --> 01:17:17.000
+Pay attention to the capture
+
+01:17:17.000 --> 01:17:19.000
+and the digitization
+
+01:17:19.000 --> 01:17:21.000
+of the flow
+
+01:17:21.000 --> 01:17:23.000
+or the transition
+
+01:17:23.000 --> 01:17:25.000
+from uncharged form
+
+01:17:25.000 --> 01:17:27.000
+to uncharged form.
+
+01:17:27.000 --> 01:17:29.000
+The concept of capturing
+
+01:17:29.000 --> 01:17:31.000
+the data from external sources
+
+01:17:31.000 --> 01:17:33.000
+to the information system
+
+01:17:33.000 --> 01:17:35.000
+of the company
+
+01:17:35.000 --> 01:17:37.000
+is a very important
+
+01:17:37.000 --> 01:17:39.000
+and important issue.
+
+01:17:39.000 --> 01:17:41.000
+The main problem
+
+01:17:41.000 --> 01:17:43.000
+of the ECM system
+
+01:17:43.000 --> 01:17:45.000
+is the fact
+
+01:17:45.000 --> 01:17:47.000
+that the data
+
+01:17:47.000 --> 01:17:49.000
+is automatically
+
+01:17:49.000 --> 01:17:51.000
+transferred
+
+01:17:51.000 --> 01:17:53.000
+from the source
+
+01:17:53.000 --> 01:17:55.000
+to the data store.
+
+01:17:55.000 --> 01:17:57.000
+The main problem
+
+01:17:57.000 --> 01:17:59.000
+of the ECM system
+
+01:17:59.000 --> 01:18:01.000
+is the fact
+
+01:18:01.000 --> 01:18:03.000
+that the data
+
+01:18:03.000 --> 01:18:05.000
+is automatically
+
+01:18:05.000 --> 01:18:07.000
+transferred
+
+01:18:07.000 --> 01:18:09.000
+from the source
+
+01:18:09.000 --> 01:18:11.000
+to the data store.
+
+01:18:11.000 --> 01:18:13.000
+The main problem
+
+01:18:13.000 --> 01:18:15.000
+of the ECM system
+
+01:18:15.000 --> 01:18:17.000
+is the fact
+
+01:18:17.000 --> 01:18:19.000
+that the data
+
+01:18:19.000 --> 01:18:21.000
+is automatically
+
+01:18:21.000 --> 01:18:23.000
+transferred
+
+01:18:23.000 --> 01:18:25.000
+from the source
+
+01:18:25.000 --> 01:18:27.000
+to the data store.
+
+01:18:27.000 --> 01:18:29.000
+The main problem
+
+01:18:29.000 --> 01:18:31.000
+of the ECM system
+
+01:18:31.000 --> 01:18:33.000
+is the fact
+
+01:18:33.000 --> 01:18:35.000
+that the data
+
+01:18:35.000 --> 01:18:37.000
+is automatically
+
+01:18:37.000 --> 01:18:39.000
+transferred
+
+01:18:39.000 --> 01:18:41.000
+from the source
+
+01:18:41.000 --> 01:18:43.000
+to the data store.
+
+01:18:43.000 --> 01:18:45.000
+The main problem
+
+01:18:45.000 --> 01:18:47.000
+of the ECM system
+
+01:18:47.000 --> 01:18:49.000
+is the fact
+
+01:18:49.000 --> 01:18:51.000
+that the data
+
+01:18:51.000 --> 01:18:53.000
+is automatically
+
+01:18:53.000 --> 01:18:55.000
+transferred
+
+01:18:55.000 --> 01:18:57.000
+from the source
+
+01:18:57.000 --> 01:18:59.000
+to the data store.
+
+01:18:59.000 --> 01:19:01.000
+The main problem
+
+01:19:01.000 --> 01:19:03.000
+of the ECM system
+
+01:19:03.000 --> 01:19:05.000
+is the fact
+
+01:19:05.000 --> 01:19:07.000
+that the data
+
+01:19:07.000 --> 01:19:09.000
+is automatically
+
+01:19:09.000 --> 01:19:11.000
+transferred
+
+01:19:11.000 --> 01:19:13.000
+from the source
+
+01:19:13.000 --> 01:19:15.000
+to the data store.
+
+01:19:15.000 --> 01:19:17.000
+The main problem
+
+01:19:17.000 --> 01:19:19.000
+of the ECM system
+
+01:19:19.000 --> 01:19:21.000
+is the fact
+
+01:19:21.000 --> 01:19:23.000
+that the data
+
+01:19:23.000 --> 01:19:25.000
+is automatically
+
+01:19:25.000 --> 01:19:27.000
+transferred
+
+01:19:27.000 --> 01:19:29.000
+from the source
+
+01:19:29.000 --> 01:19:31.000
+to the data store.
+
+01:19:31.000 --> 01:19:33.000
+The main problem
+
+01:19:33.000 --> 01:19:35.000
+of the ECM system
+
+01:19:35.000 --> 01:19:37.000
+is the fact
+
+01:19:37.000 --> 01:19:39.000
+that the data
+
+01:19:39.000 --> 01:19:41.000
+is automatically
+
+01:19:41.000 --> 01:19:43.000
+transferred
+
+01:19:43.000 --> 01:19:45.000
+from the source
+
+01:19:45.000 --> 01:19:47.000
+to the data store.
+
+01:19:47.000 --> 01:19:49.000
+The main problem
+
+01:19:49.000 --> 01:19:51.000
+of the ECM system
+
+01:19:51.000 --> 01:19:53.000
+is the fact
+
+01:19:53.000 --> 01:19:55.000
+that the data
+
+01:19:55.000 --> 01:19:57.000
+is automatically
+
+01:19:57.000 --> 01:19:59.000
+transferred
+
+01:19:59.000 --> 01:20:01.000
+from the source
+
+01:20:01.000 --> 01:20:03.000
+to the data store.
+
+01:20:03.000 --> 01:20:05.000
+The main problem
+
+01:20:05.000 --> 01:20:07.000
+of the ECM system
+
+01:20:07.000 --> 01:20:09.000
+is the fact
+
+01:20:09.000 --> 01:20:11.000
+that the data
+
+01:20:11.000 --> 01:20:13.000
+is automatically
+
+01:20:13.000 --> 01:20:15.000
+transferred
+
+01:20:15.000 --> 01:20:17.000
+from the source
+
+01:20:17.000 --> 01:20:19.000
+to the data store.
+
+01:20:19.000 --> 01:20:21.000
+The main problem
+
+01:20:21.000 --> 01:20:23.000
+of the ECM system
+
+01:20:23.000 --> 01:20:25.000
+is the fact
+
+01:20:25.000 --> 01:20:27.000
+that the data
+
+01:20:27.000 --> 01:20:29.000
+is automatically
+
+01:20:29.000 --> 01:20:31.000
+transferred
+
+01:20:31.000 --> 01:20:33.000
+from the source
+
+01:20:33.000 --> 01:20:35.000
+to the data store.
+
+01:20:35.000 --> 01:20:37.000
+The main problem
+
+01:20:37.000 --> 01:20:39.000
+of the ECM system
+
+01:20:39.000 --> 01:20:41.000
+is the fact
+
+01:20:41.000 --> 01:20:43.000
+that the data
+
+01:20:43.000 --> 01:20:45.000
+is automatically
+
+01:20:45.000 --> 01:20:47.000
+transferred
+
+01:20:47.000 --> 01:20:49.000
+from the source
+
+01:20:49.000 --> 01:20:51.000
+to the data store.
+
+01:20:51.000 --> 01:20:53.000
+The main problem
+
+01:20:53.000 --> 01:20:55.000
+of the ECM system
+
+01:20:55.000 --> 01:20:57.000
+is the fact
+
+01:20:57.000 --> 01:20:59.000
+that the data
+
+01:20:59.000 --> 01:21:01.000
+is automatically
+
+01:21:01.000 --> 01:21:03.000
+transferred
+
+01:21:03.000 --> 01:21:05.000
+from the source
+
+01:21:05.000 --> 01:21:07.000
+to the data store.
+
+01:21:07.000 --> 01:21:09.000
+The main problem
+
+01:21:09.000 --> 01:21:11.000
+of the ECM system
+
+01:21:11.000 --> 01:21:13.000
+is the fact
+
+01:21:13.000 --> 01:21:15.000
+that the data
+
+01:21:15.000 --> 01:21:17.000
+is automatically
+
+01:21:17.000 --> 01:21:19.000
+transferred
+
+01:21:19.000 --> 01:21:21.000
+from the source
+
+01:21:21.000 --> 01:21:23.000
+to the data store.
+
+01:21:23.000 --> 01:21:25.000
+The main problem
+
+01:21:25.000 --> 01:21:27.000
+of the ECM system
+
+01:21:27.000 --> 01:21:29.000
+is the fact
+
+01:21:29.000 --> 01:21:31.000
+that the data
+
+01:21:31.000 --> 01:21:33.000
+is automatically
+
+01:21:33.000 --> 01:21:35.000
+transferred
+
+01:21:35.000 --> 01:21:37.000
+from the source
+
+01:21:37.000 --> 01:21:39.000
+to the data store.
+
+01:21:39.000 --> 01:21:41.000
+The main problem
+
+01:21:41.000 --> 01:21:43.000
+of the ECM system
+
+01:21:43.000 --> 01:21:45.000
+is the fact
+
+01:21:45.000 --> 01:21:47.000
+that the data
+
+01:21:47.000 --> 01:21:49.000
+is automatically
+
+01:21:49.000 --> 01:21:51.000
+transferred
+
+01:21:51.000 --> 01:21:53.000
+from the source
+
+01:21:53.000 --> 01:21:55.000
+to the data store.
+
+01:21:55.000 --> 01:21:57.000
+The main problem
+
+01:21:57.000 --> 01:21:59.000
+of the ECM system
+
+01:21:59.000 --> 01:22:01.000
+is the fact
+
+01:22:01.000 --> 01:22:03.000
+that the data
+
+01:22:03.000 --> 01:22:05.000
+is automatically
+
+01:22:05.000 --> 01:22:07.000
+transferred
+
+01:22:07.000 --> 01:22:09.000
+from the source
+
+01:22:09.000 --> 01:22:11.000
+to the data store.
+
+01:22:11.000 --> 01:22:13.000
+The main problem
+
+01:22:13.000 --> 01:22:15.000
+of the ECM system
+
+01:22:15.000 --> 01:22:17.000
+is the fact
+
+01:22:17.000 --> 01:22:19.000
+that the data
+
+01:22:19.000 --> 01:22:21.000
+is automatically
+
+01:22:21.000 --> 01:22:23.000
+transferred
+
+01:22:23.000 --> 01:22:25.000
+from the source
+
+01:22:25.000 --> 01:22:27.000
+to the data store.
+
+01:22:27.000 --> 01:22:29.000
+The main problem
+
+01:22:29.000 --> 01:22:31.000
+of the ECM system
+
+01:22:31.000 --> 01:22:33.000
+is the fact
+
+01:22:33.000 --> 01:22:35.000
+that the data
+
+01:22:35.000 --> 01:22:37.000
+is automatically
+
+01:22:37.000 --> 01:22:39.000
+transferred
+
+01:22:39.000 --> 01:22:41.000
+from the source
+
+01:22:41.000 --> 01:22:43.000
+to the data store.
+
+01:22:43.000 --> 01:22:45.000
+The main problem
+
+01:22:45.000 --> 01:22:47.000
+of the ECM system
+
+01:22:47.000 --> 01:22:49.000
+is the fact
+
+01:22:49.000 --> 01:22:51.000
+that the data
+
+01:22:51.000 --> 01:22:53.000
+is automatically
+
+01:22:53.000 --> 01:22:55.000
+transferred
+
+01:22:55.000 --> 01:22:57.000
+from the source
+
+01:22:57.000 --> 01:22:59.000
+to the data store.
+
+01:22:59.000 --> 01:23:01.000
+The main problem
+
+01:23:01.000 --> 01:23:03.000
+of the ECM system
+
+01:23:03.000 --> 01:23:05.000
+is the fact
+
+01:23:05.000 --> 01:23:07.000
+that the data
+
+01:23:07.000 --> 01:23:09.000
+is automatically
+
+01:23:09.000 --> 01:23:11.000
+transferred
+
+01:23:11.000 --> 01:23:13.000
+from the source
+
+01:23:13.000 --> 01:23:15.000
+to the data store.
+
+01:23:15.000 --> 01:23:17.000
+The main problem
+
+01:23:17.000 --> 01:23:19.000
+of the ECM system
+
+01:23:19.000 --> 01:23:21.000
+is the fact
+
+01:23:21.000 --> 01:23:23.000
+that the data
+
+01:23:23.000 --> 01:23:25.000
+is automatically
+
+01:23:25.000 --> 01:23:27.000
+transferred
+
+01:23:27.000 --> 01:23:29.000
+from the source
+
+01:23:29.000 --> 01:23:31.000
+to the data store.
+
+01:23:31.000 --> 01:23:33.000
+The main problem
+
+01:23:33.000 --> 01:23:35.000
+of the ECM system
+
+01:23:35.000 --> 01:23:37.000
+is the fact
+
+01:23:37.000 --> 01:23:39.000
+that the data
+
+01:23:39.000 --> 01:23:41.000
+is automatically
+
+01:23:41.000 --> 01:23:43.000
+transferred
+
+01:23:43.000 --> 01:23:45.000
+from the source
+
+01:23:45.000 --> 01:23:47.000
+to the data store.
+
+01:23:47.000 --> 01:23:49.000
+The main problem
+
+01:23:49.000 --> 01:23:51.000
+of the ECM system
+
+01:23:51.000 --> 01:23:53.000
+is the fact
+
+01:23:53.000 --> 01:23:55.000
+that the data
+
+01:23:55.000 --> 01:23:57.000
+is automatically
+
+01:23:57.000 --> 01:23:59.000
+transferred
+
+01:23:59.000 --> 01:24:01.000
+from the source
+
+01:24:01.000 --> 01:24:03.000
+to the data store.
+
+01:24:03.000 --> 01:24:05.000
+The main problem
+
+01:24:05.000 --> 01:24:07.000
+of the ECM system
+
+01:24:07.000 --> 01:24:09.000
+is the fact
+
+01:24:09.000 --> 01:24:11.000
+that the data
+
+01:24:11.000 --> 01:24:13.000
+is automatically
+
+01:24:13.000 --> 01:24:15.000
+transferred
+
+01:24:15.000 --> 01:24:17.000
+from the source
+
+01:24:17.000 --> 01:24:19.000
+to the data store.
+
+01:24:19.000 --> 01:24:21.000
+The main problem
+
+01:24:21.000 --> 01:24:23.000
+of the ECM system
+
+01:24:23.000 --> 01:24:25.000
+is the fact
+
+01:24:25.000 --> 01:24:27.000
+that the data
+
+01:24:27.000 --> 01:24:29.000
+is automatically
+
+01:24:29.000 --> 01:24:31.000
+transferred
+
+01:24:31.000 --> 01:24:33.000
+from the source
+
+01:24:33.000 --> 01:24:35.000
+to the data store.
+
+01:24:35.000 --> 01:24:37.000
+SimData
+
+01:24:37.000 --> 01:24:39.000
+in its address book
+
+01:24:39.000 --> 01:24:41.000
+defines the concept
+
+01:24:41.000 --> 01:24:43.000
+of PLM as a technology
+
+01:24:43.000 --> 01:24:45.000
+that unites the database
+
+01:24:45.000 --> 01:24:47.000
+and the application
+
+01:24:47.000 --> 01:24:49.000
+that creates, manages
+
+01:24:49.000 --> 01:24:51.000
+and distributes
+
+01:24:51.000 --> 01:24:53.000
+information about the product
+
+01:24:53.000 --> 01:24:55.000
+throughout its lifecycle.
+
+01:24:55.000 --> 01:24:57.000
+This concept includes
+
+01:24:57.000 --> 01:24:59.000
+both the modeling of the product
+
+01:24:59.000 --> 01:25:01.000
+and its technical design,
+
+01:25:01.000 --> 01:25:03.000
+production preparation,
+
+01:25:03.000 --> 01:25:05.000
+and the production of the product.
+
+01:25:05.000 --> 01:25:07.000
+Thus, PLM takes on
+
+01:25:07.000 --> 01:25:09.000
+a number of functions
+
+01:25:09.000 --> 01:25:11.000
+of other corporate systems
+
+01:25:11.000 --> 01:25:13.000
+such as SCM, CRM, ERP.
+
+01:25:13.000 --> 01:25:15.000
+The global market
+
+01:25:15.000 --> 01:25:17.000
+is represented by
+
+01:25:17.000 --> 01:25:19.000
+SAP PLM systems
+
+01:25:19.000 --> 01:25:21.000
+and vendors
+
+01:25:21.000 --> 01:25:23.000
+such as the American Autodesk,
+
+01:25:23.000 --> 01:25:25.000
+the French Dessault Systems,
+
+01:25:25.000 --> 01:25:27.000
+the American PTC
+
+01:25:27.000 --> 01:25:29.000
+and UGS.
+
+01:25:29.000 --> 01:25:31.000
+In addition to the automated
+
+01:25:31.000 --> 01:25:33.000
+automation and
+
+01:25:33.000 --> 01:25:35.000
+production optimization
+
+01:25:35.000 --> 01:25:37.000
+systems, there are also
+
+01:25:37.000 --> 01:25:39.000
+the mass systems
+
+01:25:39.000 --> 01:25:41.000
+and the manufacturing
+
+01:25:41.000 --> 01:25:43.000
+execution systems
+
+01:25:43.000 --> 01:25:45.000
+that successfully reduce
+
+01:25:45.000 --> 01:25:47.000
+production costs,
+
+01:25:47.000 --> 01:25:49.000
+increase volume
+
+01:25:49.000 --> 01:25:51.000
+and improve the quality
+
+01:25:51.000 --> 01:25:53.000
+of the product.
+
+01:25:53.000 --> 01:25:55.000
+The analysts point out
+
+01:25:55.000 --> 01:25:57.000
+the possibility of saving
+
+01:25:57.000 --> 01:25:59.000
+30-40% of the use
+
+01:26:29.000 --> 01:26:31.000
+of the system.
+
+01:26:59.000 --> 01:27:01.000
+The three-part solution
+
+01:27:01.000 --> 01:27:03.000
+of the pyramid
+
+01:27:03.000 --> 01:27:05.000
+is the Fobos solution.
+
+01:27:05.000 --> 01:27:07.000
+There are other solutions,
+
+01:27:07.000 --> 01:27:09.000
+but they are not
+
+01:27:09.000 --> 01:27:11.000
+as complex as the Fobos.
+
+01:27:13.000 --> 01:27:15.000
+The Fobos system
+
+01:27:15.000 --> 01:27:17.000
+is used in a large machine
+
+01:27:17.000 --> 01:27:19.000
+and usually with heavy ERP systems
+
+01:27:19.000 --> 01:27:21.000
+such as BAN or SAP.
+
+01:27:21.000 --> 01:27:23.000
+The developers of this system
+
+01:27:23.000 --> 01:27:25.000
+work on the possibility
+
+01:27:25.000 --> 01:27:27.000
+of integrating the Fobos
+
+01:27:27.000 --> 01:27:29.000
+into the Mesh system
+
+01:27:29.000 --> 01:27:31.000
+with the 1S version 8.
+
+01:27:35.000 --> 01:27:37.000
+The slide shows the main systems
+
+01:27:37.000 --> 01:27:39.000
+and developers
+
+01:27:39.000 --> 01:27:41.000
+used in production
+
+01:27:41.000 --> 01:27:43.000
+at Russian enterprises.
+
+01:27:47.000 --> 01:27:49.000
+We have considered
+
+01:27:49.000 --> 01:27:51.000
+the main concepts
+
+01:27:51.000 --> 01:27:53.000
+for the business
+
+01:27:53.000 --> 01:27:55.000
+and the SMB corporation.
+
+01:27:57.000 --> 01:27:59.000
+These concepts describe
+
+01:27:59.000 --> 01:28:01.000
+IT solutions and IT products
+
+01:28:01.000 --> 01:28:03.000
+for B2B and B2C tasks.
+
+01:28:07.000 --> 01:28:09.000
+The corporation's functioning
+
+01:28:09.000 --> 01:28:11.000
+is carried out
+
+01:28:11.000 --> 01:28:13.000
+in a state-level
+
+01:28:13.000 --> 01:28:15.000
+public environment
+
+01:28:15.000 --> 01:28:17.000
+that is also subject
+
+01:28:17.000 --> 01:28:19.000
+to IT.
+
+01:28:19.000 --> 01:28:21.000
+The last lecture
+
+01:28:21.000 --> 01:28:23.000
+will be dedicated to IT solutions
+
+01:28:23.000 --> 01:28:25.000
+and IT products for different
+
+01:28:25.000 --> 01:28:27.000
+business processes.

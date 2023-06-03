@@ -1,0 +1,4798 @@
+WEBVTT
+
+00:00.000 --> 00:03.000
+Good day, good time of day, as it is now customary to say.
+
+00:03.000 --> 00:05.000
+My name is Ulchenkov Arseniy.
+
+00:06.000 --> 00:11.000
+I will tell you about the application of the number of methods in business.
+
+00:11.000 --> 00:14.000
+Of course, this topic is practically inexhaustible,
+
+00:14.000 --> 00:20.000
+because any business that we do is somehow connected with numerical methods,
+
+00:20.000 --> 00:22.000
+with some numbers.
+
+00:22.000 --> 00:25.000
+I will try to tell you about three topics.
+
+00:25.000 --> 00:28.000
+This is about statistics, a little about linear programming
+
+00:28.000 --> 00:31.000
+and about the modeling of the Monte Carlo method.
+
+00:31.000 --> 00:36.000
+I try to pay the most attention to statistics,
+
+00:36.000 --> 00:41.000
+since I believe that statistics are catastrophically undervalued in business,
+
+00:41.000 --> 00:51.000
+and the application of statistics can most quickly lead to the greatest profits for the business.
+
+00:51.000 --> 00:55.000
+I chose the phrase of Milton Friedman, a famous economist,
+
+00:55.000 --> 00:58.000
+as the epigraph for this course.
+
+00:58.000 --> 01:00.000
+The phrase is, do not try to cross the river,
+
+01:00.000 --> 01:03.000
+only because its average depth is 4 feet.
+
+01:03.000 --> 01:07.000
+Here, in particular, it is important to note that simple statistics,
+
+01:07.000 --> 01:10.000
+just average values, are not enough.
+
+01:10.000 --> 01:13.000
+I think you will soon understand this.
+
+01:13.000 --> 01:18.000
+Risk
+
+01:18.000 --> 01:21.000
+I will tell you a little about the origin of the concept of risk.
+
+01:21.000 --> 01:24.000
+The first attempt of the prognosis of the known humanity
+
+01:24.000 --> 01:27.000
+refers to the second millennium of our era.
+
+01:27.000 --> 01:30.000
+It is described in the Indian treatise Mahabharata.
+
+01:30.000 --> 01:33.000
+There, the nectar says the following phrase,
+
+01:33.000 --> 01:35.000
+it sounds in English,
+
+01:35.000 --> 01:38.000
+I have thus possessed the science, and in numbers was am skilled.
+
+01:38.000 --> 01:41.000
+I have cognized the science of the lottery, and therefore I understand the numbers.
+
+01:41.000 --> 01:44.000
+This nectar comes to the king,
+
+01:44.000 --> 01:49.000
+and says that he is able to estimate the number of leaves on a tree
+
+01:49.000 --> 01:52.000
+by the number of leaves on a small branch.
+
+01:52.000 --> 01:56.000
+He counts the number of leaves on this tree, on a small branch,
+
+01:56.000 --> 02:02.000
+then the king sends all his servants to count the real number of leaves,
+
+02:02.000 --> 02:08.000
+and miraculously it turns out that the number of leaves differs from the predicted one by literally 2 or 3.
+
+02:08.000 --> 02:14.000
+This is the first attempt of a more or less scientific prognosis described in literature.
+
+02:14.000 --> 02:17.000
+People used devices for randomization,
+
+02:17.000 --> 02:20.000
+people understood the meaning of randomization a long time ago.
+
+02:20.000 --> 02:22.000
+If there was no randomization,
+
+02:22.000 --> 02:24.000
+everyone knows the story of a bulldozed donkey,
+
+02:24.000 --> 02:27.000
+which stands at an equal distance from two identical haystacks.
+
+02:27.000 --> 02:29.000
+This donkey must die of hunger,
+
+02:29.000 --> 02:31.000
+because the haystacks are the same,
+
+02:31.000 --> 02:34.000
+and it does not matter which one to go to.
+
+02:34.000 --> 02:37.000
+But if this donkey is a little hungry,
+
+02:37.000 --> 02:40.000
+it will be closer to one of the haystacks,
+
+02:40.000 --> 02:42.000
+and thus it will be saved.
+
+02:42.000 --> 02:45.000
+It is unlikely that such deep tasks are set before the donkey,
+
+02:45.000 --> 02:50.000
+but such tasks can be set before us as representatives of the Goma Sapiens.
+
+02:50.000 --> 02:56.000
+The first manifestations of the theory of probability,
+
+02:56.000 --> 02:59.000
+which are probably best manifested in insurance,
+
+02:59.000 --> 03:01.000
+were quite strange.
+
+03:01.000 --> 03:03.000
+The first understanding of a person,
+
+03:03.000 --> 03:05.000
+the manifestation of the theory of probability.
+
+03:05.000 --> 03:10.000
+The next example is called the Tverskaya dinosaur.
+
+03:10.000 --> 03:12.000
+Everyone probably remembers this joke.
+
+03:12.000 --> 03:15.000
+Those who do not remember, I refer to the Internet.
+
+03:15.000 --> 03:18.000
+The point is that when a blonde is asked
+
+03:18.000 --> 03:22.000
+what is the probability that she will meet a dinosaur in Tverskaya,
+
+03:22.000 --> 03:25.000
+she says, one-second, either I will meet or I will not meet.
+
+03:25.000 --> 03:29.000
+So the first insurance contracts were built on this principle.
+
+03:29.000 --> 03:33.000
+Going on a trip, the merchant bought insurance,
+
+03:33.000 --> 03:36.000
+the cost of which was equal to the cost of the expedition.
+
+03:36.000 --> 03:38.000
+If the expedition was lost,
+
+03:38.000 --> 03:42.000
+then he was returned both the insurance cost and the cost of the expedition.
+
+03:42.000 --> 03:46.000
+Thus, the probability of an insurance case was considered to be one-second.
+
+03:46.000 --> 03:48.000
+That is, either I will meet or I will not meet.
+
+03:48.000 --> 03:51.000
+People have long been interested in probability,
+
+03:51.000 --> 03:53.000
+nevertheless, in many years,
+
+03:53.000 --> 03:58.000
+the person did not have the sense organs responsible for recognizing probability.
+
+03:58.000 --> 04:01.000
+I will try to show this on several examples.
+
+04:02.000 --> 04:05.000
+Imagine that you come to an interview,
+
+04:05.000 --> 04:07.000
+you want to get a job you have long wanted.
+
+04:07.000 --> 04:12.000
+And the last phrase, the person with whom you go through the last round of the interview,
+
+04:12.000 --> 04:17.000
+asks you, let's check you for math knowledge and good luck.
+
+04:17.000 --> 04:19.000
+He signs a contract on his side,
+
+04:19.000 --> 04:21.000
+takes a six-round revolver,
+
+04:21.000 --> 04:24.000
+loads two rounds in a row, the other four chambers are empty,
+
+04:24.000 --> 04:27.000
+spins the drum,
+
+04:27.000 --> 04:29.000
+presses the trigger,
+
+04:29.000 --> 04:31.000
+yes, he presents his signature on the contract,
+
+04:31.000 --> 04:33.000
+presses the trigger, there is no shot.
+
+04:33.000 --> 04:36.000
+And he says, ok, we checked you for good luck,
+
+04:36.000 --> 04:38.000
+you are all right with luck,
+
+04:38.000 --> 04:40.000
+now I want to check you for math knowledge.
+
+04:40.000 --> 04:43.000
+What do you think, is it better to spin the drum or not to spin it?
+
+04:43.000 --> 04:45.000
+Or does it matter?
+
+04:45.000 --> 04:48.000
+Well, here I would like you to stop and think,
+
+04:48.000 --> 04:50.000
+stop the lecture, perhaps.
+
+04:50.000 --> 04:54.000
+For those who are ready to answer right away,
+
+04:54.000 --> 04:56.000
+I will tell you the correct answer.
+
+04:56.000 --> 04:58.000
+The drum does not need to be spun.
+
+04:58.000 --> 04:59.000
+Here's the thing.
+
+04:59.000 --> 05:04.000
+In this case, people often confuse the concept of probability and conditional probability.
+
+05:04.000 --> 05:08.000
+In this case, the probability of the next shot,
+
+05:08.000 --> 05:10.000
+we have the probability of the next shot,
+
+05:10.000 --> 05:12.000
+on the condition that there was no shot the first time.
+
+05:12.000 --> 05:15.000
+In this case, looking at the drum of the revolver,
+
+05:15.000 --> 05:18.000
+we will understand that it could be either the first empty chamber,
+
+05:18.000 --> 05:22.000
+and when the drum is turned, there will be no shot the next time,
+
+05:22.000 --> 05:25.000
+or the second, and again, when the drum is turned, there will be no shot the next time,
+
+05:25.000 --> 05:27.000
+or the third, and there will be no shot,
+
+05:27.000 --> 05:29.000
+or the fourth, and then there will be a shot.
+
+05:29.000 --> 05:31.000
+That is, the shot will be in one case out of four.
+
+05:31.000 --> 05:35.000
+If you spin the drum, then the probability of losing 2 out of 6 is 1 third,
+
+05:35.000 --> 05:37.000
+1 third is obviously more than 1 fourth.
+
+05:37.000 --> 05:40.000
+Therefore, it is advantageous for us not to spin.
+
+05:40.000 --> 05:45.000
+I am almost sure that most of you answered that it is better to spin the drum.
+
+05:45.000 --> 05:51.000
+This is another proof that it is quite difficult for people to reason in terms of probability.
+
+05:51.000 --> 05:52.000
+Not only that.
+
+05:52.000 --> 05:54.000
+Not only that is strange.
+
+05:54.000 --> 05:59.000
+For example, you are going to think about how to spend your vacation.
+
+05:59.000 --> 06:05.000
+You think that you are indifferent to how to spend it in the country, or to spend it in Turkey.
+
+06:05.000 --> 06:09.000
+You estimate the probability by 50%.
+
+06:09.000 --> 06:13.000
+But this does not mean that you can imagine yourself,
+
+06:13.000 --> 06:16.000
+50% of yourself in the country, and 50% of yourself in Turkey.
+
+06:16.000 --> 06:17.000
+This is impossible.
+
+06:17.000 --> 06:20.000
+You should always be in one place.
+
+06:20.000 --> 06:26.000
+Further, statistics, probability,
+
+06:26.000 --> 06:28.000
+well, in our misunderstanding of probability,
+
+06:28.000 --> 06:32.000
+such things as the impossibility of repeating events are involved.
+
+06:32.000 --> 06:34.000
+If someone remembers the deal program,
+
+06:34.000 --> 06:37.000
+it was on one of our channels for a very short time.
+
+06:37.000 --> 06:43.000
+I will not describe it, but I will describe the final state.
+
+06:43.000 --> 06:47.000
+The final state was that the possibility of winning,
+
+06:47.000 --> 06:50.000
+which the player can have,
+
+06:50.000 --> 06:52.000
+there were only three possibilities left.
+
+06:52.000 --> 06:55.000
+50,000 rubles, 1,000,000 rubles, and 3,000,000 rubles.
+
+06:55.000 --> 06:59.000
+And at that moment he was offered 450,000 rubles.
+
+06:59.000 --> 07:01.000
+Is this fair? No, it is not fair.
+
+07:01.000 --> 07:07.000
+Because the fair mathematical expectation of his winning is much greater.
+
+07:07.000 --> 07:09.000
+1,350,000 is the amount.
+
+07:09.000 --> 07:13.000
+And he is offered only 450,000 rubles, and he agrees.
+
+07:13.000 --> 07:14.000
+Why?
+
+07:14.000 --> 07:19.000
+Because he understands the impossibility of repeating such an event.
+
+07:19.000 --> 07:23.000
+It is clear that if this event could be repeated as many times as possible,
+
+07:23.000 --> 07:27.000
+then, of course, it would be necessary to choose the continuation of the game.
+
+07:27.000 --> 07:34.000
+But since the repetition of events is absolutely impossible,
+
+07:34.000 --> 07:40.000
+then a person chooses 450,000 just because it is a lot of money,
+
+07:41.000 --> 07:47.000
+and he does not want to risk even the smallest possibility of reducing his winning.
+
+07:47.000 --> 07:54.000
+In addition, often what we consider to be equal is actually not equal.
+
+07:54.000 --> 07:58.000
+A very good example of this topic is described in the wonderful book by Perelman,
+
+07:58.000 --> 07:59.000
+Live Mathematics.
+
+07:59.000 --> 08:02.000
+The book was written at the beginning of the 20th century.
+
+08:02.000 --> 08:07.000
+Nevertheless, the examples remain quite relevant to this day.
+
+08:07.000 --> 08:11.000
+For example, a student who is just starting to study the theory of probability
+
+08:11.000 --> 08:16.000
+argues with a professor on a bicycle that among the 100 people who passed under the window
+
+08:16.000 --> 08:18.000
+there will be at least one woman.
+
+08:18.000 --> 08:22.000
+The question is, what music should the student hear
+
+08:22.000 --> 08:26.000
+to say completely lost, my bike is missing?
+
+08:26.000 --> 08:29.000
+The answer is actually simple, military music.
+
+08:29.000 --> 08:33.000
+The fact is that a battalion of soldiers passed under the window,
+
+08:33.000 --> 08:35.000
+which is clearly more than 100 people,
+
+08:35.000 --> 08:39.000
+and of course there was not a single woman among the soldiers.
+
+08:39.000 --> 08:44.000
+This is due to the fact that often the things that we consider to be quite equal
+
+08:44.000 --> 08:46.000
+are not really.
+
+08:46.000 --> 08:50.000
+I briefly talked about statistics,
+
+08:50.000 --> 08:54.000
+what we will do, what we need to be afraid of.
+
+08:54.000 --> 08:58.000
+Now I would like to talk about the tools that we will use.
+
+08:58.000 --> 09:00.000
+The main tool used in this course,
+
+09:00.000 --> 09:03.000
+both in the course of statistics and in the continuation,
+
+09:03.000 --> 09:05.000
+will be Microsoft Excel.
+
+09:05.000 --> 09:08.000
+Yes, this is really not a special statistical tool,
+
+09:08.000 --> 09:12.000
+but, first of all, it was chosen because,
+
+09:12.000 --> 09:15.000
+of course, any of you probably have it.
+
+09:15.000 --> 09:19.000
+And secondly, because special statistical tools
+
+09:19.000 --> 09:21.000
+cost a lot of money,
+
+09:21.000 --> 09:26.000
+and we would not want to encourage the purchase of pirated copies.
+
+09:26.000 --> 09:30.000
+Microsoft Excel has developed into a very powerful program
+
+09:30.000 --> 09:32.000
+since its inception,
+
+09:32.000 --> 09:34.000
+which includes a lot of features,
+
+09:34.000 --> 09:36.000
+really a lot.
+
+09:36.000 --> 09:39.000
+Many neglect Excel, and in vain.
+
+09:39.000 --> 09:43.000
+We will, first of all, use in our course such functions as,
+
+09:43.000 --> 09:46.000
+speaking in Russian, linean,
+
+09:46.000 --> 09:50.000
+this is a function that describes linear regression,
+
+09:50.000 --> 09:54.000
+as a parameter selection, or goal seek, as it is called in English,
+
+09:54.000 --> 09:56.000
+as a search for a solution,
+
+09:56.000 --> 09:58.000
+in English it is called a solver,
+
+09:58.000 --> 10:01.000
+and most likely we will use such a function as a table of settings.
+
+10:01.000 --> 10:05.000
+In fact, this is an extremely useful thing.
+
+10:05.000 --> 10:07.000
+I hope that after the end of the course,
+
+10:07.000 --> 10:10.000
+you will be able to use all these tools.
+
+10:10.000 --> 10:13.000
+Probably, I need to say a few words about special statistical tools.
+
+10:13.000 --> 10:20.000
+Statistics is well implemented in programs developed by the SAS Institute.
+
+10:20.000 --> 10:23.000
+This is their whole series.
+
+10:23.000 --> 10:26.000
+Not only SAS, of course.
+
+10:26.000 --> 10:28.000
+Of course, this is also in mathematics,
+
+10:28.000 --> 10:32.000
+there is such a program developed by the company Wolfgram, in my opinion.
+
+10:32.000 --> 10:37.000
+Statistics is well done in Matlab, in Statistics, in SAS, and so on.
+
+10:37.000 --> 10:42.000
+Probably the simplest student tool in statistics is the JumpIn program,
+
+10:42.000 --> 10:45.000
+also made by the SAS Institute,
+
+10:45.000 --> 10:49.000
+but with a focus on the student audience,
+
+10:49.000 --> 10:52.000
+so the cost is relatively low.
+
+10:52.000 --> 10:55.000
+As far as I remember, in Russia, unfortunately, it is not sold,
+
+10:55.000 --> 10:59.000
+but the cost of the student version is about $60-100, not expensive at all.
+
+10:59.000 --> 11:03.000
+Of course, all other statistical programs are quite expensive.
+
+11:03.000 --> 11:05.000
+Having said about the tools,
+
+11:05.000 --> 11:08.000
+we probably need to talk a little about data preparation.
+
+11:08.000 --> 11:15.000
+Data for statistics, for processing, is an extremely important thing.
+
+11:15.000 --> 11:18.000
+You need to pay a lot of attention to this.
+
+11:18.000 --> 11:22.000
+Even if you are processing reference books,
+
+11:22.000 --> 11:25.000
+there can often be, for example, just prints.
+
+11:25.000 --> 11:33.000
+Or the person you asked to transfer data from the book to the Excel table will make a print.
+
+11:33.000 --> 11:36.000
+Often, a person who is typing for a long time,
+
+11:36.000 --> 11:39.000
+it doesn't matter what he types, 178 or 187.
+
+11:39.000 --> 11:44.000
+And that's nothing, 178 and 187 are a small difference.
+
+11:45.000 --> 11:48.000
+The other thing is if he types 871 instead of 188.
+
+11:48.000 --> 11:50.000
+And this will be a big problem.
+
+11:50.000 --> 11:53.000
+It will be much more difficult for you to assess such statistics.
+
+11:53.000 --> 12:01.000
+Nevertheless, with the right skill, you can prepare high-quality data.
+
+12:01.000 --> 12:04.000
+Of course, when preparing data,
+
+12:04.000 --> 12:07.000
+you need to check all the suspicious values.
+
+12:07.000 --> 12:11.000
+There are often enough of these.
+
+12:11.000 --> 12:17.000
+The question of whether to exclude these values or not is not an easy one.
+
+12:17.000 --> 12:23.000
+The answer to this is that it depends on the data.
+
+12:23.000 --> 12:26.000
+It depends on whether you want to exclude or not exclude.
+
+12:26.000 --> 12:29.000
+If you are sure that such an observation will never happen again,
+
+12:29.000 --> 12:32.000
+then, okay, exclude it.
+
+12:32.000 --> 12:36.000
+But, for example, as in the case of the fall of the American market in October 1987,
+
+12:36.000 --> 12:42.000
+no one can be sure that the American market will never fall by more than 20% or more.
+
+12:42.000 --> 12:45.000
+Therefore, such observations must not be excluded.
+
+12:45.000 --> 12:49.000
+If the task requires smoother data,
+
+12:49.000 --> 12:51.000
+or the solution requires smoother data,
+
+12:51.000 --> 12:52.000
+you can smooth the data.
+
+12:52.000 --> 12:55.000
+In fact, this is not always good.
+
+12:55.000 --> 13:01.000
+We will now talk about the types of seasonality and its impact on business.
+
+13:02.000 --> 13:05.000
+Of course, the main thing to do when preparing data
+
+13:05.000 --> 13:12.000
+is to check whether your data agrees with your ideas about what should be there.
+
+13:12.000 --> 13:21.000
+As an example, if you suddenly see the dollar exchange rate at 6,000 rubles per dollar,
+
+13:21.000 --> 13:25.000
+you probably see data up to 1998,
+
+13:25.000 --> 13:30.000
+up to the moment when the ruble was denominated.
+
+13:30.000 --> 13:38.000
+Okay, here we need to make several definitions for statistics.
+
+13:38.000 --> 13:40.000
+We make the following definition.
+
+13:40.000 --> 13:46.000
+The general population is the entire set of observed objects or quantities.
+
+13:46.000 --> 13:51.000
+That is, if we are talking about all the military personnel,
+
+13:51.000 --> 13:54.000
+then these are just all the Russian military personnel.
+
+13:54.000 --> 13:59.000
+The selection is part of the general set selected for analysis.
+
+13:59.000 --> 14:05.000
+For analysis, we can select one of the units or one of the units of the armed forces,
+
+14:05.000 --> 14:11.000
+or we can select one person from different units, different ranks of the troops, and so on.
+
+14:11.000 --> 14:16.000
+Depending on our task,
+
+14:16.000 --> 14:27.000
+it is quite likely that the second way, that is, to attract people from different units, will be more productive.
+
+14:27.000 --> 14:29.000
+Another definition is the parameter.
+
+14:29.000 --> 14:34.000
+The parameter is an aggregated measure calculated to represent some general set.
+
+14:34.000 --> 14:41.000
+Let's say, this can be the average weight of a soldier in the Russian Armed Forces.
+
+14:41.000 --> 14:50.000
+If we try to calculate this measure by selection, then such a measure is called statistics.
+
+14:50.000 --> 14:56.000
+We can select, for example, 50 people from the Russian Armed Forces, from different ranks of the troops, and so on,
+
+14:56.000 --> 15:02.000
+calculate their average weight, and then their average weight will be some kind of statistics.
+
+15:02.000 --> 15:05.000
+Of course, this will be some kind of approximation of the parameter.
+
+15:05.000 --> 15:10.000
+The more people we weigh, the closer we will be to the parameter.
+
+15:10.000 --> 15:16.000
+Nevertheless, even if we weigh all, but only almost all, soldiers of the Russian Armed Forces,
+
+15:16.000 --> 15:21.000
+we will have only statistics, not the parameter itself.
+
+15:21.000 --> 15:30.000
+Here I would like you to read the CSBSP, and after you read it, we will talk about seasonality
+
+15:30.000 --> 15:36.000
+and how this seasonality can be used in business for your own benefit.
+
+15:40.000 --> 15:45.000
+Seasonality
+
+15:46.000 --> 15:52.000
+Well, you read the case, now let's talk about what we see from it.
+
+15:52.000 --> 15:58.000
+The application, of course, has data on this case, I hope you managed to look at it.
+
+15:58.000 --> 16:03.000
+How good, our first question will be, how good are aggregated data?
+
+16:03.000 --> 16:05.000
+What can be seen from them?
+
+16:06.000 --> 16:16.000
+Let's say, if your chief of the ambulance service comes to you and reports that this month we have made 500 ambulances,
+
+16:16.000 --> 16:18.000
+is it good or bad?
+
+16:18.000 --> 16:20.000
+Well, probably, in principle, not bad, yes.
+
+16:20.000 --> 16:25.000
+But what conclusions can you draw on the basis of this data?
+
+16:25.000 --> 16:29.000
+Not so much, you can just compare it with another month.
+
+16:29.000 --> 16:33.000
+You can say, yes, probably, compared to other months, this is not very much.
+
+16:33.000 --> 16:42.000
+Therefore, it is probably not very correct to draw conclusions on the basis of data per month.
+
+16:42.000 --> 16:48.000
+The data will actually tell you how to analyze them.
+
+16:48.000 --> 16:59.000
+And the seasonality that we are talking about, it is actually not only related to the change of seasons,
+
+17:00.000 --> 17:07.000
+it is quite possible to consider, for example, a decrease in the number of ambulance calls,
+
+17:07.000 --> 17:11.000
+since we are talking about ambulances, at the end of the month.
+
+17:11.000 --> 17:13.000
+For example, how can this be explained?
+
+17:13.000 --> 17:18.000
+People work, people understand that by the end of the month they need to submit a plan,
+
+17:18.000 --> 17:26.000
+and people start to get sick less, simply because they attribute their illnesses to the future.
+
+17:26.000 --> 17:30.000
+This is one thing. But there is also such seasonality during the week.
+
+17:30.000 --> 17:36.000
+Seasonality is annual, that is, related to the change of seasons.
+
+17:36.000 --> 17:40.000
+There is also weekly seasonality, when we say that Monday is not hard for her.
+
+17:40.000 --> 17:42.000
+There is daily seasonality.
+
+17:42.000 --> 17:51.000
+It is clear that the number of calls between 1 am and 2 am is not equal to the number of calls between 1 pm and 2 pm.
+
+17:51.000 --> 17:54.000
+We talked a little about seasonality.
+
+17:54.000 --> 17:59.000
+How could we apply this seasonality now?
+
+17:59.000 --> 18:10.000
+Of course, at the same time, it is necessary to realize that the number of ambulance calls at any given moment is still an unusual number.
+
+18:10.000 --> 18:19.000
+To tell you about the order of the measure of the unusualness in the number of ambulance calls,
+
+18:19.000 --> 18:34.000
+I can tell you that in this case, on April 4, 2005, the company had 7 calls, and on April 4, 2005, it was 35.
+
+18:34.000 --> 18:38.000
+Two adjacent days, nothing special, no difference.
+
+18:38.000 --> 18:41.000
+The number of ambulance calls was five times different.
+
+18:41.000 --> 18:43.000
+This is certainly an extreme case.
+
+18:43.000 --> 18:47.000
+Nevertheless, the number of ambulance calls is random.
+
+18:47.000 --> 18:49.000
+This is inevitable.
+
+18:49.000 --> 18:55.000
+The more you look at each day separately, the more you will understand that this is a random number.
+
+18:55.000 --> 19:01.000
+However, this random number has clear patterns.
+
+19:01.000 --> 19:09.000
+If you can use them, your company will win significantly compared to your competitors.
+
+19:10.000 --> 19:15.000
+Now we will move on to processing data.
+
+19:15.000 --> 19:24.000
+To be sure, I can tell you that in this case, in BSP, the company managed to achieve outstanding results.
+
+19:24.000 --> 19:33.000
+Compared to competitors who thought that it was possible to count on 4.5-5 calls per day for ambulance,
+
+19:33.000 --> 19:47.000
+BSP managed to achieve 6.22 in one month, which is approximately 24% more than the maximum dream of competitors.
+
+19:47.000 --> 19:51.000
+All this is done using conventional statistics.
+
+19:51.000 --> 19:56.000
+Okay, so we look at the data of the BSP case.
+
+19:57.000 --> 20:03.000
+First of all, if you were in Semyon's place, you would be offered something like this.
+
+20:03.000 --> 20:09.000
+This is a set of graphs that reflect the number of ambulance calls that were in a certain month.
+
+20:09.000 --> 20:16.000
+It all starts from 2001, goes on to 2002, 2003, 2004, 2005.
+
+20:16.000 --> 20:20.000
+2005 is not finished, we have data for all months.
+
+20:20.000 --> 20:22.000
+What can you understand from them?
+
+20:22.000 --> 20:31.000
+On average, you can see that in the autumn and winter months, the number of ambulance calls is higher.
+
+20:31.000 --> 20:37.000
+Yes, probably, on average, you can see that the number of ambulance calls is growing from year to year.
+
+20:37.000 --> 20:42.000
+Perhaps, this is best seen on the second graph,
+
+20:42.000 --> 20:51.000
+which, in fact, linearly reflects all months of the BSP service, starting from July 2001.
+
+20:52.000 --> 21:02.000
+Here is the period of work of one director, the period of work of another director, the period of work of the third director, the period of work of the fourth director.
+
+21:02.000 --> 21:12.000
+In fact, all these falls can be considered as seasonal falls.
+
+21:13.000 --> 21:21.000
+We will discuss methods that will allow us to compare the work of at least two directors.
+
+21:21.000 --> 21:29.000
+Looking at this graph, which is equal to the monthly graph,
+
+21:29.000 --> 21:38.000
+it is unlikely that we will be able to make any serious detailed analytical studies of what is happening.
+
+21:38.000 --> 21:47.000
+It is obvious that in the winter months we would like to send more brigades to the front lines,
+
+21:47.000 --> 21:51.000
+but it is unlikely that we can draw any more serious conclusions.
+
+21:51.000 --> 21:54.000
+Let's try to refer to the data itself.
+
+21:54.000 --> 21:56.000
+What does the data give us?
+
+21:56.000 --> 22:00.000
+If you pay attention, you will see the date.
+
+22:00.000 --> 22:13.000
+For example, on July 1, 2001, we had a number of calls, 15 in total, and the time at which the call took place.
+
+22:13.000 --> 22:25.000
+As you can see, perhaps it is easy to notice that on July 1, 2007, the first call came at 8 a.m.
+
+22:25.000 --> 22:30.000
+How can we use this?
+
+22:30.000 --> 22:38.000
+Let's try to use the means built into Excel, such as a table of settings.
+
+22:38.000 --> 22:48.000
+We will try to break our data into hours when the calls occurred,
+
+22:48.000 --> 22:51.000
+and add a column like the day of the week.
+
+22:56.000 --> 23:04.000
+The function in Russian Excel is called Day of No Day,
+
+23:04.000 --> 23:15.000
+and has a format of the day of the week, dates in the numeric format, and a type.
+
+23:15.000 --> 23:20.000
+We will use the second type.
+
+23:20.000 --> 23:33.000
+The second type means that the date is used in the format Sunday is the seventh day of the week.
+
+23:40.000 --> 23:43.000
+Okay, we have a column Day of the Week.
+
+23:43.000 --> 23:55.000
+We assume that on Monday we will have a few more calls than on the rest of the week.
+
+23:55.000 --> 23:59.000
+We assume that on Saturday we will have a few fewer calls than on the rest of the week.
+
+23:59.000 --> 24:01.000
+The days of the week will be approximately the same.
+
+24:01.000 --> 24:05.000
+Sunday will be a little harder than the average day of the week.
+
+24:05.000 --> 24:08.000
+How do we do it?
+
+24:08.000 --> 24:11.000
+We will use two things.
+
+24:11.000 --> 24:21.000
+We will use a table of settings, and we will use the functions that are called in Excel as a database.
+
+24:21.000 --> 24:24.000
+To do this, we must first define the database.
+
+24:24.000 --> 24:31.000
+Here it is, from A1 to E34703.
+
+24:31.000 --> 24:34.000
+Thus, we have 34,702 records.
+
+24:34.000 --> 24:37.000
+This will be our database.
+
+24:37.000 --> 24:42.000
+We will sum up the number of calls that occurred on a certain day of the week.
+
+24:42.000 --> 24:45.000
+To do this, we need to make a criterion.
+
+24:45.000 --> 24:52.000
+We take the title of the column.
+
+24:52.000 --> 24:54.000
+Here we will write the criterion.
+
+24:54.000 --> 24:59.000
+The criterion, for example, is the day of the week 1, that is, Monday.
+
+24:59.000 --> 25:11.000
+In this cell, we will record the number of calls that occur on Monday over our almost 5 years of observation.
+
+25:15.000 --> 25:18.000
+We will use the best shot function,
+
+25:18.000 --> 25:29.000
+which will read the number of records in the database that satisfy a certain criterion.
+
+25:29.000 --> 25:32.000
+We have marked the database.
+
+25:32.000 --> 25:34.000
+We will count the field.
+
+25:34.000 --> 25:39.000
+In fact, since this is a calculation, not a summation, we will count the field day of the week.
+
+25:39.000 --> 25:46.000
+And we will choose the criterion that the day of the week is equal to Monday.
+
+25:47.000 --> 25:49.000
+OK. We press Enter.
+
+25:49.000 --> 25:54.000
+And we get that on Monday we had 6,052 calls.
+
+25:54.000 --> 26:01.000
+If we change it to 2, we get the number of calls on Tuesday.
+
+26:01.000 --> 26:03.000
+3 on Wednesday.
+
+26:03.000 --> 26:06.000
+4 on Thursday.
+
+26:06.000 --> 26:08.000
+5 on Friday.
+
+26:08.000 --> 26:10.000
+6 on Saturday.
+
+26:10.000 --> 26:17.000
+Note that the number of calls on Saturday is lower than the number of calls on a regular day, and even lower than the number of calls on Monday.
+
+26:17.000 --> 26:27.000
+And 7 will be our Sunday, which, if you pay attention, is slightly higher than, although in this case, oddly enough, slightly lower than the average day.
+
+26:27.000 --> 26:33.000
+OK. As you can see, we had to change all the values of the day of the week.
+
+26:33.000 --> 26:39.000
+Is there a better way? Is there a possibility to use any other Excel feature?
+
+26:39.000 --> 26:41.000
+Yes, there is.
+
+26:41.000 --> 26:44.000
+We can use the so-called data table.
+
+26:44.000 --> 26:47.000
+What is a data table?
+
+26:47.000 --> 26:56.000
+A data table is a kind of macro that will substitute all the necessary values for you and sort out all possible options.
+
+26:56.000 --> 27:00.000
+In our case, when the day of the week is only 7, it is not so difficult.
+
+27:00.000 --> 27:08.000
+But a little further we will consider much more difficult possibilities and see that the table of settings is a very useful thing.
+
+27:09.000 --> 27:12.000
+OK. How can we use the table of settings?
+
+27:16.000 --> 27:24.000
+We will make links to the number of days.
+
+27:24.000 --> 27:30.000
+Why? In this cell, Excel will substitute different days numbers from 0 to 7.
+
+27:31.000 --> 27:38.000
+Accordingly, in this cell, Excel will issue the number of calls on the corresponding day, from 1 to 7.
+
+27:44.000 --> 27:55.000
+We select a field with the numbers that denote two weeks, with the cell where Excel will substitute the data that denotes our days of the week.
+
+27:56.000 --> 28:05.000
+At the top of the second column, we leave a cell where Excel will write the data corresponding to our days of the week.
+
+28:05.000 --> 28:12.000
+And we select the data, work with data, the data table.
+
+28:12.000 --> 28:17.000
+In the previous version of Excel, this was called the table of settings.
+
+28:17.000 --> 28:20.000
+In the new translation, it is called the data table.
+
+28:20.000 --> 28:23.000
+In fact, the data table is a more accurate translation.
+
+28:23.000 --> 28:26.000
+In English, it is called the data table.
+
+28:26.000 --> 28:29.000
+Although, in fact, it is a table of settings.
+
+28:29.000 --> 28:32.000
+We click on the data table.
+
+28:32.000 --> 28:35.000
+There is a small feature.
+
+28:35.000 --> 28:38.000
+Here we have a column.
+
+28:38.000 --> 28:45.000
+We need to select this row of data, we need to select, substitute the value in lines.
+
+28:45.000 --> 28:48.000
+Why in lines? It is not very clear, but nevertheless.
+
+28:49.000 --> 29:03.000
+As you can see, the number of emergency calls in these cells has increased, corresponding to the days of the week, starting from Monday to Sunday.
+
+29:03.000 --> 29:07.000
+We can look at the schedule.
+
+29:07.000 --> 29:10.000
+In the new Excel, it is located here.
+
+29:10.000 --> 29:16.000
+We want to build a so-called point diagram, or scatter plot, as it is called in English.
+
+29:16.000 --> 29:26.000
+That is, a diagram where we will have numbers of days of the week on one axis, and the number of calls corresponding to this day of the week on the second axis.
+
+29:26.000 --> 29:32.000
+It is better to take the connected points, for example, this or this schedule.
+
+29:32.000 --> 29:39.000
+It is easy to see that Monday is the day that stands out among the others.
+
+29:39.000 --> 29:45.000
+Friday is a little better than other days.
+
+29:45.000 --> 29:50.000
+Saturday is a little better in terms of people getting sick less.
+
+29:50.000 --> 29:54.000
+And Sunday is about the same as a regular day of the week.
+
+29:54.000 --> 29:59.000
+Is it enough? I will destroy this schedule, if you don't mind.
+
+29:59.000 --> 30:02.000
+You can easily restore it.
+
+30:02.000 --> 30:05.000
+Is this statistic enough for us?
+
+30:05.000 --> 30:11.000
+Yes, we now see that on Saturday we can release fewer cars on the line.
+
+30:11.000 --> 30:16.000
+And on Monday, we should release more cars.
+
+30:16.000 --> 30:18.000
+But maybe this is not all.
+
+30:18.000 --> 30:21.000
+Maybe we can do something better.
+
+30:21.000 --> 30:25.000
+Let's try to do the following.
+
+30:25.000 --> 30:37.000
+Let's try to add another variable and build the number of calls per day, per week and per hour.
+
+30:38.000 --> 30:42.000
+We add another variable here in the criteria.
+
+30:42.000 --> 30:50.000
+And in the formula B-calculation, we change the reference to the criteria from H1 to H2
+
+30:50.000 --> 30:56.000
+to such a reference that it captures cells from G1 to H2.
+
+30:56.000 --> 31:13.000
+Now, when we press Enter, our formula will read the number of calls that occurred between 8 and 9 a.m. on Monday.
+
+31:14.000 --> 31:25.000
+Since we have 7 days a week and 24 hours a day, we understand that 7 times 24 is 168.
+
+31:25.000 --> 31:30.000
+It would be extremely difficult for us to go over 168 options.
+
+31:30.000 --> 31:34.000
+Therefore, we will use the table of the settings again.
+
+31:35.000 --> 31:45.000
+We write the number from 0 to 23, which corresponds to our hours.
+
+31:50.000 --> 31:51.000
+23.
+
+31:51.000 --> 31:55.000
+And the number corresponding to our days of the week, from 1 to 2.
+
+31:55.000 --> 31:57.000
+Oh, sorry, from 1 to 7, of course.
+
+31:58.000 --> 32:07.000
+Once again, we enter the number of calls corresponding to this hour in the upper part of the table.
+
+32:07.000 --> 32:12.000
+Here we make references to the day of the week.
+
+32:12.000 --> 32:19.000
+And here is a reference to the hour.
+
+32:20.000 --> 32:33.000
+In cell G9, we will place a reference to the number of days, and in cell G8 a reference to the number of hours.
+
+32:33.000 --> 32:43.000
+At the same time, cell H2, that is, the day of the week, refers to cell G9, and cell G2 to cell G8.
+
+32:44.000 --> 32:51.000
+In fact, we can directly substitute the values that we will use in the table of the settings.
+
+32:51.000 --> 32:59.000
+But for convenience, we will simply rewrite them so as not to follow them throughout the table of our Excel.
+
+32:59.000 --> 33:08.000
+Thus, we mark the rectangle that includes our days and hours.
+
+33:08.000 --> 33:13.000
+At the top of it, we write the value of the corresponding number of calls.
+
+33:13.000 --> 33:15.000
+And we click on the data again.
+
+33:15.000 --> 33:20.000
+Working with data in the table of data.
+
+33:20.000 --> 33:29.000
+Now we substitute the value for the columns in cell G9 and the value for the columns in cell G8.
+
+33:30.000 --> 33:38.000
+Please note that it took Excel literally three seconds to calculate a huge table.
+
+33:38.000 --> 33:44.000
+You would have to read such a table without using these tools for several days.
+
+33:45.000 --> 33:49.000
+Now we can do the following.
+
+33:49.000 --> 33:59.000
+We can sum up the values for the hours.
+
+33:59.000 --> 34:09.000
+And so we get the number of calls corresponding to a certain hour.
+
+34:10.000 --> 34:16.000
+And we can sum up the values for the days of the week.
+
+34:16.000 --> 34:23.000
+And so we get the number of calls corresponding to a certain day.
+
+34:23.000 --> 34:24.000
+If you remember, 6,052.
+
+34:24.000 --> 34:27.000
+And we really have 34,702 calls.
+
+34:27.000 --> 34:29.000
+Let's check here.
+
+34:29.000 --> 34:31.000
+Is this correct?
+
+34:31.000 --> 34:33.000
+34,702 calls.
+
+34:33.000 --> 34:34.000
+Fair.
+
+34:35.000 --> 34:42.000
+Now we need to build a schedule depending on the number of calls in a certain hour.
+
+34:42.000 --> 34:47.000
+For this we need to mark two columns.
+
+34:47.000 --> 34:50.000
+The first column is 0,23.
+
+34:50.000 --> 34:55.000
+And the last column with the number of calls depending on the hour.
+
+34:55.000 --> 34:58.000
+We make the insertion again.
+
+34:58.000 --> 35:00.000
+A dotted schedule.
+
+35:00.000 --> 35:05.000
+It's better to make a smooth dotted line.
+
+35:05.000 --> 35:09.000
+This is how the number of calls looks like depending on the hour.
+
+35:09.000 --> 35:14.000
+Now what can we do with such a schedule?
+
+35:14.000 --> 35:19.000
+Of course, the ambulance is used to working 24 hours a day.
+
+35:19.000 --> 35:24.000
+And yes, of course, the ambulance should be available at any time of the day.
+
+35:24.000 --> 35:27.000
+So the first few machines...
+
+35:27.000 --> 35:33.000
+Imagine that we fill this schedule with the cubes representing our machines.
+
+35:33.000 --> 35:38.000
+The first line representing one machine will fill this part of the schedule.
+
+35:38.000 --> 35:41.000
+The second line will fill some more part of the schedule.
+
+35:41.000 --> 35:45.000
+By the way, it would be possible to stop with daily machines.
+
+35:45.000 --> 35:54.000
+But since you have a part of the schedule between 6 and 22 hours,
+
+35:54.000 --> 36:01.000
+it's unlikely that it's convenient for your ambulance workers.
+
+36:01.000 --> 36:07.000
+So you need to add two more ambulances that will work 24 hours a day.
+
+36:07.000 --> 36:11.000
+But if you add the fifth ambulance that will work 24 hours a day,
+
+36:12.000 --> 36:16.000
+you will see that this fifth ambulance will not pay itself.
+
+36:16.000 --> 36:22.000
+Since the ambulance workers will have to pay for the full day.
+
+36:22.000 --> 36:28.000
+And they will work only between 8 a.m. and 8 p.m.
+
+36:28.000 --> 36:34.000
+Therefore, it is more logical to make the fifth ambulance not 24-hour, but 12-hour.
+
+36:34.000 --> 36:45.000
+So you are representing this area with the cubes that represent the ambulance machines.
+
+36:45.000 --> 36:49.000
+By filling it up, you will get the optimal solution.
+
+36:49.000 --> 36:56.000
+It would be more logical to make two ambulances that would work for 3 hours in this place.
+
+36:56.000 --> 37:01.000
+But it's impossible, so you will have to make a machine that will work 8 hours a day.
+
+37:01.000 --> 37:05.000
+By using such simple methods,
+
+37:05.000 --> 37:09.000
+reducing the number of cars when they are not needed,
+
+37:09.000 --> 37:13.000
+and increasing the number of cars when they are needed,
+
+37:13.000 --> 37:19.000
+the company has achieved a 24% superiority compared to the dreams of other companies.
+
+37:19.000 --> 37:27.000
+I think this is a convincing proof that any manager in the workplace
+
+37:27.000 --> 37:31.000
+should use at least minimal statistics skills.
+
+37:31.000 --> 37:33.000
+First of all, the statistics are descriptive.
+
+37:33.000 --> 37:38.000
+Thus, we have made sure that aggregated data is not so good.
+
+37:38.000 --> 37:42.000
+On their basis, we cannot draw serious conclusions.
+
+37:42.000 --> 37:47.000
+And we understand perfectly well that such a thing as seasonality,
+
+37:47.000 --> 37:49.000
+yes, it is harmful, of course,
+
+37:49.000 --> 37:52.000
+because it makes your enterprise work unevenly.
+
+37:52.000 --> 37:56.000
+But the influence of seasonality, thank God, can be reduced.
+
+37:56.000 --> 38:00.000
+And the influence of seasonality, let's say,
+
+38:00.000 --> 38:03.000
+in some sense, can even be of some use.
+
+38:03.000 --> 38:06.000
+For example, in the competition.
+
+38:06.000 --> 38:11.000
+For example, you decide, as in the conditions of the previous case,
+
+38:11.000 --> 38:17.000
+you decide that since your cars are not loaded at night,
+
+38:17.000 --> 38:19.000
+you decide to make a discount.
+
+38:19.000 --> 38:21.000
+What will happen next?
+
+38:21.000 --> 38:23.000
+More people will turn to you at night.
+
+38:23.000 --> 38:25.000
+Accordingly, after a while, your competitors,
+
+38:25.000 --> 38:27.000
+realizing that their cars do not work at night,
+
+38:27.000 --> 38:29.000
+will leave the business at night.
+
+38:29.000 --> 38:34.000
+And their cars, their bricades, will bring less income.
+
+38:34.000 --> 38:39.000
+And who actually needs an ambulance that does not work 24 hours a day?
+
+38:39.000 --> 38:43.000
+An ambulance, not a 24-hour ambulance, is basically nonsense.
+
+38:43.000 --> 38:50.000
+This is how you can influence your understanding,
+
+38:50.000 --> 38:53.000
+your understanding of statistics, not only on your business, but also on someone else's business.
+
+38:53.000 --> 39:00.000
+Okay, we have now disassembled what is called descriptive statistics.
+
+39:00.000 --> 39:05.000
+We will look at it in a little more detail.
+
+39:05.000 --> 39:13.000
+After all, who actually told us that the differences that we see in the data for Monday,
+
+39:13.000 --> 39:18.000
+who actually told us that this is not the result of any accident?
+
+39:18.000 --> 39:27.000
+For example, you buy a lottery ticket and win 100 rubles.
+
+39:27.000 --> 39:30.000
+How likely is this win?
+
+39:30.000 --> 39:32.000
+Extremely unlikely, in fact.
+
+39:32.000 --> 39:35.000
+If you bought a ticket for 1 ruble and won 100 rubles,
+
+39:35.000 --> 39:37.000
+the probability of this is very small.
+
+39:37.000 --> 39:41.000
+It cannot be concluded from this that the next time you buy a lottery ticket for 1 ruble,
+
+39:41.000 --> 39:43.000
+you will win 100 rubles again.
+
+39:43.000 --> 39:50.000
+It would be less strange if the lottery organizers gave you such an opportunity.
+
+39:50.000 --> 39:53.000
+An ambulance is also a lottery ticket in a sense.
+
+39:53.000 --> 40:00.000
+Although, of course, those people who call an ambulance would not want to win in this way.
+
+40:00.000 --> 40:06.000
+But from your point of view, when you are an ambulance worker,
+
+40:06.000 --> 40:11.000
+this is an opportunity to justify your existence, an opportunity to earn money.
+
+40:11.000 --> 40:18.000
+Thus, we need to check how different the data are from each other in reality
+
+40:18.000 --> 40:25.000
+and how right we are to say that Monday is a hard day.
+
+40:25.000 --> 40:34.000
+We will look at this data from the point of view of testing the hypothesis.
+
+40:34.000 --> 40:39.000
+What happens when testing the hypothesis?
+
+40:39.000 --> 40:42.000
+What should you do when testing the hypothesis?
+
+40:42.000 --> 40:46.000
+You should formulate a zero hypothesis.
+
+40:46.000 --> 40:49.000
+For example, a zero hypothesis can look like this.
+
+40:49.000 --> 40:56.000
+I believe that the average salary of an analyst, for example,
+
+40:56.000 --> 41:02.000
+a financial analyst, is 40 thousand dollars a year or 40 thousand rubles a month.
+
+41:02.000 --> 41:04.000
+This is not a principle.
+
+41:04.000 --> 41:10.000
+What should we do next?
+
+41:10.000 --> 41:17.000
+We should formulate and determine the appropriate statistics.
+
+41:17.000 --> 41:25.000
+To determine the appropriate statistics, we should apply the appropriate parameter
+
+41:25.000 --> 41:34.000
+and the appropriate distribution in order to compare the value of statistics
+
+41:34.000 --> 41:40.000
+with the one we calculate during the preparation of our data.
+
+41:40.000 --> 41:43.000
+We should also choose the level of significance.
+
+41:43.000 --> 41:44.000
+What is the level of significance?
+
+41:44.000 --> 41:48.000
+The level of significance is, to put it simply, the quality of your decision.
+
+41:48.000 --> 41:54.000
+If you want to be 95% sure that some random factors did not affect your decision,
+
+41:54.000 --> 42:00.000
+then the level of significance is 5%, respectively, 1-95%.
+
+42:00.000 --> 42:05.000
+If you want to be absolutely sure, or almost absolutely sure,
+
+42:05.000 --> 42:09.000
+in statistics you can hardly use the word absolutely sure,
+
+42:09.000 --> 42:16.000
+if you want to be 99.9% sure, then you need to choose a slightly different level of significance.
+
+42:16.000 --> 42:19.000
+Then you should formulate the decision-making rule.
+
+42:19.000 --> 42:25.000
+This decision-making rule depends on the distribution and your standard deviation,
+
+42:25.000 --> 42:27.000
+which is obtained as a result of the calculation.
+
+42:27.000 --> 42:31.000
+After that, you should collect the data, calculate the statistics and make a decision.
+
+42:31.000 --> 42:38.000
+We will consider this using the example described in the Excel file,
+
+42:38.000 --> 42:41.000
+which is called the example, and the example is called the salary.
+
+42:41.000 --> 42:44.000
+We are considering the example of the salary.
+
+42:44.000 --> 42:49.000
+We have a set of data, about 200 measurements.
+
+42:49.000 --> 43:01.000
+We are considering the fact that the average salary is 40,000 rubles per month.
+
+43:01.000 --> 43:06.000
+The statistic that can be used in this case is the T-statistic.
+
+43:06.000 --> 43:12.000
+If we do not know the distribution of the salary level,
+
+43:12.000 --> 43:14.000
+then we have to apply the T-statistic.
+
+43:14.000 --> 43:16.000
+We choose the level of significance at 5%,
+
+43:16.000 --> 43:21.000
+that is, we want to be 95% sure that our salary falls into this interval.
+
+43:21.000 --> 43:27.000
+Accordingly, our decision will be, we accept the zero hypothesis.
+
+43:27.000 --> 43:31.000
+Okay, we don't quite accept it, we need to make a deal.
+
+43:32.000 --> 43:34.000
+The fact is that from the point of view of statistics,
+
+43:34.000 --> 43:37.000
+it would be right to say that we cannot refute the hypothesis.
+
+43:37.000 --> 43:40.000
+We do not accept it, it is just possible that we do not have enough data,
+
+43:40.000 --> 43:42.000
+we cannot refute it.
+
+43:42.000 --> 43:44.000
+But sometimes I will say that we accept it.
+
+43:44.000 --> 43:53.000
+We accept the hypothesis if it falls into the interval approximately minus 1.96 plus 1.96 standard deviation.
+
+43:53.000 --> 43:56.000
+In fact, there is a slight difference,
+
+43:56.000 --> 44:01.000
+but with a large number of changes, approximately more than 30,
+
+44:01.000 --> 44:07.000
+we have the right to use the so-called normal distribution.
+
+44:07.000 --> 44:12.000
+For a normal distribution with corresponding critical values,
+
+44:12.000 --> 44:15.000
+it will be minus 1.96 plus 1.96 standard deviation.
+
+44:15.000 --> 44:21.000
+Accordingly, let's now look at the data that we have described in the example
+
+44:21.000 --> 44:24.000
+and try to make the corresponding calculations.
+
+44:24.000 --> 44:29.000
+Okay, this way we look at the example of the salary.
+
+44:29.000 --> 44:35.000
+You will find it in the workbook of the example.
+
+44:35.000 --> 44:42.000
+Here, using the random number generator and what we call the Monte Carlo method,
+
+44:42.000 --> 44:56.000
+200 different financial analysts with a salary that fluctuates within,
+
+44:56.000 --> 45:05.000
+if you pay attention, from 16,732 rubles to 63,819 rubles per month.
+
+45:06.000 --> 45:15.000
+In fact, we generated a distribution with the following indicators.
+
+45:15.000 --> 45:22.000
+It should have been a normal distribution with an average value of 40,000 rubles
+
+45:22.000 --> 45:25.000
+and a standard deviation of 10,000 rubles.
+
+45:25.000 --> 45:35.000
+A normal distribution in this case means that in plus or minus two standard deviations,
+
+45:35.000 --> 45:54.000
+that is, plus or minus 20,000, we should get about 95, 96.8 values of our measurements.
+
+45:54.000 --> 45:56.000
+Okay, what are we doing here?
+
+45:56.000 --> 46:05.000
+We show how we will check our hypothesis.
+
+46:05.000 --> 46:11.000
+In this case, let's look at this table.
+
+46:11.000 --> 46:13.000
+What is happening here?
+
+46:13.000 --> 46:16.000
+We made four different selections of 50 values.
+
+46:16.000 --> 46:22.000
+The first is from B2 to B51, the second is from B52 to B101, and so on.
+
+46:23.000 --> 46:29.000
+We calculated the average value of the salary for these selections
+
+46:29.000 --> 46:35.000
+and calculated the standard deviation for these selections.
+
+46:35.000 --> 46:40.000
+Having calculated these standard deviations, we used them as follows.
+
+46:40.000 --> 46:47.000
+Subtracting the average value from the assumed, hypothesized, that is, 40,000,
+
+46:47.000 --> 46:55.000
+we divide the deviation by the corresponding value of the number of measurements.
+
+46:55.000 --> 47:07.000
+If the result exceeds 1.96, we have to state that...
+
+47:07.000 --> 47:15.000
+Okay, not 1.96, to be completely precise, 2.01.
+
+47:15.000 --> 47:25.000
+If our result exceeds this value, we have to state that we refute the fact
+
+47:25.000 --> 47:31.000
+that the average value of the salary is 40,000.
+
+47:32.000 --> 47:42.000
+I remind you that we tried to generate a group of people with a salary,
+
+47:42.000 --> 47:56.000
+and in fact, in each case, we had to refute the fact that the average salary is 40,000.
+
+47:56.000 --> 48:02.000
+However, as a result of randomness, when using the random number generator,
+
+48:02.000 --> 48:13.000
+we observe that we have to refute the fact that the average salary is 40,000.
+
+48:13.000 --> 48:15.000
+This does not happen very often.
+
+48:15.000 --> 48:23.000
+For your convenience, I left a formula in the last cell, which will generate such a contingent.
+
+48:23.000 --> 48:31.000
+If we copy this formula again, we will notice that in all cells,
+
+48:31.000 --> 48:37.000
+by pressing the F9 button, you will count, that is, every time you will get 200 new people.
+
+48:37.000 --> 48:45.000
+Please note that the number of people in this line does not appear so often, more than two.
+
+48:45.000 --> 48:49.000
+We will have to suffer for a long time.
+
+48:50.000 --> 48:59.000
+Here, for the first time, after about 9 clicks, we have a number greater than 2.
+
+48:59.000 --> 49:01.000
+This does not happen so often.
+
+49:01.000 --> 49:06.000
+On the other hand, in the upper cell, in the upper table, where the number of measurements is less,
+
+49:06.000 --> 49:16.000
+there is a slightly higher critical T, but such cases occur more often.
+
+49:16.000 --> 49:20.000
+This is due to the fact that since the number of measurements is less,
+
+49:20.000 --> 49:30.000
+the sum of the smaller number of random values is more random than the sum of the larger number of random values.
+
+49:30.000 --> 49:35.000
+Let's try to pay attention to the upper cell.
+
+49:35.000 --> 49:38.000
+We will expect values greater than 2.
+
+49:38.000 --> 49:40.000
+Again, we will press F9.
+
+49:40.000 --> 49:46.000
+Here, already at the first click, we have, if you see, in the upper left cell,
+
+49:46.000 --> 49:50.000
+the value of the formula for more than 2 has appeared.
+
+49:50.000 --> 49:53.000
+With the second click, there is no such value.
+
+49:53.000 --> 50:01.000
+In fact, such cases will occur much more often than in the previous variant.
+
+50:01.000 --> 50:08.000
+We were able to look at the hypothesis test.
+
+50:08.000 --> 50:18.000
+Now we better understand that even if our population is large enough,
+
+50:18.000 --> 50:21.000
+and even if we made a big choice,
+
+50:21.000 --> 50:32.000
+nevertheless, sometimes, choosing from a population with an average value that is really equal to the assumed one,
+
+50:32.000 --> 50:38.000
+we will make a choice that we will have to draw a conclusion based on this choice
+
+50:38.000 --> 50:44.000
+that the average value of the population differs from the one we imagined.
+
+50:45.000 --> 50:51.000
+It makes sense to talk about why a manager should know statistics.
+
+50:51.000 --> 50:59.000
+I think we have already discussed some of the applications of statistics.
+
+50:59.000 --> 51:06.000
+First of all, statistics should be known in order to give the appropriate description and representation of data,
+
+51:06.000 --> 51:10.000
+as in the case of the BSP case.
+
+51:11.000 --> 51:17.000
+If we cannot represent data as we should represent it in order to make the right decision,
+
+51:17.000 --> 51:24.000
+then, of course, none of us, be it us or the BSP, will be able to make any decision.
+
+51:24.000 --> 51:30.000
+Of course, these decisions can be made intuitively,
+
+51:30.000 --> 51:37.000
+but much more accurate and correct decisions will be made if you can support these decisions with some data.
+
+51:37.000 --> 51:44.000
+Next, statistics are necessary in order to draw conclusions about the population based on the data about the choice.
+
+51:44.000 --> 51:47.000
+For example, you are a commander of a paratrooper platoon,
+
+51:47.000 --> 51:56.000
+and you need to load a helicopter with 4,000 kilograms of paratroopers.
+
+51:56.000 --> 52:02.000
+You do not know, you cannot weigh them,
+
+52:02.000 --> 52:07.000
+so you have to make some simple assumptions.
+
+52:07.000 --> 52:12.000
+For example, you can know how much a paratrooper weighs on average.
+
+52:12.000 --> 52:19.000
+If a paratrooper weighs 80 kilograms, then 50 paratroopers will be about 4,000 paratroopers.
+
+52:19.000 --> 52:24.000
+We will look at this in more detail a little later.
+
+52:24.000 --> 52:29.000
+Nevertheless, this is a conclusion about the population based on the data about the choice.
+
+52:29.000 --> 52:39.000
+Next, as in the case of the BSP, you can and should use statistics to optimize the operational processes.
+
+52:39.000 --> 52:49.000
+This is a direct consequence of using statistics to describe and present data.
+
+52:49.000 --> 52:55.000
+Another thing is that statistics are used for reliable forecasting.
+
+52:56.000 --> 53:03.000
+When I just started teaching statistics, I asked for data from one of my friends.
+
+53:03.000 --> 53:07.000
+At that moment, he had a small computer store.
+
+53:07.000 --> 53:11.000
+He showed me his data and said something like this.
+
+53:11.000 --> 53:13.000
+Look, it was in November.
+
+53:13.000 --> 53:20.000
+Look, I have December 2003 and December 2004.
+
+53:20.000 --> 53:25.000
+I connect these two December lines and he got a very good growth.
+
+53:25.000 --> 53:33.000
+He expected that sales would be more than in November, about four times.
+
+53:33.000 --> 53:34.000
+Maybe three.
+
+53:34.000 --> 53:45.000
+He drew a conclusion about a certain business increase based on only two points.
+
+53:46.000 --> 53:53.000
+I said to him, Sergey, maybe we should try to take into account the influence of all the other data.
+
+53:53.000 --> 54:06.000
+After all, in the sales data of the other months, there is also data about the future sales of your store.
+
+54:06.000 --> 54:09.000
+To which he waved his hand, of course.
+
+54:09.000 --> 54:10.000
+You don't understand anything.
+
+54:10.000 --> 54:11.000
+How can you understand?
+
+54:11.000 --> 54:12.000
+This is a reliable statistic.
+
+54:13.000 --> 54:21.000
+Unfortunately, my right was confirmed.
+
+54:21.000 --> 54:26.000
+Sales were a little bit less than in December.
+
+54:26.000 --> 54:34.000
+Just a few days before the recording of this lecture, I received new data from Sergey.
+
+54:35.000 --> 54:42.000
+What's interesting, he called me and said, how do you do it?
+
+54:42.000 --> 54:49.000
+I looked at the data for January 2007 and your forecast was different from the real data by 500 rubles.
+
+54:49.000 --> 55:00.000
+As a result, a person who was really a skeptic about statistics for two years,
+
+55:00.000 --> 55:08.000
+now he is a convinced supporter of statistics, but he still accepts such a thing as forecasting.
+
+55:08.000 --> 55:12.000
+We'll talk about forecasting a little later.
+
+55:12.000 --> 55:19.000
+First, we will describe a simpler example.
+
+55:19.000 --> 55:23.000
+Imagine that your company plans to rent a new office.
+
+55:24.000 --> 55:34.000
+The director, who has no time to do this, asked you and another employee to estimate the cost of the rent, depending on the area,
+
+55:34.000 --> 55:43.000
+and to assume what price you can offer for a specific office during the negotiations.
+
+55:43.000 --> 55:50.000
+Your colleague, not listening to the course, offers to take all the existing data,
+
+55:50.000 --> 56:01.000
+that is, to sum up the cost of the entire rent, and divide it by the total area.
+
+56:01.000 --> 56:05.000
+Thus, you will get the average cost per square meter.
+
+56:05.000 --> 56:23.000
+You ask yourself, imagine a hypermarket, such as Oshan, a huge area of several tens of thousands of square meters.
+
+56:23.000 --> 56:31.000
+Do they take the same rent from Oshan and from the kiosk that sells juice there?
+
+56:31.000 --> 56:33.000
+Apparently, no.
+
+56:33.000 --> 56:37.000
+However, your colleague offers to average this. Is this good?
+
+56:37.000 --> 56:45.000
+Is there a better way? Is there a way to correct your colleague? Is there a way to give a more accurate prediction of the cost?
+
+56:45.000 --> 56:51.000
+First, we will use linear regression in Excel.
+
+56:51.000 --> 56:58.000
+It is described as a function line-est, or, accordingly, line-in in Russian.
+
+56:58.000 --> 57:01.000
+The function uses the following arguments.
+
+57:01.000 --> 57:13.000
+This is a known column of y's, a known column of x's, which, by the number of lines, must coincide with the number of y's.
+
+57:13.000 --> 57:21.000
+And then there are two parameters, one of which makes the regression line go out of zero,
+
+57:21.000 --> 57:26.000
+or you can somehow make it higher or lower than zero.
+
+57:26.000 --> 57:29.000
+And the last parameter is the conclusion of the statistics.
+
+57:29.000 --> 57:38.000
+Since we are interested in statistics, we will always set the last two parameters to be equal to one.
+
+57:38.000 --> 57:43.000
+In addition, a big request is to remember such a combination of keys.
+
+57:43.000 --> 57:49.000
+When you write the function line-in, you describe everything neatly.
+
+57:49.000 --> 58:04.000
+Then, depending on the number of variables used, you need to mark the rectangle with a size of 5 lines in height and n plus 1, where n is the number of variable columns in width.
+
+58:04.000 --> 58:10.000
+There should be a formula in the upper left cell.
+
+58:10.000 --> 58:16.000
+And then you must press F2 at the same time, and then press CTRL-SHIFT-ENTER at the same time.
+
+58:16.000 --> 58:22.000
+By remembering this magical combination of keys, you can always use the statistics function.
+
+58:22.000 --> 58:26.000
+Now we will move on to the example of the office rent.
+
+58:26.000 --> 58:31.000
+We look at the example of the office rent.
+
+58:31.000 --> 58:37.000
+We have two columns, which are called the area and the cost of the office rent per year.
+
+58:37.000 --> 58:48.000
+Let's try to build a graph of the cost of the rent versus the area of the office.
+
+58:48.000 --> 58:54.000
+In any case, the graph is useful, it will not prevent us.
+
+58:54.000 --> 59:00.000
+It will take some time, but I think that time will not be wasted.
+
+59:01.000 --> 59:05.000
+Once again, we choose a point diagram.
+
+59:05.000 --> 59:11.000
+You can choose a smooth one, but in this case it is better to choose points.
+
+59:11.000 --> 59:20.000
+As you can see, our points, from all points of view, more or less lie on one straight line.
+
+59:20.000 --> 59:24.000
+But the question arises, how will we draw this straight line?
+
+59:24.000 --> 59:29.000
+You may have your own ideas, for example, you can draw it along the upper edge.
+
+59:29.000 --> 59:31.000
+I have my own.
+
+59:31.000 --> 59:35.000
+Thus, you need to agree on the methods of drawing this straight line.
+
+59:35.000 --> 59:36.000
+This is one.
+
+59:36.000 --> 59:44.000
+And two, do not forget about your colleague, who, like the balls, offers to fold and divide everything.
+
+59:44.000 --> 59:46.000
+Let's do this first.
+
+59:46.000 --> 59:48.000
+Let's fold and divide.
+
+59:54.000 --> 01:00:08.000
+We get the sum of all costs, and we get the sum of all areas.
+
+01:00:08.000 --> 01:00:19.000
+Thus, dividing the sum of all costs by the sum of all areas, we get the average cost per square meter.
+
+01:00:19.000 --> 01:00:24.000
+Thus, the average cost per square meter per year is $ 392.
+
+01:00:24.000 --> 01:00:26.000
+Is this a lot or not?
+
+01:00:26.000 --> 01:00:29.000
+Let's compare.
+
+01:00:29.000 --> 01:00:37.000
+Let's create another column, the cost of one square meter per year.
+
+01:00:37.000 --> 01:00:44.000
+It is clear how to create it.
+
+01:00:44.000 --> 01:00:51.000
+We need to divide the cost by the number of square meters.
+
+01:00:51.000 --> 01:00:59.000
+Now, of course, it was possible to stretch it, I think you all know how to stretch a cell.
+
+01:00:59.000 --> 01:01:04.000
+But for simplicity, there is such a thing as CTRL D.
+
+01:01:04.000 --> 01:01:08.000
+And our formula is copied throughout the cell.
+
+01:01:08.000 --> 01:01:15.000
+Now let's build a graph of the cost of one square meter depending on the area.
+
+01:01:15.000 --> 01:01:21.000
+After all, it is clear that the area most likely affects the cost of one square meter.
+
+01:01:21.000 --> 01:01:26.000
+We choose the insertion point graph.
+
+01:01:26.000 --> 01:01:29.000
+We look at the point graph again.
+
+01:01:29.000 --> 01:01:34.000
+And as you can see, the cost of a square meter is slightly reduced from the area.
+
+01:01:34.000 --> 01:01:41.000
+I would even say that there is some curvature here, let's say, as a unit divided by x.
+
+01:01:41.000 --> 01:01:46.000
+But we will not pay attention, we will draw a more or less straight line.
+
+01:01:46.000 --> 01:01:51.000
+However, we will start by drawing a straight line.
+
+01:01:51.000 --> 01:02:02.000
+A straight line is not our graph of the cost of a square meter per year, depending on the area,
+
+01:02:02.000 --> 01:02:08.000
+but a straight line of the cost of renting an office, depending on the area.
+
+01:02:08.000 --> 01:02:11.000
+Here it is all described in practice.
+
+01:02:11.000 --> 01:02:14.000
+I will show you again how it is done.
+
+01:02:14.000 --> 01:02:19.000
+I remind you that the function is called Linein.
+
+01:02:19.000 --> 01:02:22.000
+The format of the function is as follows.
+
+01:02:22.000 --> 01:02:34.000
+As known values, we substitute the known value y, that is, the cost of renting an office.
+
+01:02:34.000 --> 01:02:43.000
+As known values, we substitute the area of ​​our office.
+
+01:02:46.000 --> 01:02:50.000
+And then, here we will always have 1 and 1.
+
+01:02:50.000 --> 01:02:58.000
+The first unit means that we allow Excel to use the constant,
+
+01:02:58.000 --> 01:03:02.000
+and the second unit means that we want Excel to display statistics.
+
+01:03:03.000 --> 01:03:07.000
+We got one value.
+
+01:03:07.000 --> 01:03:12.000
+But since Linein is a so-called array function,
+
+01:03:12.000 --> 01:03:14.000
+we will now do the following.
+
+01:03:14.000 --> 01:03:20.000
+As I said, we will mark 5 lines, a rectangle with a height of 5 lines and a width of n plus 1,
+
+01:03:20.000 --> 01:03:25.000
+that is, in this case n is equal to 1, and a width of 2 columns.
+
+01:03:25.000 --> 01:03:29.000
+Now we press the F2 button and then press the key combination.
+
+01:03:29.000 --> 01:03:32.000
+At the same time, press CTRL, SHIFT and ENTER.
+
+01:03:33.000 --> 01:03:39.000
+Here you see, the entire statistics that is given by the function Linein.
+
+01:03:39.000 --> 01:03:42.000
+Here this statistic is described.
+
+01:03:42.000 --> 01:03:45.000
+What is 374?
+
+01:03:45.000 --> 01:03:47.000
+This is the slope of our line.
+
+01:03:47.000 --> 01:03:54.000
+That is, our line has, with the increase in the area by 1 square meter,
+
+01:03:54.000 --> 01:04:00.000
+the rent cost on average increases by $ 374 per year.
+
+01:04:00.000 --> 01:04:02.000
+What is the intercept?
+
+01:04:02.000 --> 01:04:05.000
+Intercept is such a strange value,
+
+01:04:05.000 --> 01:04:09.000
+this is the value at which our line crosses the y-axis.
+
+01:04:09.000 --> 01:04:12.000
+What is its physical meaning?
+
+01:04:12.000 --> 01:04:17.000
+Often it has no physical meaning.
+
+01:04:17.000 --> 01:04:22.000
+In this case, however, imagine that you want to rent 1 square meter of area.
+
+01:04:22.000 --> 01:04:27.000
+The cost of 1 square meter of area will be intercept plus about 1 meter.
+
+01:04:27.000 --> 01:04:31.000
+In total, it will be $ 11,895.
+
+01:04:31.000 --> 01:04:40.000
+If you are in business, then you obviously know that some companies provide such a service as a legal address rent.
+
+01:04:40.000 --> 01:04:42.000
+Without the area.
+
+01:04:42.000 --> 01:04:48.000
+So you can discuss the intercept in this case as the cost of the legal address rent.
+
+01:04:49.000 --> 01:04:54.000
+That is, you rent a room, but the area of ​​this room is not.
+
+01:04:54.000 --> 01:04:59.000
+As it often happens in the case of a legal address rent.
+
+01:04:59.000 --> 01:05:03.000
+Let's look at other indicators.
+
+01:05:03.000 --> 01:05:11.000
+This and this are standard errors in determining the slope and intercept.
+
+01:05:11.000 --> 01:05:18.000
+That is, the height above or below the level of 0.
+
+01:05:18.000 --> 01:05:23.000
+Going a little further, I will show this statistic.
+
+01:05:23.000 --> 01:05:31.000
+In this case, we use a hypothesis that the slope is 0 and the intercept is 0.
+
+01:05:32.000 --> 01:05:43.000
+By dividing the slope into the standard error in its definition, we get a statistic that shows how different it is from 0.
+
+01:05:43.000 --> 01:05:50.000
+In this case, we are 100% sure that the slope of this line is different from 0.
+
+01:05:50.000 --> 01:05:53.000
+As for the intercept, everything is not so clear here.
+
+01:05:53.000 --> 01:05:57.000
+But nevertheless, this statistic is good enough, it is more than 2.
+
+01:05:57.000 --> 01:06:04.000
+We believe that the intercept is significantly different from 0.
+
+01:06:04.000 --> 01:06:07.000
+What is r2?
+
+01:06:07.000 --> 01:06:14.000
+I will format it so that it is convenient to read.
+
+01:06:14.000 --> 01:06:18.000
+r2 is the indicator of the quality of regression.
+
+01:06:18.000 --> 01:06:23.000
+In principle, its physical meaning is the square of the coefficient of correlation.
+
+01:06:23.000 --> 01:06:29.000
+It is important that r2 is within the range from 0 to 1.
+
+01:06:29.000 --> 01:06:33.000
+The higher r2, the better our regression.
+
+01:06:33.000 --> 01:06:40.000
+34,843 is a standard error in determining y.
+
+01:06:40.000 --> 01:06:49.000
+To make it clear how to apply it, imagine a line that is given by this equation.
+
+01:06:49.000 --> 01:06:55.000
+y is equal to 11,521 plus 374 times x, where x is the area.
+
+01:06:55.000 --> 01:07:07.000
+Taking two standard errors from it up and down, we get a line that, as we are sure, gets 96% of all observations.
+
+01:07:07.000 --> 01:07:15.000
+This is a fairly wide band, but if you pay attention, our last values are quite large, 580,000.
+
+01:07:16.000 --> 01:07:21.000
+For such values, the standard deviation is relatively small.
+
+01:07:21.000 --> 01:07:25.000
+F-statistics is an indicator of how much we have.
+
+01:07:25.000 --> 01:07:28.000
+In principle, our regression describes something.
+
+01:07:28.000 --> 01:07:34.000
+In fact, for such values, F-statistics is already good enough for more than 4.
+
+01:07:34.000 --> 01:07:38.000
+2000 is just great.
+
+01:07:38.000 --> 01:07:41.000
+96 is the number of degrees of freedom.
+
+01:07:41.000 --> 01:07:46.000
+97 is the number of degrees of freedom, which is equal to n-1.
+
+01:07:46.000 --> 01:07:50.000
+We will not go into details here.
+
+01:07:50.000 --> 01:07:56.000
+Nevertheless, we can say that r2 can be calculated from these two values.
+
+01:07:56.000 --> 01:07:58.000
+Why does Excel give it?
+
+01:07:58.000 --> 01:07:59.000
+Well, it's the tenth.
+
+01:07:59.000 --> 01:08:03.000
+Apparently, Microsoft had some considerations in programming.
+
+01:08:04.000 --> 01:08:11.000
+Okay, so, back to our task.
+
+01:08:11.000 --> 01:08:20.000
+I remind you that your boss asked you to estimate how much you will get for renting an office.
+
+01:08:20.000 --> 01:08:30.000
+Now you can tell him that the rent of the office will cost us $ 11,521 plus about $ 370 per square meter.
+
+01:08:30.000 --> 01:08:35.000
+This will be the best estimate of the cost of renting an office.
+
+01:08:35.000 --> 01:08:43.000
+If you rent a large office, it is quite likely that your friend is right.
+
+01:08:43.000 --> 01:08:51.000
+But if you rent a small office, you will never be able to rent it,
+
+01:08:51.000 --> 01:08:58.000
+because the estimate of your employee is significantly lower than the cost of renting.
+
+01:08:58.000 --> 01:09:07.000
+If the office is large enough, then your colleague offers you $ 392,
+
+01:09:07.000 --> 01:09:12.000
+while in fact each additional square meter costs only $ 374.
+
+01:09:12.000 --> 01:09:18.000
+The difference is $ 18, and if the area of the office is large enough, the difference can be significantly accumulated.
+
+01:09:19.000 --> 01:09:27.000
+Okay, as we have seen, Excel statistics gives us a sufficient set of values,
+
+01:09:27.000 --> 01:09:32.000
+which we can later apply to predict some quantities.
+
+01:09:32.000 --> 01:09:36.000
+Of course, on the condition that we believe in forecasting,
+
+01:09:36.000 --> 01:09:44.000
+on the condition that we believe that the experience we have observed in the past is transferred to what we will observe in the future.
+
+01:09:44.000 --> 01:09:58.000
+I think it is important to say that there are two types of two different quantities in randomness.
+
+01:09:58.000 --> 01:10:01.000
+This is probability and uncertainty.
+
+01:10:01.000 --> 01:10:07.000
+Probability is when you toss a coin and, depending on the outcome, do something or not do something,
+
+01:10:07.000 --> 01:10:09.000
+or something happens, something does not happen.
+
+01:10:09.000 --> 01:10:14.000
+Uncertainty is when you toss a coin and a cube falls.
+
+01:10:14.000 --> 01:10:18.000
+If you used to think that there were only two possible outcomes,
+
+01:10:18.000 --> 01:10:21.000
+then a cube has six possible outcomes.
+
+01:10:21.000 --> 01:10:26.000
+The thing is that you have not yet observed in this life.
+
+01:10:26.000 --> 01:10:33.000
+For example, in ancient times, people were sure that all swans were white.
+
+01:10:33.000 --> 01:10:36.000
+There was even a saying that it was as impossible as a black swan.
+
+01:10:36.000 --> 01:10:42.000
+When people got to Australia, they found that there was a population of absolutely black swans.
+
+01:10:42.000 --> 01:10:53.000
+In this regard, it is quite possible that our knowledge of the world simply does not incorporate the information that we have observed.
+
+01:10:53.000 --> 01:10:55.000
+If we have not observed it, we cannot incorporate it.
+
+01:10:55.000 --> 01:10:59.000
+If you have never seen a black swan, you will think that all swans are white.
+
+01:10:59.000 --> 01:11:01.000
+Let's go back to statistics.
+
+01:11:02.000 --> 01:11:06.000
+I mean the statistics given by the function xl linearly.
+
+01:11:06.000 --> 01:11:14.000
+Again, slope is the slope of a straight line, intercept is the value of y at the point where the line of our statistics intersects,
+
+01:11:14.000 --> 01:11:16.000
+in this case, the axis y.
+
+01:11:16.000 --> 01:11:20.000
+This is actually what we will use the most.
+
+01:11:20.000 --> 01:11:30.000
+And again, the best prediction of the value of the function at any point x1 is y from x1 equals intercept,
+
+01:11:30.000 --> 01:11:41.000
+that is, the value at the point where the line intersects the axis y, plus the coefficient of regression multiplied by x1.
+
+01:11:41.000 --> 01:11:49.000
+The basis of regression, let's say, the basis of obtaining high-quality regression results, lies in four main assumptions.
+
+01:11:49.000 --> 01:11:57.000
+The first assumption is the assumption of the linearity of the connection between an independent variable and an independent variable.
+
+01:11:57.000 --> 01:12:02.000
+In this case, considering the example of an office, an independent variable is the area of ​​the office,
+
+01:12:02.000 --> 01:12:05.000
+an independent variable is the cost of renting this office per year.
+
+01:12:05.000 --> 01:12:09.000
+The assumption of linearity of the connection is not very strong.
+
+01:12:09.000 --> 01:12:17.000
+Not very strong in the sense that we can easily eliminate nonlinearity.
+
+01:12:17.000 --> 01:12:24.000
+Or, let's say, if we cannot eliminate nonlinearity, we can always choose a fairly small area
+
+01:12:24.000 --> 01:12:33.000
+so that in this small area, in this small piece, our function is linear or we could consider it linear.
+
+01:12:33.000 --> 01:12:37.000
+Of course, if you recall the parabola, x2 from the school course,
+
+01:12:37.000 --> 01:12:43.000
+if you take it as a symmetrical, then what regression can you do?
+
+01:12:43.000 --> 01:12:46.000
+Only such a horizontal line, since it is symmetrical.
+
+01:12:46.000 --> 01:12:51.000
+However, if you take one of the branches of the parabola, it will be much easier to draw a line.
+
+01:12:51.000 --> 01:12:55.000
+Although, of course, a straight line is not a very good approximation of a parabola.
+
+01:12:55.000 --> 01:13:02.000
+Then there is such a mandatory condition, or let's say one of the four main conditions.
+
+01:13:02.000 --> 01:13:06.000
+The second one has a terrible name.
+
+01:13:06.000 --> 01:13:09.000
+This is the condition of the absence of heteroscedasticity.
+
+01:13:09.000 --> 01:13:12.000
+Or, if you like, the presence of homoscedasticity.
+
+01:13:12.000 --> 01:13:15.000
+What is heteroscedasticity?
+
+01:13:15.000 --> 01:13:27.000
+This is a variety of variations along the axis of an independent variable.
+
+01:13:27.000 --> 01:13:32.000
+I will show several examples a little later.
+
+01:13:32.000 --> 01:13:34.000
+Now I can say the following.
+
+01:13:34.000 --> 01:13:40.000
+If your points are scattered relative to the line relatively symmetrically,
+
+01:13:40.000 --> 01:13:49.000
+and the distance at which they are scattered relative to the line does not depend on the value x,
+
+01:13:49.000 --> 01:13:54.000
+then, thank God, you do not have heteroscedasticity.
+
+01:13:54.000 --> 01:13:59.000
+If, for example, the points with an x-axis begin to scatter more and more,
+
+01:13:59.000 --> 01:14:02.000
+then it makes sense to talk about heteroscedasticity.
+
+01:14:02.000 --> 01:14:09.000
+But heteroscedasticity also does not make very strong limitations.
+
+01:14:09.000 --> 01:14:12.000
+Let's put it this way.
+
+01:14:12.000 --> 01:14:14.000
+There are two types of heteroscedasticity.
+
+01:14:14.000 --> 01:14:16.000
+One of them is eliminable.
+
+01:14:16.000 --> 01:14:20.000
+Thank God, it is outside this course.
+
+01:14:20.000 --> 01:14:21.000
+The second is not eliminable.
+
+01:14:21.000 --> 01:14:27.000
+Nevertheless, some conclusions can be drawn even in the case of strong enough heteroscedasticity.
+
+01:14:27.000 --> 01:14:31.000
+The third main assumption based on linear regression
+
+01:14:31.000 --> 01:14:33.000
+is the absence of correlation of the remains.
+
+01:14:33.000 --> 01:14:34.000
+What does this mean?
+
+01:14:34.000 --> 01:14:42.000
+The remains are the difference between your predicted value in the point and the observation in the point itself.
+
+01:14:42.000 --> 01:14:47.000
+Having built a whole set of such remains,
+
+01:14:47.000 --> 01:14:53.000
+you can see whether these remains fit into any line.
+
+01:14:53.000 --> 01:14:56.000
+If your remains fit into a simple parable,
+
+01:14:56.000 --> 01:15:00.000
+then it simply means that you did not take into account something in your regression.
+
+01:15:00.000 --> 01:15:05.000
+If your remains fit into a more smooth curve,
+
+01:15:05.000 --> 01:15:06.000
+a periodic curve,
+
+01:15:06.000 --> 01:15:09.000
+it is quite likely that there is some seasonality
+
+01:15:09.000 --> 01:15:12.000
+or some other influence that you can eliminate.
+
+01:15:12.000 --> 01:15:18.000
+Or, most often, you do regression for time.
+
+01:15:18.000 --> 01:15:21.000
+It is not a very good idea to do regression for time,
+
+01:15:21.000 --> 01:15:24.000
+using time as an independent variable.
+
+01:15:24.000 --> 01:15:27.000
+Nevertheless, we will have to do it once or twice.
+
+01:15:27.000 --> 01:15:29.000
+We will consider that our results are good enough,
+
+01:15:29.000 --> 01:15:31.000
+despite the fact that we do regression for time.
+
+01:15:31.000 --> 01:15:37.000
+The fourth condition is the condition of normal distribution of the remains.
+
+01:15:37.000 --> 01:15:42.000
+It is fulfilled, of course, as all other conditions, not always.
+
+01:15:42.000 --> 01:15:45.000
+These are also quite weak conditions.
+
+01:15:45.000 --> 01:15:50.000
+In fact, it is enough for the remains to be approximately normal.
+
+01:15:50.000 --> 01:15:53.000
+There is no need for a strict normality of the remains.
+
+01:15:53.000 --> 01:15:56.000
+And, in fact, it is not so easy to check it all.
+
+01:15:56.000 --> 01:15:58.000
+The normality of the remains is the case.
+
+01:15:58.000 --> 01:16:03.000
+So far, we have considered regression only for one variable.
+
+01:16:03.000 --> 01:16:05.000
+Let's ask ourselves a question.
+
+01:16:05.000 --> 01:16:08.000
+What happens if we increase the number of variables?
+
+01:16:08.000 --> 01:16:12.000
+The answer is, oddly enough, what will happen to r²?
+
+01:16:12.000 --> 01:16:16.000
+r² is the indicator of the quality of our regression.
+
+01:16:16.000 --> 01:16:21.000
+The answer is, oddly enough, that r² cannot decrease.
+
+01:16:21.000 --> 01:16:26.000
+Because the worst thing that regression can do with a new variable
+
+01:16:26.000 --> 01:16:28.000
+is simply not to take it into account.
+
+01:16:28.000 --> 01:16:33.000
+That is, to set a coefficient of 0 and not to write it anywhere.
+
+01:16:33.000 --> 01:16:38.000
+Most often, even if you add a completely useless variable,
+
+01:16:38.000 --> 01:16:42.000
+for example, call all your former classmates
+
+01:16:42.000 --> 01:16:46.000
+and find out their birthdays and their grandmothers.
+
+01:16:46.000 --> 01:16:49.000
+If you add this variable to regression,
+
+01:16:49.000 --> 01:16:53.000
+then your r² will increase, a little, but it will increase.
+
+01:16:53.000 --> 01:16:56.000
+Why is this happening?
+
+01:16:56.000 --> 01:17:00.000
+As I have already explained, due to the nature of r².
+
+01:17:00.000 --> 01:17:03.000
+r² cannot decrease, at least because,
+
+01:17:03.000 --> 01:17:06.000
+if you set a coefficient of 0 for a variable,
+
+01:17:06.000 --> 01:17:10.000
+regression will not decrease r².
+
+01:17:10.000 --> 01:17:16.000
+What should we do when we add new variables?
+
+01:17:16.000 --> 01:17:22.000
+In any case, we should avoid introducing incomprehensible variables.
+
+01:17:22.000 --> 01:17:29.000
+For example, in some period, God forbid, in 1982,
+
+01:17:30.000 --> 01:17:33.000
+Dow Jones, an indicator of the American market,
+
+01:17:33.000 --> 01:17:40.000
+correlated quite well with the average temperatures
+
+01:17:40.000 --> 01:17:42.000
+in the city of Buffalo, New York.
+
+01:17:42.000 --> 01:17:47.000
+Are the temperatures in the city of Buffalo, New York,
+
+01:17:47.000 --> 01:17:51.000
+variables that can be used to determine Dow Jones?
+
+01:17:51.000 --> 01:17:53.000
+Of course not.
+
+01:17:53.000 --> 01:17:59.000
+Otherwise, if you brought several powerful thermal power plants
+
+01:17:59.000 --> 01:18:04.000
+to Buffalo, New York, you could influence Dow Jones.
+
+01:18:04.000 --> 01:18:07.000
+Of course, there is no such influence.
+
+01:18:07.000 --> 01:18:11.000
+Therefore, the temperatures in Buffalo, New York,
+
+01:18:11.000 --> 01:18:13.000
+if only you do not explain that in fact,
+
+01:18:13.000 --> 01:18:17.000
+there are dozens of trading offices in Buffalo, New York,
+
+01:18:17.000 --> 01:18:20.000
+and if it is cold there, then traders simply do not get to work,
+
+01:18:20.000 --> 01:18:23.000
+if you do not come up with some logical explanation.
+
+01:18:23.000 --> 01:18:27.000
+The temperatures in Buffalo, New York, do not affect Dow Jones results.
+
+01:18:27.000 --> 01:18:30.000
+This is an incomprehensible variable.
+
+01:18:30.000 --> 01:18:34.000
+Next. If you do what is called data mining,
+
+01:18:34.000 --> 01:18:39.000
+you will sooner or later find a variable
+
+01:18:39.000 --> 01:18:44.000
+from which your dependent value depends.
+
+01:18:44.000 --> 01:18:46.000
+Depends in quotation marks.
+
+01:18:46.000 --> 01:18:52.000
+As an example, a well-known risk manager
+
+01:18:52.000 --> 01:18:56.000
+once published on a professional website
+
+01:18:56.000 --> 01:19:00.000
+a message that he found a correlation between copper prices
+
+01:19:00.000 --> 01:19:02.000
+and the number of spots in the sun.
+
+01:19:02.000 --> 01:19:05.000
+He said that the number of spots in the sun
+
+01:19:05.000 --> 01:19:07.000
+predicts the price of copper.
+
+01:19:07.000 --> 01:19:09.000
+Probably, this is also not very correct.
+
+01:19:09.000 --> 01:19:11.000
+What happened?
+
+01:19:11.000 --> 01:19:13.000
+Most likely, he took the price of copper
+
+01:19:13.000 --> 01:19:17.000
+and built a regression of these prices on 100 different variables.
+
+01:19:17.000 --> 01:19:19.000
+At the same time, if you have 100 data
+
+01:19:19.000 --> 01:19:21.000
+and 100 different variables,
+
+01:19:21.000 --> 01:19:24.000
+sooner or later one of these 100 variables will come up
+
+01:19:24.000 --> 01:19:26.000
+and have a descriptive power,
+
+01:19:26.000 --> 01:19:28.000
+from the point of view of the researcher
+
+01:19:28.000 --> 01:19:31.000
+who has gone through all these 100 variables,
+
+01:19:31.000 --> 01:19:35.000
+some kind of predictive power.
+
+01:19:35.000 --> 01:19:38.000
+Then you will draw conclusions about the prices of copper
+
+01:19:38.000 --> 01:19:41.000
+based on the prediction of your model,
+
+01:19:41.000 --> 01:19:44.000
+that is, based on the number of spots in the sun,
+
+01:19:44.000 --> 01:19:50.000
+which is hardly such a good predictor.
+
+01:19:50.000 --> 01:19:55.000
+And, of course, a very good start
+
+01:19:55.000 --> 01:19:57.000
+for building a regression model
+
+01:19:57.000 --> 01:19:59.000
+in the case of many variables
+
+01:19:59.000 --> 01:20:02.000
+would probably be to think in advance
+
+01:20:02.000 --> 01:20:06.000
+and determine what indicators we want to see
+
+01:20:06.000 --> 01:20:09.000
+in order to describe our model.
+
+01:20:10.000 --> 01:20:15.000
+We will consider this in the example of body measurements,
+
+01:20:15.000 --> 01:20:26.000
+where we have a table of a person's weight,
+
+01:20:26.000 --> 01:20:30.000
+depending on his 10 measurements,
+
+01:20:30.000 --> 01:20:32.000
+such as height and some others.
+
+01:20:32.000 --> 01:20:36.000
+In this example, we use regression
+
+01:20:36.000 --> 01:20:39.000
+as a function of two or even three variables.
+
+01:20:39.000 --> 01:20:46.000
+As I said, sometimes the remains have what is called autocorrelation.
+
+01:20:46.000 --> 01:20:49.000
+That is, our remains do not lie
+
+01:20:49.000 --> 01:20:51.000
+randomly scattered relative to zero,
+
+01:20:51.000 --> 01:20:54.000
+the average of all remains is zero, of course,
+
+01:20:54.000 --> 01:20:57.000
+but they lie on some more or less smooth curve.
+
+01:20:57.000 --> 01:21:00.000
+In this case, you can get rid of the nonlinearity
+
+01:21:00.000 --> 01:21:02.000
+by corresponding conversion.
+
+01:21:02.000 --> 01:21:05.000
+For example, we can introduce x2 as one of the variables,
+
+01:21:05.000 --> 01:21:08.000
+or maybe as the only variable.
+
+01:21:08.000 --> 01:21:12.000
+And at the same time, although we say that this is linear regression,
+
+01:21:12.000 --> 01:21:15.000
+it will be linear regression, but linear regression on x2.
+
+01:21:15.000 --> 01:21:19.000
+This will allow you to get a coefficient
+
+01:21:19.000 --> 01:21:22.000
+at the second degree of a certain variable.
+
+01:21:22.000 --> 01:21:25.000
+Then an interesting thing arises
+
+01:21:25.000 --> 01:21:29.000
+with the so-called qualitative indicators.
+
+01:21:29.000 --> 01:21:32.000
+We will consider this in more detail
+
+01:21:32.000 --> 01:21:36.000
+using the example of Computer Store Sales.
+
+01:21:36.000 --> 01:21:39.000
+This is the example I was referring to
+
+01:21:39.000 --> 01:21:42.000
+when I talked about the need to take into account
+
+01:21:42.000 --> 01:21:45.000
+as much data as possible in statistics.
+
+01:21:45.000 --> 01:21:47.000
+Or let's say,
+
+01:21:47.000 --> 01:21:49.000
+the need to take into account
+
+01:21:49.000 --> 01:21:52.000
+a sufficiently large amount of data.
+
+01:21:52.000 --> 01:21:56.000
+We will now consider the example of Computer Store Sales,
+
+01:21:56.000 --> 01:21:58.000
+in which, as I said,
+
+01:21:58.000 --> 01:22:01.000
+it is not good to do regression on time,
+
+01:22:01.000 --> 01:22:04.000
+and as additional variables,
+
+01:22:04.000 --> 01:22:09.000
+we will have to introduce some special numbers of months,
+
+01:22:09.000 --> 01:22:16.000
+which will have a significant effect on sales.
+
+01:22:16.000 --> 01:22:19.000
+I think no one will be surprised
+
+01:22:19.000 --> 01:22:22.000
+if you think in advance and understand
+
+01:22:22.000 --> 01:22:25.000
+that the sales of computer equipment
+
+01:22:25.000 --> 01:22:28.000
+reach their maximum value in December,
+
+01:22:28.000 --> 01:22:31.000
+when there is time to make gifts
+
+01:22:31.000 --> 01:22:34.000
+and when our budgetary people finally receive the money
+
+01:22:34.000 --> 01:22:37.000
+they have been promised for the whole year.
+
+01:22:37.000 --> 01:22:44.000
+Here we have a table with measurements of various quantities,
+
+01:22:44.000 --> 01:22:47.000
+that is, the circumference of the forearm,
+
+01:22:47.000 --> 01:22:50.000
+biceps, chest, neck, shoulders, waist,
+
+01:22:50.000 --> 01:22:52.000
+height of a person,
+
+01:22:52.000 --> 01:22:54.000
+the circumference of the shins,
+
+01:22:54.000 --> 01:22:57.000
+the circumference of the thigh and the circumference of the head.
+
+01:22:57.000 --> 01:23:00.000
+And the correlation of mass of all these quantities.
+
+01:23:00.000 --> 01:23:03.000
+I think that just by looking at the data,
+
+01:23:03.000 --> 01:23:06.000
+we are ready to assume that the smallest correlation
+
+01:23:06.000 --> 01:23:09.000
+will be between the mass and the circumference of the head.
+
+01:23:09.000 --> 01:23:11.000
+Let's see.
+
+01:23:11.000 --> 01:23:13.000
+Here in this table,
+
+01:23:13.000 --> 01:23:17.000
+the correlation, or rather, the result of the regression of the mass
+
+01:23:17.000 --> 01:23:21.000
+is divided by all 10 variables that we have.
+
+01:23:21.000 --> 01:23:23.000
+They are located in this order.
+
+01:23:23.000 --> 01:23:26.000
+These first 5 are the upper part,
+
+01:23:26.000 --> 01:23:29.000
+and the second 5 are the lower part.
+
+01:23:29.000 --> 01:23:33.000
+Accordingly, the circumference of the head is the last indicator.
+
+01:23:33.000 --> 01:23:35.000
+If you pay attention,
+
+01:23:35.000 --> 01:23:39.000
+first of all, the R-square is very low, 0.06.
+
+01:23:39.000 --> 01:23:47.000
+At the same time, if you try to divide the slope,
+
+01:23:47.000 --> 01:23:50.000
+that is, the slope, into the standard error in its definition,
+
+01:23:50.000 --> 01:23:55.000
+you will see that this value does not exceed 2,
+
+01:23:55.000 --> 01:23:58.000
+and thus the circumference of the head itself
+
+01:23:58.000 --> 01:24:02.000
+has no predictive force in determining the mass.
+
+01:24:02.000 --> 01:24:05.000
+Okay, let's think now
+
+01:24:05.000 --> 01:24:10.000
+what parameters we would like to see
+
+01:24:10.000 --> 01:24:19.000
+to determine the mass of a person.
+
+01:24:19.000 --> 01:24:24.000
+As I said, imagine that you are the commander of a paratrooper platoon
+
+01:24:24.000 --> 01:24:31.000
+and you need to load 4 tons of paratroopers into a helicopter or a plane.
+
+01:24:31.000 --> 01:24:37.000
+You are limited in time, you are limited in dimensions,
+
+01:24:37.000 --> 01:24:44.000
+so probably the only parameter that paratroopers remember is height.
+
+01:24:44.000 --> 01:24:47.000
+Perhaps they also remember the size of the uniform,
+
+01:24:47.000 --> 01:24:50.000
+the size of the uniform corresponds to the circumference of the chest,
+
+01:24:50.000 --> 01:24:55.000
+and apparently on their caps, or rather berets,
+
+01:24:55.000 --> 01:24:58.000
+you can see the size, the circumference of the head,
+
+01:24:58.000 --> 01:25:00.000
+but as we have already agreed,
+
+01:25:00.000 --> 01:25:05.000
+the circumference of the head does not play a statistically significant role,
+
+01:25:05.000 --> 01:25:08.000
+so we will not use the circumference of the head.
+
+01:25:08.000 --> 01:25:12.000
+Thus, it is most convenient for us to use two variables,
+
+01:25:12.000 --> 01:25:14.000
+that is, the circumference of the chest,
+
+01:25:14.000 --> 01:25:17.000
+which is written as the size of the designer's uniform,
+
+01:25:17.000 --> 01:25:20.000
+and its height, which, as we believe, we remember.
+
+01:25:20.000 --> 01:25:24.000
+Thus, the circumference of the chest,
+
+01:25:24.000 --> 01:25:27.000
+the table located here,
+
+01:25:27.000 --> 01:25:31.000
+it is made as follows.
+
+01:25:31.000 --> 01:25:43.000
+Since XL can use only two columns next to each other as known X,
+
+01:25:43.000 --> 01:25:48.000
+then we have made a kind of squeeze table here,
+
+01:25:48.000 --> 01:25:51.000
+where the number is sorted from the left,
+
+01:25:51.000 --> 01:25:55.000
+then the mass is the second column,
+
+01:25:55.000 --> 01:25:59.000
+and as the third and fourth, that is, as the known X,
+
+01:25:59.000 --> 01:26:12.000
+various columns corresponding to the circumference of various parts of the body can be used.
+
+01:26:12.000 --> 01:26:15.000
+Since we agreed to use the chest, this is the third column,
+
+01:26:15.000 --> 01:26:18.000
+and the height is the seventh column,
+
+01:26:18.000 --> 01:26:25.000
+we need to put number 7 and number 3 here.
+
+01:26:25.000 --> 01:26:27.000
+Let's do the opposite, so that it is more understandable.
+
+01:26:27.000 --> 01:26:30.000
+Number 3 and number 7.
+
+01:26:30.000 --> 01:26:39.000
+OK. Here in this cell, in this table, we have the results of the regression.
+
+01:26:39.000 --> 01:26:44.000
+As I said, often the intercept, in this case, minus 150,
+
+01:26:44.000 --> 01:26:47.000
+has no physical meaning.
+
+01:26:47.000 --> 01:26:53.000
+Well, it is quite difficult to imagine a person of zero height and zero chest circumference.
+
+01:26:53.000 --> 01:26:58.000
+To say that minus 150 is the weight of the soul is probably not very correct either.
+
+01:26:58.000 --> 01:27:01.000
+Next, XL has such an unpleasant feature.
+
+01:27:01.000 --> 01:27:07.000
+If here, if in the place where you use the variables as X,
+
+01:27:07.000 --> 01:27:10.000
+they are listed in the direct order,
+
+01:27:10.000 --> 01:27:13.000
+then in the answer they are listed in the reverse order.
+
+01:27:13.000 --> 01:27:18.000
+That is, this indicator corresponds to the chest circumference,
+
+01:27:18.000 --> 01:27:20.000
+and this one corresponds to the height.
+
+01:27:20.000 --> 01:27:26.000
+So, we got R2 as 0.72.
+
+01:27:26.000 --> 01:27:28.000
+This is a fairly high R2,
+
+01:27:28.000 --> 01:27:32.000
+although, as you will be able to see in a while, it is not the highest.
+
+01:27:32.000 --> 01:27:34.000
+What else do we need to do?
+
+01:27:34.000 --> 01:27:46.000
+We need to check how good our results are.
+
+01:27:46.000 --> 01:27:51.000
+I remind you that if the number obtained by separating the indicator
+
+01:27:51.000 --> 01:27:54.000
+by the standard error of its definition by the module is greater than 2,
+
+01:27:54.000 --> 01:27:56.000
+then we believe that our regression is quite good.
+
+01:27:56.000 --> 01:28:00.000
+We got 2.8. This is actually very good.
+
+01:28:00.000 --> 01:28:04.000
+5.68 in this case and 3.74.
+
+01:28:04.000 --> 01:28:08.000
+That is, all the indicators we got are statistically significant.
+
+01:28:08.000 --> 01:28:14.000
+Thus, how will we determine the weight of the soldier
+
+01:28:14.000 --> 01:28:17.000
+who asks for a helicopter, a paratrooper?
+
+01:28:17.000 --> 01:28:24.000
+We will take the intercept, add to the intercept...
+
+01:28:25.000 --> 01:28:27.000
+Let's do it this way.
+
+01:28:27.000 --> 01:28:33.000
+We will write the height and the chest circumference.
+
+01:28:33.000 --> 01:28:37.000
+And here we will predict the weight.
+
+01:28:37.000 --> 01:28:43.000
+Thus, the weight of the paratrooper is equal to minus 150 kg.
+
+01:28:43.000 --> 01:28:48.000
+Plus, as I said, if here we have in this order, then here in the reverse order.
+
+01:28:48.000 --> 01:28:53.000
+We multiply this coefficient by the chest circumference.
+
+01:28:53.000 --> 01:28:58.000
+And we multiply this coefficient by the height.
+
+01:28:58.000 --> 01:29:08.000
+Thus, when the chest circumference is 104 cm and the height is 182 cm,
+
+01:29:08.000 --> 01:29:12.000
+we expect that our paratrooper will weigh 81 kg.
+
+01:29:12.000 --> 01:29:14.000
+You can check these data.
+
+01:29:14.000 --> 01:29:16.000
+In fact, the predictions will be quite accurate.
+
+01:29:16.000 --> 01:29:18.000
+Not perfect, but certainly accurate.
+
+01:29:18.000 --> 01:29:20.000
+For one simple reason.
+
+01:29:20.000 --> 01:29:22.000
+If you look closely,
+
+01:29:22.000 --> 01:29:24.000
+here we have data.
+
+01:29:24.000 --> 01:29:30.000
+The maximum weight is 94 kg and the minimum is 54.5 kg.
+
+01:29:30.000 --> 01:29:33.000
+If I see correctly.
+
+01:29:33.000 --> 01:29:36.000
+Yes, the maximum is 94 kg, the minimum is 54.5 kg.
+
+01:29:36.000 --> 01:29:42.000
+Of course, if your parameters go beyond the specified limits,
+
+01:29:43.000 --> 01:29:47.000
+then it will be quite difficult to predict your weight.
+
+01:29:47.000 --> 01:29:51.000
+Nevertheless, if you measure your parameters,
+
+01:29:51.000 --> 01:29:55.000
+then your weight will be predicted with a fairly high accuracy.
+
+01:29:55.000 --> 01:29:58.000
+Okay, let's move on.
+
+01:29:58.000 --> 01:30:01.000
+What else can we do?
+
+01:30:01.000 --> 01:30:05.000
+We can add another variable.
+
+01:30:05.000 --> 01:30:07.000
+Pay attention.
+
+01:30:07.000 --> 01:30:11.000
+Here we had r2, 0.72 approximately.
+
+01:30:11.000 --> 01:30:15.000
+Using variables 5, 6 and 8
+
+01:30:15.000 --> 01:30:19.000
+brings r2 to 0.94.
+
+01:30:19.000 --> 01:30:23.000
+This is a very significant transformation.
+
+01:30:23.000 --> 01:30:26.000
+However, it should be noted that
+
+01:30:26.000 --> 01:30:29.000
+variables 5, 6 and 8 are quite strange.
+
+01:30:29.000 --> 01:30:33.000
+This is the shoulder girth, the waist girth and the shin girth.
+
+01:30:33.000 --> 01:30:37.000
+The variables that should be used
+
+01:30:37.000 --> 01:30:39.000
+would probably look like this.
+
+01:30:39.000 --> 01:30:43.000
+The height as an indicator of a person's linear size.
+
+01:30:43.000 --> 01:30:48.000
+The wrist girth as an indicator of the width of the bone.
+
+01:30:48.000 --> 01:30:53.000
+The ratio of the forearm girth to the wrist girth
+
+01:30:53.000 --> 01:30:56.000
+as an indicator of a person's muscle mass.
+
+01:30:56.000 --> 01:31:02.000
+And the shoulder width as an indicator of the body's weight.
+
+01:31:03.000 --> 01:31:06.000
+It's no secret that the weight of the skin
+
+01:31:06.000 --> 01:31:10.000
+is a significant part of a person's weight.
+
+01:31:10.000 --> 01:31:14.000
+The weight of the skin is an indicator of this.
+
+01:31:14.000 --> 01:31:17.000
+And the waist girth as an indicator of the total body weight.
+
+01:31:17.000 --> 01:31:23.000
+Therefore, the indicators are very significantly dependent on the person's weight.
+
+01:31:23.000 --> 01:31:27.000
+Okay, so by choosing these indicators,
+
+01:31:27.000 --> 01:31:30.000
+we get a significant increase in r2.
+
+01:31:30.000 --> 01:31:33.000
+In fact, we should look at the increase in r2
+
+01:31:33.000 --> 01:31:37.000
+not as a literal increase,
+
+01:31:37.000 --> 01:31:39.000
+from 0.72 to 0.94,
+
+01:31:39.000 --> 01:31:44.000
+but rather as a reduction of what is left.
+
+01:31:44.000 --> 01:31:48.000
+So, subtracting from 1.072, we get 0.28,
+
+01:31:48.000 --> 01:31:50.000
+and here we have 0.5.
+
+01:31:50.000 --> 01:31:53.000
+So, from 0.28 we have reduced it to 0.5.
+
+01:31:53.000 --> 01:31:56.000
+This is a very significant reduction.
+
+01:31:56.000 --> 01:32:00.000
+This is a very significant increase in the accuracy of our forecast.
+
+01:32:00.000 --> 01:32:03.000
+Well, let's do it this way.
+
+01:32:03.000 --> 01:32:07.000
+Let's see how good our forecast is.
+
+01:32:07.000 --> 01:32:15.000
+We will divide all our indicators by their accuracy.
+
+01:32:15.000 --> 01:32:21.000
+And, of course, all our indicators are good enough.
+
+01:32:21.000 --> 01:32:25.000
+It should be noted that when increasing the number of indicators,
+
+01:32:25.000 --> 01:32:30.000
+the overall significance of them will decrease slightly.
+
+01:32:30.000 --> 01:32:35.000
+Because, let's say,
+
+01:32:35.000 --> 01:32:38.000
+each of them will have less and less impact.
+
+01:32:38.000 --> 01:32:44.000
+The determination of each indicator will be less and less accurate.
+
+01:32:44.000 --> 01:32:50.000
+That's all, by and large, on this issue.
+
+01:32:50.000 --> 01:32:55.000
+The only thing is that we will most likely return to this example
+
+01:32:55.000 --> 01:33:00.000
+when we study the Monte Carlo generator.
+
+01:33:00.000 --> 01:33:02.000
+What are we going to do?
+
+01:33:02.000 --> 01:33:05.000
+We will generate our paratroopers,
+
+01:33:05.000 --> 01:33:08.000
+or rather, first generate them one by one,
+
+01:33:08.000 --> 01:33:10.000
+in order to create a platoon,
+
+01:33:10.000 --> 01:33:13.000
+in order to assess the probability that...
+
+01:33:13.000 --> 01:33:16.000
+not the probability, let's say,
+
+01:33:16.000 --> 01:33:20.000
+to determine the number of paratroopers that we can put in the helicopter
+
+01:33:20.000 --> 01:33:23.000
+so that it does not overload.
+
+01:33:23.000 --> 01:33:26.000
+Because nobody really wants to fall on a helicopter.
+
+01:33:26.000 --> 01:33:30.000
+Okay, let's move on to the example of Computer Store Sales.
+
+01:33:30.000 --> 01:33:35.000
+As I said, my close friend Sergey,
+
+01:33:35.000 --> 01:33:38.000
+being in this month,
+
+01:33:38.000 --> 01:33:41.000
+that is, this is the 35th day in the month of its existence,
+
+01:33:41.000 --> 01:33:43.000
+did the following.
+
+01:33:43.000 --> 01:33:47.000
+He made a schedule for the previous 35 months.
+
+01:33:47.000 --> 01:33:51.000
+A schedule for the plant.
+
+01:33:51.000 --> 01:33:56.000
+Let's use a slightly different diagram.
+
+01:33:56.000 --> 01:33:59.000
+Let's use a connected diagram.
+
+01:33:59.000 --> 01:34:06.000
+These two peaks, as it is difficult to guess, are December.
+
+01:34:06.000 --> 01:34:10.000
+Sergey chose two of these peaks,
+
+01:34:10.000 --> 01:34:13.000
+connected them with a straight line,
+
+01:34:13.000 --> 01:34:18.000
+and assumed that its sales would be so great that it would not fit on the schedule.
+
+01:34:18.000 --> 01:34:21.000
+My slight objections, of course,
+
+01:34:21.000 --> 01:34:24.000
+I wish him all the best in his business,
+
+01:34:24.000 --> 01:34:27.000
+but my slight objections are that, in general,
+
+01:34:27.000 --> 01:34:30.000
+these could have been accidents,
+
+01:34:30.000 --> 01:34:33.000
+and the data for December 2
+
+01:34:33.000 --> 01:34:40.000
+probably does not incorporate all possible data.
+
+01:34:40.000 --> 01:34:42.000
+But my objections, he said,
+
+01:34:42.000 --> 01:34:44.000
+you understand something with your statistics,
+
+01:34:44.000 --> 01:34:46.000
+I'll figure it out myself.
+
+01:34:46.000 --> 01:34:52.000
+I predicted that its sales would be somewhere in this area.
+
+01:34:52.000 --> 01:34:54.000
+Let's see what happens next.
+
+01:34:54.000 --> 01:35:01.000
+Let's just increase our data series by one.
+
+01:35:02.000 --> 01:35:04.000
+Even I was wrong.
+
+01:35:04.000 --> 01:35:07.000
+Sales did not meet my forecast.
+
+01:35:07.000 --> 01:35:10.000
+What conclusion should be drawn from this?
+
+01:35:10.000 --> 01:35:12.000
+The conclusion should be simple.
+
+01:35:12.000 --> 01:35:14.000
+Statistics are a necessary thing,
+
+01:35:14.000 --> 01:35:16.000
+it is stupid to fight it,
+
+01:35:16.000 --> 01:35:18.000
+it must be used.
+
+01:35:18.000 --> 01:35:21.000
+So let's try to do it.
+
+01:35:21.000 --> 01:35:25.000
+What do we see when looking at this graph?
+
+01:35:25.000 --> 01:35:28.000
+Yes, we have growth trends,
+
+01:35:28.000 --> 01:35:30.000
+which is actually very nice.
+
+01:35:30.000 --> 01:35:35.000
+We have some failures, quite regular.
+
+01:35:35.000 --> 01:35:39.000
+Subsequently, it will turn out that this failure corresponds to May.
+
+01:35:39.000 --> 01:35:42.000
+It is not very difficult to assume that in May,
+
+01:35:42.000 --> 01:35:45.000
+since everyone ends up there
+
+01:35:45.000 --> 01:35:48.000
+and semesters and quarters,
+
+01:35:48.000 --> 01:35:50.000
+those who study at school,
+
+01:35:50.000 --> 01:35:53.000
+apparently the demand from physical persons
+
+01:35:53.000 --> 01:35:56.000
+on computer technology is significantly reduced.
+
+01:35:56.000 --> 01:35:59.000
+December, as already noted,
+
+01:35:59.000 --> 01:36:01.000
+demand is significantly increasing
+
+01:36:01.000 --> 01:36:05.000
+as a gift to someone,
+
+01:36:05.000 --> 01:36:07.000
+to your loved one,
+
+01:36:07.000 --> 01:36:09.000
+and to someone else.
+
+01:36:09.000 --> 01:36:11.000
+In addition, in December,
+
+01:36:11.000 --> 01:36:14.000
+as a rule, money is received by budget organizations.
+
+01:36:14.000 --> 01:36:18.000
+This money must be used until the end of December.
+
+01:36:18.000 --> 01:36:21.000
+Therefore, we will choose such variables.
+
+01:36:21.000 --> 01:36:23.000
+Yes, besides everything else,
+
+01:36:23.000 --> 01:36:27.000
+budget organizations are sometimes given money in the middle of the year.
+
+01:36:27.000 --> 01:36:29.000
+When will this happen?
+
+01:36:29.000 --> 01:36:31.000
+It is impossible to predict.
+
+01:36:31.000 --> 01:36:35.000
+But to remove the post-factum,
+
+01:36:35.000 --> 01:36:39.000
+those months when the budget organizations were given money,
+
+01:36:39.000 --> 01:36:41.000
+would probably be right,
+
+01:36:41.000 --> 01:36:43.000
+in order not to calculate.
+
+01:36:43.000 --> 01:36:45.000
+After all, adding another variable,
+
+01:36:45.000 --> 01:36:47.000
+such as budget,
+
+01:36:47.000 --> 01:36:50.000
+will somewhat reduce our graph
+
+01:36:50.000 --> 01:36:54.000
+in the points where the budget organizations were not given money,
+
+01:36:54.000 --> 01:36:58.000
+but increase it in the points where the budget organizations were given money.
+
+01:36:58.000 --> 01:37:02.000
+And our graph will reflect reality more accurately.
+
+01:37:02.000 --> 01:37:05.000
+Moreover, it will be more accurate to predict,
+
+01:37:05.000 --> 01:37:09.000
+but of course only those months where the budget organizations are not given money.
+
+01:37:09.000 --> 01:37:12.000
+Since we cannot determine in advance
+
+01:37:12.000 --> 01:37:15.000
+in which month the money will be given to the budget organizations.
+
+01:37:15.000 --> 01:37:22.000
+Thus, we introduce the following variable.
+
+01:37:22.000 --> 01:37:28.000
+This is what is called a qualitative variable,
+
+01:37:28.000 --> 01:37:34.000
+or in English it is called a dummy variable,
+
+01:37:34.000 --> 01:37:40.000
+or sometimes it is called a binary variable.
+
+01:37:40.000 --> 01:37:44.000
+Binary, because they can take a value of either 0 or 1.
+
+01:37:44.000 --> 01:37:47.000
+We introduce the variable May,
+
+01:37:47.000 --> 01:37:50.000
+which is equal to 0 everywhere except for May.
+
+01:37:50.000 --> 01:37:52.000
+This is understandable.
+
+01:37:52.000 --> 01:37:54.000
+We cannot, for example,
+
+01:37:54.000 --> 01:37:57.000
+put a variable May equal to 1 in August.
+
+01:37:57.000 --> 01:38:02.000
+A variable December, which is equal to 0 everywhere except for December.
+
+01:38:02.000 --> 01:38:05.000
+And a variable month.
+
+01:38:05.000 --> 01:38:09.000
+As I said, it is not very good to do regression on time,
+
+01:38:09.000 --> 01:38:11.000
+but in this case we have nothing special left,
+
+01:38:11.000 --> 01:38:13.000
+so we will do it this way.
+
+01:38:13.000 --> 01:38:19.000
+Here we used the function linear again.
+
+01:38:19.000 --> 01:38:22.000
+We write the function.
+
+01:38:22.000 --> 01:38:24.000
+These are the known y's.
+
+01:38:24.000 --> 01:38:29.000
+Please note that I took the value not from the very beginning,
+
+01:38:29.000 --> 01:38:33.000
+but only since June of the first year of existence.
+
+01:38:33.000 --> 01:38:35.000
+Why?
+
+01:38:35.000 --> 01:38:44.000
+Because if you look at the graphs,
+
+01:38:44.000 --> 01:38:49.000
+I will have to build it again.
+
+01:38:49.000 --> 01:38:51.000
+If you look at the graphs,
+
+01:38:51.000 --> 01:38:58.000
+you will find that the first few months of the store's existence are not very indicative.
+
+01:38:58.000 --> 01:39:01.000
+And of course, who knows about it yet?
+
+01:39:01.000 --> 01:39:07.000
+After all, this plot is completely indicative.
+
+01:39:07.000 --> 01:39:12.000
+Even if literally in 3-4 months everything has recovered more or less.
+
+01:39:12.000 --> 01:39:15.000
+And in the first months, no one knew about the store.
+
+01:39:15.000 --> 01:39:23.000
+Accordingly, the turnover of 100,000 rubles for a computer store is absolutely serious.
+
+01:39:23.000 --> 01:39:30.000
+That is why our data starts from the 6th month of existence.
+
+01:39:30.000 --> 01:39:32.000
+By that time, we already knew about the store.
+
+01:39:32.000 --> 01:39:35.000
+As variables, we use the variable month,
+
+01:39:35.000 --> 01:39:39.000
+the variable December, the variable May, the variable budget.
+
+01:39:39.000 --> 01:39:42.000
+And 1.1 allows us to use the intercept
+
+01:39:42.000 --> 01:39:47.000
+and allows us to wait for Excel to give us the full statistics.
+
+01:39:47.000 --> 01:39:50.000
+Let's interpret these data.
+
+01:39:50.000 --> 01:39:53.000
+What is 490,000?
+
+01:39:53.000 --> 01:39:58.000
+490,000 would be the sales of this store
+
+01:39:58.000 --> 01:40:05.000
+if it worked as a well-known store from the very beginning.
+
+01:40:06.000 --> 01:40:09.000
+That is, in the first month, not even in the first note,
+
+01:40:09.000 --> 01:40:12.000
+but in the first month, the sales of this store would be 490,000.
+
+01:40:12.000 --> 01:40:16.000
+In the first month, that is, in January of the corresponding year,
+
+01:40:16.000 --> 01:40:23.000
+the sales of the store would be 490,000 plus 1 times the coefficient for the variable month.
+
+01:40:23.000 --> 01:40:24.000
+Further.
+
+01:40:24.000 --> 01:40:30.000
+This coefficient means that on average we have the right to expect
+
+01:40:30.000 --> 01:40:38.000
+that the sales of our store will increase by about 9,000 rubles, 8,937 rubles per month.
+
+01:40:38.000 --> 01:40:44.000
+If only this month is not May, December or the month in which the budgeters were given money.
+
+01:40:44.000 --> 01:40:50.000
+May brings us an average negative usefulness of minus 236,000.
+
+01:40:50.000 --> 01:40:55.000
+December adds about 805,000 to our sales.
+
+01:40:56.000 --> 01:41:02.000
+And the month in which the budgeters were given money adds about 274,000 rubles to our sales.
+
+01:41:02.000 --> 01:41:08.000
+If we check our months for statistical significance,
+
+01:41:08.000 --> 01:41:11.000
+all of them are statistically significant.
+
+01:41:11.000 --> 01:41:14.000
+Let's try to do the following.
+
+01:41:14.000 --> 01:41:18.000
+Let's try to build a graph.
+
+01:41:18.000 --> 01:41:41.000
+We take the month, take the total sales and build a graph.
+
+01:41:41.000 --> 01:41:45.000
+We have already seen such a graph.
+
+01:41:46.000 --> 01:41:55.000
+As I said, my friend connected these two points and got a forecast that was significantly beyond the limits of the graph.
+
+01:41:55.000 --> 01:42:01.000
+We looked at regression in more detail.
+
+01:42:01.000 --> 01:42:10.000
+Now we can compare the forecast that our regression gives with the actual sales results.
+
+01:42:11.000 --> 01:42:24.000
+Thus, we added a red graph to our blue graph.
+
+01:42:24.000 --> 01:42:32.000
+If you pay attention, the graph accurately tracks almost all fluctuations in the graph of the actual sales,
+
+01:42:32.000 --> 01:42:35.000
+with some exceptions, of course.
+
+01:42:36.000 --> 01:42:49.000
+If you look at the difference in the graph between the last time and the remaining time,
+
+01:42:49.000 --> 01:42:53.000
+the graph has been predicting the sales for the last time.
+
+01:42:53.000 --> 01:43:00.000
+This is good, because it means that in some time our sales will be higher than the expected numbers.
+
+01:43:00.000 --> 01:43:09.000
+As I said, this week I spoke to Sergey.
+
+01:43:09.000 --> 01:43:15.000
+Now he is convinced that there is a dependence.
+
+01:43:15.000 --> 01:43:32.000
+As you can see, his 49th month was predicted to be about 500 rubles.
+
+01:43:32.000 --> 01:43:40.000
+This accuracy surprised him, and since then he has been addressing this statistic quite regularly.
+
+01:43:40.000 --> 01:43:56.000
+We will talk in more detail about the quality of forecasts in the example of another regression.
+
+01:43:56.000 --> 01:44:07.000
+This will be a regression of the results of 10 sportsmen in 10 storms on their results in different types.
+
+01:44:07.000 --> 01:44:18.000
+This table shows the results of more than 50 different sportsmen.
+
+01:44:18.000 --> 01:44:21.000
+You can't say that these are 50 different sportsmen.
+
+01:44:21.000 --> 01:44:25.000
+If you pay attention, for example, Dan O'Brien is a well-known 10th-storm player.
+
+01:44:25.000 --> 01:44:27.000
+He has been here several times.
+
+01:44:27.000 --> 01:44:33.000
+Perhaps we can ask a question about the regression results for the country.
+
+01:44:34.000 --> 01:44:39.000
+Apparently, the regression results will be mixed.
+
+01:44:39.000 --> 01:44:48.000
+Or, let's say, we can introduce variables USA, not USA, because Dan O'Brien dominated in the USA at that time.
+
+01:44:48.000 --> 01:44:53.000
+What can be said in advance, without looking at the regression results,
+
+01:44:53.000 --> 01:44:57.000
+in relation to the coefficients that will be at the corresponding variables?
+
+01:44:58.000 --> 01:45:04.000
+It is obvious that the highest coefficient will be at the height jump,
+
+01:45:04.000 --> 01:45:08.000
+because there are relatively small results.
+
+01:45:08.000 --> 01:45:12.000
+Nobody jumps from 10 meters to 2 meters.
+
+01:45:12.000 --> 01:45:17.000
+The second coefficient should be at the jump with 6 meters,
+
+01:45:17.000 --> 01:45:20.000
+because this is the second result.
+
+01:45:20.000 --> 01:45:28.000
+Next, the jump to the length of 100 meters, 100 meters with barriers, and so on.
+
+01:45:28.000 --> 01:45:36.000
+Here it should be said that the result at 100 meters will be negative,
+
+01:45:36.000 --> 01:45:41.000
+because the coefficient at 100 meters will be negative,
+
+01:45:41.000 --> 01:45:46.000
+because 10th-storm players are not awarded points for running slowly at 100 meters.
+
+01:45:46.000 --> 01:45:50.000
+They are not awarded points because they run fast at 100 meters.
+
+01:45:50.000 --> 01:45:57.000
+Here in the table there are the results of the regression of the 10th-storm players.
+
+01:45:57.000 --> 01:46:00.000
+The results are in each separate form.
+
+01:46:00.000 --> 01:46:03.000
+Let's try to interpret.
+
+01:46:03.000 --> 01:46:05.000
+Intercept 850.
+
+01:46:05.000 --> 01:46:11.000
+Quite a lot, you might say, for a person who jumped to the length of 0 centimeters,
+
+01:46:11.000 --> 01:46:15.000
+pushed the core to 0 centimeters, jumped to the height of 0 centimeters, and so on.
+
+01:46:15.000 --> 01:46:18.000
+But don't forget that this person ran 100 meters in 0 seconds,
+
+01:46:18.000 --> 01:46:22.000
+400 meters in 0 seconds, and even 1500 meters in 0 seconds.
+
+01:46:22.000 --> 01:46:29.000
+Of course, in this case, the intercept has no physical sense.
+
+01:46:29.000 --> 01:46:36.000
+But as we said, the highest coefficient is at the height jump,
+
+01:46:37.000 --> 01:46:44.000
+the lowest coefficient is at the height jump,
+
+01:46:44.000 --> 01:46:47.000
+the lowest coefficient is at the height jump,
+
+01:46:47.000 --> 01:46:50.000
+the lowest coefficient is at the height jump,
+
+01:46:50.000 --> 01:46:51.000
+and so on.
+
+01:46:51.000 --> 01:46:54.000
+As we said, all running types will have negative coefficients,
+
+01:46:54.000 --> 01:47:01.000
+all throwing types and all jumping types will have positive coefficients.
+
+01:47:02.000 --> 01:47:07.000
+I remind you that Excel gives us the results of the pivot-to-pivot,
+
+01:47:07.000 --> 01:47:11.000
+so that we don't confuse them,
+
+01:47:11.000 --> 01:47:14.000
+here they are given in the same order.
+
+01:47:14.000 --> 01:47:24.000
+Let's look at the results shown by Roman Sebrele.
+
+01:47:24.000 --> 01:47:31.000
+Let's take his data and put it in the prediction table.
+
+01:47:31.000 --> 01:47:35.000
+The result is 9027 points.
+
+01:47:35.000 --> 01:47:41.000
+Now let's look at the result obtained by the judges
+
+01:47:41.000 --> 01:47:46.000
+when calculating his final score in the test.
+
+01:47:46.000 --> 01:47:52.000
+In the case of our body measurements,
+
+01:47:52.000 --> 01:47:56.000
+where we measured the dependence of a person's weight,
+
+01:47:56.000 --> 01:47:59.000
+a person's mass on various indicators,
+
+01:47:59.000 --> 01:48:06.000
+we were convinced that adding extra variables to the regression increases the R-square.
+
+01:48:06.000 --> 01:48:12.000
+However, it should be remembered that you should not get involved in the game of adding extra variables.
+
+01:48:12.000 --> 01:48:22.000
+In any case, your model should be as more...
+
+01:48:22.000 --> 01:48:26.000
+I would even use the word scarid, as more poor as possible.
+
+01:48:26.000 --> 01:48:28.000
+Okay, let it be so.
+
+01:48:28.000 --> 01:48:33.000
+The fact is that when you increase the number of variables,
+
+01:48:33.000 --> 01:48:37.000
+you, in a sense, deprive your model of predictive power.
+
+01:48:37.000 --> 01:48:42.000
+Therefore, the fewer such variables, the better.
+
+01:48:42.000 --> 01:48:47.000
+If, of course, you are not absolutely convinced that your model
+
+01:48:47.000 --> 01:48:55.000
+clearly corresponds to the incoming variables with the result.
+
+01:48:55.000 --> 01:49:01.000
+If, let's say, you do not measure anything mechanical,
+
+01:49:01.000 --> 01:49:04.000
+in the full sense of the word,
+
+01:49:04.000 --> 01:49:10.000
+not such as some public indicators
+
+01:49:10.000 --> 01:49:15.000
+and not such strange things as the mass of a person's body.
+
+01:49:15.000 --> 01:49:19.000
+Okay, using the example of the sale of a computer store,
+
+01:49:19.000 --> 01:49:23.000
+we looked at the use of the so-called binary variables.
+
+01:49:23.000 --> 01:49:27.000
+That is, variables that take a value equal to zero everywhere,
+
+01:49:27.000 --> 01:49:30.000
+except for certain points where they take a value equal to one.
+
+01:49:30.000 --> 01:49:34.000
+Here we need to make a small remark.
+
+01:49:34.000 --> 01:49:39.000
+How many binary variables do we really need?
+
+01:49:39.000 --> 01:49:43.000
+Let's imagine that we make binary variables,
+
+01:49:43.000 --> 01:49:45.000
+or these very dummy variables,
+
+01:49:45.000 --> 01:49:48.000
+which are the same, by the number of months.
+
+01:49:48.000 --> 01:49:51.000
+Do we need 12 of them?
+
+01:49:51.000 --> 01:49:53.000
+In fact, no.
+
+01:49:53.000 --> 01:49:58.000
+In fact, no, because you have to leave something for a year.
+
+01:49:58.000 --> 01:50:01.000
+That is, one variable takes a year in its entirety,
+
+01:50:01.000 --> 01:50:05.000
+and the remaining 11 you distribute between months.
+
+01:50:05.000 --> 01:50:11.000
+If you enter 12, then most often the regression equals its zero,
+
+01:50:11.000 --> 01:50:15.000
+simply because the 12th variable will be simply superfluous.
+
+01:50:15.000 --> 01:50:20.000
+Nevertheless, the introduction of such binary variables
+
+01:50:20.000 --> 01:50:29.000
+helps us assess the presence of one or another event.
+
+01:50:29.000 --> 01:50:31.000
+The event can be anything,
+
+01:50:31.000 --> 01:50:38.000
+such as December, the color of the car, the quality of gasoline, and so on.
+
+01:50:38.000 --> 01:50:42.000
+How much does this event affect the results of our regression.
+
+01:50:42.000 --> 01:50:51.000
+In the example of September, we looked at the dependence of the result
+
+01:50:51.000 --> 01:50:54.000
+on a large number of variables.
+
+01:50:54.000 --> 01:50:57.000
+Indeed, a very large number of variables.
+
+01:50:57.000 --> 01:51:05.000
+In fact, it would be great if you could build a regression,
+
+01:51:05.000 --> 01:51:09.000
+or, let's say, a prediction of the results in September,
+
+01:51:09.000 --> 01:51:11.000
+using fewer variables.
+
+01:51:11.000 --> 01:51:18.000
+It would probably be logical to use such variables as the result in jumps in 6th,
+
+01:51:18.000 --> 01:51:20.000
+this will be a technical indicator,
+
+01:51:20.000 --> 01:51:23.000
+since it requires very complex coordination,
+
+01:51:23.000 --> 01:51:27.000
+the result in the core push as an indicator of strength,
+
+01:51:27.000 --> 01:51:32.000
+and the result in a 100-meter run as an indicator of speed.
+
+01:51:32.000 --> 01:51:36.000
+Probably, these three results will be enough
+
+01:51:36.000 --> 01:51:41.000
+to accurately determine the total result of a person in a 10-bore.
+
+01:51:41.000 --> 01:51:49.000
+Of course, if you find some more complete or more correct explanations,
+
+01:51:49.000 --> 01:51:51.000
+you can use them.
+
+01:51:51.000 --> 01:51:54.000
+It would even be interesting if you could
+
+01:51:54.000 --> 01:51:58.000
+sort out as many combinations as possible as a prediction.
+
+01:51:58.000 --> 01:52:00.000
+One thing can be said for sure,
+
+01:52:00.000 --> 01:52:04.000
+the result in a 10-bore does not affect the result in 1500 meters,
+
+01:52:04.000 --> 01:52:07.000
+because it is not a favorite view of all 10-bores.
+
+01:52:07.000 --> 01:52:10.000
+In addition, in the computer store sales,
+
+01:52:10.000 --> 01:52:13.000
+we can predict profits.
+
+01:52:13.000 --> 01:52:19.000
+However, it is much more difficult to predict profits using regression.
+
+01:52:19.000 --> 01:52:25.000
+The fact is that some of the store costs are conditional constants,
+
+01:52:25.000 --> 01:52:27.000
+some are conditional variables.
+
+01:52:27.000 --> 01:52:30.000
+Therefore, it is more correct to do the following.
+
+01:52:30.000 --> 01:52:34.000
+We can predict the costs separately.
+
+01:52:34.000 --> 01:52:41.000
+It is quite likely that the store costs may depend on the time of A and the season B.
+
+01:52:41.000 --> 01:52:45.000
+For example, heating costs are obviously much higher in the winter than in the summer.
+
+01:52:45.000 --> 01:52:48.000
+Although, of course, since we are talking about Volgograd,
+
+01:52:48.000 --> 01:52:50.000
+there are costs for air conditioning.
+
+01:52:50.000 --> 01:52:56.000
+And by subtracting the expense forecast from the sales forecast,
+
+01:52:56.000 --> 01:52:59.000
+we get the store profit forecast.
+
+01:52:59.000 --> 01:53:02.000
+This forecast is much more accurate than the profit forecast,
+
+01:53:02.000 --> 01:53:12.000
+because the profit itself is more volatile than sales and, of course, expenses.
+
+01:53:12.000 --> 01:53:16.000
+As for the quality of our results in 10-bore,
+
+01:53:16.000 --> 01:53:18.000
+if you pay attention,
+
+01:53:18.000 --> 01:53:26.000
+our last action was a test result of Roman Sebrly,
+
+01:53:26.000 --> 01:53:29.000
+a famous Czech 10-bore.
+
+01:53:29.000 --> 01:53:32.000
+We got 9027 points.
+
+01:53:32.000 --> 01:53:35.000
+This is according to our forecast.
+
+01:53:35.000 --> 01:53:38.000
+Its actual result was 9026 points.
+
+01:53:38.000 --> 01:53:43.000
+The difference in one point is literally a little more than 0.1%.
+
+01:53:43.000 --> 01:53:47.000
+If you substitute the next result, which belongs to Estonia, to Ola,
+
+01:53:47.000 --> 01:53:50.000
+you will find an even smaller difference.
+
+01:53:50.000 --> 01:53:52.000
+If you do not find it, then check the results.
+
+01:53:52.000 --> 01:53:54.000
+The fact is that there could be a print.
+
+01:53:54.000 --> 01:53:59.000
+Nevertheless, our table gives very high accuracy.
+
+01:53:59.000 --> 01:54:02.000
+True, with one small caveat.
+
+01:54:02.000 --> 01:54:08.000
+Within the limits where we have a real measurement of the results.
+
+01:54:08.000 --> 01:54:13.000
+If you try to substitute your result, or, God forbid, mine,
+
+01:54:13.000 --> 01:54:17.000
+the difference will be very significant.
+
+01:54:18.000 --> 01:54:22.000
+That is why we have results of only top athletes.
+
+01:54:22.000 --> 01:54:29.000
+Unfortunately, we did not get the results of low-level athletes.
+
+01:54:29.000 --> 01:54:34.000
+It makes sense to talk a little about how accurate the forecasts can be.
+
+01:54:34.000 --> 01:54:38.000
+Of course, the forecast is a relatively useless thing.
+
+01:54:38.000 --> 01:54:44.000
+Useless in the sense that, as you know, a person assumes, and God arranges.
+
+01:54:44.000 --> 01:54:47.000
+You want to make God laugh, tell him about your plans.
+
+01:54:47.000 --> 01:54:49.000
+All this is clear.
+
+01:54:49.000 --> 01:54:54.000
+Indeed, it often happens that a person makes a forecast,
+
+01:54:54.000 --> 01:55:00.000
+and then it turns out that he did not take into account some very important event.
+
+01:55:00.000 --> 01:55:10.000
+It can be a catastrophic event, such as September 11, 2001, or something similar.
+
+01:55:10.000 --> 01:55:13.000
+It is impossible to take into account such an event.
+
+01:55:13.000 --> 01:55:16.000
+There is no way.
+
+01:55:16.000 --> 01:55:21.000
+Until it happened, we do not know that it is feasible.
+
+01:55:21.000 --> 01:55:25.000
+We can know hypothetically, but we have never observed this event.
+
+01:55:25.000 --> 01:55:31.000
+The fact that we did not observe it, as I said before, does not mean that it is physically impossible.
+
+01:55:31.000 --> 01:55:35.000
+Therefore, people generally do not predict well.
+
+01:55:35.000 --> 01:55:43.000
+But regression, the use of regression, allows us to improve our forecasts a little.
+
+01:55:43.000 --> 01:55:51.000
+The truth is, in the definitions of the author of the book Black Swan, Nassim Nikolai Staleb,
+
+01:55:51.000 --> 01:55:56.000
+our ability to predict refers to what he calls a mediocre stand.
+
+01:55:56.000 --> 01:56:00.000
+That is, directly to the stand, unlike the extreme stand.
+
+01:56:00.000 --> 01:56:04.000
+Extreme stand, I think, does not require translation.
+
+01:56:04.000 --> 01:56:07.000
+What else is there to say here?
+
+01:56:07.000 --> 01:56:11.000
+If we continue to consider our case with the December,
+
+01:56:11.000 --> 01:56:16.000
+we have a very high R-square, 0.98.
+
+01:56:16.000 --> 01:56:21.000
+Of course, if we reduce the number of variables, the R-square will decrease.
+
+01:56:21.000 --> 01:56:30.000
+But the predictive power will not decrease as quickly as the R-square will decrease.
+
+01:56:30.000 --> 01:56:38.000
+In addition, if we reduce the number of variables,
+
+01:56:38.000 --> 01:56:43.000
+it will be easier to describe the results.
+
+01:56:43.000 --> 01:56:50.000
+What we call an in-sample versus an out-of-sample.
+
+01:56:50.000 --> 01:56:57.000
+That is, the results that are in our selection versus those that do not fall into our selection.
+
+01:56:57.000 --> 01:57:03.000
+We can consider another example of regression.
+
+01:57:03.000 --> 01:57:09.000
+Imagine such a hypothetical task.
+
+01:57:09.000 --> 01:57:14.000
+Each plant produces pieces of junk and metal.
+
+01:57:14.000 --> 01:57:24.000
+Each of these pieces of junk and metal uses a different amount of the same material.
+
+01:57:24.000 --> 01:57:27.000
+But if you can somehow still check the material,
+
+01:57:27.000 --> 01:57:37.000
+then it is much more difficult for you to check electricity or use of warm water.
+
+01:57:37.000 --> 01:57:39.000
+Then what can you do?
+
+01:57:39.000 --> 01:57:41.000
+What is the option?
+
+01:57:41.000 --> 01:57:43.000
+In fact, the only option that remains for you.
+
+01:57:43.000 --> 01:57:49.000
+You monitor the release of pieces of junk and metal for, say, three years.
+
+01:57:49.000 --> 01:57:54.000
+And you build a regression of the amount of water spent,
+
+01:57:54.000 --> 01:57:58.000
+depending on the number of pieces of junk and metal released.
+
+01:57:58.000 --> 01:58:03.000
+The coefficients of this regression will be approximately,
+
+01:58:04.000 --> 01:58:06.000
+no one says that they will be accurate,
+
+01:58:06.000 --> 01:58:10.000
+the results of your costs.
+
+01:58:10.000 --> 01:58:14.000
+If you spend one cubic meter of water on one piece of junk,
+
+01:58:14.000 --> 01:58:18.000
+if the coefficient for one piece of junk is one cubic meter,
+
+01:58:18.000 --> 01:58:22.000
+then, accordingly, one cubic meter of water is spent to make one piece of junk.
+
+01:58:22.000 --> 01:58:24.000
+On one piece of metal, and so on.
+
+01:58:24.000 --> 01:58:27.000
+This is a good way, we will now consider it with you.
+
+01:58:27.000 --> 01:58:32.000
+As we said, your plant produces pieces of junk and metal.
+
+01:58:32.000 --> 01:58:35.000
+And you want to determine the consumption of hot water
+
+01:58:35.000 --> 01:58:39.000
+in the production of your production.
+
+01:58:39.000 --> 01:58:44.000
+You have data for a certain number of months,
+
+01:58:44.000 --> 01:58:46.000
+let it not bother you that this is a month.
+
+01:58:46.000 --> 01:58:50.000
+In this case, we do not use regression for time,
+
+01:58:50.000 --> 01:58:54.000
+we will use regression only for the number of produced products.
+
+01:58:54.000 --> 01:59:00.000
+Although, of course, we assume that
+
+01:59:00.000 --> 01:59:05.000
+during this time we have not had significant changes
+
+01:59:05.000 --> 01:59:10.000
+both in our plant and in the environment.
+
+01:59:10.000 --> 01:59:14.000
+I remind you that in order to make a regression,
+
+01:59:14.000 --> 01:59:17.000
+we will use the function Linean.
+
+01:59:17.000 --> 01:59:22.000
+Once again, its format is known y,
+
+01:59:22.000 --> 01:59:25.000
+in this case, this is the consumption of hot water.
+
+01:59:26.000 --> 01:59:30.000
+Regression to known x,
+
+01:59:30.000 --> 01:59:34.000
+I remind you again, we do not use the number of months.
+
+01:59:34.000 --> 01:59:38.000
+And we will always have 1 and 1 here.
+
+01:59:38.000 --> 01:59:44.000
+The first unit means the need to include constants,
+
+01:59:44.000 --> 01:59:46.000
+the intercept of the same.
+
+01:59:46.000 --> 01:59:48.000
+The second unit means the need to output statistics.
+
+01:59:48.000 --> 01:59:53.000
+I remind you again, we now select a rectangle
+
+01:59:53.000 --> 01:59:57.000
+with a height of 5 lines and a width of n plus 1 columns,
+
+01:59:57.000 --> 01:59:59.000
+where n is the number of variables,
+
+01:59:59.000 --> 02:00:01.000
+in this case, the number of variables is 3,
+
+02:00:01.000 --> 02:00:04.000
+so we select a rectangle with a height of 5 lines and 4 columns.
+
+02:00:04.000 --> 02:00:07.000
+And we press the F2 key first,
+
+02:00:07.000 --> 02:00:10.000
+and then simultaneously CTRL, SHIFT and ENTER.
+
+02:00:10.000 --> 02:00:15.000
+Okay, let's see our tests,
+
+02:00:15.000 --> 02:00:17.000
+how fair our statistics is.
+
+02:00:17.000 --> 02:00:21.000
+We will now divide the corresponding quantities
+
+02:00:21.000 --> 02:00:25.000
+by the standard error in their definition.
+
+02:00:27.000 --> 02:00:31.000
+In fact, it is clear that the intercept is not accurately defined,
+
+02:00:31.000 --> 02:00:35.000
+so we will have to say that intercept A is zero.
+
+02:00:37.000 --> 02:00:41.000
+Although, in this case, the intercept has a certain physical meaning,
+
+02:00:41.000 --> 02:00:43.000
+for example, this is the amount of hot water
+
+02:00:43.000 --> 02:00:45.000
+that office workers spend,
+
+02:00:45.000 --> 02:00:49.000
+that is, workers who are not involved in the production of junk,
+
+02:00:49.000 --> 02:00:51.000
+junk and hardware.
+
+02:00:53.000 --> 02:00:57.000
+As you can see, each of the quantities,
+
+02:00:57.000 --> 02:01:00.000
+both the junk that corresponds to this column,
+
+02:01:00.000 --> 02:01:03.000
+and the junk and hardware,
+
+02:01:03.000 --> 02:01:09.000
+each of them is statistically significant in terms of their quantity,
+
+02:01:09.000 --> 02:01:14.000
+and we can say with confidence
+
+02:01:14.000 --> 02:01:17.000
+that the production of each type of product
+
+02:01:17.000 --> 02:01:20.000
+significantly affects the consumption of hot water.
+
+02:01:20.000 --> 02:01:23.000
+We have a very high R2, as you can see.
+
+02:01:27.000 --> 02:01:31.000
+Accordingly, what do these data mean?
+
+02:01:31.000 --> 02:01:33.000
+These data mean that
+
+02:01:33.000 --> 02:01:36.000
+sorry, these data.
+
+02:01:36.000 --> 02:01:39.000
+These data mean that for the production of one thing,
+
+02:01:39.000 --> 02:01:42.000
+we spend an average of 3.4,
+
+02:01:42.000 --> 02:01:44.000
+let's say cubic meters of hot water,
+
+02:01:44.000 --> 02:01:48.000
+for the production of one junk, about 5.13,
+
+02:01:48.000 --> 02:01:52.000
+and for the production of one hardware, about 2.59.
+
+02:01:54.000 --> 02:01:59.000
+We can put these results into the cost calculation
+
+02:01:59.000 --> 02:02:02.000
+in order to more accurately determine
+
+02:02:02.000 --> 02:02:07.000
+how much money we spend on the production of one type of product.
+
+02:02:07.000 --> 02:02:10.000
+In this case, the numbers are comparable,
+
+02:02:11.000 --> 02:02:15.000
+but if, for example, one of them had a surge,
+
+02:02:15.000 --> 02:02:19.000
+a surge of 25 or 50,
+
+02:02:19.000 --> 02:02:24.000
+and we automatically thought that hot water was spent
+
+02:02:24.000 --> 02:02:28.000
+in proportion to sales,
+
+02:02:28.000 --> 02:02:34.000
+it would be completely unfair to the remaining participants in the process.
+
+02:02:34.000 --> 02:02:38.000
+This method allows us to better determine the cost,
+
+02:02:38.000 --> 02:02:43.000
+for example, allows us to better understand where we are.
+
+02:02:43.000 --> 02:02:47.000
+Okay, I see that you have thought enough, you are tired enough.
+
+02:02:47.000 --> 02:02:51.000
+Periodically, during the course, I will give you small tasks.
+
+02:02:51.000 --> 02:02:56.000
+Students of the department I assign these tasks to
+
+02:02:56.000 --> 02:02:58.000
+are treated differently.
+
+02:02:58.000 --> 02:03:01.000
+Sometimes they are called shaking dust from the ears,
+
+02:03:01.000 --> 02:03:05.000
+sometimes they are called straining the brain muscle, and so on.
+
+02:03:05.000 --> 02:03:08.000
+These tasks are relatively simple,
+
+02:03:08.000 --> 02:03:15.000
+and can be solved by a person with 6-7-8 classes of education.
+
+02:03:15.000 --> 02:03:18.000
+But they are not simple at first glance.
+
+02:03:18.000 --> 02:03:25.000
+In fact, a large number of answers that you will give to these tasks will be incorrect.
+
+02:03:25.000 --> 02:03:27.000
+You just need to get used to it,
+
+02:03:27.000 --> 02:03:30.000
+you just need to think about each task for a long time.
+
+02:03:30.000 --> 02:03:32.000
+And if you can think about this task,
+
+02:03:32.000 --> 02:03:36.000
+then, first of all, it will be useful for you to think about it.
+
+02:03:36.000 --> 02:03:42.000
+Secondly, you will learn to, let's say,
+
+02:03:42.000 --> 02:03:46.000
+to sweep away those solutions that will seem obvious to you
+
+02:03:46.000 --> 02:03:49.000
+only on the basis that this is your impression,
+
+02:03:49.000 --> 02:03:51.000
+not a solution, in fact.
+
+02:03:51.000 --> 02:03:53.000
+Okay, the first task.
+
+02:03:53.000 --> 02:03:56.000
+A boat is sailing in the pool.
+
+02:03:56.000 --> 02:04:00.000
+At the bottom of the boat is a 32-kilogram cast-iron gel.
+
+02:04:00.000 --> 02:04:02.000
+And the person who is sitting in the boat
+
+02:04:02.000 --> 02:04:05.000
+throws the gel from the boat into the pool, that is, into the water.
+
+02:04:05.000 --> 02:04:08.000
+How, at the same time, does the water level in the pool change?
+
+02:04:08.000 --> 02:04:12.000
+Does it decrease, remain constant, or increase?
+
+02:04:12.000 --> 02:04:14.000
+There are only three options.
+
+02:04:14.000 --> 02:04:17.000
+Most often, these tasks will have several options for the answer.
+
+02:04:17.000 --> 02:04:20.000
+Not all of them will be with an open answer, as it is called.
+
+02:04:20.000 --> 02:04:22.000
+You have to choose one of the three options.
+
+02:04:22.000 --> 02:04:23.000
+That's it.
+
+02:04:23.000 --> 02:04:25.000
+Next task.
+
+02:04:25.000 --> 02:04:28.000
+Imagine ordinary lever scales,
+
+02:04:28.000 --> 02:04:31.000
+pharmacy scales with two cups.
+
+02:04:31.000 --> 02:04:33.000
+There is a glass of water on one cup,
+
+02:04:33.000 --> 02:04:36.000
+and a kettle on the other cup.
+
+02:04:36.000 --> 02:04:39.000
+You dip your finger in the glass of water.
+
+02:04:39.000 --> 02:04:41.000
+Well, since the finger is yours,
+
+02:04:41.000 --> 02:04:44.000
+you do not separate it from the rest of the brush.
+
+02:04:44.000 --> 02:04:48.000
+That is, you continue to hold your finger with your brush.
+
+02:04:48.000 --> 02:04:50.000
+Will the balance of the scales change?
+
+02:04:50.000 --> 02:04:52.000
+And if it changes, how?
+
+02:04:52.000 --> 02:04:54.000
+Will the glass weigh over,
+
+02:04:54.000 --> 02:04:56.000
+will the kettle weigh over,
+
+02:04:56.000 --> 02:04:59.000
+or will the balance of the scales not change?
+
+02:04:59.000 --> 02:05:01.000
+Think about it.
+
+02:05:01.000 --> 02:05:04.000
+After a while, at the end of the lecture, the answer will be announced.
+
+02:05:04.000 --> 02:05:07.000
+So, we talked with you about statistics.
+
+02:05:07.000 --> 02:05:12.000
+We studied some statistical models.
+
+02:05:12.000 --> 02:05:15.000
+Most of all, of course, we talked about regression.
+
+02:05:15.000 --> 02:05:18.000
+Now we see how convenient regression can be,
+
+02:05:18.000 --> 02:05:20.000
+how it can be applied,
+
+02:05:20.000 --> 02:05:25.000
+and how you can apply the knowledge you have gained in your business.
+
+02:05:25.000 --> 02:05:27.000
+Studying statistics.

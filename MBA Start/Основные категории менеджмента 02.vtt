@@ -1,0 +1,5038 @@
+WEBVTT
+
+00:00.000 --> 00:07.000
+Let's discuss the quantitative approach of management science,
+
+00:07.000 --> 00:19.000
+or quantitative approach to management analysis, quantitative approach to the management system.
+
+00:22.000 --> 00:24.000
+What is the main idea in this approach?
+
+00:24.000 --> 00:33.000
+We have discussed Taylor's approach, Foyle's approach, the approach of the relationship between people,
+
+00:33.000 --> 00:39.000
+and we have been discussing this for at least an hour and a half.
+
+00:39.000 --> 00:43.000
+But the main idea is that we speak.
+
+00:43.000 --> 00:50.000
+We give different words, we give different examples, we give the opinions of certain authors,
+
+00:50.000 --> 00:53.000
+we address our own experience, but these are all words.
+
+00:53.000 --> 01:00.000
+Yes, we are constantly focused on economic results, yes, we are constantly focused on business processes,
+
+01:00.000 --> 01:03.000
+yes, we are constantly focused on the goals that are in front of us,
+
+01:03.000 --> 01:09.000
+but we still do it word for word, without any numbers.
+
+01:09.000 --> 01:17.000
+Well, in modern terms, this is so-called humanitarian knowledge or social knowledge.
+
+01:17.000 --> 01:19.000
+This is what is necessary.
+
+01:19.000 --> 01:29.000
+And, of course, when we study management, we need to be able to provide material,
+
+01:29.000 --> 01:35.000
+to be able to present ourselves, to present our idea, to present the company.
+
+01:35.000 --> 01:48.000
+That is, the ability to present material, the ability to communicate, the ability to build a relationship is very important.
+
+01:48.000 --> 01:52.000
+And, of course, in no case does anyone deny this.
+
+01:52.000 --> 02:02.000
+But as for the middle of the 20th century, this time was associated with the development
+
+02:02.000 --> 02:07.000
+and widespread implementation of the results of natural sciences.
+
+02:07.000 --> 02:12.000
+At this time, computer technology from the 1940s and the 20th century appeared,
+
+02:12.000 --> 02:19.000
+software appeared, automatic tracking devices appeared.
+
+02:19.000 --> 02:24.000
+As for the middle of the 20th century, this is post-war period.
+
+02:24.000 --> 02:34.000
+And the war period led to the introduction and development of various dispatch systems,
+
+02:34.000 --> 02:41.000
+radar systems, notification systems, warning systems, information transmission systems, information processing systems,
+
+02:41.000 --> 02:43.000
+information control systems.
+
+02:43.000 --> 02:49.000
+The middle of the 20th century is the time of the development of information theory.
+
+02:49.000 --> 03:01.000
+This is the time of formalization of both natural sciences and humanitarian knowledge.
+
+03:02.000 --> 03:12.000
+Naturally, if we are talking about management, many supporters of the management concept theorists
+
+03:12.000 --> 03:20.000
+have said that it would be good to switch from all the existing words to their mathematical expression.
+
+03:20.000 --> 03:27.000
+Because someone says it well, someone has said something so wonderful that we sit and open our mouths,
+
+03:27.000 --> 03:31.000
+and then we think, what did we talk about for two hours?
+
+03:31.000 --> 03:38.000
+On the other hand, if we take the principle of the same foil, we have listed more than a dozen,
+
+03:38.000 --> 03:42.000
+but again, we remembered something, we did not remember something.
+
+03:42.000 --> 03:44.000
+The problem is one.
+
+03:44.000 --> 03:50.000
+What are the criteria that will prove to us that this principle is really successful,
+
+03:50.000 --> 04:00.000
+this is not successful, on what basis can we evaluate, compare and find out which of them is more important,
+
+04:00.000 --> 04:04.000
+which of them is more significant, which of them is dominant, on which it should be based.
+
+04:04.000 --> 04:07.000
+The problem of measurement arises.
+
+04:07.000 --> 04:10.000
+In business, this is also a very important problem.
+
+04:10.000 --> 04:15.000
+I have invested a certain amount of money, how much will I get in the end, what is the delta, what is the profit,
+
+04:15.000 --> 04:18.000
+what are the taxes, what are the prospects.
+
+04:18.000 --> 04:25.000
+Business likes to count, and this is natural, in the end, the whole business is tied to getting the result.
+
+04:25.000 --> 04:27.000
+You all know this very well.
+
+04:27.000 --> 04:31.000
+So, the quantitative school of management science, or quantitative approach,
+
+04:31.000 --> 04:39.000
+it just set the task that there is a lot of management concepts that justified themselves.
+
+04:39.000 --> 04:41.000
+A very important aspect, it was justified.
+
+04:41.000 --> 04:44.000
+We talked about the basic concepts.
+
+04:44.000 --> 04:53.000
+Of course, at the same time, there were different approaches, which we can't even find in textbooks now,
+
+04:53.000 --> 05:01.000
+because they were all-time, they did not have any impact on management, so they were forgotten.
+
+05:01.000 --> 05:08.000
+But there are these concepts, their introduction led to any results.
+
+05:08.000 --> 05:14.000
+But why is the introduction of, for example, the concept of Foyol, the concept of Taylor,
+
+05:14.000 --> 05:22.000
+the concept of the Dankrin of human relations, in some organizations, in some enterprises, in one production,
+
+05:22.000 --> 05:28.000
+gives wonderful results, in another production, gives even better results,
+
+05:28.000 --> 05:31.000
+in the third production, the results do not change at all.
+
+05:31.000 --> 05:33.000
+We introduce the same thing.
+
+05:33.000 --> 05:41.000
+So, the problem depends on the fact that, perhaps, these or other approaches are introduced by different people,
+
+05:41.000 --> 05:45.000
+who have different levels of competence in the introduction.
+
+05:45.000 --> 05:50.000
+Naturally, we are interested in attracting those people,
+
+05:50.000 --> 06:01.000
+who we will pay, but who will introduce those or other management approaches, so that we get the desired result.
+
+06:01.000 --> 06:04.000
+How to measure these people, how to measure specialists?
+
+06:04.000 --> 06:08.000
+How, first, to select the concepts that we want to introduce,
+
+06:08.000 --> 06:14.000
+which will be useful for our production, for our tasks, for our market sector?
+
+06:14.000 --> 06:21.000
+How, after the chosen concept, to select those consultants, who successfully introduce them?
+
+06:21.000 --> 06:24.000
+And how to evaluate the results of the introduction?
+
+06:24.000 --> 06:31.000
+The return of investment, the same, in education, in development, in assessment, in motivation,
+
+06:31.000 --> 06:34.000
+in the final results that we get.
+
+06:34.000 --> 06:43.000
+To do this, we need to create certain quantitative mathematical models.
+
+06:43.000 --> 06:47.000
+This is the main task of the quantitative approach.
+
+06:47.000 --> 06:54.000
+In fact, it does not offer fundamentally new ideas.
+
+06:54.000 --> 07:01.000
+It's the same Taylor, it's the same Fayol, it's the same Rieslinger-Mayoz, the Declaration of Human Relations,
+
+07:01.000 --> 07:09.000
+but the quantitative approach tries to form and build a model of each of these approaches.
+
+07:09.000 --> 07:16.000
+A mathematical model, a symbolic model, a model that gives the possibility of measurement,
+
+07:16.000 --> 07:23.000
+gives the possibility of empirical justification, and what else is very important, a model that is operational.
+
+07:23.000 --> 07:28.000
+Introduction of a concept is correct, but it is very general.
+
+07:28.000 --> 07:30.000
+What should I introduce?
+
+07:30.000 --> 07:37.000
+What processes, what operations, what steps, stages of action should I take?
+
+07:37.000 --> 07:39.000
+What steps can I skip?
+
+07:39.000 --> 07:42.000
+What steps should I focus more attention on?
+
+07:42.000 --> 07:52.000
+The model is good because it gives a visible list of steps, a visible list of actions,
+
+07:52.000 --> 07:59.000
+and I can follow the steps, what I do, how I do it, and not move on to the next step
+
+07:59.000 --> 08:02.000
+if I see that my previous step has not yet been done.
+
+08:02.000 --> 08:04.000
+It's unacceptable to skip.
+
+08:04.000 --> 08:07.000
+It's very important, obviously, in education.
+
+08:07.000 --> 08:12.000
+If, for example, a person has no idea about debit and credit,
+
+08:12.000 --> 08:20.000
+it's pointless to start a discussion with him about different accounting and economic approaches and ideas.
+
+08:20.000 --> 08:22.000
+He needs to be taught about himself.
+
+08:22.000 --> 08:24.000
+The same thing with management.
+
+08:24.000 --> 08:32.000
+Before introducing some final points, like team formation,
+
+08:32.000 --> 08:37.000
+a scalar chain of management, system approaches, and result-oriented approaches,
+
+08:37.000 --> 08:42.000
+it's important to understand if a person knows what these terms mean.
+
+08:42.000 --> 08:51.000
+That's why a key approach is a task to formalize the approaches already recommended by the management,
+
+08:51.000 --> 08:54.000
+to build a mathematical model.
+
+08:54.000 --> 08:59.000
+Of course, the closer we get to the end of the 20th century,
+
+08:59.000 --> 09:03.000
+the more we see that the number of approaches that emerged in the middle of the 20th century
+
+09:03.000 --> 09:05.000
+continues to this day.
+
+09:05.000 --> 09:09.000
+Today, new ideas and approaches emerge.
+
+09:09.000 --> 09:14.000
+At the end, we'll talk about the tendency of learning organizations.
+
+09:14.000 --> 09:18.000
+This is one of the ways to develop a number of approaches.
+
+09:18.000 --> 09:20.000
+Another model.
+
+09:20.000 --> 09:26.000
+There are quite a lot of management models today.
+
+09:26.000 --> 09:32.000
+Each model claims to solve certain tasks.
+
+09:32.000 --> 09:35.000
+And it does it better than other models.
+
+09:35.000 --> 09:40.000
+These models need to be translated into mathematical language,
+
+09:40.000 --> 09:45.000
+and then presented with logical schemes.
+
+09:45.000 --> 09:47.000
+Either yes or no.
+
+09:47.000 --> 09:51.000
+In the sense that there are certain branches of solutions,
+
+09:51.000 --> 09:57.000
+and if you follow the corresponding transition, you'll get the next step.
+
+09:57.000 --> 10:03.000
+If you don't make a transition from one action to another, it's pointless to develop further.
+
+10:03.000 --> 10:07.000
+So, we're talking about building a tree of solutions,
+
+10:07.000 --> 10:13.000
+known from mathematics, management, and mechanisms,
+
+10:13.000 --> 10:19.000
+where visually and especially with the help of modern computing,
+
+10:19.000 --> 10:25.000
+you can imagine the transition stages to achieve the goal.
+
+10:25.000 --> 10:28.000
+Complex moments, complex aspects.
+
+10:28.000 --> 10:30.000
+We'll talk about the tree of solutions,
+
+10:30.000 --> 10:36.000
+and we'll talk about the system approach in management a bit later.
+
+10:36.000 --> 10:38.000
+Besides the tree of solutions,
+
+10:38.000 --> 10:43.000
+you can use various modeling methods in the conditions of uncertainty.
+
+10:43.000 --> 10:49.000
+There are a lot of statistical methods in mathematics.
+
+10:49.000 --> 10:51.000
+Stochastic methods.
+
+10:51.000 --> 10:53.000
+Discrete analysis.
+
+10:53.000 --> 10:54.000
+Variational analysis.
+
+10:54.000 --> 10:55.000
+Factorial analysis.
+
+10:55.000 --> 10:56.000
+Cluster analysis.
+
+10:56.000 --> 11:00.000
+All of these are complex mathematical methods.
+
+11:00.000 --> 11:07.000
+It's something that takes years to understand,
+
+11:07.000 --> 11:17.000
+but you don't need to go deep into the process of modeling to apply it.
+
+11:17.000 --> 11:19.000
+We need results.
+
+11:19.000 --> 11:22.000
+We can hire consultants to do all of this,
+
+11:22.000 --> 11:26.000
+and then we'll get some recommendations
+
+11:26.000 --> 11:30.000
+based on the models we can use.
+
+11:30.000 --> 11:33.000
+These recommendations can be clear,
+
+11:33.000 --> 11:36.000
+they can be paradoxical, they can be unexpected.
+
+11:36.000 --> 11:41.000
+But to get them, there are professional specialists who do this.
+
+11:41.000 --> 11:43.000
+We'll pay them for this,
+
+11:43.000 --> 11:47.000
+in order to get normal recommendations and implement them.
+
+11:47.000 --> 11:51.000
+Modern management is a very complex system,
+
+11:51.000 --> 11:54.000
+professionally, as we've talked about,
+
+11:54.000 --> 11:57.000
+and it requires hiring different specialists.
+
+11:57.000 --> 12:04.000
+Just like Fayol talked about the need to divide the work,
+
+12:04.000 --> 12:09.000
+it's pointless to look for a specialist
+
+12:09.000 --> 12:14.000
+who can deal with all mathematical methods.
+
+12:14.000 --> 12:17.000
+There are good theorists, good practitioners,
+
+12:17.000 --> 12:22.000
+great implementers of these or other solutions.
+
+12:22.000 --> 12:28.000
+We need to implement the recommendations we are given.
+
+12:28.000 --> 12:32.000
+As for the models,
+
+12:32.000 --> 12:38.000
+there is a common model of goal management.
+
+12:38.000 --> 12:41.000
+When certain tasks are set,
+
+12:41.000 --> 12:43.000
+certain goals are set,
+
+12:43.000 --> 12:49.000
+and then I track not the process that leads to their solution,
+
+12:49.000 --> 12:52.000
+but the final results I get,
+
+12:52.000 --> 12:56.000
+and the boundaries that can be cut off,
+
+12:56.000 --> 13:01.000
+different wrong approaches, different wrong results.
+
+13:01.000 --> 13:07.000
+Budgeting is a problem that is very important
+
+13:07.000 --> 13:11.000
+in terms of financing the management system,
+
+13:11.000 --> 13:17.000
+and which allows me to set priorities,
+
+13:17.000 --> 13:19.000
+to organize motivation,
+
+13:19.000 --> 13:24.000
+to build relationships between people, suppliers,
+
+13:24.000 --> 13:28.000
+different departments of one organization.
+
+13:28.000 --> 13:34.000
+Again, there are different mathematical methods
+
+13:34.000 --> 13:36.000
+that exist today,
+
+13:36.000 --> 13:38.000
+as well as management methods,
+
+13:38.000 --> 13:40.000
+for example, quality circles,
+
+13:40.000 --> 13:43.000
+which we'll talk about in the conclusion,
+
+13:44.000 --> 13:50.000
+we'll consider the fashionable theory of quality management, etc.
+
+13:50.000 --> 13:54.000
+But when we talk about quantitative management,
+
+13:54.000 --> 13:59.000
+we shouldn't forget that the model is just one of the forms of reality.
+
+13:59.000 --> 14:02.000
+The model can be very beautiful,
+
+14:02.000 --> 14:08.000
+but the results it gives us may seem very small.
+
+14:08.000 --> 14:12.000
+Therefore, the criterion is practice,
+
+14:12.000 --> 14:16.000
+the practical business result we get.
+
+14:16.000 --> 14:19.000
+I want to draw your attention to the fact
+
+14:19.000 --> 14:22.000
+that the task of quantitative management
+
+14:22.000 --> 14:25.000
+is not to create new concepts,
+
+14:25.000 --> 14:30.000
+but to formalize existing concepts that justify themselves,
+
+14:30.000 --> 14:32.000
+to model them,
+
+14:32.000 --> 14:37.000
+so that we have an opportunity to measure
+
+14:37.000 --> 14:41.000
+and control the implementation process itself,
+
+14:41.000 --> 14:45.000
+and to get the desired result.
+
+14:45.000 --> 14:49.000
+As for this school,
+
+14:49.000 --> 14:54.000
+there are different management strategies
+
+14:54.000 --> 14:58.000
+that were implemented in the 20th century
+
+14:58.000 --> 15:02.000
+within this quantitative management school.
+
+15:02.000 --> 15:05.000
+As for these approaches,
+
+15:05.000 --> 15:08.000
+they are described in the materials
+
+15:08.000 --> 15:11.000
+you received for our course,
+
+15:11.000 --> 15:14.000
+they are described in the literature.
+
+15:14.000 --> 15:17.000
+And, accordingly, these are different ways
+
+15:17.000 --> 15:20.000
+of implementing quantitative approaches.
+
+15:20.000 --> 15:24.000
+Here on the slide you can see these directions.
+
+15:25.000 --> 15:28.000
+These are the directions that were widely developed
+
+15:28.000 --> 15:31.000
+from the 60s to the 90s,
+
+15:31.000 --> 15:34.000
+and which, in one way or another,
+
+15:34.000 --> 15:41.000
+try to quantitatively reflect the realities of the business of that time,
+
+15:41.000 --> 15:44.000
+as well as the realities that appeared in business,
+
+15:44.000 --> 15:47.000
+and which must be taken into account.
+
+15:47.000 --> 15:50.000
+These are different concepts and ideas
+
+15:50.000 --> 15:53.000
+that we can familiarize ourselves with,
+
+15:53.000 --> 15:56.000
+and we can apply them.
+
+15:56.000 --> 16:00.000
+But these are specific options that can be known,
+
+16:00.000 --> 16:05.000
+but which are not as fundamental as the methodology of the approach
+
+16:05.000 --> 16:08.000
+that we are considering.
+
+16:08.000 --> 16:12.000
+Therefore, now we move on to the next approach,
+
+16:12.000 --> 16:15.000
+which is associated with management,
+
+16:15.000 --> 16:19.000
+which has had a significant impact on management.
+
+16:19.000 --> 16:22.000
+This is the so-called process approach to management,
+
+16:22.000 --> 16:25.000
+associated with Porter.
+
+16:25.000 --> 16:28.000
+The approach he proposed has received a lot of attention.
+
+16:28.000 --> 16:30.000
+Why?
+
+16:30.000 --> 16:33.000
+Again, we talked about this at the beginning.
+
+16:33.000 --> 16:37.000
+If we consider a business process or any activity,
+
+16:37.000 --> 16:40.000
+it is always characterized by two characteristics.
+
+16:40.000 --> 16:46.000
+The process, the method of achieving some results,
+
+16:46.000 --> 16:51.000
+and the result, what I eventually achieved.
+
+16:51.000 --> 16:54.000
+As for management,
+
+16:54.000 --> 16:58.000
+these two processes are presented particularly clearly.
+
+16:58.000 --> 17:02.000
+There are wonderful managers and wonderful managers
+
+17:02.000 --> 17:07.000
+who are very good at creating something.
+
+17:07.000 --> 17:10.000
+A new organization,
+
+17:10.000 --> 17:13.000
+a new structure system in the organization,
+
+17:13.000 --> 17:16.000
+new departments,
+
+17:16.000 --> 17:19.000
+new structures and their introduction into the market.
+
+17:19.000 --> 17:22.000
+They like to organize processes.
+
+17:22.000 --> 17:25.000
+When something has already been achieved,
+
+17:25.000 --> 17:28.000
+these people cannot stop
+
+17:28.000 --> 17:31.000
+and cannot support the state of the system
+
+17:31.000 --> 17:35.000
+at the level achieved, at the achieved results,
+
+17:35.000 --> 17:40.000
+in order for the system to reproduce the desired results.
+
+17:40.000 --> 17:43.000
+These people need to constantly change something,
+
+17:43.000 --> 17:47.000
+constantly bring in some innovations, etc.
+
+17:47.000 --> 17:52.000
+As long as the organization or process is being created,
+
+17:52.000 --> 17:55.000
+these people are very successful,
+
+17:55.000 --> 17:57.000
+they are in their place.
+
+17:57.000 --> 17:59.000
+But when the result is achieved,
+
+17:59.000 --> 18:01.000
+already a good result,
+
+18:01.000 --> 18:03.000
+already a desired result,
+
+18:03.000 --> 18:05.000
+the result is brought to the market,
+
+18:05.000 --> 18:08.000
+then if we start to bring in some new additions,
+
+18:08.000 --> 18:10.000
+then the situation is getting worse.
+
+18:10.000 --> 18:12.000
+From the point of view of the economy,
+
+18:12.000 --> 18:14.000
+because the product is in demand,
+
+18:14.000 --> 18:17.000
+and then it is brought in by some changes,
+
+18:17.000 --> 18:20.000
+and it is not a fact that the changes
+
+18:20.000 --> 18:25.000
+will be used by the same consumer demand as before.
+
+18:25.000 --> 18:27.000
+After all, consumers are people,
+
+18:27.000 --> 18:29.000
+they also get used to something.
+
+18:29.000 --> 18:32.000
+And if we see constant changes,
+
+18:32.000 --> 18:35.000
+it does not always suit us.
+
+18:35.000 --> 18:40.000
+For example, we can take the Microsoft Office program,
+
+18:40.000 --> 18:43.000
+which is constantly changing.
+
+18:43.000 --> 18:45.000
+We get used to some Office,
+
+18:45.000 --> 18:47.000
+and we use it.
+
+18:47.000 --> 18:49.000
+Then another Office appears.
+
+18:49.000 --> 18:53.000
+Of course, it retains all the previous features
+
+18:53.000 --> 18:55.000
+and adds new ones,
+
+18:55.000 --> 18:57.000
+but changes are taking place,
+
+18:57.000 --> 18:59.000
+including the usual functions.
+
+18:59.000 --> 19:01.000
+The hotkeys are changing,
+
+19:01.000 --> 19:03.000
+the way to call functions is changing,
+
+19:03.000 --> 19:06.000
+the usual system of actions is changing.
+
+19:06.000 --> 19:08.000
+And what does it lead to?
+
+19:08.000 --> 19:11.000
+We know that every new Office,
+
+19:11.000 --> 19:14.000
+for example, the 2007 Office,
+
+19:14.000 --> 19:17.000
+has a huge number of new advantages
+
+19:17.000 --> 19:19.000
+that may be interesting to us.
+
+19:19.000 --> 19:21.000
+But nevertheless,
+
+19:21.000 --> 19:24.000
+we are already used to the previous Office,
+
+19:24.000 --> 19:27.000
+and we are already working on automatism.
+
+19:27.000 --> 19:30.000
+And, accordingly, for a very long time
+
+19:30.000 --> 19:32.000
+we will work on the old Office
+
+19:32.000 --> 19:35.000
+and prevent our employees
+
+19:35.000 --> 19:38.000
+from switching to other programs.
+
+19:38.000 --> 19:41.000
+The same problem is with reading files
+
+19:41.000 --> 19:44.000
+in older versions, which often arise.
+
+19:44.000 --> 19:46.000
+This is a process situation,
+
+19:46.000 --> 19:49.000
+a process of constant change.
+
+19:49.000 --> 19:51.000
+And there are other people
+
+19:51.000 --> 19:54.000
+who find it very difficult to create something,
+
+19:54.000 --> 19:56.000
+very difficult to change something,
+
+19:56.000 --> 19:59.000
+very difficult to be present and lead.
+
+19:59.000 --> 20:01.000
+We are talking about management,
+
+20:01.000 --> 20:03.000
+about the process of change,
+
+20:03.000 --> 20:05.000
+about the process of innovation.
+
+20:05.000 --> 20:08.000
+But if there is already a well-established system
+
+20:08.000 --> 20:11.000
+where the control function is necessary,
+
+20:11.000 --> 20:13.000
+in the sense that we talked about,
+
+20:13.000 --> 20:15.000
+the control of the constant feedback
+
+20:15.000 --> 20:17.000
+with the results we get,
+
+20:17.000 --> 20:19.000
+the planning function,
+
+20:19.000 --> 20:21.000
+there are already some plans,
+
+20:21.000 --> 20:24.000
+the organization of these plans in different ways,
+
+20:24.000 --> 20:28.000
+the organization of the already existing result,
+
+20:28.000 --> 20:30.000
+and the function of the implementation
+
+20:30.000 --> 20:33.000
+of the already developed, justified motivation schemes,
+
+20:33.000 --> 20:36.000
+then these people are in their place.
+
+20:36.000 --> 20:39.000
+But if there are some changes,
+
+20:39.000 --> 20:42.000
+then, accordingly, they cannot be rebuilt.
+
+20:42.000 --> 20:45.000
+There are what are called process people
+
+20:45.000 --> 20:47.000
+and there are result people.
+
+20:47.000 --> 20:49.000
+And depending on those tasks,
+
+20:49.000 --> 20:51.000
+depending on those circumstances
+
+20:51.000 --> 20:54.000
+that arise, both good and bad,
+
+20:55.000 --> 20:59.000
+As for the theories that we have considered,
+
+20:59.000 --> 21:01.000
+starting from Taylor, Fayol,
+
+21:01.000 --> 21:03.000
+the control of thought
+
+21:03.000 --> 21:05.000
+or the doctrine of human relations,
+
+21:05.000 --> 21:08.000
+in fact, these are resultive theories.
+
+21:08.000 --> 21:11.000
+The main thing here is the achieved result.
+
+21:11.000 --> 21:15.000
+Even quantitative theory is also a resultive theory.
+
+21:15.000 --> 21:17.000
+We are building a model of achieving
+
+21:17.000 --> 21:19.000
+certain results.
+
+21:19.000 --> 21:23.000
+Porter pays attention to the process itself.
+
+21:24.000 --> 21:26.000
+And this is very much in demand.
+
+21:26.000 --> 21:27.000
+Why?
+
+21:27.000 --> 21:29.000
+Because modern business,
+
+21:29.000 --> 21:31.000
+as we have repeatedly said,
+
+21:31.000 --> 21:33.000
+as you know it perfectly,
+
+21:33.000 --> 21:35.000
+is a constantly changing thing.
+
+21:35.000 --> 21:37.000
+Norms are changing, rules are changing,
+
+21:37.000 --> 21:40.000
+normative acts, documents, and so on, are changing.
+
+21:40.000 --> 21:45.000
+And you can't get the same result all the time.
+
+21:45.000 --> 21:48.000
+In the end, the form of tax accountability changes,
+
+21:48.000 --> 21:50.000
+and, accordingly, it is necessary to constantly
+
+21:50.000 --> 21:52.000
+redo something.
+
+21:52.000 --> 21:55.000
+That's why the social and economic demands
+
+21:55.000 --> 21:57.000
+that business has,
+
+21:57.000 --> 21:59.000
+that management has,
+
+21:59.000 --> 22:02.000
+are so complex that the modern conditions
+
+22:02.000 --> 22:04.000
+require a process approach.
+
+22:04.000 --> 22:07.000
+That's why the idea of process management
+
+22:07.000 --> 22:10.000
+proposed by Porter
+
+22:10.000 --> 22:14.000
+has very well met the needs of the time.
+
+22:14.000 --> 22:18.000
+It was proposed in the second half of the 20th century,
+
+22:18.000 --> 22:21.000
+and since then it has been a success,
+
+22:21.000 --> 22:27.000
+and modern management is often a process management.
+
+22:27.000 --> 22:30.000
+At the same time, this process approach
+
+22:30.000 --> 22:34.000
+is based on relatively simple ideas.
+
+22:34.000 --> 22:37.000
+Any approach is good in its simplicity.
+
+22:37.000 --> 22:40.000
+We can use some very sophisticated,
+
+22:40.000 --> 22:44.000
+very sophisticated theoretical approach to management.
+
+22:44.000 --> 22:46.000
+It may look very beautiful on paper,
+
+22:46.000 --> 22:48.000
+but how to implement it?
+
+22:48.000 --> 22:50.000
+It is very easy to implement,
+
+22:50.000 --> 22:53.000
+and it is clear how to achieve it.
+
+22:53.000 --> 22:55.000
+As for Porter,
+
+22:55.000 --> 22:58.000
+it has three main processes in any business.
+
+22:58.000 --> 23:02.000
+The first one is the main processes.
+
+23:02.000 --> 23:05.000
+That is, the whole set of processes,
+
+23:05.000 --> 23:07.000
+the whole set of activities,
+
+23:07.000 --> 23:10.000
+the whole set of operational steps
+
+23:10.000 --> 23:14.000
+that are aimed at achieving the result
+
+23:14.000 --> 23:16.000
+that my company is engaged in.
+
+23:16.000 --> 23:18.000
+If it is production,
+
+23:18.000 --> 23:21.000
+then it is the production process of cars,
+
+23:21.000 --> 23:23.000
+medicines, computers,
+
+23:23.000 --> 23:25.000
+what the company does.
+
+23:25.000 --> 23:27.000
+If it is services,
+
+23:27.000 --> 23:30.000
+then it is the process of providing services.
+
+23:30.000 --> 23:33.000
+That is, when the methods of achieving the results
+
+23:33.000 --> 23:35.000
+that I sell are prescribed,
+
+23:35.000 --> 23:37.000
+the main processes of the business
+
+23:37.000 --> 23:39.000
+that bring me profit,
+
+23:39.000 --> 23:42.000
+the main processes in which I invest money
+
+23:42.000 --> 23:44.000
+in order to get a return
+
+23:44.000 --> 23:46.000
+But, of course,
+
+23:46.000 --> 23:49.000
+the main processes do not exist in a vacuum.
+
+23:49.000 --> 23:51.000
+I constantly draw attention to the fact
+
+23:51.000 --> 23:54.000
+that the whole business exists among other people,
+
+23:54.000 --> 23:57.000
+that the whole business exists in society,
+
+23:57.000 --> 24:00.000
+in the state, in its social and political institutions.
+
+24:00.000 --> 24:02.000
+So, all these main processes
+
+24:02.000 --> 24:06.000
+are associated with the methods of action
+
+24:06.000 --> 24:08.000
+that support these processes.
+
+24:08.000 --> 24:12.000
+Or this is what Porter calls auxiliary processes.
+
+24:12.000 --> 24:14.000
+If we produce something,
+
+24:14.000 --> 24:16.000
+we need some details.
+
+24:16.000 --> 24:19.000
+These details are produced in another company,
+
+24:19.000 --> 24:21.000
+in another place.
+
+24:21.000 --> 24:23.000
+And, accordingly,
+
+24:23.000 --> 24:26.000
+I need to organize contractual relations with this company.
+
+24:26.000 --> 24:28.000
+I need to organize delivery,
+
+24:28.000 --> 24:30.000
+I need to organize storage,
+
+24:30.000 --> 24:33.000
+I need to organize the export from the warehouse
+
+24:33.000 --> 24:35.000
+at the right time,
+
+24:35.000 --> 24:37.000
+the right amount of details.
+
+24:37.000 --> 24:40.000
+I need to organize it so that these details
+
+24:40.000 --> 24:42.000
+are as much as necessary,
+
+24:42.000 --> 24:45.000
+so that the warehouses are not overfilled,
+
+24:45.000 --> 24:48.000
+so that there is no loss for my company.
+
+24:48.000 --> 24:51.000
+This is the whole combination of logistics,
+
+24:51.000 --> 24:54.000
+the combination of additional sources of financing,
+
+24:54.000 --> 24:57.000
+the combination of additional activities.
+
+24:57.000 --> 25:00.000
+These are all auxiliary processes.
+
+25:00.000 --> 25:03.000
+This is what improves, optimizes,
+
+25:03.000 --> 25:06.000
+adds, develops the main processes,
+
+25:06.000 --> 25:08.000
+speeds them up,
+
+25:08.000 --> 25:10.000
+increases their effectiveness,
+
+25:10.000 --> 25:12.000
+increases their output.
+
+25:12.000 --> 25:15.000
+Naturally, without auxiliary processes,
+
+25:15.000 --> 25:18.000
+the main processes are impossible.
+
+25:18.000 --> 25:21.000
+But without the main processes,
+
+25:21.000 --> 25:24.000
+the auxiliary processes are pointless.
+
+25:24.000 --> 25:27.000
+If I don't use the telecommunications workpiece,
+
+25:27.000 --> 25:30.000
+then why do I need the warehouses
+
+25:30.000 --> 25:33.000
+if they are not necessarily needed?
+
+25:33.000 --> 25:36.000
+It is very important that the main auxiliary processes
+
+25:36.000 --> 25:39.000
+are not mutually dependent,
+
+25:39.000 --> 25:42.000
+because they are based on each other,
+
+25:42.000 --> 25:45.000
+they support each other,
+
+25:45.000 --> 25:48.000
+and the violation of communication between them
+
+25:48.000 --> 25:52.000
+leads to the fact that we will not get what we want.
+
+25:52.000 --> 25:55.000
+The third type of processes
+
+25:55.000 --> 25:58.000
+that Porter highlights
+
+25:58.000 --> 26:01.000
+are the management processes.
+
+26:01.000 --> 26:04.000
+Porter comes from the fact that
+
+26:05.000 --> 26:09.000
+the whole business is about interacting with people.
+
+26:09.000 --> 26:12.000
+Therefore, management is needed,
+
+26:12.000 --> 26:15.000
+which will organize the main process itself,
+
+26:15.000 --> 26:18.000
+the main processes that are produced.
+
+26:18.000 --> 26:21.000
+Management is needed,
+
+26:21.000 --> 26:24.000
+which will organize the implementation,
+
+26:24.000 --> 26:27.000
+interaction, functional auxiliary processes
+
+26:27.000 --> 26:30.000
+that are necessary for the main processes,
+
+26:30.000 --> 26:33.000
+and, accordingly, it is necessary to organize
+
+26:33.000 --> 26:36.000
+the management communication here.
+
+26:36.000 --> 26:39.000
+In the end, management processes are needed
+
+26:39.000 --> 26:42.000
+to modernize both the main processes
+
+26:42.000 --> 26:45.000
+and the auxiliary ones,
+
+26:45.000 --> 26:48.000
+to introduce innovations,
+
+26:48.000 --> 26:51.000
+to introduce new innovations,
+
+26:51.000 --> 26:54.000
+to make new proposals and promote them on the market.
+
+26:54.000 --> 26:57.000
+This is the whole complexity of management processes,
+
+26:57.000 --> 27:00.000
+which we have already discussed.
+
+27:00.000 --> 27:03.000
+In principle, Porter did not say anything new.
+
+27:03.000 --> 27:06.000
+This was the case with Taylor and Fayol,
+
+27:06.000 --> 27:09.000
+and even more so in the doctrine of human relations.
+
+27:09.000 --> 27:12.000
+This can be traced in every strategy
+
+27:12.000 --> 27:15.000
+of the management of the 20th century,
+
+27:15.000 --> 27:18.000
+but the main achievement of Porter
+
+27:18.000 --> 27:21.000
+is that he focused his attention
+
+27:21.000 --> 27:24.000
+on the need to take into account the processes.
+
+27:24.000 --> 27:27.000
+Usually, business people
+
+27:27.000 --> 27:30.000
+are focused on the result,
+
+27:30.000 --> 27:33.000
+but this is a general approach.
+
+27:33.000 --> 27:36.000
+As for the result,
+
+27:36.000 --> 27:39.000
+it is realized through processes,
+
+27:39.000 --> 27:42.000
+and these processes are constantly changing.
+
+27:42.000 --> 27:45.000
+And it is in these processes
+
+27:45.000 --> 27:48.000
+that the feedback from the social-economic environment,
+
+27:48.000 --> 27:51.000
+from the social-technical environment,
+
+27:51.000 --> 27:54.000
+from political values,
+
+27:54.000 --> 27:57.000
+moral values, aesthetic values, etc.,
+
+27:57.000 --> 28:00.000
+are formed by the psychology of consumer needs.
+
+28:00.000 --> 28:03.000
+Porter, proposing his process theory,
+
+28:03.000 --> 28:06.000
+focuses on the fact that
+
+28:06.000 --> 28:09.000
+management or management system
+
+28:09.000 --> 28:12.000
+leads to the result,
+
+28:12.000 --> 28:15.000
+but this is a strategy.
+
+28:15.000 --> 28:18.000
+This is how the business process ends.
+
+28:18.000 --> 28:21.000
+And we need constant tactical processes,
+
+28:21.000 --> 28:24.000
+what is happening today, now.
+
+28:24.000 --> 28:27.000
+And this is where the process management is important.
+
+28:27.000 --> 28:30.000
+We need to manage the current processes,
+
+28:30.000 --> 28:33.000
+we need to coordinate the current processes,
+
+28:33.000 --> 28:36.000
+we need to modify the current processes,
+
+28:36.000 --> 28:39.000
+the connections between them,
+
+28:39.000 --> 28:42.000
+the dependencies between them,
+
+28:42.000 --> 28:45.000
+the order of everything that exists.
+
+28:45.000 --> 28:48.000
+Porter's concept is based on
+
+28:48.000 --> 28:51.000
+the fact that it has been widely developed,
+
+28:51.000 --> 28:54.000
+and further approaches to management
+
+28:54.000 --> 28:57.000
+are based on recognition
+
+28:57.000 --> 29:00.000
+not only of the result,
+
+29:00.000 --> 29:03.000
+which is what the predecessors had,
+
+29:03.000 --> 29:06.000
+but also of the processes.
+
+29:06.000 --> 29:09.000
+In fact, Porter has leveled this connection,
+
+29:09.000 --> 29:12.000
+and the processes have the same meaning,
+
+29:12.000 --> 29:15.000
+the same meaning,
+
+29:15.000 --> 29:18.000
+the same meaning,
+
+29:18.000 --> 29:21.000
+the same attention,
+
+29:21.000 --> 29:24.000
+the same relevance as the results
+
+29:24.000 --> 29:27.000
+that the traditional business was based on.
+
+29:27.000 --> 29:30.000
+And based on this process-result relationship
+
+29:30.000 --> 29:33.000
+emerged about 10-15 years later,
+
+29:33.000 --> 29:36.000
+after Porter's process concept,
+
+29:36.000 --> 29:39.000
+which began to be implemented very quickly
+
+29:39.000 --> 29:42.000
+and received general recognition,
+
+29:42.000 --> 29:45.000
+a situational approach emerged in management,
+
+29:45.000 --> 29:48.000
+which, on the one hand,
+
+29:48.000 --> 29:51.000
+pays attention to the processes
+
+29:51.000 --> 29:54.000
+that are implemented in business
+
+29:54.000 --> 29:57.000
+depending on the situation,
+
+29:57.000 --> 30:00.000
+and, on the other hand,
+
+30:00.000 --> 30:03.000
+considers the whole set of processes
+
+30:03.000 --> 30:06.000
+related to the result.
+
+30:06.000 --> 30:09.000
+As for the situational approach in business,
+
+30:09.000 --> 30:12.000
+it is the approach that is currently
+
+30:12.000 --> 30:15.000
+being implemented in the management system,
+
+30:15.000 --> 30:18.000
+both in production and in the service sector,
+
+30:18.000 --> 30:21.000
+and which is currently
+
+30:21.000 --> 30:24.000
+a working system,
+
+30:24.000 --> 30:27.000
+a logical conclusion
+
+30:27.000 --> 30:30.000
+of all those concepts
+
+30:30.000 --> 30:33.000
+that we have discussed.
+
+30:33.000 --> 30:36.000
+And this is the approach
+
+30:36.000 --> 30:39.000
+of all those concepts
+
+30:39.000 --> 30:42.000
+that we have discussed before,
+
+30:42.000 --> 30:45.000
+those concepts that are presented
+
+30:45.000 --> 30:48.000
+on the slide that we are looking at today
+
+30:48.000 --> 30:51.000
+from the point of view of the evolution
+
+30:51.000 --> 30:54.000
+of management thinking in the 20th century.
+
+30:54.000 --> 30:57.000
+What is the situational approach to management?
+
+30:57.000 --> 31:00.000
+The situational approach to management
+
+31:00.000 --> 31:03.000
+is based on a simple basic idea.
+
+31:03.000 --> 31:06.000
+There is no business at all,
+
+31:06.000 --> 31:09.000
+there is no business result at all,
+
+31:09.000 --> 31:12.000
+there is no business process at all.
+
+31:12.000 --> 31:15.000
+Any business, any business activity
+
+31:15.000 --> 31:18.000
+is implemented by living people
+
+31:18.000 --> 31:21.000
+in specific conditions,
+
+31:21.000 --> 31:24.000
+in specific circumstances,
+
+31:24.000 --> 31:27.000
+in specific means,
+
+31:27.000 --> 31:30.000
+in specific possibilities,
+
+31:30.000 --> 31:33.000
+and it is not a business.
+
+31:33.000 --> 31:36.000
+In this regard, we can evaluate management,
+
+31:36.000 --> 31:39.000
+we can consider management,
+
+31:39.000 --> 31:42.000
+we can modify management as a management system
+
+31:42.000 --> 31:45.000
+only in application to those specific situations
+
+31:45.000 --> 31:48.000
+in which it is implemented,
+
+31:48.000 --> 31:51.000
+to those specific actions that take place in it.
+
+31:51.000 --> 31:54.000
+Accordingly, what steps
+
+31:54.000 --> 31:57.000
+should a manager take
+
+31:57.000 --> 32:00.000
+based on the situational approach?
+
+32:00.000 --> 32:03.000
+The first step is that
+
+32:03.000 --> 32:06.000
+a manager should be a professional.
+
+32:06.000 --> 32:09.000
+Remember, when we just started
+
+32:09.000 --> 32:12.000
+talking about management,
+
+32:12.000 --> 32:15.000
+we emphasized that it is a professional activity.
+
+32:15.000 --> 32:18.000
+The situational approach,
+
+32:18.000 --> 32:21.000
+as a generalization of the entire
+
+32:21.000 --> 32:24.000
+historical experience of management,
+
+32:24.000 --> 32:27.000
+is a very broad concept.
+
+32:27.000 --> 32:30.000
+The situational approach,
+
+32:30.000 --> 32:33.000
+since it includes both quantitative
+
+32:33.000 --> 32:36.000
+and personalization approaches,
+
+32:36.000 --> 32:39.000
+suggests that professionalism means
+
+32:39.000 --> 32:42.000
+that a manager should know
+
+32:42.000 --> 32:45.000
+the means of professional management.
+
+32:45.000 --> 32:48.000
+In fact, he should have the theory,
+
+32:48.000 --> 32:51.000
+the experience in management that he has developed.
+
+32:51.000 --> 32:54.000
+He should know the system analysis,
+
+32:54.000 --> 32:57.000
+the planning methods,
+
+32:57.000 --> 33:00.000
+the control methods,
+
+33:00.000 --> 33:03.000
+the quantitative methods of decision-making.
+
+33:03.000 --> 33:06.000
+That is, professional management today
+
+33:06.000 --> 33:09.000
+is not a humanitarian who can speak well,
+
+33:09.000 --> 33:12.000
+but a specialist who has not only
+
+33:12.000 --> 33:15.000
+humanitarian methods of presenting information,
+
+33:15.000 --> 33:18.000
+presentations, communication, communication,
+
+33:18.000 --> 33:21.000
+but also the method of psychological analysis.
+
+33:21.000 --> 33:24.000
+But this is a specialist who can provide
+
+33:24.000 --> 33:27.000
+a mathematical quantitative justification
+
+33:27.000 --> 33:30.000
+of the proposed solutions, plans,
+
+33:30.000 --> 33:33.000
+and projects.
+
+33:33.000 --> 33:36.000
+A professional manager is a specialist
+
+33:36.000 --> 33:39.000
+of a wide profile, both humanitarian
+
+33:39.000 --> 33:42.000
+and, of course, mathematical.
+
+33:42.000 --> 33:45.000
+So, the first is professionalism.
+
+33:45.000 --> 33:48.000
+A manager should be able to predict
+
+33:48.000 --> 33:51.000
+the possible consequences of each of his actions,
+
+33:51.000 --> 33:54.000
+of those or other methods,
+
+33:54.000 --> 33:57.000
+of those or other approaches.
+
+33:57.000 --> 34:00.000
+Moreover, he should predict
+
+34:00.000 --> 34:03.000
+not only positive results,
+
+34:03.000 --> 34:06.000
+as they say,
+
+34:06.000 --> 34:09.000
+we all like to do this,
+
+34:09.000 --> 34:12.000
+but also possible negative consequences.
+
+34:12.000 --> 34:15.000
+Yes, we are now increasing our share in the market,
+
+34:15.000 --> 34:18.000
+but will the anti-monopoly service
+
+34:18.000 --> 34:21.000
+pay attention to us after that?
+
+34:21.000 --> 34:24.000
+Will we become monopolists?
+
+34:24.000 --> 34:27.000
+From the point of view of business,
+
+34:27.000 --> 34:30.000
+this is wonderful,
+
+34:30.000 --> 34:33.000
+but from the point of view of social control,
+
+34:33.000 --> 34:36.000
+social contact,
+
+34:36.000 --> 34:39.000
+there are other difficulties.
+
+34:39.000 --> 34:42.000
+The second step of the social approach
+
+34:42.000 --> 34:45.000
+requires a manager
+
+34:45.000 --> 34:48.000
+to be able to plan,
+
+34:48.000 --> 34:51.000
+organize,
+
+34:51.000 --> 34:54.000
+and control the results
+
+34:54.000 --> 34:57.000
+he has received.
+
+34:57.000 --> 35:00.000
+And, again, we work with people,
+
+35:00.000 --> 35:03.000
+so we must introduce different motivational schemes.
+
+35:03.000 --> 35:06.000
+We need to predict
+
+35:06.000 --> 35:09.000
+whether this new motivational scheme
+
+35:09.000 --> 35:12.000
+will lead to difficulties
+
+35:12.000 --> 35:15.000
+in achieving the final result,
+
+35:15.000 --> 35:18.000
+whether it will cause a conflict within the organization,
+
+35:18.000 --> 35:21.000
+whether it will give negative results
+
+35:21.000 --> 35:24.000
+instead of positive ones.
+
+35:24.000 --> 35:27.000
+Yes, it is difficult to predict,
+
+35:27.000 --> 35:30.000
+but this is what professionalism is all about.
+
+35:30.000 --> 35:33.000
+This is what a professional is all about,
+
+35:33.000 --> 35:36.000
+and this is what a manager of experience
+
+35:36.000 --> 35:39.000
+is all about.
+
+35:39.000 --> 35:42.000
+The next step,
+
+35:42.000 --> 35:45.000
+which is presented to the manager
+
+35:45.000 --> 35:48.000
+in the social approach,
+
+35:48.000 --> 35:51.000
+is that we need to interpret the situation correctly.
+
+35:51.000 --> 35:54.000
+I must be able to analyze
+
+35:54.000 --> 35:57.000
+the business processes that exist,
+
+35:57.000 --> 36:00.000
+the market analysis,
+
+36:00.000 --> 36:03.000
+the brand analysis,
+
+36:03.000 --> 36:06.000
+the development prospects,
+
+36:06.000 --> 36:09.000
+so that I can build the right planning
+
+36:09.000 --> 36:12.000
+and organization based on this analysis.
+
+36:12.000 --> 36:15.000
+Based on this analysis,
+
+36:15.000 --> 36:18.000
+I can build the controlling events
+
+36:18.000 --> 36:21.000
+and the motivational schemes
+
+36:21.000 --> 36:24.000
+that I will implement.
+
+36:24.000 --> 36:27.000
+And finally,
+
+36:27.000 --> 36:30.000
+the next step in the management
+
+36:30.000 --> 36:33.000
+is to be able to implement specific techniques
+
+36:33.000 --> 36:36.000
+that I use for the specific business.
+
+36:36.000 --> 36:39.000
+Any novelty is always a risk.
+
+36:39.000 --> 36:42.000
+I can already have an approach
+
+36:42.000 --> 36:45.000
+that has already justified itself,
+
+36:45.000 --> 36:48.000
+which brings a very good result so far.
+
+36:48.000 --> 36:51.000
+How much should it be changed?
+
+36:51.000 --> 36:54.000
+How much should it be changed?
+
+36:54.000 --> 36:57.000
+Now or later,
+
+36:57.000 --> 37:00.000
+when this approach
+
+37:00.000 --> 37:03.000
+will be taken over by other companies
+
+37:03.000 --> 37:06.000
+and something will need to be changed
+
+37:06.000 --> 37:09.000
+in order to gain a place in the market.
+
+37:09.000 --> 37:12.000
+At the same time,
+
+37:12.000 --> 37:15.000
+all the changes in the management
+
+37:15.000 --> 37:18.000
+will still lead to some deviations,
+
+37:18.000 --> 37:21.000
+very rarely you can change
+
+37:21.000 --> 37:24.000
+the management of a company.
+
+37:24.000 --> 37:27.000
+Very rarely it can happen
+
+37:27.000 --> 37:30.000
+that we have only positive effects.
+
+37:30.000 --> 37:33.000
+Someone will quit,
+
+37:33.000 --> 37:36.000
+someone will agree,
+
+37:36.000 --> 37:39.000
+someone will prevent the introduction of something new.
+
+37:39.000 --> 37:42.000
+A person is used to base on what he is already used to.
+
+37:42.000 --> 37:45.000
+And a person always opposes,
+
+37:45.000 --> 37:48.000
+opposes the new.
+
+37:48.000 --> 37:51.000
+How many new actions,
+
+37:51.000 --> 37:54.000
+how many new skills will be successful for me?
+
+37:54.000 --> 37:57.000
+Here I am a doc,
+
+37:57.000 --> 38:00.000
+and I don't know what will happen next.
+
+38:00.000 --> 38:03.000
+These are the four main principles
+
+38:03.000 --> 38:06.000
+that are implemented in the situational approach.
+
+38:06.000 --> 38:09.000
+As for the situational approach,
+
+38:09.000 --> 38:12.000
+it immerses in business,
+
+38:12.000 --> 38:15.000
+analyzes business,
+
+38:15.000 --> 38:18.000
+considers business
+
+38:18.000 --> 38:21.000
+from the point of view of the broad means
+
+38:21.000 --> 38:24.000
+in which it is imposed,
+
+38:24.000 --> 38:27.000
+both the external environment of the organization
+
+38:27.000 --> 38:30.000
+and the internal environment of the organization.
+
+38:30.000 --> 38:33.000
+Let's look at this slide.
+
+38:33.000 --> 38:36.000
+Any organization is placed
+
+38:36.000 --> 38:39.000
+in some external social conditions.
+
+38:39.000 --> 38:42.000
+This is a state,
+
+38:42.000 --> 38:45.000
+this is a city,
+
+38:45.000 --> 38:48.000
+these are the authorities,
+
+38:48.000 --> 38:51.000
+these are the legislative, executive,
+
+38:51.000 --> 38:54.000
+legal norms, etc.
+
+38:54.000 --> 38:57.000
+But the main thing is that any organization
+
+38:57.000 --> 39:00.000
+is a part of a larger system.
+
+39:00.000 --> 39:03.000
+Based on the situational approach,
+
+39:03.000 --> 39:06.000
+we can say that the functionality of the system
+
+39:06.000 --> 39:09.000
+depends on the adequate functioning
+
+39:09.000 --> 39:12.000
+of the elements included in it.
+
+39:12.000 --> 39:15.000
+When we talk about an organization
+
+39:15.000 --> 39:18.000
+as a system,
+
+39:18.000 --> 39:21.000
+we should always mean the necessary resources.
+
+39:21.000 --> 39:24.000
+Resources that we get from outside.
+
+39:24.000 --> 39:27.000
+The raw materials from which we make
+
+39:27.000 --> 39:30.000
+the products of the company.
+
+39:30.000 --> 39:33.000
+The staff, the people who work in this company,
+
+39:33.000 --> 39:36.000
+who bring their identity to this company,
+
+39:36.000 --> 39:39.000
+their identity, their specifics.
+
+39:39.000 --> 39:42.000
+These are directly connected
+
+39:42.000 --> 39:45.000
+to the final result we will get.
+
+39:45.000 --> 39:48.000
+The capital we invest in the company.
+
+39:48.000 --> 39:51.000
+The technologies we use in the company.
+
+39:51.000 --> 39:54.000
+Technology is a very important element
+
+39:54.000 --> 39:57.000
+of any organization.
+
+39:57.000 --> 40:00.000
+Industrial intelligence, industrial espionage
+
+40:00.000 --> 40:03.000
+are aimed at learning about the changes in technology.
+
+40:03.000 --> 40:06.000
+To learn about the information ideas,
+
+40:06.000 --> 40:09.000
+the information that the company possesses.
+
+40:09.000 --> 40:12.000
+In terms of resources,
+
+40:12.000 --> 40:15.000
+any organization includes
+
+40:15.000 --> 40:18.000
+a certain process of transformation.
+
+40:18.000 --> 40:21.000
+The work itself.
+
+40:21.000 --> 40:24.000
+Never will a particular work
+
+40:24.000 --> 40:27.000
+become a final detail
+
+40:27.000 --> 40:30.000
+if it is not equipped
+
+40:30.000 --> 40:33.000
+with the professional skills of the people
+
+40:33.000 --> 40:36.000
+who work in it.
+
+40:36.000 --> 40:39.000
+Management activity.
+
+40:39.000 --> 40:42.000
+We are talking about the fact that in order to get
+
+40:42.000 --> 40:45.000
+the desired results,
+
+40:45.000 --> 40:48.000
+the right organization is needed.
+
+40:48.000 --> 40:51.000
+The right management relationship is built.
+
+40:51.000 --> 40:54.000
+There is a certain technological chain.
+
+40:54.000 --> 40:57.000
+A certain technological process
+
+40:57.000 --> 41:00.000
+is tied to the final result of the production.
+
+41:00.000 --> 41:03.000
+There are specific goals
+
+41:03.000 --> 41:06.000
+that are realized at each specific part of the production.
+
+41:06.000 --> 41:09.000
+In order to get the final goal,
+
+41:09.000 --> 41:12.000
+in order to get an Audi car,
+
+41:12.000 --> 41:15.000
+it is necessary to have its internal details
+
+41:15.000 --> 41:18.000
+and internal parts made,
+
+41:18.000 --> 41:21.000
+correctly composed,
+
+41:21.000 --> 41:24.000
+connected and fitted to each other.
+
+41:24.000 --> 41:27.000
+Naturally, as we have been pointing out,
+
+41:27.000 --> 41:30.000
+the output of any organization
+
+41:30.000 --> 41:33.000
+is some goods and services
+
+41:33.000 --> 41:36.000
+for which this organization is formed.
+
+41:36.000 --> 41:39.000
+These funds are invested
+
+41:39.000 --> 41:42.000
+in order to get a profit,
+
+41:42.000 --> 41:45.000
+to get the investment results
+
+41:45.000 --> 41:48.000
+that I make.
+
+41:48.000 --> 41:51.000
+And the organization
+
+41:51.000 --> 41:54.000
+of the team building
+
+41:54.000 --> 41:57.000
+is based on the human factor.
+
+41:57.000 --> 42:00.000
+It depends on the organization
+
+42:00.000 --> 42:03.000
+of the human relationship,
+
+42:03.000 --> 42:06.000
+the motivation of the staff,
+
+42:06.000 --> 42:09.000
+the implementation of various
+
+42:09.000 --> 42:12.000
+motivational schemes,
+
+42:12.000 --> 42:15.000
+the system of team building,
+
+42:15.000 --> 42:18.000
+the organization of the team,
+
+42:18.000 --> 42:21.000
+the team building team.
+
+42:21.000 --> 42:24.000
+This is where the need for a certain output comes in.
+
+42:24.000 --> 42:27.000
+And when we get the output,
+
+42:27.000 --> 42:30.000
+we have a very important condition
+
+42:30.000 --> 42:33.000
+that is the need to maintain feedback.
+
+42:33.000 --> 42:36.000
+Feedback that allows us
+
+42:36.000 --> 42:39.000
+to see whether we are on the right track
+
+42:39.000 --> 42:42.000
+and what else needs to be added
+
+42:42.000 --> 42:45.000
+in order to improve
+
+42:45.000 --> 42:48.000
+the outcome we get.
+
+42:48.000 --> 42:51.000
+Naturally, at every stage
+
+42:51.000 --> 42:54.000
+of the functioning of this system
+
+42:54.000 --> 42:57.000
+that is immersed in the external environment,
+
+42:57.000 --> 43:00.000
+different situational conditions are determined.
+
+43:00.000 --> 43:03.000
+And in order to maintain feedback,
+
+43:03.000 --> 43:06.000
+we need to take into account
+
+43:06.000 --> 43:09.000
+the features of the organization.
+
+43:09.000 --> 43:12.000
+The external environment factors include
+
+43:12.000 --> 43:15.000
+environmental factors, macroeconomic factors,
+
+43:15.000 --> 43:18.000
+legislative, social, demographic.
+
+43:18.000 --> 43:21.000
+These are all the conditions
+
+43:21.000 --> 43:24.000
+that are really related to the functioning of our organization.
+
+43:24.000 --> 43:27.000
+Natural and climatic factors are also included.
+
+43:27.000 --> 43:30.000
+Depending on whether it is sunny or rainy outside,
+
+43:30.000 --> 43:33.000
+my motivation also depends on this.
+
+43:33.000 --> 43:36.000
+If it's raining outside,
+
+43:36.000 --> 43:39.000
+I don't want to go out of the warm room.
+
+43:39.000 --> 43:42.000
+If it's sunny outside,
+
+43:42.000 --> 43:45.000
+I want to go to a resort.
+
+43:45.000 --> 43:48.000
+I don't think about work.
+
+43:48.000 --> 43:51.000
+I don't want to work now.
+
+43:51.000 --> 43:54.000
+On the other hand,
+
+43:54.000 --> 43:57.000
+in addition to the external factors,
+
+43:57.000 --> 44:00.000
+we need to take into account
+
+44:00.000 --> 44:03.000
+the players that are present in this environment.
+
+44:03.000 --> 44:06.000
+These are the suppliers of resources,
+
+44:06.000 --> 44:09.000
+their relations,
+
+44:09.000 --> 44:12.000
+whether the contracts are paid,
+
+44:12.000 --> 44:15.000
+how quickly they can provide me with the resources I need.
+
+44:15.000 --> 44:18.000
+If I suddenly need to change something,
+
+44:18.000 --> 44:21.000
+how satisfied are they with the needs?
+
+44:21.000 --> 44:24.000
+The same applies to the suppliers of services.
+
+44:24.000 --> 44:27.000
+Services and material production
+
+44:27.000 --> 44:30.000
+are two interconnected things.
+
+44:30.000 --> 44:33.000
+If I need some details,
+
+44:33.000 --> 44:36.000
+I need to agree with the logistics company
+
+44:36.000 --> 44:39.000
+about their delivery, storage, etc.
+
+44:39.000 --> 44:42.000
+These are the services that are closely connected
+
+44:42.000 --> 44:45.000
+to the production of goods.
+
+44:45.000 --> 44:48.000
+It's no coincidence that we talk about
+
+44:48.000 --> 44:51.000
+business in production and business in service delivery.
+
+44:51.000 --> 44:54.000
+Naturally, we are directly connected
+
+44:54.000 --> 44:57.000
+with the partners we interact with,
+
+44:57.000 --> 45:00.000
+with the controlling agencies
+
+45:00.000 --> 45:03.000
+that check whether we have filled in the tax documents,
+
+45:03.000 --> 45:06.000
+how we have dispatched the goods, etc.
+
+45:06.000 --> 45:09.000
+We are directly connected to the consumers.
+
+45:09.000 --> 45:12.000
+In the end, the consumers are the people
+
+45:12.000 --> 45:15.000
+who pay us for the products we have produced.
+
+45:15.000 --> 45:18.000
+If our result is the best,
+
+45:18.000 --> 45:21.000
+but it is not in the best condition,
+
+45:21.000 --> 45:24.000
+then we are not in the best condition.
+
+45:24.000 --> 45:27.000
+We are in the worst condition.
+
+45:27.000 --> 45:30.000
+If my result is the best,
+
+45:30.000 --> 45:33.000
+but it is not in the best condition,
+
+45:33.000 --> 45:36.000
+then it will be a loss for me.
+
+45:36.000 --> 45:39.000
+It will not bring me profit,
+
+45:39.000 --> 45:42.000
+but it will bring me problems.
+
+45:42.000 --> 45:45.000
+Therefore, we need to be able
+
+45:45.000 --> 45:48.000
+to fight for the consumers.
+
+45:48.000 --> 45:51.000
+At the same time, there are competitors
+
+45:51.000 --> 45:54.000
+for the same resources and consumers.
+
+45:54.000 --> 45:57.000
+In our age of information,
+
+45:57.000 --> 46:00.000
+PR and advertising are of great importance.
+
+46:00.000 --> 46:03.000
+They interact with the media.
+
+46:03.000 --> 46:06.000
+The media form the preferences of the consumers,
+
+46:06.000 --> 46:09.000
+the relations of the consumers,
+
+46:09.000 --> 46:12.000
+the prejudices of the consumers,
+
+46:12.000 --> 46:15.000
+the priorities of the consumers,
+
+46:15.000 --> 46:18.000
+the relations to certain products.
+
+46:18.000 --> 46:21.000
+Consequently, they are the ones
+
+46:22.000 --> 46:25.000
+who determine the business results
+
+46:25.000 --> 46:28.000
+that we want to get
+
+46:28.000 --> 46:31.000
+with the well-made production,
+
+46:31.000 --> 46:34.000
+with the well-made management system.
+
+46:34.000 --> 46:37.000
+The media can both raise the company
+
+46:37.000 --> 46:40.000
+in the open and destroy it.
+
+46:40.000 --> 46:43.000
+We live in a social world
+
+46:43.000 --> 46:46.000
+and we have to be careful
+
+46:46.000 --> 46:49.000
+about the media.
+
+46:50.000 --> 46:53.000
+All these factors should be taken into account.
+
+46:53.000 --> 46:56.000
+It is not for nothing that now
+
+46:56.000 --> 46:59.000
+PR departments are being created
+
+46:59.000 --> 47:02.000
+in large corporations,
+
+47:02.000 --> 47:05.000
+marketing departments,
+
+47:05.000 --> 47:08.000
+communication departments,
+
+47:08.000 --> 47:11.000
+advertising departments,
+
+47:11.000 --> 47:14.000
+and promotion of mass media.
+
+47:14.000 --> 47:17.000
+Yes, it is a big investment,
+
+47:17.000 --> 47:20.000
+but it is not a big investment
+
+47:20.000 --> 47:23.000
+that will pay off in any case
+
+47:23.000 --> 47:26.000
+if the company plans to exist
+
+47:26.000 --> 47:29.000
+in the market and beyond.
+
+47:29.000 --> 47:32.000
+As for these factors of the external environment,
+
+47:32.000 --> 47:35.000
+they are presented in a clear way
+
+47:35.000 --> 47:38.000
+so that you can see the connections
+
+47:38.000 --> 47:41.000
+that exist, the elements that exist.
+
+47:41.000 --> 47:44.000
+I would also like to draw your attention
+
+47:44.000 --> 47:47.000
+to the fact that these factors
+
+47:47.000 --> 47:50.000
+have different meanings
+
+47:50.000 --> 47:53.000
+depending on the situation
+
+47:53.000 --> 47:56.000
+and the impact on the business.
+
+47:56.000 --> 47:59.000
+Some factors directly affect
+
+47:59.000 --> 48:02.000
+the results of my business,
+
+48:02.000 --> 48:05.000
+the profit that I get
+
+48:05.000 --> 48:08.000
+as a result of the investments.
+
+48:08.000 --> 48:11.000
+There are also factors of indirect impact.
+
+48:12.000 --> 48:15.000
+If the direct impact is direct
+
+48:15.000 --> 48:18.000
+and I should focus on it,
+
+48:18.000 --> 48:21.000
+then the indirect impact is delayed.
+
+48:21.000 --> 48:24.000
+It seems that today,
+
+48:24.000 --> 48:27.000
+right now, it does not affect
+
+48:27.000 --> 48:30.000
+the functioning of my business,
+
+48:30.000 --> 48:33.000
+but on the other hand,
+
+48:33.000 --> 48:36.000
+not taking into account these factors,
+
+48:36.000 --> 48:39.000
+it can lead to me being
+
+48:40.000 --> 48:43.000
+in a losing or winning position
+
+48:43.000 --> 48:46.000
+after a while.
+
+48:46.000 --> 48:49.000
+First of all, these are political factors.
+
+48:49.000 --> 48:52.000
+Whatever we produce,
+
+48:52.000 --> 48:55.000
+be it toothbrushes, cars, shoes,
+
+48:55.000 --> 48:58.000
+it is still based on the political conditions
+
+48:58.000 --> 49:01.000
+that exist.
+
+49:01.000 --> 49:04.000
+If we have a stable economy
+
+49:04.000 --> 49:07.000
+where the policy is directed
+
+49:08.000 --> 49:11.000
+to support economic relations
+
+49:11.000 --> 49:14.000
+and economic development,
+
+49:14.000 --> 49:17.000
+it is a favorable condition for business development.
+
+49:17.000 --> 49:20.000
+If we have a totalitarian economy
+
+49:20.000 --> 49:23.000
+or a state-controlled economy,
+
+49:23.000 --> 49:26.000
+it does not always lead to positive results
+
+49:26.000 --> 49:29.000
+because in this situation,
+
+49:29.000 --> 49:32.000
+in addition to my own business interests,
+
+49:32.000 --> 49:35.000
+which are obvious,
+
+49:35.000 --> 49:38.000
+I need to get a profit
+
+49:38.000 --> 49:41.000
+and pay off the investments.
+
+49:41.000 --> 49:44.000
+There are also political demands
+
+49:44.000 --> 49:47.000
+related to the problem of import,
+
+49:47.000 --> 49:50.000
+export, redistribution of financial flows,
+
+49:50.000 --> 49:53.000
+election problems, etc.
+
+49:53.000 --> 49:56.000
+These are not business factors,
+
+49:56.000 --> 49:59.000
+but they are factors that
+
+49:59.000 --> 50:02.000
+significantly affect even the most successful business.
+
+50:03.000 --> 50:06.000
+The same policy implements
+
+50:06.000 --> 50:09.000
+a normative legal basis for business.
+
+50:09.000 --> 50:12.000
+If the rules of the game change constantly,
+
+50:12.000 --> 50:15.000
+like in the 90s,
+
+50:15.000 --> 50:18.000
+where we all lived,
+
+50:18.000 --> 50:21.000
+it is difficult to live by the law.
+
+50:21.000 --> 50:24.000
+There is always an opportunity
+
+50:24.000 --> 50:27.000
+to exert pressure
+
+50:27.000 --> 50:30.000
+on the business community
+
+50:31.000 --> 50:34.000
+because of the changed legal norms.
+
+50:34.000 --> 50:37.000
+The same applies to economic factors.
+
+50:37.000 --> 50:40.000
+There is a stable economy,
+
+50:40.000 --> 50:43.000
+there is a period of social transformations,
+
+50:43.000 --> 50:46.000
+there are transition periods
+
+50:46.000 --> 50:49.000
+when the requirements are changed,
+
+50:49.000 --> 50:52.000
+the state of accountability is changed,
+
+50:52.000 --> 50:55.000
+subsidies are changed,
+
+50:55.000 --> 50:58.000
+the number of employees is destroyed,
+
+50:58.000 --> 51:01.000
+the connections that have been formed
+
+51:01.000 --> 51:04.000
+for decades are destroyed,
+
+51:04.000 --> 51:07.000
+and the entire production system
+
+51:07.000 --> 51:10.000
+and management system have to be re-established.
+
+51:10.000 --> 51:13.000
+Not everyone is ready for this.
+
+51:13.000 --> 51:16.000
+Let's remember the 90s in Russia,
+
+51:16.000 --> 51:19.000
+the fruits of which we will reap today.
+
+51:19.000 --> 51:22.000
+But again, we can talk about
+
+51:22.000 --> 51:25.000
+socio-cultural factors,
+
+51:25.000 --> 51:28.000
+the mass media has launched a campaign
+
+51:28.000 --> 51:31.000
+about genetically modified products.
+
+51:31.000 --> 51:34.000
+A huge number of people
+
+51:34.000 --> 51:37.000
+do not understand what it is.
+
+51:37.000 --> 51:40.000
+But this abbreviation GMO,
+
+51:40.000 --> 51:43.000
+genetically modified objects,
+
+51:43.000 --> 51:46.000
+is known to all old people,
+
+51:46.000 --> 51:49.000
+they cannot understand what it is,
+
+51:49.000 --> 51:52.000
+how dangerous it is.
+
+51:52.000 --> 51:55.000
+This is a socio-cultural factor.
+
+51:55.000 --> 51:58.000
+Natural factors.
+
+51:58.000 --> 52:01.000
+Let's remember the disasters
+
+52:01.000 --> 52:04.000
+that are happening now with the weather.
+
+52:04.000 --> 52:07.000
+A very hot summer,
+
+52:07.000 --> 52:10.000
+cold winters.
+
+52:10.000 --> 52:13.000
+No wonder that today,
+
+52:13.000 --> 52:16.000
+because the summer was harsh,
+
+52:16.000 --> 52:19.000
+the price of grain is changing,
+
+52:19.000 --> 52:22.000
+and the price of other products
+
+52:22.000 --> 52:25.000
+is increasing with all the consequences
+
+52:25.000 --> 52:28.000
+that come from it.
+
+52:28.000 --> 52:31.000
+Both social and economic.
+
+52:31.000 --> 52:34.000
+And of course,
+
+52:34.000 --> 52:37.000
+when we talk about indirect impact,
+
+52:37.000 --> 52:40.000
+we should not forget about scientific and technical progress.
+
+52:40.000 --> 52:43.000
+As for Western business,
+
+52:43.000 --> 52:46.000
+Western management,
+
+52:46.000 --> 52:49.000
+they invest in scientific research
+
+52:49.000 --> 52:52.000
+to outrun their competitors.
+
+52:52.000 --> 52:55.000
+Because today, as we have already said,
+
+52:55.000 --> 52:58.000
+the profit and share of the market
+
+52:58.000 --> 53:01.000
+is obtained by the one who managed
+
+53:01.000 --> 53:04.000
+to bring to this market what will be in demand.
+
+53:04.000 --> 53:07.000
+In Russia,
+
+53:07.000 --> 53:10.000
+for the last 15 years,
+
+53:10.000 --> 53:13.000
+little attention was paid to scientific research,
+
+53:13.000 --> 53:16.000
+and we have hopelessly lagged behind the West.
+
+53:16.000 --> 53:19.000
+Nevertheless,
+
+53:19.000 --> 53:22.000
+today there are attempts
+
+53:22.000 --> 53:25.000
+to change the picture,
+
+53:25.000 --> 53:28.000
+in particular,
+
+53:28.000 --> 53:31.000
+we are talking about nanotechnology.
+
+53:31.000 --> 53:34.000
+This is what will be used by the state,
+
+53:34.000 --> 53:37.000
+and this is what can be used
+
+53:37.000 --> 53:40.000
+as an indirect factor in the development of business
+
+53:40.000 --> 53:43.000
+in the perspective of possible investments.
+
+53:43.000 --> 53:46.000
+This is the situation
+
+53:46.000 --> 53:49.000
+that is associated with the external impact
+
+53:49.000 --> 53:52.000
+on a particular business company.
+
+53:52.000 --> 53:55.000
+But,
+
+53:55.000 --> 53:58.000
+we are talking about the fact
+
+53:58.000 --> 54:01.000
+that the company,
+
+54:01.000 --> 54:04.000
+in addition to external impact,
+
+54:04.000 --> 54:07.000
+also has internal functions.
+
+54:07.000 --> 54:10.000
+This is what we have touched upon,
+
+54:10.000 --> 54:13.000
+starting with Fayol,
+
+54:13.000 --> 54:16.000
+and especially in the school of human relations.
+
+54:16.000 --> 54:19.000
+This is the company's mission,
+
+54:19.000 --> 54:22.000
+what does the company expect?
+
+54:22.000 --> 54:25.000
+To get a quick profit,
+
+54:25.000 --> 54:28.000
+and then we'll see,
+
+54:28.000 --> 54:31.000
+or does it expect to exist for a long time,
+
+54:31.000 --> 54:34.000
+and then we'll see.
+
+54:34.000 --> 54:37.000
+To form its own history,
+
+54:37.000 --> 54:40.000
+its own brands,
+
+54:40.000 --> 54:43.000
+its own relations,
+
+54:43.000 --> 54:46.000
+its own clients,
+
+54:46.000 --> 54:49.000
+its own approaches,
+
+54:49.000 --> 54:52.000
+its own structure,
+
+54:52.000 --> 54:55.000
+how the staff is selected,
+
+54:55.000 --> 54:58.000
+how the staff is trained,
+
+54:58.000 --> 55:01.000
+how the staff is evaluated,
+
+55:01.000 --> 55:04.000
+how the staff trajectory is formed,
+
+55:04.000 --> 55:07.000
+what culture exists in the company,
+
+55:07.000 --> 55:10.000
+what corporate culture,
+
+55:10.000 --> 55:13.000
+what corporate ethics,
+
+55:13.000 --> 55:16.000
+what form of clothing,
+
+55:16.000 --> 55:19.000
+what form of relations,
+
+55:19.000 --> 55:22.000
+what form of interaction and promotion
+
+55:22.000 --> 55:25.000
+along the bureaucratic ladder
+
+55:25.000 --> 55:28.000
+that exists in any company,
+
+55:28.000 --> 55:31.000
+what strategy exists in the company,
+
+55:31.000 --> 55:34.000
+does the company have a long-term strategy,
+
+55:34.000 --> 55:37.000
+so that the staff knows
+
+55:37.000 --> 55:40.000
+that the company is supposed to exist for a long time,
+
+55:40.000 --> 55:43.000
+like Japanese companies,
+
+55:43.000 --> 55:46.000
+and, accordingly,
+
+55:46.000 --> 55:49.000
+you can make your own development from this company.
+
+55:49.000 --> 55:52.000
+Either this company is 7-minute,
+
+55:52.000 --> 55:55.000
+or this company is for a certain period of time,
+
+55:55.000 --> 55:58.000
+what structure does the company have?
+
+55:58.000 --> 56:01.000
+Subordination structure, department structure,
+
+56:01.000 --> 56:04.000
+department structure,
+
+56:04.000 --> 56:07.000
+management structure that exists in it,
+
+56:07.000 --> 56:10.000
+what management styles exist,
+
+56:10.000 --> 56:13.000
+are they authoritarian, democratic,
+
+56:13.000 --> 56:16.000
+or liberal,
+
+56:16.000 --> 56:19.000
+in what industry does the company develop,
+
+56:19.000 --> 56:22.000
+and in what area does it function,
+
+56:22.000 --> 56:25.000
+what kind of knowledge,
+
+56:25.000 --> 56:28.000
+what kind of professionalism is needed in the company,
+
+56:28.000 --> 56:31.000
+what is the stage of the organization's development,
+
+56:31.000 --> 56:34.000
+is it a newly created company,
+
+56:34.000 --> 56:37.000
+is it a company that has already recommended itself,
+
+56:37.000 --> 56:40.000
+is this company at the stage of development,
+
+56:40.000 --> 56:43.000
+or at the stage of decline,
+
+56:43.000 --> 56:46.000
+what is the stage of the life cycle in this company,
+
+56:46.000 --> 56:49.000
+because all these are important factors of the internal environment
+
+56:49.000 --> 56:52.000
+that have a significant impact on the organization's development.
+
+56:52.000 --> 56:55.000
+that have a significant impact on the organization's development.
+
+56:55.000 --> 56:58.000
+All these factors reflect the situation.
+
+56:58.000 --> 57:01.000
+These factors can be listed for a long time,
+
+57:01.000 --> 57:04.000
+and in the literature that is offered to you,
+
+57:04.000 --> 57:07.000
+other factors are described there.
+
+57:07.000 --> 57:10.000
+The main thing is that, of course,
+
+57:10.000 --> 57:13.000
+we have talked a lot about external factors,
+
+57:13.000 --> 57:16.000
+but internal factors play a significant and fundamental role
+
+57:16.000 --> 57:19.000
+in the organization's development,
+
+57:19.000 --> 57:22.000
+in the organization's management structure,
+
+57:22.000 --> 57:25.000
+because there is no abstract organization.
+
+57:25.000 --> 57:28.000
+An organization is specific people,
+
+57:28.000 --> 57:31.000
+specific managers, specific owners,
+
+57:31.000 --> 57:34.000
+specific style and management system
+
+57:34.000 --> 57:37.000
+that exist in this organization,
+
+57:37.000 --> 57:40.000
+and with the most favorable external situation,
+
+57:40.000 --> 57:43.000
+if there is no qualified staff in the organization,
+
+57:43.000 --> 57:46.000
+if there is no qualified management system in the organization,
+
+57:46.000 --> 57:49.000
+if there is no qualified management system in the organization,
+
+57:49.000 --> 57:52.000
+we cannot achieve results in the most favorable situation,
+
+57:52.000 --> 57:55.000
+we cannot achieve results in the most favorable situation,
+
+57:55.000 --> 57:58.000
+simply because not everything is fine
+
+57:58.000 --> 58:01.000
+within the organization itself.
+
+58:01.000 --> 58:04.000
+From this point of view,
+
+58:04.000 --> 58:07.000
+in the literature there are many different approaches
+
+58:07.000 --> 58:10.000
+that allow to get the most of the results.
+
+58:10.000 --> 58:13.000
+The most of the results
+
+58:13.000 --> 58:16.000
+from the point of view of how the parameters of the organization,
+
+58:16.000 --> 58:19.000
+the relationship within the organization,
+
+58:19.000 --> 58:22.000
+the external situation,
+
+58:22.000 --> 58:25.000
+the external economic conditions of the organization
+
+58:25.000 --> 58:28.000
+correspond to the situational requirements that are presented.
+
+58:28.000 --> 58:31.000
+As for these approaches,
+
+58:31.000 --> 58:34.000
+we will consider two of them,
+
+58:34.000 --> 58:37.000
+but you can look at other approaches
+
+58:37.000 --> 58:40.000
+in the literature that is offered to you.
+
+58:40.000 --> 58:43.000
+Because there are many approaches,
+
+58:43.000 --> 58:46.000
+there are many models,
+
+58:46.000 --> 58:49.000
+and their application depends on the specific conditions,
+
+58:49.000 --> 58:52.000
+on the specificity of the organization,
+
+58:52.000 --> 58:55.000
+and it is very difficult to offer some general schemes
+
+58:55.000 --> 58:58.000
+that will be applicable in each case.
+
+58:58.000 --> 59:01.000
+In particular,
+
+59:01.000 --> 59:04.000
+Harold Leavitt was offered
+
+59:04.000 --> 59:07.000
+four alternative approaches
+
+59:07.000 --> 59:10.000
+that can be used to assess
+
+59:10.000 --> 59:13.000
+the efficiency of the organization
+
+59:13.000 --> 59:16.000
+and the degree of its prospective.
+
+59:16.000 --> 59:19.000
+The picture you see on the slide
+
+59:19.000 --> 59:22.000
+was named the Leavitt Diamond
+
+59:22.000 --> 59:25.000
+simply because the presence of solid,
+
+59:25.000 --> 59:28.000
+rigid relationships
+
+59:28.000 --> 59:31.000
+provides for rigid archaeological models.
+
+59:31.000 --> 59:34.000
+If some of their elements
+
+59:34.000 --> 59:37.000
+are weak or some connection is insufficient,
+
+59:37.000 --> 59:40.000
+the organization collapses and collapses like a house of cards.
+
+59:40.000 --> 59:43.000
+Diamond is a substance
+
+59:43.000 --> 59:46.000
+that has the strongest structure,
+
+59:46.000 --> 59:49.000
+and this strength is provided
+
+59:49.000 --> 59:52.000
+by the connections that exist between the atoms.
+
+59:52.000 --> 59:55.000
+The same thing exists between the variables
+
+59:55.000 --> 59:58.000
+that are highlighted by the diamond.
+
+59:58.000 --> 01:00:01.000
+The first variable is the mission of the company.
+
+01:00:01.000 --> 01:00:04.000
+What is the task of the company?
+
+01:00:04.000 --> 01:00:07.000
+Is it long-term or short-term?
+
+01:00:07.000 --> 01:00:10.000
+What is the scope of the market sector?
+
+01:00:10.000 --> 01:00:13.000
+What does it want to achieve?
+
+01:00:13.000 --> 01:00:16.000
+After the organization's mission is determined,
+
+01:00:16.000 --> 01:00:19.000
+what structure exists within the organization
+
+01:00:19.000 --> 01:00:22.000
+to achieve the goals set by the company?
+
+01:00:22.000 --> 01:00:25.000
+What is the structure of the organization?
+
+01:00:25.000 --> 01:00:28.000
+What are the technologies that the company owns?
+
+01:00:28.000 --> 01:00:31.000
+What are the competitive advantages
+
+01:00:31.000 --> 01:00:34.000
+that these technologies provide?
+
+01:00:34.000 --> 01:00:37.000
+Are they outdated or innovative?
+
+01:00:37.000 --> 01:00:40.000
+Do these technologies provide the opportunity
+
+01:00:40.000 --> 01:00:43.000
+for the company to get the desired result
+
+01:00:43.000 --> 01:00:46.000
+that will be in demand?
+
+01:00:46.000 --> 01:00:49.000
+And of course,
+
+01:00:49.000 --> 01:00:52.000
+what is the structure of the organization?
+
+01:00:52.000 --> 01:00:55.000
+What is the structure of the organization?
+
+01:00:55.000 --> 01:00:58.000
+What is the structure of the organization?
+
+01:00:58.000 --> 01:01:01.000
+And of course,
+
+01:01:01.000 --> 01:01:04.000
+the basis of everything is the personnel.
+
+01:01:04.000 --> 01:01:07.000
+Those people who work in the organization,
+
+01:01:07.000 --> 01:01:10.000
+those people who realize and perform its missions,
+
+01:01:10.000 --> 01:01:13.000
+those people who function in the created structure,
+
+01:01:13.000 --> 01:01:16.000
+those people who realize any technologies.
+
+01:01:16.000 --> 01:01:19.000
+Each of these four elements is essential
+
+01:01:19.000 --> 01:01:22.000
+in terms of organizing internal business processes
+
+01:01:22.000 --> 01:01:25.000
+that lead to a specific result,
+
+01:01:25.000 --> 01:01:28.000
+a specific service that we introduce to the market.
+
+01:01:28.000 --> 01:01:31.000
+Almas Leavitt is a model
+
+01:01:31.000 --> 01:01:34.000
+that is described in such variables
+
+01:01:34.000 --> 01:01:37.000
+that we can track,
+
+01:01:37.000 --> 01:01:40.000
+operationalize within each company
+
+01:01:40.000 --> 01:01:43.000
+and calculate how much of this
+
+01:01:43.000 --> 01:01:46.000
+information is available
+
+01:01:46.000 --> 01:01:49.000
+and how well these variables are interconnected
+
+01:01:49.000 --> 01:01:52.000
+and how much they provide us
+
+01:01:52.000 --> 01:01:55.000
+with the competitive advantages
+
+01:01:55.000 --> 01:01:58.000
+in terms of achieving
+
+01:01:58.000 --> 01:02:01.000
+the business result that interests us.
+
+01:02:01.000 --> 01:02:04.000
+the business result that interests us.
+
+01:02:04.000 --> 01:02:07.000
+If Leavitt deals with the structure of the organization
+
+01:02:07.000 --> 01:02:10.000
+and its description through variables,
+
+01:02:10.000 --> 01:02:13.000
+then it is necessary to understand
+
+01:02:13.000 --> 01:02:16.000
+that McKinsey, another researcher,
+
+01:02:16.000 --> 01:02:19.000
+proposed a ladder model
+
+01:02:19.000 --> 01:02:22.000
+as a result of the analysis of business processes
+
+01:02:22.000 --> 01:02:25.000
+and all those situational processes.
+
+01:02:25.000 --> 01:02:28.000
+It was called the McKinsey ladder
+
+01:02:28.000 --> 01:02:31.000
+that shows that at any time
+
+01:02:31.000 --> 01:02:34.000
+each company has some alternative development.
+
+01:02:34.000 --> 01:02:37.000
+It is very important
+
+01:02:37.000 --> 01:02:40.000
+that the business model
+
+01:02:40.000 --> 01:02:43.000
+and the requirements of the consumer
+
+01:02:43.000 --> 01:02:46.000
+constantly change.
+
+01:02:46.000 --> 01:02:49.000
+The business is successful
+
+01:02:49.000 --> 01:02:52.000
+if it is able to catch these changes
+
+01:02:52.000 --> 01:02:55.000
+and offer services, goods,
+
+01:02:55.000 --> 01:02:58.000
+services, goods in time
+
+01:02:58.000 --> 01:03:01.000
+and not to be afraid
+
+01:03:01.000 --> 01:03:04.000
+of the consequences of these changes.
+
+01:03:04.000 --> 01:03:07.000
+The business is successful
+
+01:03:07.000 --> 01:03:10.000
+if it can offer services, goods
+
+01:03:10.000 --> 01:03:13.000
+that are in demand now.
+
+01:03:13.000 --> 01:03:16.000
+The task of the managers
+
+01:03:16.000 --> 01:03:19.000
+is to identify these alternatives
+
+01:03:19.000 --> 01:03:22.000
+because the problem is the alternative
+
+01:03:22.000 --> 01:03:25.000
+that management faces.
+
+01:03:25.000 --> 01:03:28.000
+The performer works on a specific production,
+
+01:03:28.000 --> 01:03:31.000
+performs specific actions in specific conditions
+
+01:03:31.000 --> 01:03:34.000
+and he can be initiative in his place,
+
+01:03:35.000 --> 01:03:38.000
+but the manager has a common picture
+
+01:03:38.000 --> 01:03:41.000
+and a common situation.
+
+01:03:41.000 --> 01:03:44.000
+The manager determines specific strategies
+
+01:03:44.000 --> 01:03:47.000
+and development prospects
+
+01:03:47.000 --> 01:03:50.000
+depending on which the performer's activity changes.
+
+01:03:50.000 --> 01:03:53.000
+As for McKinsey,
+
+01:03:53.000 --> 01:03:56.000
+it is based on the fact that there is a business in the present time.
+
+01:03:56.000 --> 01:03:59.000
+As we can see in the lower left corner of the slide.
+
+01:03:59.000 --> 01:04:02.000
+There is a business in the present time.
+
+01:04:02.000 --> 01:04:05.000
+We can start from the existing competitive environment
+
+01:04:05.000 --> 01:04:08.000
+and set a specific tactical task
+
+01:04:08.000 --> 01:04:11.000
+to be successful in this moment,
+
+01:04:11.000 --> 01:04:14.000
+in this condition.
+
+01:04:14.000 --> 01:04:17.000
+But if we think about alternatives,
+
+01:04:17.000 --> 01:04:20.000
+if we think about the future,
+
+01:04:20.000 --> 01:04:23.000
+if we think about the goals set again,
+
+01:04:23.000 --> 01:04:26.000
+we should consider the possibilities
+
+01:04:26.000 --> 01:04:29.000
+of moving to a new competitive environment,
+
+01:04:29.000 --> 01:04:32.000
+the possibilities of changing the market
+
+01:04:32.000 --> 01:04:35.000
+and analyzing the prospects
+
+01:04:35.000 --> 01:04:38.000
+that are emerging in the market
+
+01:04:38.000 --> 01:04:41.000
+in order to satisfy these prospects.
+
+01:04:41.000 --> 01:04:44.000
+The business exists in a specific geographical location
+
+01:04:44.000 --> 01:04:47.000
+and here we should think about
+
+01:04:47.000 --> 01:04:50.000
+what we can talk about
+
+01:04:50.000 --> 01:04:53.000
+in terms of expanding the business.
+
+01:04:53.000 --> 01:04:56.000
+The opening of new production
+
+01:04:57.000 --> 01:05:00.000
+in new places, new countries,
+
+01:05:00.000 --> 01:05:03.000
+in new cities.
+
+01:05:03.000 --> 01:05:06.000
+How to find out
+
+01:05:06.000 --> 01:05:09.000
+in those geographical conditions
+
+01:05:09.000 --> 01:05:12.000
+depending on those climate features
+
+01:05:12.000 --> 01:05:15.000
+what products are in demand.
+
+01:05:15.000 --> 01:05:18.000
+For example, what shoes to produce
+
+01:05:18.000 --> 01:05:21.000
+in the North or on the Black Sea coast of the Caucasus,
+
+01:05:21.000 --> 01:05:24.000
+which of them will be in demand
+
+01:05:25.000 --> 01:05:28.000
+and what new products can be offered.
+
+01:05:28.000 --> 01:05:31.000
+Besides the geographical structure,
+
+01:05:31.000 --> 01:05:34.000
+we should pay attention to the business structure.
+
+01:05:34.000 --> 01:05:37.000
+There are some business interactions,
+
+01:05:37.000 --> 01:05:40.000
+business connections.
+
+01:05:40.000 --> 01:05:43.000
+On the other hand,
+
+01:05:43.000 --> 01:05:46.000
+we should think about merging
+
+01:05:46.000 --> 01:05:49.000
+or merging with other companies,
+
+01:05:49.000 --> 01:05:52.000
+including them, buying those companies
+
+01:05:52.000 --> 01:05:55.000
+in order to expand the market
+
+01:05:55.000 --> 01:05:58.000
+and take a bigger position
+
+01:05:58.000 --> 01:06:01.000
+in the market environment,
+
+01:06:01.000 --> 01:06:04.000
+in the production environment that exists.
+
+01:06:04.000 --> 01:06:07.000
+Again, we can analyze the existing value system
+
+01:06:07.000 --> 01:06:10.000
+that exists in the company
+
+01:06:10.000 --> 01:06:13.000
+in terms of the relationship
+
+01:06:13.000 --> 01:06:16.000
+to the product production
+
+01:06:16.000 --> 01:06:19.000
+and we can think about forming
+
+01:06:19.000 --> 01:06:22.000
+a new value system
+
+01:06:22.000 --> 01:06:25.000
+in order to satisfy the consumer's need
+
+01:06:25.000 --> 01:06:28.000
+to buy not just Indian tea,
+
+01:06:28.000 --> 01:06:31.000
+which was 20 years ago,
+
+01:06:31.000 --> 01:06:34.000
+but all modern teas that exist,
+
+01:06:34.000 --> 01:06:37.000
+like Karkade, Lipton,
+
+01:06:37.000 --> 01:06:40.000
+tea in teapots, etc.
+
+01:06:40.000 --> 01:06:43.000
+Depending on the advertising
+
+01:06:43.000 --> 01:06:46.000
+that exists, aggressive advertising,
+
+01:06:46.000 --> 01:06:49.000
+big media,
+
+01:06:49.000 --> 01:06:52.000
+consumers' needs are formed,
+
+01:06:52.000 --> 01:06:55.000
+as we have already discussed,
+
+01:06:55.000 --> 01:06:58.000
+and a lot of money can be invested
+
+01:06:58.000 --> 01:07:01.000
+to satisfy the consumer's needs
+
+01:07:01.000 --> 01:07:04.000
+and to make him buy those products
+
+01:07:04.000 --> 01:07:07.000
+and use those services
+
+01:07:07.000 --> 01:07:10.000
+that he doesn't have a significant need for,
+
+01:07:10.000 --> 01:07:13.000
+but it is specially designed.
+
+01:07:14.000 --> 01:07:17.000
+We can consider an alternative
+
+01:07:17.000 --> 01:07:20.000
+to increase sales,
+
+01:07:20.000 --> 01:07:23.000
+attract new consumers,
+
+01:07:23.000 --> 01:07:26.000
+and expand the market.
+
+01:07:26.000 --> 01:07:29.000
+McKinsey's ladder shows
+
+01:07:29.000 --> 01:07:32.000
+that business is constantly changing
+
+01:07:32.000 --> 01:07:35.000
+and this model allows us
+
+01:07:35.000 --> 01:07:38.000
+to analyze the changes that will come
+
+01:07:38.000 --> 01:07:41.000
+and to be together with the market
+
+01:07:42.000 --> 01:07:45.000
+not when they will be expanded
+
+01:07:45.000 --> 01:07:48.000
+and everyone will stop to satisfy them,
+
+01:07:48.000 --> 01:07:51.000
+but in advance.
+
+01:07:51.000 --> 01:07:54.000
+The ability to anticipate
+
+01:07:54.000 --> 01:07:57.000
+the requests that arise
+
+01:07:57.000 --> 01:08:00.000
+and to imagine
+
+01:08:00.000 --> 01:08:03.000
+the quality of a successful business
+
+01:08:03.000 --> 01:08:06.000
+that will lead you to the business elite
+
+01:08:06.000 --> 01:08:09.000
+or to the business of the future
+
+01:08:09.000 --> 01:08:12.000
+will be the most important thing
+
+01:08:12.000 --> 01:08:15.000
+that will help us to understand
+
+01:08:15.000 --> 01:08:18.000
+the change in the market
+
+01:08:18.000 --> 01:08:21.000
+and the change in the business.
+
+01:08:21.000 --> 01:08:24.000
+We have discussed two models
+
+01:08:24.000 --> 01:08:27.000
+that relate to the situation
+
+01:08:27.000 --> 01:08:30.000
+in business.
+
+01:08:30.000 --> 01:08:33.000
+There are many other models,
+
+01:08:33.000 --> 01:08:36.000
+but my goal is to explain
+
+01:08:36.000 --> 01:08:39.000
+how to perceive the tasks
+
+01:08:39.000 --> 01:08:42.000
+and how to analyze and evaluate them.
+
+01:08:42.000 --> 01:08:45.000
+These are the circumstances
+
+01:08:45.000 --> 01:08:48.000
+that relate to the situation approach.
+
+01:08:48.000 --> 01:08:51.000
+At this stage we have discussed
+
+01:08:51.000 --> 01:08:54.000
+the key evolutionary ideas
+
+01:08:54.000 --> 01:08:57.000
+of management thinking
+
+01:08:57.000 --> 01:09:00.000
+that were formed
+
+01:09:00.000 --> 01:09:03.000
+during the 19th century
+
+01:09:03.000 --> 01:09:06.000
+and that have an impact
+
+01:09:06.000 --> 01:09:09.000
+on the management of today.
+
+01:09:21.000 --> 01:09:24.000
+At the end of our meeting
+
+01:09:24.000 --> 01:09:27.000
+I would like to talk about the prospects.
+
+01:09:27.000 --> 01:09:30.000
+Yes, it is good.
+
+01:09:30.000 --> 01:09:33.000
+We have discussed the economic approach,
+
+01:09:33.000 --> 01:09:36.000
+the classical approach,
+
+01:09:36.000 --> 01:09:39.000
+the quantitative approach,
+
+01:09:39.000 --> 01:09:42.000
+the systematic approach,
+
+01:09:42.000 --> 01:09:45.000
+and the theory of strategies.
+
+01:09:45.000 --> 01:09:48.000
+We see that changes are constantly taking place
+
+01:09:48.000 --> 01:09:51.000
+and we need to react to the external environment
+
+01:09:51.000 --> 01:09:54.000
+in order to get the desired results.
+
+01:09:54.000 --> 01:09:57.000
+What are the trends
+
+01:09:57.000 --> 01:10:00.000
+in the management world?
+
+01:10:00.000 --> 01:10:03.000
+Where can we be
+
+01:10:03.000 --> 01:10:06.000
+in the current business environment
+
+01:10:06.000 --> 01:10:09.000
+or work ahead of the times?
+
+01:10:17.000 --> 01:10:20.000
+It is very difficult to make forecasts
+
+01:10:20.000 --> 01:10:23.000
+and to give an analysis
+
+01:10:23.000 --> 01:10:26.000
+that relates to the existing business environment.
+
+01:10:27.000 --> 01:10:30.000
+It is because it is the area
+
+01:10:30.000 --> 01:10:33.000
+that has not yet developed.
+
+01:10:33.000 --> 01:10:36.000
+These forecasts can be realized
+
+01:10:36.000 --> 01:10:39.000
+or not.
+
+01:10:39.000 --> 01:10:42.000
+But there are trends
+
+01:10:42.000 --> 01:10:45.000
+that are actively developing today
+
+01:10:45.000 --> 01:10:48.000
+and that are being addressed
+
+01:10:48.000 --> 01:10:51.000
+by more and more organizations.
+
+01:10:51.000 --> 01:10:54.000
+And significant funds are being invested
+
+01:10:55.000 --> 01:10:58.000
+in order to make possible innovations
+
+01:10:58.000 --> 01:11:01.000
+and investments.
+
+01:11:01.000 --> 01:11:04.000
+Today I invest funds
+
+01:11:04.000 --> 01:11:07.000
+so that they bring me profit soon.
+
+01:11:07.000 --> 01:11:10.000
+One of the significant trends
+
+01:11:10.000 --> 01:11:13.000
+in the development of management
+
+01:11:13.000 --> 01:11:16.000
+today is the so-called
+
+01:11:16.000 --> 01:11:19.000
+electronic or virtual business.
+
+01:11:19.000 --> 01:11:22.000
+The wide introduction
+
+01:11:23.000 --> 01:11:26.000
+of information technologies,
+
+01:11:26.000 --> 01:11:29.000
+the introduction of computer technology,
+
+01:11:29.000 --> 01:11:32.000
+the development of the Internet,
+
+01:11:32.000 --> 01:11:35.000
+the development of electronic communications,
+
+01:11:35.000 --> 01:11:38.000
+the development of telecommunications
+
+01:11:38.000 --> 01:11:41.000
+led to the fact that in order to get the necessary information
+
+01:11:41.000 --> 01:11:44.000
+and to organize any interaction,
+
+01:11:44.000 --> 01:11:47.000
+it is no longer necessary
+
+01:11:47.000 --> 01:11:50.000
+to constantly maintain direct contact with someone,
+
+01:11:50.000 --> 01:11:53.000
+to call on the phone, and so on.
+
+01:11:53.000 --> 01:11:56.000
+Today there are a lot of tasks,
+
+01:11:56.000 --> 01:11:59.000
+a lot of business processes and functions
+
+01:11:59.000 --> 01:12:02.000
+that can be carried out electronically.
+
+01:12:02.000 --> 01:12:05.000
+Payments, service provision,
+
+01:12:05.000 --> 01:12:08.000
+search for information,
+
+01:12:08.000 --> 01:12:11.000
+building of interaction.
+
+01:12:11.000 --> 01:12:14.000
+Today all this is realized
+
+01:12:14.000 --> 01:12:17.000
+with the help of software
+
+01:12:17.000 --> 01:12:20.000
+that is not only imaginable,
+
+01:12:20.000 --> 01:12:23.000
+but also virtual in terms of the use
+
+01:12:23.000 --> 01:12:26.000
+of modern information and telecommunications technologies.
+
+01:12:26.000 --> 01:12:29.000
+Today it is no longer necessary
+
+01:12:29.000 --> 01:12:32.000
+to come to work.
+
+01:12:32.000 --> 01:12:35.000
+Today it is enough to have a computer
+
+01:12:35.000 --> 01:12:38.000
+and with the help of a computer
+
+01:12:38.000 --> 01:12:41.000
+you can organize those or other business processes
+
+01:12:41.000 --> 01:12:44.000
+that give a concrete, tangible result.
+
+01:12:44.000 --> 01:12:47.000
+Today there are more and more organizations
+
+01:12:47.000 --> 01:12:50.000
+that deal with electronic business.
+
+01:12:50.000 --> 01:12:53.000
+In terms of virtual stores,
+
+01:12:53.000 --> 01:12:56.000
+in terms of service provision,
+
+01:12:56.000 --> 01:12:59.000
+there is no need to look for something
+
+01:12:59.000 --> 01:13:02.000
+in stores and enterprises.
+
+01:13:02.000 --> 01:13:05.000
+It is enough to go to the computer,
+
+01:13:05.000 --> 01:13:08.000
+find the services you are interested in
+
+01:13:08.000 --> 01:13:11.000
+and pay for them.
+
+01:13:11.000 --> 01:13:14.000
+Again, it is not necessary to pay in cash,
+
+01:13:14.000 --> 01:13:17.000
+you can pay with electronic payment methods.
+
+01:13:17.000 --> 01:13:20.000
+And this service is delivered to your home.
+
+01:13:20.000 --> 01:13:23.000
+A very promising and promising business
+
+01:13:23.000 --> 01:13:26.000
+that is being implemented today.
+
+01:13:26.000 --> 01:13:29.000
+This business is not only about design
+
+01:13:29.000 --> 01:13:32.000
+and development of websites,
+
+01:13:32.000 --> 01:13:35.000
+but also about sales, training,
+
+01:13:35.000 --> 01:13:38.000
+remote learning.
+
+01:13:38.000 --> 01:13:41.000
+This is what we are doing today.
+
+01:13:41.000 --> 01:13:44.000
+This is also an electronic business.
+
+01:13:44.000 --> 01:13:47.000
+You have a disk
+
+01:13:47.000 --> 01:13:50.000
+and you use this disk to interact with me
+
+01:13:50.000 --> 01:13:53.000
+in order to get the knowledge
+
+01:13:53.000 --> 01:13:56.000
+that you need
+
+01:13:56.000 --> 01:13:59.000
+in order to get more results
+
+01:13:59.000 --> 01:14:02.000
+from the business you are engaged in,
+
+01:14:02.000 --> 01:14:05.000
+to get more profit
+
+01:14:05.000 --> 01:14:08.000
+from the investments you make.
+
+01:14:08.000 --> 01:14:11.000
+The organization of electronic business
+
+01:14:11.000 --> 01:14:14.000
+is a very broad sphere of activity
+
+01:14:14.000 --> 01:14:17.000
+that is gaining billions of dollars today.
+
+01:14:17.000 --> 01:14:20.000
+Bill Gates is the richest man on the planet,
+
+01:14:20.000 --> 01:14:23.000
+who made this wealth for himself
+
+01:14:23.000 --> 01:14:26.000
+actually on software.
+
+01:14:26.000 --> 01:14:29.000
+We all use the results
+
+01:14:29.000 --> 01:14:32.000
+that Microsoft has achieved.
+
+01:14:32.000 --> 01:14:35.000
+You can treat them differently,
+
+01:14:35.000 --> 01:14:38.000
+but this is a fact.
+
+01:14:38.000 --> 01:14:41.000
+That is why virtual business
+
+01:14:41.000 --> 01:14:44.000
+or electronic business
+
+01:14:44.000 --> 01:14:47.000
+is gaining more and more popularity
+
+01:14:47.000 --> 01:14:50.000
+from the management point of view.
+
+01:14:50.000 --> 01:14:53.000
+The organization of management system is very interesting.
+
+01:14:53.000 --> 01:14:56.000
+How to organize the interaction and management
+
+01:14:56.000 --> 01:14:59.000
+of those employees who sit on computers.
+
+01:14:59.000 --> 01:15:02.000
+There is a lot of literature
+
+01:15:02.000 --> 01:15:05.000
+where you can learn a lot
+
+01:15:05.000 --> 01:15:08.000
+from the sources I have suggested.
+
+01:15:08.000 --> 01:15:11.000
+This is the most promising
+
+01:15:11.000 --> 01:15:14.000
+trend of the development of modern management.
+
+01:15:14.000 --> 01:15:17.000
+Not to mention that the management system
+
+01:15:17.000 --> 01:15:20.000
+can be implemented
+
+01:15:20.000 --> 01:15:23.000
+with the help of electronic interaction.
+
+01:15:23.000 --> 01:15:26.000
+Today, the same manager
+
+01:15:26.000 --> 01:15:29.000
+can communicate with the help of e-mail,
+
+01:15:29.000 --> 01:15:32.000
+e-mails, e-mails.
+
+01:15:32.000 --> 01:15:35.000
+We know that a lot of organizations
+
+01:15:35.000 --> 01:15:38.000
+are functioning quite successfully.
+
+01:15:38.000 --> 01:15:41.000
+Moreover, where such a system of e-communication is implemented,
+
+01:15:41.000 --> 01:15:44.000
+the problem of time management
+
+01:15:44.000 --> 01:15:47.000
+is solved very positively.
+
+01:15:47.000 --> 01:15:50.000
+The manager has more time
+
+01:15:50.000 --> 01:15:53.000
+not to solve specific problems,
+
+01:15:53.000 --> 01:15:56.000
+but to deal with strategic aspects of his business.
+
+01:15:56.000 --> 01:15:59.000
+This is a separate and wide area of research.
+
+01:15:59.000 --> 01:16:02.000
+The next trend of modern management
+
+01:16:02.000 --> 01:16:05.000
+is connected with the information,
+
+01:16:05.000 --> 01:16:08.000
+with the knowledge that people possess,
+
+01:16:08.000 --> 01:16:11.000
+thanks to which we get
+
+01:16:11.000 --> 01:16:14.000
+the desired results of the competition.
+
+01:16:14.000 --> 01:16:17.000
+We have already said many times
+
+01:16:17.000 --> 01:16:20.000
+that today,
+
+01:16:20.000 --> 01:16:23.000
+thanks to the wide development
+
+01:16:23.000 --> 01:16:26.000
+of information technologies,
+
+01:16:26.000 --> 01:16:29.000
+information becomes material,
+
+01:16:29.000 --> 01:16:32.000
+which acquires value.
+
+01:16:32.000 --> 01:16:35.000
+Moreover, each company has its own
+
+01:16:35.000 --> 01:16:38.000
+important knowledge, important information,
+
+01:16:38.000 --> 01:16:41.000
+important technologies,
+
+01:16:41.000 --> 01:16:44.000
+which make up the company's specific activity,
+
+01:16:44.000 --> 01:16:47.000
+which make up the basis of its efficiency
+
+01:16:47.000 --> 01:16:50.000
+on the market,
+
+01:16:50.000 --> 01:16:53.000
+thanks to which it has a competitive advantage
+
+01:16:53.000 --> 01:16:56.000
+over other companies.
+
+01:16:56.000 --> 01:16:59.000
+In this regard,
+
+01:16:59.000 --> 01:17:02.000
+the management of knowledge
+
+01:17:02.000 --> 01:17:05.000
+has become a very serious trend in modern management.
+
+01:17:05.000 --> 01:17:08.000
+Knowledge management is closely related
+
+01:17:08.000 --> 01:17:11.000
+to the creation of so-called
+
+01:17:11.000 --> 01:17:14.000
+training organizations.
+
+01:17:14.000 --> 01:17:17.000
+The idea of training organizations
+
+01:17:17.000 --> 01:17:20.000
+was introduced by Peter Senge, Chris Argyris,
+
+01:17:20.000 --> 01:17:23.000
+and you can read more about it
+
+01:17:23.000 --> 01:17:26.000
+in the literature that I have suggested.
+
+01:17:26.000 --> 01:17:29.000
+The main idea is that
+
+01:17:29.000 --> 01:17:32.000
+if an organization does not try
+
+01:17:32.000 --> 01:17:35.000
+to pay attention to feedback,
+
+01:17:35.000 --> 01:17:38.000
+if an organization does not try
+
+01:17:38.000 --> 01:17:41.000
+to reflect the changes
+
+01:17:41.000 --> 01:17:44.000
+that occur in the external environment,
+
+01:17:44.000 --> 01:17:47.000
+and what concerns the training organizations,
+
+01:17:47.000 --> 01:17:50.000
+this is also a development of situational approach.
+
+01:17:50.000 --> 01:17:53.000
+The organization is in the environment,
+
+01:17:53.000 --> 01:17:56.000
+this is the first time,
+
+01:17:56.000 --> 01:17:59.000
+and in this environment there is information
+
+01:17:59.000 --> 01:18:02.000
+about the organization needed for its development.
+
+01:18:02.000 --> 01:18:05.000
+And the organization has an internal environment
+
+01:18:05.000 --> 01:18:08.000
+in which people with their knowledge are located,
+
+01:18:08.000 --> 01:18:11.000
+and this is the only case
+
+01:18:11.000 --> 01:18:14.000
+when we invest funds in training and development,
+
+01:18:14.000 --> 01:18:17.000
+and not only for individual employees,
+
+01:18:17.000 --> 01:18:20.000
+but for all the employees of the organization,
+
+01:18:20.000 --> 01:18:23.000
+when the organization is able to introduce innovations,
+
+01:18:23.000 --> 01:18:26.000
+change either technological,
+
+01:18:26.000 --> 01:18:29.000
+informational, organizational,
+
+01:18:29.000 --> 01:18:32.000
+controlling, planning chains,
+
+01:18:32.000 --> 01:18:35.000
+only in this case
+
+01:18:35.000 --> 01:18:38.000
+the organization will have
+
+01:18:38.000 --> 01:18:41.000
+undisputed competitive advantage on the market.
+
+01:18:41.000 --> 01:18:44.000
+It is with such qualities that the training organization has.
+
+01:18:44.000 --> 01:18:47.000
+You can see a comparison
+
+01:18:47.000 --> 01:18:50.000
+between a traditional organization
+
+01:18:50.000 --> 01:18:53.000
+and a training organization on this slide.
+
+01:18:53.000 --> 01:18:56.000
+This is a summarized slide
+
+01:18:56.000 --> 01:18:59.000
+that shows the characteristics of the organization
+
+01:18:59.000 --> 01:19:02.000
+according to the criteria that are usually applied.
+
+01:19:02.000 --> 01:19:05.000
+We can pay attention to the following.
+
+01:19:05.000 --> 01:19:08.000
+The main emphasis is made
+
+01:19:08.000 --> 01:19:11.000
+on the knowledge that the organization has
+
+01:19:11.000 --> 01:19:14.000
+through the people in this organization,
+
+01:19:14.000 --> 01:19:17.000
+and secondly, on the ability to apply this knowledge,
+
+01:19:17.000 --> 01:19:20.000
+to receive this knowledge,
+
+01:19:20.000 --> 01:19:23.000
+to develop this knowledge,
+
+01:19:23.000 --> 01:19:26.000
+to make innovations
+
+01:19:26.000 --> 01:19:29.000
+in order to achieve the goals
+
+01:19:29.000 --> 01:19:32.000
+that are set by the organization.
+
+01:19:32.000 --> 01:19:35.000
+The training organization is, in fact,
+
+01:19:35.000 --> 01:19:38.000
+the idea of the mid-90s,
+
+01:19:38.000 --> 01:19:41.000
+which today is getting more and more developed,
+
+01:19:41.000 --> 01:19:44.000
+and to a large extent it is related to the development
+
+01:19:44.000 --> 01:19:47.000
+of the virtual business itself,
+
+01:19:47.000 --> 01:19:50.000
+which we talked about today.
+
+01:19:50.000 --> 01:19:53.000
+But the main thing here is that the emphasis is made on people.
+
+01:19:53.000 --> 01:19:56.000
+It is emphasized once again that all successes
+
+01:19:56.000 --> 01:19:59.000
+are based on the knowledge of the staff
+
+01:19:59.000 --> 01:20:02.000
+that works in this organization,
+
+01:20:02.000 --> 01:20:05.000
+on the knowledge of the manager
+
+01:20:05.000 --> 01:20:08.000
+whose system is represented in the organization,
+
+01:20:08.000 --> 01:20:11.000
+on the reflection of the achievements
+
+01:20:11.000 --> 01:20:14.000
+that are on the market today,
+
+01:20:14.000 --> 01:20:17.000
+and on the implementation of the innovations
+
+01:20:17.000 --> 01:20:20.000
+that will bring us any results tomorrow.
+
+01:20:20.000 --> 01:20:23.000
+Another trend is the so-called
+
+01:20:23.000 --> 01:20:26.000
+total quality management.
+
+01:20:26.000 --> 01:20:29.000
+This trend was born in the 80s,
+
+01:20:29.000 --> 01:20:32.000
+in the 90s of the last century.
+
+01:20:32.000 --> 01:20:35.000
+It was born in Japan.
+
+01:20:35.000 --> 01:20:38.000
+This is the achievement that came to us from Japan,
+
+01:20:38.000 --> 01:20:41.000
+and gradually this total quality management
+
+01:20:41.000 --> 01:20:44.000
+is gaining more and more popularity.
+
+01:20:44.000 --> 01:20:47.000
+No wonder Japanese goods
+
+01:20:47.000 --> 01:20:50.000
+have become synonymous with quality.
+
+01:20:51.000 --> 01:20:54.000
+Of course, I mean real Japanese goods,
+
+01:20:54.000 --> 01:20:57.000
+not the fake ones that are made for them.
+
+01:20:57.000 --> 01:21:00.000
+Moreover, all those Chinese fake goods
+
+01:21:00.000 --> 01:21:03.000
+that are made under brand labels
+
+01:21:03.000 --> 01:21:06.000
+use trust, respect,
+
+01:21:06.000 --> 01:21:09.000
+and a certain attitude to the confidence
+
+01:21:09.000 --> 01:21:12.000
+in the quality of Japanese goods
+
+01:21:12.000 --> 01:21:15.000
+that they have.
+
+01:21:15.000 --> 01:21:18.000
+So, indeed, this quality management
+
+01:21:19.000 --> 01:21:22.000
+has revolutionized not only management,
+
+01:21:22.000 --> 01:21:25.000
+but also consumer psychology.
+
+01:21:25.000 --> 01:21:28.000
+Because today the consumer
+
+01:21:28.000 --> 01:21:31.000
+wants not just to get the goods
+
+01:21:31.000 --> 01:21:34.000
+that suit him,
+
+01:21:34.000 --> 01:21:37.000
+but to get the goods of the appropriate quality.
+
+01:21:37.000 --> 01:21:40.000
+Simply because it also affects
+
+01:21:40.000 --> 01:21:43.000
+your social status,
+
+01:21:43.000 --> 01:21:46.000
+it indicates your status,
+
+01:21:46.000 --> 01:21:49.000
+what kind of goods you can use.
+
+01:21:49.000 --> 01:21:52.000
+You can drive a Jeep,
+
+01:21:52.000 --> 01:21:55.000
+you can drive a Zhiguli or a Zaporozhets.
+
+01:21:55.000 --> 01:21:58.000
+These are different cars,
+
+01:21:58.000 --> 01:22:01.000
+but their qualities are different.
+
+01:22:01.000 --> 01:22:04.000
+As for the overall quality management,
+
+01:22:04.000 --> 01:22:07.000
+it is precisely the philosophy of management.
+
+01:22:07.000 --> 01:22:10.000
+And the main idea of this philosophy
+
+01:22:10.000 --> 01:22:13.000
+is that if you want to achieve
+
+01:22:13.000 --> 01:22:16.000
+a certain quality of a product,
+
+01:22:16.000 --> 01:22:19.000
+you should constantly improve
+
+01:22:19.000 --> 01:22:22.000
+the quality of the product.
+
+01:22:22.000 --> 01:22:25.000
+Pay attention, you can't supply
+
+01:22:25.000 --> 01:22:28.000
+a new product,
+
+01:22:28.000 --> 01:22:31.000
+you can supply a product
+
+01:22:31.000 --> 01:22:34.000
+that has been in demand for a long time,
+
+01:22:34.000 --> 01:22:37.000
+but the product of the appropriate quality
+
+01:22:37.000 --> 01:22:40.000
+is a Japanese TV and a Rubin TV.
+
+01:22:40.000 --> 01:22:43.000
+Both are washed,
+
+01:22:43.000 --> 01:22:46.000
+but for some reason we prefer
+
+01:22:46.000 --> 01:22:49.000
+Japanese technology, not Russian.
+
+01:22:49.000 --> 01:22:52.000
+I just want to draw your attention to this.
+
+01:22:52.000 --> 01:22:55.000
+Moreover, in addition to constant improvement
+
+01:22:55.000 --> 01:22:58.000
+of quality,
+
+01:22:58.000 --> 01:23:01.000
+a quick reaction to change
+
+01:23:01.000 --> 01:23:04.000
+customer needs and expectations is also necessary.
+
+01:23:04.000 --> 01:23:07.000
+Customers want the plate to be silver,
+
+01:23:07.000 --> 01:23:10.000
+let's give them a silver plate.
+
+01:23:10.000 --> 01:23:13.000
+Customers want different pictures
+
+01:23:13.000 --> 01:23:16.000
+on the car.
+
+01:23:16.000 --> 01:23:19.000
+Pay attention, today we see
+
+01:23:19.000 --> 01:23:22.000
+more and more cars with these pictures.
+
+01:23:22.000 --> 01:23:25.000
+This is quality management
+
+01:23:25.000 --> 01:23:28.000
+in the sense that we want a car.
+
+01:23:28.000 --> 01:23:31.000
+After all, the picture has no influence
+
+01:23:31.000 --> 01:23:34.000
+on its driving qualities,
+
+01:23:34.000 --> 01:23:37.000
+reliability, crash tests.
+
+01:23:37.000 --> 01:23:40.000
+But we want this car with a Jaguar
+
+01:23:40.000 --> 01:23:43.000
+or someone else.
+
+01:23:43.000 --> 01:23:46.000
+This is a response to the demand
+
+01:23:46.000 --> 01:23:49.000
+that is presented to you.
+
+01:23:49.000 --> 01:23:52.000
+The idea of new approaches
+
+01:23:52.000 --> 01:23:55.000
+to management
+
+01:23:55.000 --> 01:23:58.000
+in the framework of quality management
+
+01:23:58.000 --> 01:24:01.000
+is in the concept of general quality management.
+
+01:24:01.000 --> 01:24:04.000
+First of all,
+
+01:24:04.000 --> 01:24:07.000
+the main attention is paid to the client.
+
+01:24:07.000 --> 01:24:10.000
+That is, the client is the one
+
+01:24:10.000 --> 01:24:13.000
+around whom the market
+
+01:24:13.000 --> 01:24:16.000
+and production start to rotate.
+
+01:24:16.000 --> 01:24:19.000
+Not business results,
+
+01:24:19.000 --> 01:24:22.000
+but the client with his needs.
+
+01:24:22.000 --> 01:24:25.000
+Because the client pays,
+
+01:24:25.000 --> 01:24:28.000
+which means that the client will provide business results.
+
+01:24:28.000 --> 01:24:31.000
+This is a centralized business.
+
+01:24:31.000 --> 01:24:34.000
+We care about continuous self-improvement.
+
+01:24:34.000 --> 01:24:37.000
+If we release something
+
+01:24:37.000 --> 01:24:40.000
+and it is sold,
+
+01:24:40.000 --> 01:24:43.000
+it does not mean that we can relax a little.
+
+01:24:43.000 --> 01:24:46.000
+We must improve what is already in demand.
+
+01:24:46.000 --> 01:24:49.000
+Again, the important thing is
+
+01:24:49.000 --> 01:24:52.000
+that when we talk about quality management,
+
+01:24:52.000 --> 01:24:55.000
+we focus on the process.
+
+01:24:55.000 --> 01:24:58.000
+We get the result.
+
+01:24:58.000 --> 01:25:01.000
+But the process is important.
+
+01:25:01.000 --> 01:25:04.000
+How quickly we get this result.
+
+01:25:04.000 --> 01:25:07.000
+What components we use
+
+01:25:07.000 --> 01:25:10.000
+to get the result.
+
+01:25:10.000 --> 01:25:13.000
+From the point of view of ecological purity,
+
+01:25:13.000 --> 01:25:16.000
+which is now a problem for all consumers.
+
+01:25:16.000 --> 01:25:19.000
+From the point of view of genetically modified objects,
+
+01:25:19.000 --> 01:25:22.000
+which we have already talked about.
+
+01:25:22.000 --> 01:25:25.000
+Return to natural food, etc.
+
+01:25:25.000 --> 01:25:28.000
+The production process is important.
+
+01:25:28.000 --> 01:25:31.000
+We can get something quickly,
+
+01:25:31.000 --> 01:25:34.000
+but due to the fact that more time is needed,
+
+01:25:34.000 --> 01:25:37.000
+it will be more qualitatively,
+
+01:25:37.000 --> 01:25:40.000
+which means more in demand.
+
+01:25:40.000 --> 01:25:43.000
+The tendency to improve quality
+
+01:25:43.000 --> 01:25:46.000
+is realized by the fact that it is necessary
+
+01:25:46.000 --> 01:25:49.000
+to improve the quality of everything
+
+01:25:49.000 --> 01:25:52.000
+that is done by the organization.
+
+01:25:52.000 --> 01:25:55.000
+Cars should be of the same level.
+
+01:25:55.000 --> 01:25:58.000
+There should be a particular parking lot.
+
+01:25:58.000 --> 01:26:01.000
+If you buy equipment,
+
+01:26:01.000 --> 01:26:04.000
+you should buy the most perfect equipment.
+
+01:26:04.000 --> 01:26:07.000
+Despite the fact that the opportunities
+
+01:26:07.000 --> 01:26:10.000
+that equipment can provide may not be in demand.
+
+01:26:10.000 --> 01:26:13.000
+But still, from the point of view of improving
+
+01:26:13.000 --> 01:26:16.000
+the quality of everything that is done by the organization,
+
+01:26:16.000 --> 01:26:19.000
+it is a cost of this process.
+
+01:26:19.000 --> 01:26:22.000
+When we talk about quality,
+
+01:26:22.000 --> 01:26:25.000
+it is important to talk about measurements.
+
+01:26:25.000 --> 01:26:28.000
+Everything should be very well adjusted to each other.
+
+01:26:28.000 --> 01:26:31.000
+There should be no gaps in the product,
+
+01:26:31.000 --> 01:26:34.000
+no rounded corners, or something else.
+
+01:26:34.000 --> 01:26:37.000
+The product should be assembled not on a knee,
+
+01:26:37.000 --> 01:26:40.000
+but should be a high-tech version.
+
+01:26:40.000 --> 01:26:43.000
+From the point of view that everything is adjusted,
+
+01:26:43.000 --> 01:26:46.000
+the quality of the product should be the highest.
+
+01:26:46.000 --> 01:26:49.000
+This is the most important thing.
+
+01:26:49.000 --> 01:26:52.000
+It is very important to pass the authority
+
+01:26:52.000 --> 01:26:55.000
+to the workers.
+
+01:26:55.000 --> 01:26:58.000
+The worker should feel that he is responsible
+
+01:26:58.000 --> 01:27:01.000
+for the high quality of each element
+
+01:27:01.000 --> 01:27:04.000
+that is made by him.
+
+01:27:04.000 --> 01:27:07.000
+The quality of the product depends on the quality
+
+01:27:07.000 --> 01:27:10.000
+that is inside.
+
+01:27:10.000 --> 01:27:13.000
+The quality of the product should be the highest.
+
+01:27:13.000 --> 01:27:16.000
+This is a real trend.
+
+01:27:16.000 --> 01:27:19.000
+The workers should discuss
+
+01:27:19.000 --> 01:27:22.000
+and monitor the quality of each work.
+
+01:27:22.000 --> 01:27:25.000
+If someone made a mistake,
+
+01:27:25.000 --> 01:27:28.000
+the overall quality of the product
+
+01:27:28.000 --> 01:27:31.000
+that is made will decrease.
+
+01:27:31.000 --> 01:27:34.000
+This is the third approach
+
+01:27:34.000 --> 01:27:37.000
+that is being implemented today.
+
+01:27:37.000 --> 01:27:40.000
+As for the management perspective,
+
+01:27:40.000 --> 01:27:43.000
+we have focused on three main approaches.
+
+01:27:43.000 --> 01:27:46.000
+Of course, this does not mean
+
+01:27:46.000 --> 01:27:49.000
+that there are no other directions.
+
+01:27:49.000 --> 01:27:52.000
+In the literature that is offered to you,
+
+01:27:52.000 --> 01:27:55.000
+you can familiarize yourself with other trends.
+
+01:27:55.000 --> 01:27:58.000
+The three that we have discussed today
+
+01:27:58.000 --> 01:28:01.000
+are the most important ones.
+
+01:28:01.000 --> 01:28:04.000
+The first one is the management perspective.
+
+01:28:04.000 --> 01:28:07.000
+The second one is the management perspective.
+
+01:28:07.000 --> 01:28:10.000
+The third one is the management perspective.
+
+01:28:10.000 --> 01:28:13.000
+The fourth one is the management perspective.
+
+01:28:21.000 --> 01:28:24.000
+Let's sum up our meeting.
+
+01:28:24.000 --> 01:28:27.000
+We have discussed the main categories
+
+01:28:27.000 --> 01:28:30.000
+and approaches that exist in the modern management.
+
+01:28:30.000 --> 01:28:33.000
+We have discussed the main categories
+
+01:28:33.000 --> 01:28:36.000
+and approaches that exist in the modern management.
+
+01:28:36.000 --> 01:28:39.000
+We have discussed the history of the emergence
+
+01:28:39.000 --> 01:28:42.000
+of management as a scientific discipline.
+
+01:28:42.000 --> 01:28:45.000
+We have discussed the main concepts,
+
+01:28:45.000 --> 01:28:48.000
+approaches and systems that exist in management.
+
+01:28:48.000 --> 01:28:51.000
+We have discussed their positive and negative sides.
+
+01:28:51.000 --> 01:28:54.000
+The main thing is that each of these concepts
+
+01:28:54.000 --> 01:28:57.000
+depends on the specifics of the tasks
+
+01:28:57.000 --> 01:29:00.000
+that are presented to the company.
+
+01:29:00.000 --> 01:29:03.000
+It is pointless to look for a perfect concept
+
+01:29:03.000 --> 01:29:06.000
+that will immediately give us the desired results.
+
+01:29:06.000 --> 01:29:09.000
+It is pointless to look for a perfect concept
+
+01:29:09.000 --> 01:29:12.000
+that will immediately give us the desired results.
+
+01:29:12.000 --> 01:29:15.000
+We need to start from the situation,
+
+01:29:15.000 --> 01:29:18.000
+from the tasks, from the requirements,
+
+01:29:18.000 --> 01:29:21.000
+from the specifics, from the social, economic,
+
+01:29:21.000 --> 01:29:24.000
+social and technical conditions that exist.
+
+01:29:24.000 --> 01:29:27.000
+Depending on the needs that arise,
+
+01:29:27.000 --> 01:29:30.000
+we can develop a certain management concept.
+
+01:29:30.000 --> 01:29:33.000
+we can develop a certain management concept.
+
+01:29:33.000 --> 01:29:36.000
+Finally, we have discussed the areas of development
+
+01:29:36.000 --> 01:29:39.000
+and the future trends that exist in the modern management.
+
+01:29:39.000 --> 01:29:42.000
+and the future trends that exist in the modern management.
+
+01:29:42.000 --> 01:29:45.000
+These trends are being implemented today.
+
+01:29:45.000 --> 01:29:48.000
+We are participating in them.
+
+01:29:48.000 --> 01:29:51.000
+They will help us to acquire
+
+01:29:51.000 --> 01:29:54.000
+competitive advantages
+
+01:29:54.000 --> 01:29:57.000
+in the harsh conditions of the market.
+
+01:29:57.000 --> 01:30:00.000
+in the harsh conditions of the market.
+
+01:30:00.000 --> 01:30:03.000
+in the harsh conditions of the market.
+
+01:30:03.000 --> 01:30:06.000
+Thank you for your attention. See you!

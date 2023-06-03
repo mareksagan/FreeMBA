@@ -1,0 +1,1234 @@
+WEBVTT
+
+00:00.000 --> 00:05.000
+What is the role of data marketing?
+
+00:05.000 --> 00:09.000
+Now I would like to talk a little bit about data marketing databases.
+
+00:09.000 --> 00:22.000
+Now many companies have thought about the fact that from an unstructured list of their own clients or consumers,
+
+00:22.000 --> 00:34.000
+it is necessary to extract some benefit from the point of view of being able to get as much information as possible about their needs,
+
+00:34.000 --> 00:43.000
+not just the address, age, place of residence, but also, as I said, important segmentation parameters,
+
+00:43.000 --> 00:53.000
+which should be taken into account, such as behavior, lifestyle, preference in purchasing goods for personal use,
+
+00:53.000 --> 00:56.000
+or, for example, purchasing goods as a gift.
+
+00:56.000 --> 01:06.000
+In this case, the behavior of the consumer will be different, and, of course, the management of relationships with them will also be different.
+
+01:06.000 --> 01:19.000
+All corporate information systems today realize the importance of creating modules or a special block of information systems
+
+01:19.000 --> 01:35.000
+called Custom Relationship Management or CRM, which allow to manage relationships with clients and maintain these relationships for as long as possible.
+
+01:35.000 --> 01:41.000
+It is believed that attracting new clients is a much more expensive procedure than keeping the old ones.
+
+01:41.000 --> 01:53.000
+And in this regard, the order, implementation and management of data marketing databases are aimed at reducing the risk of uncertainty
+
+01:53.000 --> 01:58.000
+for the company's activities in the conditions of a constantly changing marketing environment.
+
+01:59.000 --> 02:10.000
+Returning to our topic, we want to talk about the types of marketing information that can become valuable and important for marketing information systems.
+
+02:10.000 --> 02:17.000
+If we talk about the types of marketing information, it is divided into two main clusters or blocks.
+
+02:17.000 --> 02:25.000
+The secondary data, the facts and figures that have already been collected and published before the start of a specific research project.
+
+02:25.000 --> 02:33.000
+This information is divided, as I said, into internal data, financial reports, reports on previous studies, sales reports,
+
+02:33.000 --> 02:44.000
+description of the profile of the consumer, which can come from previous studies or just intuitively from the observations of your managers.
+
+02:44.000 --> 02:51.000
+And external data, data on population census, for example, data on association, publication in open printing, the Internet, and so on.
+
+02:51.000 --> 02:58.000
+The primary data includes facts and figures that are collected specifically for a specific research project.
+
+02:58.000 --> 03:09.000
+And they can be divided into data observations, we call it watching people, that is, mechanical and electronic approaches to measuring,
+
+03:09.000 --> 03:20.000
+for example, teleconferencing using special devices called people meters, or the use of special researchers, which are called observers.
+
+03:20.000 --> 03:33.000
+And the second block, the second cluster of primary data, which is obtained using consumer surveys or through a process called asking people.
+
+03:33.000 --> 03:42.000
+The generation of ideas by conducting deep interviews and focus groups, checking ideas by telephone, mail and individual interviews.
+
+03:42.000 --> 03:50.000
+And today, as I said, the Internet is a very important tool and channel for obtaining marketing information.
+
+03:50.000 --> 03:57.000
+And with the help of the Internet, you can collect both secondary data, for example, about the activities of competitors,
+
+03:57.000 --> 04:05.000
+when you just analyze the websites of these competitors or watch annual financial reports about their activities.
+
+04:05.000 --> 04:10.000
+Or the Internet can be used to obtain primary data.
+
+04:10.000 --> 04:23.000
+And I'm sure that each of you either organized such surveys on your own, or participated in such consumer surveys.
+
+04:23.000 --> 04:30.000
+For example, if any of you purchased any products via the Internet,
+
+04:30.000 --> 04:41.000
+for example, yesterday I ordered and received a product called a cartridge for a multifunctional printer.
+
+04:41.000 --> 04:50.000
+And when you organize such an order, such a product, we leave some traces on the Internet.
+
+04:50.000 --> 04:55.000
+These traces can be analyzed using special analytical programs.
+
+04:55.000 --> 05:04.000
+And companies that organize the sale and delivery of such products or some other companies can use your information.
+
+05:04.000 --> 05:19.000
+And then, similar products, similar goods and services are offered to your email, which, in their opinion, may be in demand.
+
+05:19.000 --> 05:27.000
+For example, I often receive information from the St. Petersburg publishing house, because I often buy books there via the Internet.
+
+05:27.000 --> 05:32.000
+From the book and e-shop Ozon, because my information is left there.
+
+05:32.000 --> 05:42.000
+Information often comes from an e-shop that offers theater tickets, parterre.ru, and other organizations.
+
+05:42.000 --> 05:49.000
+Or some sites that allow you to order your vacation, your tourist route.
+
+05:49.000 --> 05:56.000
+Clusters of secondary external information are closed and open clusters of secondary information.
+
+05:56.000 --> 06:05.000
+Open information includes data from the State Statistics Service, for example, special reference books that are published by the State Statistics Service annually.
+
+06:05.000 --> 06:12.000
+For example, Russia in figures or on the Russian economic region, economic state.
+
+06:12.000 --> 06:21.000
+In principle, all data of the State Statistics Service is open, except for some special secret data that is not published.
+
+06:21.000 --> 06:31.000
+The internal open sources of information can include prices for your products, production volumes, the media plan of the company,
+
+06:31.000 --> 06:44.000
+advertisements that come from consumers and which can be the basis for changing the quality of the product or service in the best direction, and so on.
+
+06:44.000 --> 06:50.000
+Closed information, information about counteragents, deals, strategies, developments of your competitors.
+
+06:50.000 --> 07:06.000
+In this situation, it becomes a serious problem to get such information, because such information hides the conclusions about the activity and sustainability of your competitors.
+
+07:06.000 --> 07:18.000
+You can get such information with the help of intelligence, with the help of insiders, that is, people who can provide such information.
+
+07:18.000 --> 07:32.000
+For example, you can buy a manager or hire a specialist, an analyst who previously analyzed the data inside your competitor's company.
+
+07:32.000 --> 07:39.000
+I can't say that this method will be the cleanest, but it exists on the market.
+
+07:39.000 --> 07:52.000
+Recently, many radio stations have been spreading information that Russian financial institutions, such as commercial banks,
+
+07:52.000 --> 08:04.000
+in particular, VTB Bank, Vneshtorkbank, or Vnesheconombank, a state-owned bank engaged in financial operations for foreign trade,
+
+08:04.000 --> 08:15.000
+are engaged in luring, buying specialists, financial analysts from international companies, offering them better working conditions and wages.
+
+08:15.000 --> 08:27.000
+Of course, such analysts come not only with their knowledge, skills of financial operations, or development of the strategy of the activity of a new bank,
+
+08:27.000 --> 08:34.000
+but also with insider information from the organization in which they have worked for some time.
+
+08:35.000 --> 08:47.000
+If we talk about the criteria for evaluating secondary data, the secondary data that can be used to stop and not conduct expensive primary field studies
+
+08:47.000 --> 09:01.000
+have advantages and disadvantages. In terms of advantages of secondary data, they are cheaper and the speed of obtaining such information is fast enough.
+
+09:02.000 --> 09:10.000
+At the same time, secondary data has two significant disadvantages that should be taken into account when planning and collecting them.
+
+09:10.000 --> 09:19.000
+First, secondary data ages quickly, this is the first and, perhaps, a serious limitation.
+
+09:19.000 --> 09:29.000
+The second limitation is that secondary data is not collected for specific purposes and problems of marketing research.
+
+09:29.000 --> 09:43.000
+In this regard, secondary data can be considered as unstructured data, not as specific and valuable marketing information.
+
+09:43.000 --> 09:57.000
+In general, all the information obtained through marketing research reduces the risk level when making decisions.
+
+09:57.000 --> 10:09.000
+The decision levels, as presented in this slide and in the lecture conspectus, can be represented as a inverted pyramid,
+
+10:09.000 --> 10:17.000
+at the top of which there will be wide strategic decisions about the development of the company's activities.
+
+10:17.000 --> 10:24.000
+For example, the marketing strategy in terms of expanding the presence of the company on the market.
+
+10:24.000 --> 10:32.000
+The company has still presented its products exclusively in very limited distribution channels.
+
+10:32.000 --> 10:43.000
+Today or next year, the company's products should be presented in a wide range of distribution channels.
+
+10:43.000 --> 10:54.000
+Here are examples of strategic decisions, based on which qualitative and validated information should lie.
+
+10:54.000 --> 11:09.000
+This is a decision on the concordance of the terms of the product-market, that is, the use of strategic decisions or strategic directions of business based on, for example, the ANSOFA matrix.
+
+11:09.000 --> 11:20.000
+And also the positioning of the company in the head of the consumer on the market, compared to your leading competitors.
+
+11:20.000 --> 11:24.000
+The next layer, the next level of decision-making is operational.
+
+11:24.000 --> 11:29.000
+The basis of these decisions is the decision on the marketing complex.
+
+11:29.000 --> 11:41.000
+The degree of risk in this case can be quite high, but it is not as critical as at the level of strategic decision-making.
+
+11:41.000 --> 12:00.000
+However, this layer of decision-making confirms the message that marketing should be at the heart of the entire activity of the company, manufacturer of goods and services.
+
+12:00.000 --> 12:09.000
+And finally, the lowest level and the least risky level of decision-making is tactical.
+
+12:09.000 --> 12:32.000
+This is a reaction to the actions of competitors, some immediate reaction to the actions of competitors, or some marketing initiatives, marketing efforts that can be taken tactically, without expecting an immediate reaction or some immediate return, immediate effectiveness.
+
+12:32.000 --> 13:01.000
+To sum up this topic, I would like to ask you what information means for making marketing decisions, what is the degree of risk when making marketing decisions, and how the marketing information system and its blocks can help managers in making effective marketing decisions to overcome the risk and uncertainty of the market situation.
+
+13:02.000 --> 13:10.000
+Now we move on to the next topic, the process of determining the problem in marketing research.
+
+13:10.000 --> 13:35.000
+I would like to draw your attention to the third topic in the first section, which talks about determining the problems or opportunities for the organization of a marketing research project, the difference and interdependence of two concepts, which are called the management problem and the marketing research problem,
+
+13:35.000 --> 13:56.000
+as well as to bring to the concept of the hypothesis of the marketing research project, which will subsequently be tested using empirical procedures or by collecting and analyzing primary information.
+
+13:57.000 --> 14:24.000
+If we talk about the problem, then from the point of view of marketing, management, we need to distinguish two concepts, the management problem, which should be accepted at the management level to overcome the risk of uncertainty in the external environment, and the problem or specific search questions of the marketing research.
+
+14:24.000 --> 14:41.000
+Here we are talking about the transformation of the management problem that a management company faces into a research one, because this process is part of the process of a competent task setting for conducting a marketing research.
+
+14:41.000 --> 15:04.000
+For example, a management problem can include changing the positioning of the brand, changing the positioning of the brand of the company, opening new trading points, that is, expanding the presence of the company's products on the market, entering a new market, or changing the packaging of the product, or even developing a new product.
+
+15:04.000 --> 15:14.000
+At the same time, the research problem is more narrow-minded, and this is a problem that requires a solution in a specific research project.
+
+15:14.000 --> 15:28.000
+For example, if we talk about positioning, about changing the positioning of the product of the company, then in this case we must formulate the task of determining the criteria for positioning in the research problem.
+
+15:28.000 --> 15:38.000
+What will intersect with what in order to determine the position of the company in the mind of the target group of consumers, in the consciousness of the target group of consumers.
+
+15:39.000 --> 16:04.000
+For example, we are talking about positioning of various cars. On the one hand, the price will be low, and on the horizontal, various criteria may be laid down that make up the quality of this product, because quality is a complex characteristic.
+
+16:04.000 --> 16:26.000
+For example, the quality of the car may be related to the design, which differs depending on whether it is a sedan, a car that belongs to the class of SUVs, or a family car that belongs to the class of SUVs.
+
+16:26.000 --> 16:43.000
+If we talk about the family class, what style or type of driving? We are not talking about the rational characteristics, form, design, technological achievements that are realized in a specific car brand.
+
+16:43.000 --> 17:02.000
+We are talking about the emotional content of the positioning. For example, a car that is intended for family use, the driving style, the driving style of this car will be more conservative or calm.
+
+17:02.000 --> 17:27.000
+Even with all the love for driving at high speeds, any family man, given that he drives his family, will use a certain driving style. The dimensions of the car are different from a sports car.
+
+17:27.000 --> 17:40.000
+So, the price will be laid down vertically, and the driving style will be laid down horizontally. What is the purpose of this?
+
+17:40.000 --> 17:57.000
+If you imagined such an axis of coordinates in your mind, then in different squares of these intersecting axes, you would put different brands, different models of manufacturers that compete with each other on the Russian market.
+
+17:57.000 --> 18:26.000
+The next step would be to get information about the statistics of car sales or the growth of the car market in a particular class, as well as about certain characteristics of the consumer, which are obtained by means of marketing research.
+
+18:27.000 --> 18:38.000
+In this slide, you can see the possibilities of transforming a management problem into a research problem.
+
+18:38.000 --> 18:54.000
+If we are talking about the development of a new product packaging, then when conducting a specific research project, the most important task will be the development and then the assessment of the effectiveness of the packaging design options.
+
+18:54.000 --> 19:15.000
+It is clear that the instrument of such a research will be direct contact with the consumer who will look at this packaging and describe in words, verbally, descriptively, their claims and, on the contrary, their admiration of this type of packaging.
+
+19:16.000 --> 19:27.000
+For this type of research, the best tool for obtaining information will be the conduct of focus groups with representatives of the target audience.
+
+19:27.000 --> 19:51.000
+If, after conducting focus groups, certain prototypes of the packaging will be rejected, one or two will remain, such a result can be checked quantitatively on a wider scale and used quantitatively to extrapolate the results to the entire target audience.
+
+19:51.000 --> 20:07.000
+If we talk about a management problem that can stand in front of the management of a particular store, this management wants to increase the turnover in a particular shopping center or store.
+
+20:07.000 --> 20:31.000
+But in order to think about the economic effect of the management activity, we must first of all find out how the current situation is evaluated, that is, how the reputation and image of this store is evaluated, the target audience that visits it or the potential target audience that refuses to visit this store.
+
+20:31.000 --> 20:59.000
+It is clear that the tool of this research will be a mass survey, a mass survey using various options of contact with consumers, either personal surveys, for example, with those who visit this shopping center, or telephone surveys, or Internet surveys with representatives of the target audience, which can be extracted from the database of various Internet stores, etc.
+
+20:59.000 --> 21:13.000
+The next point of this topic is the hypothesis, or unproven statements, or assumptions about the factors or phenomena that interest the researcher.
+
+21:13.000 --> 21:31.000
+There can be many examples of hypothesis. In contrast to the search question or research problem, the hypothesis is always formulated in the form of a statement, that is, in the form of a proposal with a point at the end.
+
+21:31.000 --> 22:00.000
+For example, as a search question, Chanel wants to determine how much Chanel brand has a high image in Russia. For this purpose, several hypotheses can be put, in this case, four, which can confirm or refute the fact of this question or this problem.
+
+22:00.000 --> 22:20.000
+For example, Chanel is perceived as an expensive brand, Chanel consumers are representatives of a group with high incomes, Chanel consumers purchase a product under the brand as a confirmation of their own status, that is, demonstrate status consumption.
+
+22:20.000 --> 22:45.000
+By the way, such questions and research are now being conducted by students of the Russian Economic Academy, a faculty called the International School of Business, in order to determine the perception of Russian consumers of the concept of luxury and individual brands of luxury that are sold on the Russian market.
+
+22:45.000 --> 23:11.000
+For this purpose, two stages of research are carried out during the entire school year. At the first qualitative stage, a small selection of 25 people is formed, representatives of the target audience who know about the luxury brands, in particular, about the Chanel brand, and who emotionally perceive or express associations that cause them the word luxury,
+
+23:11.000 --> 23:21.000
+as well as words or associations that are associated with specific countries of luxury manufacturers, including Russia.
+
+23:21.000 --> 23:43.000
+At the second stage, the results of the qualitative research are confirmed or refuted, and the information is collected from 150 consumers, representatives of different categories of respondents, of different incomes, social status and education,
+
+23:43.000 --> 24:00.000
+who say whether they agree or disagree with this set of associations, and how they evaluate Chanel, Salvatore Ferragamo and other luxury brands.
+
+24:00.000 --> 24:29.000
+Examples of hypotheses. For example, the program of research of the Moscow theater market. Hypothesis number one. 80% of adults visit the theater at least once a year. Hypothesis number two, which can be verified by means of quantitative research and surveys of the adult population, or which are quite easy to find, because there are no special restrictions on the invitation of respondents, just the adult population, aged 18+.
+
+24:29.000 --> 24:44.000
+The main mass of visitors, 60%, is the share of citizens who visit the theater regularly, for example, more than 10 times a year. In this case, of course, it is more difficult to find such respondents, but still possible.
+
+24:44.000 --> 25:08.000
+You can contact respondents among the theater visitors, who are in the lobby, in the foyer of the theater, and are waiting for the performance. And the third and last hypothesis. The main reasons for not visiting the theater are a lack of time, a lack of information about theater productions, and so on.
+
+25:08.000 --> 25:27.000
+Now we are talking about different types of marketing research from the point of view of their representation at different stages of marketing research. In general, there are three types of marketing research projects.
+
+25:38.000 --> 26:02.000
+These researches serve to understand the essence of the problems of the marketing research project, and serve to formulate the problem, determine alternative directions of action, which will then be tested, develop hypotheses, select key variables for further study, and so on.
+
+26:02.000 --> 26:31.000
+The main tools for search and intelligence research can be, for example, the assessment of secondary data, the conduct of office researches. And as primary information, expert interviews with industry experts can be used, or brainstorming with company employees, who can come up with some ideas for further research.
+
+26:32.000 --> 26:47.000
+The next stage and the next type of research organization is descriptive research. It refers to the type of final research, the goal of which is to describe some characteristics or functions.
+
+26:47.000 --> 27:14.000
+The goals of descriptive research can be, for example, the description of a group of consumers, the sales staff, buyers, partners, the definition of the profile of this consumer, the identification of specific characteristics of consumers, the identification of characteristics of demographic, economic, behavioral, situational characteristics that affect the process of decision-making.
+
+27:14.000 --> 27:36.000
+The next direction that can be given as a result of descriptive research is the definition of certain shares of consumers in the general aggregate, which show a certain behavior. For example, buyers who always make their purchases in some prestigious upscale university.
+
+27:36.000 --> 27:51.000
+By the way, for Moscow and many cities with a million people in Russia, this information becomes extremely important in terms of the growth of consumption of luxury goods or the growth of the representation of such brands, such goods.
+
+27:51.000 --> 28:12.000
+You can track in Moscow, for example, the rapid appearance of shopping centers or univermages that specialize in this type of product. For example, the recently opened shopping center of the time of the year, which is located right opposite the Victory Park on Kutuzovsky Avenue.
+
+28:13.000 --> 28:32.000
+Descriptive research helps to determine the connections of marketing variables. For example, how the number of car owners and the consumption of gasoline are related to certain car refueling complexes, be it Lukoil or some other car refueling complexes.
+
+28:32.000 --> 28:52.000
+Descriptive research is characterized by a clear explanation of the problem, the definition of specific hypotheses, detailed details of the necessary information, and so on. But most often it is used. This is the most used design project for conducting a marketing study.
+
+28:53.000 --> 29:13.000
+Examples of descriptive research are the study of market share, analysis of sales in various regions, analysis of the image of a company or a specific product of a company, analysis of price education, advertising research, and various other market studies.
+
+29:14.000 --> 29:29.000
+I must give another example. For example, in my practice, there was a project when we conducted research on the possibility of increasing demand for a product that is quite in demand today.
+
+29:29.000 --> 29:58.000
+The project was called the Monospritsystem air conditioners. Can you imagine what it is? These are air conditioners designed for cooling or heating the room in temperatures from plus 30 and above degrees to minus 10 degrees, which have individual consumption or are used by small companies with one external unit, with one internal unit, which sometimes needs to be changed.
+
+29:59.000 --> 30:14.000
+Sometimes it can fit very well into the interior design, sometimes it can violate this design, but nevertheless. We conducted this study in the mid-90s, when the air conditioner market had just been born in Russia.
+
+30:14.000 --> 30:35.000
+Since it was impossible to determine the trend of the market development, there were no previous sales results, then the study and analysis of the trend of the market of a similar, for example, in another complex technical product, can be taken as a basis.
+
+30:36.000 --> 30:53.000
+What market could be taken as a basis for our research? Right, the computer market. And due to the fact that from the early 90s and to the end of the 90s, the computer market was developing at a rapid pace,
+
+30:53.000 --> 31:14.000
+we decided that the air conditioner market, the monospritsystem, due to the fact that the climate is warming up, and secondly, the well-being of consumers is growing, and their economic purchasing power is increasing, will develop at approximately the same pace.
+
+31:15.000 --> 31:29.000
+If we talk about other types of research, then we refer to repeated research, that is, the type of research that includes a fixed selection of elements of the general complex, the characteristics of which are changed repeatedly,
+
+31:29.000 --> 31:52.000
+the selection remains unchanged over time, providing an illustration of the problem situation or changes that have occurred since the previous study, and repeated, or they are also called replicative or wave studies, reflect the situation very well when they are used by research companies to analyze the lifestyle of the social class, for example
+
+31:52.000 --> 32:12.000
+Since 2001, the company Expert.RA, a research company, a rating agency, has been in different times and years, it was different research companies, the field research of the company Comcon began, and the research of the company Ramir continues
+
+32:12.000 --> 32:38.000
+The company Ramir conducts research on thousands of consumers who are of the middle class in the largest cities of the Russian Federation. This research began with 8 cities, today, the geography of the research is represented by 15 cities, thousands of respondents every spring and autumn, respondents may change, but their characteristics do not change
+
+32:39.000 --> 33:02.000
+They answer a large survey, which talks about their preferences, lifestyle, consumption, preferences of various media, and so on. All these studies are then published and sold to companies and subscribers, which on this basis make decisions, for example, about the promotion of certain goods or services
+
+33:02.000 --> 33:26.000
+In the spring of this year, based on the results of the selection of this study, the rating of the most preferred brands of the middle class was published. You can answer which brand out of the ten listed takes the first place in the consciousness of consumers who relate to the middle class
+
+33:26.000 --> 33:37.000
+Someone says Samsung, someone says Panasonic. In fact, Samsung is in second place, and in first place is still a technical product brand called Sony
+
+33:37.000 --> 34:01.000
+For a long time, this brand has been considered the most promising, important, and main for the Russians, but the situation may change in the near future due to marketing efforts of Samsung or other brands that are among the top ten most often purchased and preferred by middle-class consumers
+
+34:01.000 --> 34:25.000
+So, the basis of this field study is the survey of respondents selected by the so-called route-quota selection. Certain quotas are drawn for education, gender, age, lifestyle, and social status of respondents who live in large Russian cities
+
+34:25.000 --> 34:53.000
+At first, these were large Russian cities with a population of 1 million, including Moscow and St. Petersburg. Now, the centers of economic development have been added to these 8 million cities. These are regions with good economic development rates, such as Ulyanovsk, Krasnodar, Rostov, Barnaul, Volgograd, and Khabarovsk
+
+34:54.000 --> 35:15.000
+In contrast, panel studies imply that the selection of respondents remains unchanged. Respondents who agreed to participate in panel studies sign an agreement with the research company
+
+35:15.000 --> 35:27.000
+The panel studies imply that within a certain period of time, they will provide information about their behavior in consumer, purchasing, and media consumption, media measurements
+
+35:27.000 --> 35:41.000
+As Elisabeth Noël says in her book Mass surveys. Panel studies are the same every time, that is, the same respondents are selected every time
+
+35:41.000 --> 36:01.000
+This, of course, limits the possibilities of panel studies. On the one hand, this is good, on the other, it limits the possibilities of panel studies, because respondents have their own peculiarities, for example, they stop being interested in this research
+
+36:01.000 --> 36:24.000
+Or, since it is an additional income for them, an additional form of motivation, they stop being interested in this form of motivation and refuse to participate in further research. This, of course, is reflected in the results of the panel study and affects the situation called the mortality of the panel
+
+36:25.000 --> 36:48.000
+In May this year, at the World Congress on Marketing Research on Consumer Markets, a representative of the company Ramir talked about a new form of panel studies called SCIF, or Consumer Shopping Information Flow
+
+36:48.000 --> 37:01.000
+He tried to present a panel study that has passed approval and is now being widely implemented by Ramir, which has regional representatives
+
+37:01.000 --> 37:28.000
+Ramir has concluded agreements with respondents living in different regions, who purchase various types of consumer products and who must scan all barcodes on all purchases they make within a week and send them to the central office of the company
+
+37:28.000 --> 37:44.000
+On the one hand, what and why respondents are interested in participating in such a study? The company supplies a computer, a modem, and the ability to access the Internet, as well as a scanning device, on the one hand
+
+37:44.000 --> 37:58.000
+On the other hand, it is an additional monetary motivation and interest, especially for consumers who are at an active age
+
+37:58.000 --> 38:10.000
+The company receives information about the purchases made within a week from respondents, of which there are about 5,000 people in different regions of Russia
+
+38:10.000 --> 38:34.000
+From scanning the barcode, you can get very extensive information, for example, what unit of the product was purchased, at what particular point of sale, what volume, at what price, and so on
+
+38:34.000 --> 38:56.000
+All this can be compared with the data of the retail audit and verify some inconsistencies, disagreements. Of course, panel studies can be trusted to a greater extent, but they have their own limitations, as I said, this is the term that is called the mortality of the panel
+
+38:56.000 --> 39:18.000
+Nevertheless, the advantages of panel studies are the detection and study of behavior changes of a person and a consumer over time, changes in the consumer's preference for purchasing certain goods or services or mass media over time
+
+39:18.000 --> 39:47.000
+A large amount of data can be collected, and at the same time, errors in the answers can arise, these are expensive studies, and the results of these studies are usually sold either entirely for large companies that can afford it, or a selection is made from such a panel study for certain categories of products
+
+39:48.000 --> 40:04.000
+If we talk about the classification of panel studies, there are only three main types of panels, the trade panel, the consumer panel, that is, the participation of individual consumers, and some special forms of panel studies
+
+40:04.000 --> 40:23.000
+For example, the panel of doctors or other specialists, special forms of panels of pharmacies, or cinema. If we talk about the diversity of panel studies, then special forms of panels
+
+40:23.000 --> 40:48.000
+An example of special forms of panel studies is the Russian index of target groups of pharmacies, the Russian-Domestic company Comcon. The company organizes information collection on the use of pharmaceutical or parapharmaceutical products sold in pharmacies
+
+40:48.000 --> 41:02.000
+Since the pharmaceutical business is still a priority and is growing at a fast pace, the consumption of the results of such panel studies is quite large
+
+41:02.000 --> 41:21.000
+What information can a marketing manager get from a trade panel? For example, the panel of a well-known marketing company Nielsen, the Nielsen index, is a regular selection of retail sellers that gives a reliable idea of all retail sellers of a certain product
+
+41:21.000 --> 41:48.000
+For example, food products, perfumes, or pharmaceuticals. From this panel, from these panel studies, from this database, a marketing manager gets information on the development and sales of certain groups of goods, on the sales of end consumers, the number of medium stocks, sales, purchases of each enterprise included in the panel, speed of sales, loyalty of consumers, and so on
+
+41:48.000 --> 41:58.000
+Once every two months, Nielsen collects such information and sells it as standard syndicated information to its subscribers
+
+41:58.000 --> 42:21.000
+The last type of the most advanced and sophisticated marketing research, the design of marketing research, is causal or cause-and-effect research. The basis of this type of research is the relationship between cause and effect and the relationship between various variables
+
+42:21.000 --> 42:39.000
+This type of research is based on the main task of obtaining evidence of the existence of cause-and-effect relationships. For example, does increasing the income of the population significantly affect the increase in the consumption of gasoline for cars owned by the population?
+
+42:39.000 --> 43:05.000
+Or does decreasing the income of the population affect the relationship between consumption of certain categories of products and services?
+
+43:06.000 --> 43:33.000
+What are the consequences of the dependent variable? For example, if we talk about the influence of an ad video on the increase in sales, then the dependent variable becomes an ad video and its influence on the increase in sales, and the sales volume of certain categories of products are dependent variables that the ad video affects
+
+43:34.000 --> 43:57.000
+If we talk about the relationship between all three types of research, search, descriptive and cause-and-effect, we say that, of course, you can stop at only search or intelligence research, using data and secondary information for certain marketing research projects, but most often this is not enough
+
+43:57.000 --> 44:09.000
+That is why search research flows into descriptive research, and sometimes descriptive research can be confirmed by experimental research
+
+44:09.000 --> 44:30.000
+Sometimes it happens that search research can follow after descriptive, for example, when it is difficult to interpret the data of descriptive research or it is impossible to find the reasons for the occurrence of certain data obtained by means of surveys
+
+44:31.000 --> 44:51.000
+Another type of research is highlighted by Igor Berezin. However, these researches are his know-how, and it is quite possible that such a type of research cannot always be highlighted separately in the classical marketing researches
+
+44:52.000 --> 45:17.000
+or can be included as a component in other design researches. Berezin calls them justifiable or retrospective researches, meaning that certain facts that took place in the past and that can be somehow transferred to the market situation of today are established by means of sociology and marketing methods
+
+45:17.000 --> 45:46.000
+I partly agree with Igor Berezin, because we had projects, in particular, a project on researching the memories of consumers aged 30+, about good old sorts of Russian ice cream, by order of Nestle, which started its own ice cream production in Russia
+
+45:47.000 --> 46:03.000
+Such researches can be organized independently or based on the intuition of a business owner or a top manager
+
+46:03.000 --> 46:20.000
+Such researches are related to the types and examples of such researches, to the Smyrnov vodka, to the research on the personification of the brand, to the definition of the person or the human characteristics of the Smyrnov vodka brand
+
+46:20.000 --> 46:43.000
+The definition of the image of the old sorts of Russian ice cream that can be embodied in the production and use of new ice cream recipes produced by Nestle, the definition of the preferences of consumers to the wine category of Moldova, the wine of Moldova, in particular, the brand of Moldova, which is related to Vermouth
+
+46:44.000 --> 47:10.000
+And the perception of the research brand Gallup. However, this research project was criticized by the current research practitioners and marketologists, in terms of using intuitive and retrospective data to assess the current situation of the Gallup brand on the domestic market of marketing research
+
+47:11.000 --> 47:24.000
+If we talk about the budget and schedule of the marketing research project, then the budget and schedule reveal the resources and opportunities of the project, both financial and time-related, and human, I have already talked about this
+
+47:24.000 --> 47:48.000
+In terms of management of this project, the foundations of project management are used, which is most often used for matrix structures, matrix organizations, when representatives of various departments, departments are gathered to implement a specific project
+
+47:48.000 --> 48:07.000
+A method of critical path is used, which includes the allocation or division of the entire project into components, stages, their sequence, duration, degree of responsibility of individual specialists who are included in the research project team
+
+48:07.000 --> 48:31.000
+And the method of assessment and verification of the implementation of the PERT program is used, which is a probability approach to the composition of the project schedule
+
+48:31.000 --> 49:00.000
+The project schedule includes the schedule of the semester, the names of the students who are responsible for the specific stages of the research project, and the various stages or tasks of the project, which are made up of the students' names
+
+49:01.000 --> 49:30.000
+The project schedule is made up of the students' names, and the names of the participants are made up of the students' names
+
+49:31.000 --> 49:36.000
+The main tasks of the project are to collect and analyze the quality information
+
+50:01.000 --> 50:27.000
+The information obtained by quality methods is relevant and answers the questions of why, what are the reasons for the consumption or refusal of a product or service, how the consumer behaves, what is his attitude to the brand, product, packaging, marketing processes
+
+50:28.000 --> 50:37.000
+How is the new commercial video or product concept, which will be produced and tested on the market, evaluated
+
+50:37.000 --> 51:02.000
+The quality methods used by companies to order products and services are divided into direct, deep focus groups, and indirect methods of quality research, which you have heard a little about
+
+51:02.000 --> 51:10.000
+I will focus on the issues of quality research, which concern the decision-making in the field of marketing
+
+51:10.000 --> 51:22.000
+Indirect methods are design technologies or design methods that can be verbal, oral, descriptive or non-verbal
+
+51:22.000 --> 51:37.000
+For example, the nature of associations, collages, or the nature of personification of a brand, humanizing a brand
+
+51:38.000 --> 51:50.000
+If we talk about the directions of quality research, they are search-oriented and have certain characteristics
+
+51:50.000 --> 52:03.000
+For example, it is impossible to collect information for the application of statistical methods of research or with the help of statistical methods of research
+
+52:03.000 --> 52:10.000
+For what purposes is quality research used in marketing?
+
+52:10.000 --> 52:19.000
+For example, for detailed problem detection, for hypothesis promotion, for the development of concepts of new products or solutions to problems
+
+52:19.000 --> 52:38.000
+Concepts of new advertising message, study of the pre-reaction of the consumer, pre-test of surveys, determination of the priorities of consumers, their vocabulary, which can then be used in communication messages
+
+52:38.000 --> 52:44.000
+For example, obtaining information about an unfamiliar environment, needs, situations of product use and problems
+
+52:44.000 --> 52:56.000
+We will briefly go through the methods of research. The first method is a deep interview, which is not structured
+
+52:56.000 --> 53:02.000
+The respondent has the maximum freedom of response within the framework of the topics of the interested interviewer
+
+53:02.000 --> 53:17.000
+Deep interviews can be used to obtain information from experts, for example, industry experts or experts who work in your organization, as well as from individual respondents
+
+53:17.000 --> 53:41.000
+When we ask individual respondents one-on-one, when there is one interviewer and one respondent, for example, when some painful questions are asked about the state of health, about the treatment of certain diseases that cannot be said out loud or in a small group of respondents
+
+53:41.000 --> 53:52.000
+There are only three methods of deep interviews, methods of asking questions. These methods came to us from the concept of social psychology
+
+53:53.000 --> 54:11.000
+Remember, I said at the very beginning of our lectures that marketing research has absorbed all the experience and all the knowledge related to marketing, strategic marketing, statistics, mathematics and such humanities as sociology and psychology
+
+54:11.000 --> 54:33.000
+If sociology is a science about society, psychology is a science about the behavior of an individual, social psychology is a science about the behavior of an individual in society, that is, the behavior that changes depending on the influence of the external environment, depending on the state of society
+
+54:33.000 --> 54:43.000
+This science has developed some methods of sequential asking questions for various types of interviews
+
+54:43.000 --> 54:57.000
+If we talk about marketing, the basis of such questions is, of course, marketing problems, for example, the determination of the consumer's attitude to a particular type of product
+
+54:57.000 --> 55:14.000
+If we talk about other types of interviews, our presenters of some talk shows, for example, or TV interviewers, they also use the same kind of technique of asking questions
+
+55:14.000 --> 55:29.000
+We try to use the detailed deepening from the general to the private to study or invite, motivate, stimulate the respondents to demonstrate their own deep victories
+
+55:30.000 --> 55:37.000
+That is why these interviews are called deep, to identify deep preferences and relationships
+
+55:38.000 --> 55:40.000
+We continue with the methods of deep interviews
+
+55:41.000 --> 56:00.000
+The methods of deep interviews include methods of order of asking questions, for example, the method of the stairs, the sequence of asking questions from the general to the private, or the sequence of asking questions from the characteristics of the product, a gradual transition to the characteristics of the buyer, to the characteristics of the respondent
+
+56:01.000 --> 56:12.000
+Another method of asking questions, of conducting deep interviews is symbolic analysis, the analysis of the symbolic meaning of objects, comparison with opposites
+
+56:12.000 --> 56:23.000
+For example, the identification of associative thinking, the association of respondents with a particular object, a particular product, or an object, for example, a country
+
+56:24.000 --> 56:35.000
+For example, we talk about what we or respondents associate such countries as Germany, Japan, the United States of America, Russia, in particular
+
+56:35.000 --> 56:52.000
+There are some stereotypical associations or exclusive associations typical of a particular respondent, which allow us to make a list of these associations and find out the vocabulary of the respondents, who represent the target audience
+
+56:52.000 --> 57:06.000
+And the last method of conducting deep interviews is the explanation of hidden issues, the definition of certain weak points of a person, which correspond to his personal experiences
+
+57:06.000 --> 57:24.000
+For example, in my practice, there were respondents who wanted to hide or worry that they do not have a permanent job, and they were quite successful people, housewives, who led a family, took care of children
+
+57:24.000 --> 57:35.000
+And yet, they, as active consumers, were ashamed to admit that they are housewives and do not have a permanent job
+
+57:35.000 --> 57:50.000
+The sphere of application of deep interviews, detailed probe of the respondent, discussion of confidential, delicate, and not modest issues, in particular, some diseases or problems that respondents would like to hide from society
+
+57:50.000 --> 58:07.000
+Situations in which the opinion of others is suppressed by respondents, this often happens in deep interviews, for example, in focus groups, understanding of complex behavior, interviews with experts, interviews with competitors, and so on
+
+58:07.000 --> 58:31.000
+Another method of conducting qualitative research is focus groups. Berezin calls them focusing in groups, or a group focused, semi-standardized interview in the form of a group discussion, according to a pre-designed scenario
+
+58:31.000 --> 58:44.000
+This scenario is usually called a topic guide in research companies. The key words in this definition are group, focused, and interview
+
+58:44.000 --> 59:01.000
+Despite the fact that the interview is organized and conducted by one moderator, a host or a researcher, and conducted with a group of respondents, nevertheless, the nature of this research is still an interview
+
+59:01.000 --> 59:17.000
+The interview is based on a detailed topic guide or scenario that is developed and discussed with the client in advance in order to identify certain problems and certain attitude of respondents to the research problem
+
+59:17.000 --> 59:30.000
+The goal of focus groups is to analyze the vocabulary, the conversation dictionary of consumers, to generate ideas for developing hypotheses, to study motives, needs, and perceptions of consumers
+
+59:30.000 --> 59:42.000
+For example, the perception of the new packaging of chocolate glazed Alexander's cheeses, which is produced by Rost Agroexport and offered at a premium price
+
+59:42.000 --> 59:51.000
+To study the emotional and behavioral reaction of consumers to the concept of new products, appearance, products, advertising, and so on
+
+59:51.000 --> 01:00:09.000
+While working in the office of the famous Russian and domestic research company Army Marketing, I saw how designs of labels for Georgian wine producers were prepared
+
+01:00:09.000 --> 01:00:36.000
+It was almost impossible to distinguish between the labels that were just developed and the ones that were actually used
+
+01:00:36.000 --> 01:00:50.000
+Focus groups are usually held in specially equipped rooms. This room consists of two rooms, which are separated by a mirror that is not transparent on one side
+
+01:00:50.000 --> 01:01:05.000
+Behind this mirror is a smaller room, where the observers are located. The observers are either members of the research team or often observers from the client's side
+
+01:01:05.000 --> 01:01:18.000
+The observers are used to track the organization of the focus group, how the moderator behaves, how deep the essence of the respondents is revealed, and so on
+
+01:01:18.000 --> 01:01:31.000
+In the room where the focus group is held, there is usually a round or oval table to create a warm atmosphere, even a home environment
+
+01:01:31.000 --> 01:01:47.000
+Respondents are offered cooling drinks, sometimes coffee and tea, sometimes even a small snack, because the focus group is held in the evening, after work
+
+01:01:47.000 --> 01:02:07.000
+The respondents are motivated to come to the company's office after work or to the office where the focus group is rented, and spend 1.5-2 hours, sometimes more, discussing and talking about, for example, washing powder
+
+01:02:07.000 --> 01:02:25.000
+The author, Olga Melnikova, has a quote after the interview, after the focus group was held, about the perception of consumers of the new brand of washing powder by Procter & Gamble
+
+01:02:25.000 --> 01:02:36.000
+The author said, he never thought it was possible to talk so passionately about washing powder for 1.5 hours after work
+
+01:02:36.000 --> 01:02:48.000
+In this slide, you can see a photo of the focus group room, and behind the glass there is another room where the observers are located
+
+01:02:48.000 --> 01:03:02.000
+The focus group is usually recorded on a video camera, and audio recordings are made, because the moderator who leads the focus group cannot interrupt visual contact with the respondents, cannot make any recordings
+
+01:03:03.000 --> 01:03:17.000
+In this regard, for the research team, video and audio recordings of the focus group become a very important source of information for analysis and presentation of the results of the focus group
+
+01:03:17.000 --> 01:03:23.000
+How many groups should be held for a specific research project?
+
+01:03:23.000 --> 01:03:30.000
+It all depends on the problem and the range of problems that are solved with the focus group
+
+01:03:30.000 --> 01:03:38.000
+But most often, one problem, one research question is solved by 4-6 focus groups
+
+01:03:38.000 --> 01:03:47.000
+The focus groups stop their work when new high-quality information ceases to be received
+
+01:03:47.000 --> 01:04:00.000
+The focus group is typically 8-12 people, the composition of the group is homogeneous, the respondents are selected in advance, the situation is neither official nor forced
+
+01:04:00.000 --> 01:04:18.000
+The focus group is usually recorded for 1-3 hours, and the presenter has special skills, such as observability, communication, good memory, the ability to summarize the results of the focus group discussion, and so on
+
+01:04:18.000 --> 01:04:27.000
+Now you will ask me what education or experience should a moderator have
+
+01:04:27.000 --> 01:04:47.000
+Experienced moderators are most likely to have a psychological education, because they work in a group and they need to know the basics and techniques of the positive, structural, or destructive behavior of some respondents, which are selected by chance and come to the focus group on the one hand
+
+01:04:47.000 --> 01:05:04.000
+But on the other hand, the most successful moderators, who are involved in the activities of various research companies, are moderators who combine psychological knowledge and marketing knowledge if the research is conducted for the needs and problems of marketing
+
+01:05:04.000 --> 01:05:25.000
+The selection of participants in the focus group is homogeneous, provided by demographic, economic, social data, social status, education, income level, but there are restrictions on the participation of respondents in the focus groups
+
+01:05:25.000 --> 01:05:40.000
+The focus group is not invited by journalists, sociologists, psychologists, or experts in marketing
+
+01:05:40.000 --> 01:05:54.000
+Another method, which is not directly related to qualitative research, is called design technology or design methods. They are divided into verbal and non-verbal methods
+
+01:05:54.000 --> 01:06:20.000
+Verbal methods are not used separately or independently, but are most often used in combination with deep interviews or focus groups. These are methods of completing proposals, free or directed associations, methods of analogy, personification, methods of constructing the situation, and role-playing, expressive methods
+
+01:06:21.000 --> 01:06:37.000
+Non-verbal methods include methods of drawing, for example, making collages of individual drawings or excerpts from newspapers and magazines, manipulation of objects that can be built to convey some meaning
+
+01:06:37.000 --> 01:07:02.000
+Then the construction of these objects can be conveyed to the consumer as a communication message, and psychological drawing, an attempt to imagine, to sculpt a psychological drawing, a product, a communication, which can be used in marketing solutions
+
+01:07:02.000 --> 01:07:16.000
+Features of the use of design methods. First of all, they are carried out at a fast pace. In most cases, no comments are required, except for stimulation and encouraging of the speakers
+
+01:07:16.000 --> 01:07:35.000
+Questions to receive comments to associations can be asked only after the method is completed. Design technology can be used to warm up or between topics, if research is carried out on different topics in focus groups or deep interviews
+
+01:07:35.000 --> 01:07:53.000
+The sphere of application of design methods is the testing of naming, especially interesting names and company names, design, ideas, and concepts, assessment of positioning of the company's products, for example, the composition of the perception map
+
+01:07:53.000 --> 01:08:12.000
+When the consumer is offered to draw and place in different cells that reflect the range of the consumer's attitude to a new product, a new brand, to draw coordinate axes in the cells and place competing brands and products on them
+
+01:08:12.000 --> 01:08:39.000
+Speaking of testing of names, I have already given an example of our research, when a catering company was created in the mid-90s, and the second one, after the French company Patel and Chabot, was trying to win the market share in providing services of restaurant service
+
+01:08:39.000 --> 01:09:01.000
+It was not a traditional restaurant, where visitors come to have a free time, to have dinner, to organize meetings, banquets, but a meeting, banquet, buffet, separate events, or in specially rented rooms, halls, or in the company's offices
+
+01:09:01.000 --> 01:09:21.000
+When this company was created, its competition was insignificant compared to its leading competitor, because the real problem was in the name of this company, the name was Compromise, a compromise to the traditional idea of restaurant service
+
+01:09:21.000 --> 01:09:44.000
+Research was conducted, including various options for the name of this company, which were tested with the help of projective technologies on focus groups, and after testing of various names, it was accepted to change the name of the company, instead of Compromise, to Figaro
+
+01:09:44.000 --> 01:10:09.000
+Many of you, who work in catering services, or use their services, know this company and its subsidiaries, which later appeared in the market due to diversification of the business, such as Lunch, offering lunches in the office, and so on
+
+01:10:09.000 --> 01:10:21.000
+If we speak about the quality of a good moderator, in short, a moderator leads a discussion and prepares research and analysis of results
+
+01:10:21.000 --> 01:10:42.000
+If we speak about the leadership of a discussion, a moderator must have a good memory, must remember the names of the participants, not only their names, but also how they behave and what thoughts they express
+
+01:10:42.000 --> 01:11:05.000
+First, a moderator must address participants during the discussion, because participants can demonstrate different types of behavior, some will be silent, some active, those who are more active do not always make constructive suggestions, and a silent participant, on the contrary, may hide some constructive thoughts that may be interesting for the purpose of the research
+
+01:11:05.000 --> 01:11:26.000
+In this situation, if a moderator is called by name, it can melt the ice between a silent participant, a moderator, and other members of the focus group, and this participant can tell about their hidden thoughts, secret problems, and so on
+
+01:11:27.000 --> 01:11:48.000
+A moderator must be kind, have leadership qualities, because in contrast to a silent participant, some participants can demonstrate the behavior of so-called perceived experts, very active, constantly speaking, but not always what is called on the case
+
+01:11:48.000 --> 01:12:10.000
+That is why a moderator must be persistent and able to interrupt such an active participant. There are many different psychological methods of interruption, it can be simply to switch the gaze from one to another, you can ask to insert, to highlight a moment during the speech of this silent expert
+
+01:12:10.000 --> 01:12:33.000
+And ask other members of the focus group to join in the discussion, or to object, to try to interrupt this conversation, or you can take extreme measures, and if you see that you cannot manage the discussion because of this participant, you can invite him out of the room, but not just like that
+
+01:12:33.000 --> 01:12:48.000
+But to say that the participant is an expert, and in this situation it will be good if he comes out and expresses his opinion to another researcher in the form of a deep interview
+
+01:12:48.000 --> 01:13:17.960
+The cost of the focus group depends on the duration of the focus group and the payment of the moderator's work, project managers' work, and other costs. But in general, the minimum cost of holding a focus group is $650-700 per group, and up to $3,000 per group, depending on the degree of complexity of the research
+
+01:13:18.920 --> 01:13:30.920
+How many focus groups should be held? I have already told you that at least 4 groups should be held, sometimes 3 groups per 1 group of participants
+
+01:13:30.920 --> 01:13:51.920
+For example, at the request of the Central Universal Store, when changing the image and corporate strategy, we held focus groups with loyal and non-loyal participants, men and women, visitors of the Univermag and competitors
+
+01:13:51.920 --> 01:14:12.920
+In each of the loyal and non-loyal men and women, 2 age groups were identified, 25-35 and 36-46 years, and in this connection, 2 focus groups were held for each of the quotas to optimize the costs of the researcher in the research
+
+01:14:13.920 --> 01:14:29.920
+That's all about the topic of qualitative research, and I would like to know how widely qualitative research is used, and whether it is possible to trust qualitative research in the counterweight of quantitative research
+
+01:14:29.920 --> 01:14:38.920
+What is the relationship between qualitative research and qualitative research?
+
+01:14:59.920 --> 01:15:10.920
+I think this is one of the most difficult topics. Why? Because it is much more difficult to analyze qualitative information than to calculate the results of quantitative research
+
+01:15:10.920 --> 01:15:29.920
+How can you analyze qualitative information? First of all, after you watch and listen to the audio and video recordings of the focus groups of the deep interviews several times, you need to make a protocol or a script of this research
+
+01:15:29.920 --> 01:15:50.920
+You need to record it on a computer, create a file, where you will have a script of the deep interview or focus group with all the statements, because behind each statement there are thoughts, feelings, preferences of the respondents, which can be important
+
+01:15:51.920 --> 01:16:09.920
+One of the myths of marketing research is that if we don't have quantitative data, percentage ratios, this information is not important, and therefore it is not worth paying for it
+
+01:16:09.920 --> 01:16:24.920
+Let me disagree with this, because this information reveals the deep problems, and quantitatively it can be checked at the next stages of the research, when the mass survey is organized
+
+01:16:24.920 --> 01:16:49.920
+Because you don't see percentages, numbers, facts and data, but only some information that is passed on in a bulk during unstructured conversations, then such information, which is then analyzed, is called soft
+
+01:16:49.920 --> 01:17:08.920
+Because in contrast to quantitative information, which is called hard, how can it be analyzed? Of course, the easiest way is to make a protocol or a script of this research and then try to identify repetitions
+
+01:17:08.920 --> 01:17:25.920
+Based on these repetitions, if you see that the respondents repeat their opinion from group to group or during one group, then you can count them quantitatively
+
+01:17:25.920 --> 01:17:37.920
+If you don't see repetitions, then each opinion of the respondents, if it is significant for the project of research and information, must be analyzed and interpreted
+
+01:17:37.920 --> 01:17:45.920
+For example, if we talk about the survey of consumers loyal or not loyal to Univermag TSUM
+
+01:17:45.920 --> 01:18:06.920
+I want to tell you about the example of a situation when TSUM was not yet the TSUM it is today, and when its visitors were ordinary middle-class people who visited TSUM as a family store, as a family Univermag
+
+01:18:07.920 --> 01:18:29.920
+The preference for which was born in their childhood, based on their previous positive experience. These consumers considered TSUM competitors, such as the hunting line, Stockman, Kalinko, Univermag, which have now become shopping centers
+
+01:18:29.920 --> 01:18:39.920
+They were located in the main districts of Moscow, Danilovsky, Serpukhovsky, which was called Dobryninsky in the common people, Perovsky, Univermag, and so on
+
+01:18:39.920 --> 01:18:58.920
+Based on the data of respondents of different age categories, male and female, it was possible to make positioning maps
+
+01:18:58.920 --> 01:19:16.920
+When respondents and researchers tried to imagine TSUM, which was positioned from the point of view of its central location, in contrast to the peripheral, for example, Univermag-Pervomaysky or Univermag-Perovsky
+
+01:19:16.920 --> 01:19:30.920
+And the modern or outdated model, outdated format, the old-fashioned format of retail trading
+
+01:19:31.920 --> 01:19:59.920
+In this case, TSUM was quite successful in terms of geographical location, and it still is. And in terms of the state of the early 2000s, in terms of modernity, in contrast to the old-fashioned, or outdated format, it was inferior to the modern shopping centers like the hunting line and Kalinko
+
+01:20:00.920 --> 01:20:10.920
+Thus, two methods are used for the analysis of data obtained by the focus group of deep interviews
+
+01:20:10.920 --> 01:20:25.920
+The first is the quantitative analysis, the second is the content analysis, the analysis of the content of the respondents' statements
+
+01:20:25.920 --> 01:20:40.920
+In the reports on qualitative research, there are often conclusions or interpretations of researchers and quotes that respondents said to confirm these interpretations
+
+01:20:40.920 --> 01:20:53.920
+We should move on to the next topic, which is called quantitative research or survey, receiving information from respondents by organizing surveys
+
+01:20:53.920 --> 01:21:18.920
+Speaking of survey methods and classification of these methods, I must say that all research companies are proud that each research company has either its own methods of obtaining primary information from respondents
+
+01:21:18.920 --> 01:21:28.920
+Or there are specific methods for certain topics of marketing research
+
+01:21:28.920 --> 01:21:52.920
+In the most general form, survey methods can be performed in four ways. Either by phone, personal, individual, or by mail, regular or urgent mail, when you receive a mail order in your mailbox
+
+01:21:52.920 --> 01:22:19.920
+Or there are new modern types of surveys, which I mentioned a little, electronic surveys, electronic messages that are obtained either by your email address, or if a respondent accidentally visits a company's website and sees an invitation to participate in an online survey
+
+01:22:19.920 --> 01:22:33.920
+Speaking of phone surveys, phone surveys are often conducted by social services, for example, on various TV channels
+
+01:22:33.920 --> 01:22:57.920
+A phone operator calls you very quickly and says whether you are watching a TV channel or a family member, and if so, which channel is currently working
+
+01:22:57.920 --> 01:23:16.920
+I must say that very often respondents try to answer such questions, because they take no more than a few seconds. If such a phone survey takes more than 50-15 minutes, then respondents need to be motivated additionally
+
+01:23:16.920 --> 01:23:30.920
+A traditional survey is when a phone operator calls and manually fills or puts the respondents' answers in a special development table on the questions he asks them
+
+01:23:30.920 --> 01:23:49.920
+Such a type of survey is practically dying out, there are fewer and fewer of them, because self-respecting research companies that offer such phone surveys usually use special computer programs and transfer them to special trained call centers
+
+01:23:49.920 --> 01:24:14.920
+These call centers put the survey in a digital form into a large computer that can be presented on monitors of various phone operators at the same time
+
+01:24:14.920 --> 01:24:35.920
+The phone operator is involved, first of all, inviting the respondents to participate in the survey, and secondly, reading the questions and immediately putting the answers into the electronic form of the survey
+
+01:24:35.920 --> 01:24:59.920
+What is good about such surveys, which are called CATI, Computer Assisted Telephone Interview, is that immediately, every minute after the start of the survey, you can see the cumulative result of the information collection
+
+01:24:59.920 --> 01:25:27.920
+At the same time, there are restrictions on the use of such surveys, because a large number of respondents refuse to participate, and secondly, there cannot be a large number of questions in such a survey, because the time for conducting a phone interview is always limited not by its cost, but by the fact that respondents get tired of answering such questions
+
+01:25:27.920 --> 01:25:52.920
+In addition, the questions that are intended for a phone interview in the survey should be extremely simple, extremely understandable, and should contain a small number of answers, most often, these are only closed questions with answers, and the answers are always very simple, very easy to read or heard
+
+01:25:52.920 --> 01:26:09.920
+As for personal interviews, they can be conducted in different ways. Personal, individual, and personal interviews, when one respondent and one interviewer take part in the survey
+
+01:26:09.920 --> 01:26:30.920
+They can be conducted at home, as I have already told you, such surveys are quite limited at home, not only in Russia. There are known facts that, for example, in Hong Kong, respondents never let strangers in.
+
+01:26:31.920 --> 01:26:44.920
+And if you need to use personal interviews, respondents can be invited to the company's office or come to the organization's office, having said the meeting time in advance
+
+01:26:44.920 --> 01:26:58.920
+Personal interviews can be conducted by intercepting in the shopping mall, for example, or on the street. Such interviews are called intercepts, that is, the interception of the respondent
+
+01:26:58.920 --> 01:27:13.920
+In this case, the interviewer, the researcher who is responsible for the motivation for the interview, must decide by eye how this respondent fits the characteristics of the target audience that should be interviewed
+
+01:27:13.920 --> 01:27:33.920
+And to stop, asking this person or telling him some specific words, most often these words contain the phrase, I am not selling anything and I am not going to sell anything, I just want to know your opinion
+
+01:27:33.920 --> 01:28:00.920
+In this case, respondents often agree, although there is a fact that people with low incomes and low social status, contrary to the interests of research companies and products and services, are often displaced
+
+01:28:00.920 --> 01:28:10.920
+Those who work a lot, earn a lot, lead an independent lifestyle and, in general, affect the situation of consumption on the market
+
+01:28:10.920 --> 01:28:17.920
+And the last type of personal interviews is computer-assisted personal interviewing
+
+01:28:17.920 --> 01:28:26.920
+Personal computer-assisted personal interview. Which of you has a driver's license? Most of you.
+
+01:28:26.920 --> 01:28:44.920
+When you took an exam at the State Institute of Information Technology on the subject of the task of knowing the traffic rules, the element, the method of conducting this exam was the method of submitting this exam on a computer
+
+01:28:44.920 --> 01:29:04.920
+In a computer center or computer class, several potential applicants for this exam pass the exam on a computer, so you mark the correct answers in the questionnaire in your opinion from the point of view of traffic rules
+
+01:29:04.920 --> 01:29:25.920
+In the same way, you can be invited to the company's office, for example, Ingostrach insurance company, to identify respondents' preferences for certain characteristics of an insurance product, an insurance offer offered to an individual consumer
+
+01:29:26.920 --> 01:29:52.920
+The company invites all participants, all visitors to Ingostrach's office, to go to a specially designated room where a computer is located and answer questions about the relationship, what are the characteristics of an insurance product this consumer would like to see in the new package offered to him, for example, an auto helmet, that is, the insurance of his car
+
+01:29:52.920 --> 01:30:16.920
+What would he like to see? Personal service to some specific personal managers, or time extension, increase or decrease in interest rate, or increase in time of car insurance, or the possibility of transferring the insurance of one car to another if you change cars, and so on
+
+01:30:16.920 --> 01:30:37.920
+Computer assisted personal interviewing is an opportunity to organize a self-filled questionnaire in a computer, either in the research company's office, or in the customer's office, or in a specially designated room of a shopping center
+
+01:30:38.920 --> 01:31:00.920
+Two words about e-forums. I must say that today these methods are becoming more popular, their distribution is expanding. In Russia, there are several companies that specialize in using e-forums
+
+01:31:01.920 --> 01:31:19.920
+There is an online marketing intelligence company, represented by Global Marketing Intelligence in Russia, which conducts both ad hoc research on once-time surveys and panel research online
+
+01:31:19.920 --> 01:31:46.920
+At the same time, by making panels, by inviting respondents to participate in these panels, motivation, material motivation, and the possibility that the small money that respondents receive for participating in a questionnaire or panel research can be invested or given for charity purposes
+
+01:31:46.920 --> 01:32:09.920
+If you visit the website www.anketka.ru, you will see the interface of various consumer panels offered by the research company OMI, and the possibility and response of respondents who participate in such research
+
+01:32:10.920 --> 01:32:35.920
+And who are satisfied with the performance of social responsibility actions, for example, the money they receive for a certain period of time, which does not significantly change their budget, can be transferred to the Society for the Support of Children with Diabetes or other societies
+
+01:32:36.920 --> 01:32:48.920
+Another method, less structured in marketing research, in quantitative research, which can be related to both quantitative and qualitative methods, is observation
+
+01:32:48.920 --> 01:33:04.920
+The classification of observation methods is shown on the next slide. They can be personal observations using mechanical means, for example, the most popular observations or measurements of the body of observation
+
+01:33:04.920 --> 01:33:32.920
+I have already talked about this, when special devices are connected to the TV receivers of panel participants and record the on-off of TV devices, in fact, TVs, using a special remote control with buttons for panel participants, household members, for example, the head of the family, family members, and guests
+
+01:33:32.920 --> 01:33:48.920
+This allows to receive a signal on a large computer of a research company, most often, this research company is the TNS company, or a group of TNS companies that register such TV observations
+
+01:33:48.920 --> 01:34:09.920
+And then they make ratings of TV programs, which are then published or offered for sale to advertising agencies, which make a media plan for broadcasting communications, broadcasting advertising messages in different TV channels
+
+01:34:10.920 --> 01:34:23.920
+Another method of observation is audit, I have already talked about this, audit and monitoring of purchasing habits or behavior
+
+01:34:23.920 --> 01:34:37.920
+Then content analysis, content analysis of messages or content analysis of the presence of your company and competitors in the media
+
+01:34:37.920 --> 01:34:55.920
+Special computer programs can track, this can be done with human efforts, but it can also be done with computer programs that track the presence or mentionability of your company in the media, but in particular in electronic media
+
+01:34:55.920 --> 01:35:09.920
+There is a company, MediaLogii, that has developed a special program that registers the presence and placement of advertising messages of certain companies on the Internet
+
+01:35:09.920 --> 01:35:28.920
+And the last type of observation is the analysis of traces, including this technique, this method is used on the Internet, when, as I said, we leave traces and then receive quite address messages
+
+01:35:28.920 --> 01:35:57.920
+For example, Irina, you won the lottery of some American holding, I most often delete such messages, but in fact, traces can be analyzed by hand, for example, librarians or bookstores can track where there is more scratch on the floor, near which shelves, with which publications
+
+01:35:57.920 --> 01:36:16.920
+In case they see that this scratch of paint on the floor is near marketing books, it means that the popularity of this subject, philosophy, marketing technology among specialists, students is high
+
+01:36:16.920 --> 01:36:29.920
+In case it is only near detective novels or women's novels, the popularity of practical and professional literature falls in favor of light reading literature
+
+01:36:29.920 --> 01:36:41.920
+In order to organize questionnaire surveys, a tool is needed, or a specially developed structured questionnaire, which is called a questionnaire
+
+01:36:41.920 --> 01:36:57.920
+It is structured because it is made according to a logical principle and represents a form of data collection consisting of a series of questions, written or oral, to which the respondent must answer
+
+01:36:57.920 --> 01:37:12.920
+Since there are different techniques and different ways of achieving respondents, the questionnaire can have different characteristics, depending on the technique of the survey or the problem of the study
+
+01:37:12.920 --> 01:37:39.920
+For example, if we conduct a telephone survey or a post office survey, then the questionnaire and questions in it should have an extremely clear character, use simple words and answers, and possible answers should be clearly numbered and very clear
+
+01:37:39.920 --> 01:37:49.920
+It cannot be that the respondents have the opportunity to choose all the answers at the same time
+
+01:37:49.920 --> 01:38:00.920
+If you use a personal interview, then the duration of the questionnaire and its logic can change compared to a telephone interview
+
+01:38:00.920 --> 01:38:20.920
+If you use a personal survey, then the questionnaire can contain both closed questions with options for answers and open questions, where the respondents have the opportunity to answer and express their own opinion on a specific question
+
+01:38:20.920 --> 01:38:45.920
+The first form of survey is the questionnaire and the problem or the topic of the study
+
+01:38:45.920 --> 01:38:55.920
+The questionnaire contains a long list of questions, where there can be a combination of closed questions and open questions, as well as simple and complex questions
+
+01:38:55.920 --> 01:39:09.920
+There can be questions that have a warming character, and there can be quite constructive and structured questions that reflect the attitude of the respondents to the associations that a specific brand causes
+
+01:39:09.920 --> 01:39:16.920
+This attitude can be used in the creation of communication programs
+
+01:39:16.920 --> 01:39:24.920
+Two limitations are the methodology of conducting the survey and the topic of the study
+
+01:39:24.920 --> 01:39:36.920
+What is the purpose of the survey? First of all, it is a structured form of recording the respondents' statements, which is used to get accurate information from the respondents
+
+01:39:36.920 --> 01:39:47.920
+Not only from the point of view of the respondents themselves, but also from the point of view of the respondents' attitude to the problem or topic of the study
+
+01:39:47.920 --> 01:40:00.920
+The survey is made for the purpose of structuring, for making a clear plan, a clear structure for obtaining information, serves as a standard blank for recording comments and opinions
+
+01:40:00.920 --> 01:40:09.920
+And, of course, the survey as a structured form of recording the results of the survey facilitates the processing of data
+
+01:40:09.920 --> 01:40:18.920
+If we talk about the types of surveys, they can be structured, semi-structured, and unstructured
+
+01:40:18.920 --> 01:40:24.920
+Structured surveys are used in large surveys, more than 200 interviews
+
+01:40:24.920 --> 01:40:31.920
+Semi-structured surveys are used in the market research operations between companies, where it is impossible to predict the answers
+
+01:40:31.920 --> 01:40:38.920
+In this sense, personal telephone interviews are used as a method of research
+
+01:40:38.920 --> 01:40:49.920
+And unstructured surveys serve as a basis for research in the technical markets, allow to probe the ground, look for possible results and trends
+
+01:40:49.920 --> 01:40:57.920
+And it is used, as we have already studied, in qualitative research, group discussions, and personal interviews
+
+01:40:57.920 --> 01:41:10.920
+The need for the development of a survey is that the survey is developed with the understanding of what information is necessary, what information should be collected by means of a selective survey
+
+01:41:10.920 --> 01:41:19.920
+With the help of which questions can we get this information from the respondents, and what decisions can be made based on this information
+
+01:41:19.920 --> 01:41:30.920
+Researchers, when developing a survey, understand that the survey should predict intuitively or based on their experience
+
+01:41:30.920 --> 01:41:40.920
+What possible answers will be given by the respondents, and lay down these answers in the survey questions
+
+01:41:40.920 --> 01:41:47.920
+The most important question that usually arises in this topic is how to develop an effective survey
+
+01:41:47.920 --> 01:41:53.920
+On the one hand, this question is very important, and on the other hand, there is no single recipe
+
+01:41:53.920 --> 01:41:59.920
+You can look at different forms of surveys that are developed by professionals
+
+01:41:59.920 --> 01:42:08.920
+And at the same time develop a survey that will be understandable not only to the researcher, but also to the respondents
+
+01:42:09.920 --> 01:42:17.920
+You should remember that the questions that are included in the survey should be extremely clear and understandable
+
+01:42:17.920 --> 01:42:31.920
+And use simple words and simple turns, in no case use overused phrases or try to use your intellectual potential to ask complex questions
+
+01:42:31.920 --> 01:42:40.920
+There is a rule 6W in English, that is, a letter from which questions begin
+
+01:42:40.920 --> 01:42:45.920
+Who, what, where, when, and so on
+
+01:42:45.920 --> 01:42:53.920
+If you translate all of them into Russian, you will not get a single letter, because all these question words start with different letters
+
+01:42:54.920 --> 01:43:04.920
+Nevertheless, you can remember this rule when you think about the types of questions and how to formulate them in the survey
+
+01:43:04.920 --> 01:43:09.920
+Questions that preclude the process of developing a survey
+
+01:43:09.920 --> 01:43:13.920
+What is the problem of the survey? What decisions can be made?
+
+01:43:13.920 --> 01:43:20.920
+Description of the characteristics and profile of the respondents
+
+01:43:20.920 --> 01:43:25.920
+Some parameters of the survey, for example, duration of the interview
+
+01:43:25.920 --> 01:43:28.920
+What tools of analysis will be applicable?
+
+01:43:28.920 --> 01:43:37.920
+I remind you that various methods of mathematical and statistical analysis are understood under the tools of analysis
+
+01:43:37.920 --> 01:43:43.920
+The simplest of which is cross-evaluation analysis, which allows you to make graphs
+
+01:43:43.920 --> 01:43:51.920
+For example, the dependence of the level of consumption of a product on its price and the level of income of respondents
+
+01:43:51.920 --> 01:44:03.920
+Information from the client or historical data on the trends of the industry, which gives the basis of the knowledge layer for the development of the survey
+
+01:44:03.920 --> 01:44:23.920
+For example, we know that the market of computer technology is developing, and that the same trend can be presented in the market of air conditioning, air conditioners, and other equipment that serves to heat or cool the room
+
+01:44:23.920 --> 01:44:41.920
+Typical survey constructs. The constructs are understood by some lexicological and orthographic interactions that carry the characteristics of the question asked or the order of the questions asked
+
+01:44:41.920 --> 01:44:50.920
+For example, the order or the construct from general to private is the most logical way of asking various questions
+
+01:44:50.920 --> 01:44:55.920
+General categories and then transition to specific brands
+
+01:44:55.920 --> 01:45:02.920
+For example, what was your main occupation in the last 13 months?
+
+01:45:02.920 --> 01:45:07.920
+What did you do at work and what was your hobby?
+
+01:45:07.920 --> 01:45:13.920
+And the next question is what products did you buy? What brands did you buy?
+
+01:45:13.920 --> 01:45:24.920
+Another construct is whether you prefer dairy products. A general question
+
+01:45:24.920 --> 01:45:31.920
+And a more private question. What brands of dairy products do you prefer?
+
+01:45:31.920 --> 01:45:44.920
+Here you can give options and answers from those brands that are present on the market. Production of Danone, Airman, Wimbledon and other small and private manufacturers
+
+01:45:44.920 --> 01:46:00.920
+The next construct is a funnel-like approach. Evaluation, diagnostics, classification. How satisfied are you with the purchase?
+
+01:46:00.920 --> 01:46:14.920
+This is a very important question, because based on the answers to this question, you can predict the future demand, the recurring demand for a particular product
+
+01:46:14.920 --> 01:46:25.920
+I have already given you an example. Today you use a laptop manufactured by Dell. How satisfied are you with the purchase?
+
+01:46:25.920 --> 01:46:38.920
+If you are very satisfied, then you are completely dissatisfied. If you are very satisfied, then there is a possibility of prolonging this trend or extrapolating this trend for the future
+
+01:46:38.920 --> 01:46:50.920
+That is, this particular consumer, this particular respondent, will buy a computer from Dell again in the future, when he will replace the existing computer with a new model
+
+01:46:50.920 --> 01:47:00.920
+Why are you satisfied or not satisfied? That is, diagnostics, diagnosis of this problem and classification. What is the average income of your family?
+
+01:47:00.920 --> 01:47:20.920
+If you own a computer of a certain brand, with certain characteristics, which naturally increases the price of this purchase, then it becomes extremely important not just your intention in the future to purchase or refuse this purchase, because you are satisfied or not satisfied with it
+
+01:47:20.920 --> 01:47:39.920
+But also the average income of your family, because this limits the possibility of buying a new model in the future. And the last design of the questionnaire, which is most often used, without determining the goals, which goes to a certain goal
+
+01:47:39.920 --> 01:47:53.920
+What brands from this product category are familiar to you, without a certain goal? This is a question that does not classify certain categories of brands or products yet
+
+01:47:53.920 --> 01:48:18.920
+Have you heard about the following brands and names? Here, a certain goal is clearly traced, because the next question can be a more specific question and go to a typical design for specific brands, to prefer specific brands

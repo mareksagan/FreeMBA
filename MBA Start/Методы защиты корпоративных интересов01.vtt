@@ -1,0 +1,6268 @@
+WEBVTT
+
+00:00.000 --> 00:01.000
+Good afternoon.
+
+00:01.000 --> 00:07.000
+The issues of corporate security are in front of any company in business,
+
+00:07.000 --> 00:10.000
+regardless of what this company does.
+
+00:10.000 --> 00:15.000
+These may be financial issues, production issues,
+
+00:15.000 --> 00:21.000
+or services, but in any case, security issues are there and they need to be solved.
+
+00:21.000 --> 00:26.000
+The construction of corporate security systems is individual,
+
+00:26.000 --> 00:29.000
+depending on the company's features, on the threat,
+
+00:29.000 --> 00:33.000
+but there are common approaches to the construction of corporate security systems.
+
+00:33.000 --> 00:38.000
+It is built from separate subsystems, which are called information security,
+
+00:38.000 --> 00:44.000
+personnel security, technical security, economic security, and other subsystems.
+
+00:44.000 --> 00:49.000
+We will talk about these subsystems and how corporate security systems are built
+
+00:49.000 --> 00:51.000
+in today's seminar.
+
+00:52.000 --> 00:58.000
+The topic of our seminar is corporate security, organization and management practices.
+
+00:58.000 --> 01:06.000
+The first topic we will discuss today is the general issues of building a corporate security system.
+
+01:06.000 --> 01:15.000
+These are quite general issues, but without them you will not be able to build a corporate security system.
+
+01:15.000 --> 01:24.000
+What does a person or a department that deals with corporate security issues usually start with?
+
+01:24.000 --> 01:28.000
+The first thing they usually start with is the creation of a document.
+
+01:28.000 --> 01:34.000
+The document can be called in different ways, I have encountered different names for this document.
+
+01:34.000 --> 01:42.000
+The classic name of this document is the concept of ensuring the company's security.
+
+01:42.000 --> 01:49.000
+This is a conceptual document, it is quite theoretical, but it is tied to the real company,
+
+01:49.000 --> 01:55.000
+to the real threat, to the real object, subject, and so on.
+
+01:55.000 --> 02:02.000
+This document is created, it is usually quite voluminous, it is about 30-40 pages.
+
+02:02.000 --> 02:06.000
+In a mandatory order, it must be approved by the company's management.
+
+02:07.000 --> 02:13.000
+This can be done either through an order or through a confirmation letter.
+
+02:13.000 --> 02:17.000
+The next step is to implement this concept.
+
+02:17.000 --> 02:24.000
+The implementation of this concept also starts with the creation of some documents.
+
+02:24.000 --> 02:27.000
+Basically, these are either programs or plans.
+
+02:28.000 --> 02:31.000
+The classic version is a classic plan.
+
+02:31.000 --> 02:40.000
+It usually goes for a year, a list of events, responsibilities, money, deadlines, execution date, and so on.
+
+02:40.000 --> 02:50.000
+In order to create this concept, it is necessary to determine some circular stones that exist.
+
+02:50.000 --> 02:54.000
+What do I understand under the circular stones?
+
+02:54.000 --> 02:58.000
+I will use this board and write it down.
+
+02:58.000 --> 03:00.000
+These are objects.
+
+03:00.000 --> 03:02.000
+The first thing used is the objects.
+
+03:02.000 --> 03:05.000
+What is determined?
+
+03:05.000 --> 03:07.000
+These are security objects.
+
+03:07.000 --> 03:14.000
+It is quite difficult to ensure the security of everything that exists.
+
+03:14.000 --> 03:23.000
+Therefore, some security objects are usually determined and then their security is carried out.
+
+03:23.000 --> 03:31.000
+If we take a standard version of the organization, what do they usually understand under the objects?
+
+03:31.000 --> 03:35.000
+The first thing is finance.
+
+03:39.000 --> 03:45.000
+In any case, a company has certain financial resources.
+
+03:45.000 --> 03:50.000
+It can be cash, cashless money, shares, bonds, and so on.
+
+03:50.000 --> 03:59.000
+If this money is invested in the wrong place, if it is stolen, then it is clear that a company will have certain problems.
+
+03:59.000 --> 04:03.000
+Therefore, finance is usually an object of security.
+
+04:03.000 --> 04:09.000
+To a greater extent, this applies to organizations that work with other people's money.
+
+04:09.000 --> 04:15.000
+To a lesser extent, it applies to companies that work with their own money.
+
+04:15.000 --> 04:24.000
+Nevertheless, in almost all companies, financial resources and funds are security objects.
+
+04:24.000 --> 04:29.000
+This can be staff.
+
+04:34.000 --> 04:39.000
+In the vast majority of companies, with the exception of a few, people work.
+
+04:39.000 --> 04:47.000
+If these people resign, get sick, get killed, or something happens to them, it is clear that the company will have problems.
+
+04:47.000 --> 04:55.000
+Staff also tends to commit some illegal actions, so staff is an object of security.
+
+04:55.000 --> 05:02.000
+It can be information resources.
+
+05:02.000 --> 05:12.000
+There are no companies in business where all information resources are open.
+
+05:12.000 --> 05:17.000
+All existing information resources are open.
+
+05:17.000 --> 05:22.000
+As a rule, all information resources of a company are divided into two large groups.
+
+05:22.000 --> 05:27.000
+These are open information resources and information resources with limited access.
+
+05:27.000 --> 05:33.000
+I will tell you more about this in the topic of information security.
+
+05:33.000 --> 05:41.000
+Now I will just emphasize that information is an object of security in the vast majority of cases.
+
+05:41.000 --> 05:47.000
+It can be material values.
+
+05:58.000 --> 06:04.000
+The vast majority of companies have certain material values.
+
+06:04.000 --> 06:07.000
+This can be the case with virtual companies.
+
+06:07.000 --> 06:14.000
+These are warehouses with ready-made products, tables, chairs, cars, buildings, etc.
+
+06:14.000 --> 06:22.000
+It is also clear that if this is burned or taken away, then the company will have certain problems.
+
+06:22.000 --> 06:30.000
+Basically, everything related to the protection of material values is a security block.
+
+06:30.000 --> 06:36.000
+I want to say that in the vast majority of companies, material values are objects of security.
+
+06:36.000 --> 06:41.000
+These can be business processes.
+
+06:41.000 --> 06:54.000
+Any business activity consists of business processes.
+
+06:54.000 --> 06:58.000
+This is what the company earns money on.
+
+06:58.000 --> 07:04.000
+Basically, business processes are also objects of security.
+
+07:04.000 --> 07:07.000
+This is not only the case with the security unit.
+
+07:07.000 --> 07:12.000
+Many companies are engaged in the protection of business processes.
+
+07:12.000 --> 07:19.000
+The security service or the employee on the line of corporate security has certain tasks.
+
+07:19.000 --> 07:26.000
+This is the block called economic security, which we will talk about later.
+
+07:27.000 --> 07:32.000
+This can be the reputation of the company.
+
+07:40.000 --> 07:47.000
+Unfortunately, the technologies of black PR are well developed and well-rounded.
+
+07:47.000 --> 07:55.000
+Therefore, the threats that come to the business from the side of black PR are real and must be protected.
+
+07:56.000 --> 08:03.000
+Here you can include protection against the misuse of trademarks, if it is a patented brand.
+
+08:03.000 --> 08:11.000
+Here you can include protection against fake products, which are also not uncommon in our market.
+
+08:11.000 --> 08:17.000
+Therefore, security issues are often crossed out by the protection of the company's reputation.
+
+08:17.000 --> 08:24.000
+You can suppress the company in different ways, you can do it economically, legally, illegally, and so on.
+
+08:24.000 --> 08:27.000
+You can do it with the technologies of black PR.
+
+08:27.000 --> 08:30.000
+This is an object of security.
+
+08:30.000 --> 08:39.000
+There may be other security objects.
+
+08:39.000 --> 08:43.000
+This is a standard approach to this problem.
+
+08:43.000 --> 08:50.000
+It is necessary to assume that each company can define its own security object.
+
+08:50.000 --> 09:03.000
+Now, the second round stone that must be determined before the concept of security is formed.
+
+09:03.000 --> 09:05.000
+These are the subjects.
+
+09:05.000 --> 09:12.000
+The subject of security.
+
+09:12.000 --> 09:19.000
+Who will deal with the security issue?
+
+09:19.000 --> 09:29.000
+If you determine a huge number of security objects, but do not determine who will deal with them, then it will be pointless.
+
+09:30.000 --> 09:38.000
+In commercial structures, there are several levels of approach to security objects.
+
+09:38.000 --> 09:46.000
+As I said in my opening statement, corporate security issues are in front of any company.
+
+09:46.000 --> 09:51.000
+Therefore, in any case, a certain subject must be determined.
+
+09:51.000 --> 09:57.000
+If we take the first level, I call it the bottom level, then this is the management.
+
+09:57.000 --> 10:02.000
+Who is engaged in the first level?
+
+10:02.000 --> 10:05.000
+This is the management.
+
+10:05.000 --> 10:18.000
+In companies where security objects are not determined, the manager decides these issues.
+
+10:18.000 --> 10:27.000
+I can't say that this is a good option, because the management has something to do with security issues.
+
+10:27.000 --> 10:34.000
+But in some companies, mainly small companies, which do not have a lot of money to spend on security,
+
+10:34.000 --> 10:40.000
+which do not have many threats, this level may be acceptable.
+
+10:40.000 --> 10:48.000
+When the company grows, when the threats intensify, when there is something to lose,
+
+10:48.000 --> 10:53.000
+when there is money to spend on security, then the second level is applied.
+
+10:53.000 --> 10:56.000
+I will not write the word level.
+
+10:56.000 --> 11:00.000
+This is a work in partnership.
+
+11:00.000 --> 11:04.000
+I call it a work in partnership.
+
+11:04.000 --> 11:17.000
+That is, a certain official who exists in the company jointly issues a security issue.
+
+11:17.000 --> 11:21.000
+What official should I ask these questions to?
+
+11:21.000 --> 11:23.000
+There are different approaches.
+
+11:23.000 --> 11:27.000
+You can ask this question to some deputy director.
+
+11:27.000 --> 11:32.000
+I often came across the head of the legal department, who asked these questions.
+
+11:32.000 --> 11:35.000
+This is a work in partnership.
+
+11:35.000 --> 11:44.000
+As with any work in partnership, it is not very effective, because it is very difficult to sit on two chairs,
+
+11:44.000 --> 11:49.000
+to perform work in two directions at the same time is quite difficult.
+
+11:49.000 --> 11:55.000
+Therefore, in cases when there is an opportunity, the third level is applied.
+
+11:55.000 --> 12:00.000
+The third level is a separate position.
+
+12:00.000 --> 12:07.000
+A separate position.
+
+12:07.000 --> 12:13.000
+How this position will be called is not so important.
+
+12:13.000 --> 12:18.000
+You can come across the practice of a security assistant,
+
+12:18.000 --> 12:21.000
+maybe a deputy security director,
+
+12:21.000 --> 12:28.000
+or maybe just some completely non-speaking position as a consultant or advisor.
+
+12:28.000 --> 12:32.000
+The most important thing is that this is a separate position.
+
+12:32.000 --> 12:36.000
+A person who occupies this position solves security issues.
+
+12:36.000 --> 12:40.000
+That is, his main functional duties are to solve security issues.
+
+12:40.000 --> 12:45.000
+It should be noted that one person cannot do serious work.
+
+12:45.000 --> 12:49.000
+Therefore, this position is usually an organizing position.
+
+12:49.000 --> 12:56.000
+That is, a person attracts organizations that provide these services in various areas of security.
+
+12:56.000 --> 13:02.000
+And this person who occupies this position is responsible for this and coordinates this work.
+
+13:02.000 --> 13:06.000
+This is a very common and widely applied option.
+
+13:06.000 --> 13:09.000
+There are a variety of this option.
+
+13:09.000 --> 13:11.000
+I would call it the fourth level.
+
+13:11.000 --> 13:18.000
+This is a security council plus a separate position.
+
+13:18.000 --> 13:24.000
+Security council.
+
+13:24.000 --> 13:30.000
+Plus a separate position.
+
+13:30.000 --> 13:38.000
+What is a security council?
+
+13:38.000 --> 13:47.000
+Usually, it is a kind of advisory body that is formed in an organization according to its positions.
+
+13:48.000 --> 13:56.000
+For example, all the heads of departments of a company are included in this security council.
+
+13:56.000 --> 14:03.000
+It can periodically gather once a year, once a month, once a quarter, depending on the need.
+
+14:03.000 --> 14:09.000
+It can develop a certain ideology of security, develop a certain direction of activity.
+
+14:09.000 --> 14:20.000
+And a person who occupies this separate position will carry out these requirements and decisions that this security council produces.
+
+14:20.000 --> 14:24.000
+This is also a fairly common and effective option.
+
+14:24.000 --> 14:29.000
+There are levels 5 and 6.
+
+14:29.000 --> 14:36.000
+The fifth level is the customer service.
+
+14:46.000 --> 14:50.000
+The sixth level is the security service.
+
+14:50.000 --> 15:02.000
+What are the advantages and disadvantages of the fifth and sixth levels?
+
+15:02.000 --> 15:05.000
+What is customer service?
+
+15:05.000 --> 15:09.000
+In fact, this is a classic outsourcing.
+
+15:09.000 --> 15:15.000
+There are quite a few security holdings that provide these services.
+
+15:16.000 --> 15:21.000
+The company becomes the basis of a certain contract for the maintenance of this holding.
+
+15:21.000 --> 15:26.000
+And the security holding solves all the security issues of this company.
+
+15:26.000 --> 15:31.000
+The security service is a structural division of the company.
+
+15:31.000 --> 15:33.000
+There are certain features.
+
+15:33.000 --> 15:39.000
+Licensing is required, a charter is required, which is agreed upon by the internal affairs agencies.
+
+15:40.000 --> 15:48.000
+This division is not a legal entity, but the founder of the company in which this security service is created.
+
+15:48.000 --> 15:54.000
+Perhaps, the security service is the best option that is possible in commercial structures.
+
+15:54.000 --> 16:00.000
+In what cases do they usually create a security service?
+
+16:00.000 --> 16:06.000
+First, the security service is a fairly expensive enterprise.
+
+16:07.000 --> 16:15.000
+Therefore, the security service is necessary when there is a serious threat and when there is money to neutralize these threats.
+
+16:15.000 --> 16:21.000
+The security service is usually created when there are different areas of activity.
+
+16:21.000 --> 16:28.000
+I have encountered a security service that consists of one person, one boss.
+
+16:28.000 --> 16:31.000
+It seems to me that this is quite pointless.
+
+16:31.000 --> 16:35.000
+It is necessary to create a security service when there are different areas of activity.
+
+16:35.000 --> 16:38.000
+It can be a security area, a detective area.
+
+16:38.000 --> 16:42.000
+What is the advantage of the security service?
+
+16:42.000 --> 16:50.000
+The advantage is that the information and activities of the company on the corporate security line do not go anywhere.
+
+16:50.000 --> 16:56.000
+This is its own division and the information does not go anywhere.
+
+16:56.000 --> 17:06.000
+Unlike outsourcing, where the information is initially supposed to be transferred to another organization.
+
+17:06.000 --> 17:14.000
+Everything related to corporate security is closed, so it is not always convenient and good.
+
+17:14.000 --> 17:22.000
+Outsourcing is a relatively inexpensive event.
+
+17:22.000 --> 17:26.000
+It is much less expensive.
+
+17:26.000 --> 17:32.000
+The disadvantage of outsourcing is that it is closely related to a certain contract.
+
+17:32.000 --> 17:35.000
+The company with this security holding is a contract.
+
+17:35.000 --> 17:40.000
+Only within this contract is interaction carried out.
+
+17:40.000 --> 17:45.000
+The security service is its own structural division.
+
+17:45.000 --> 17:48.000
+It can be asked some questions.
+
+17:48.000 --> 17:50.000
+For example, what is the nature of the company?
+
+17:50.000 --> 17:53.000
+What will you never do within the framework of outsourcing?
+
+17:53.000 --> 18:00.000
+The disadvantage of the security service is that it requires a license.
+
+18:00.000 --> 18:03.000
+It requires a consent from the internal affairs agency.
+
+18:03.000 --> 18:06.000
+It requires a certain bureaucracy.
+
+18:06.000 --> 18:10.000
+The inspectors from the licensing and authorization system of the Ministry of Internal Affairs will come.
+
+18:10.000 --> 18:12.000
+This is a fairly bureaucratic system.
+
+18:12.000 --> 18:18.000
+But this is a certain officio, this is a certain official relationship, including from the internal affairs agency.
+
+18:18.000 --> 18:20.000
+What to choose?
+
+18:20.000 --> 18:23.000
+The company must decide for itself.
+
+18:23.000 --> 18:27.000
+There are no universal solutions applicable to the entire company.
+
+18:27.000 --> 18:32.000
+It is necessary to look at the situation based on the threat, based on the money, based on the demand for expediency.
+
+18:32.000 --> 18:35.000
+In some cases, it is necessary to create a security service.
+
+18:35.000 --> 18:39.000
+In some cases, it may be limited to either a separate position,
+
+18:39.000 --> 18:45.000
+or the establishment of a subscription service with some security holding.
+
+18:45.000 --> 18:49.000
+This is the second point that you must determine for yourself
+
+18:49.000 --> 18:52.000
+before creating this concept of security.
+
+18:52.000 --> 18:59.000
+The next cornerstone that you must determine is the goals and tasks of security.
+
+19:00.000 --> 19:09.000
+The goal is the same for all organizations that operate on the security line.
+
+19:09.000 --> 19:12.000
+The goal is the stable functioning of the company.
+
+19:12.000 --> 19:17.000
+As a rule, where the company functions steadily,
+
+19:17.000 --> 19:20.000
+including the well-working security service,
+
+19:20.000 --> 19:27.000
+where there are problems, some losses on the line of operation of the company,
+
+19:27.000 --> 19:30.000
+including the poorly functioning security service.
+
+19:30.000 --> 19:34.000
+The achievement of this goal is based on different tasks,
+
+19:34.000 --> 19:36.000
+on the solution of different tasks.
+
+19:36.000 --> 19:40.000
+It can be protection of information, it can be protection of business processes,
+
+19:40.000 --> 19:45.000
+depending on the objects that we have determined for ourselves.
+
+19:45.000 --> 19:53.000
+The goal of the security system
+
+19:53.000 --> 20:02.000
+Now we will move on to the section that explains
+
+20:02.000 --> 20:07.000
+what the system of corporate security should consist of,
+
+20:07.000 --> 20:10.000
+that is, the structure of corporate security.
+
+20:10.000 --> 20:20.000
+I draw it in the form of a wall that encircles the company,
+
+20:20.000 --> 20:25.000
+a wall that holds the circular defense around the company,
+
+20:25.000 --> 20:30.000
+a wall that consists of individual bricks, individual elements.
+
+20:30.000 --> 20:35.000
+These bricks, these elements can be more or less,
+
+20:35.000 --> 20:39.000
+but to some extent they should be present when you build a system,
+
+20:39.000 --> 20:41.000
+namely, a system of corporate security.
+
+20:41.000 --> 20:44.000
+It is clear that if there is not enough brick in the wall,
+
+20:44.000 --> 20:49.000
+there will be a hole, then the construction of this wall will be ineffective.
+
+20:49.000 --> 20:56.000
+Therefore, we will draw it as a brick wall in the form of bricks.
+
+20:56.000 --> 20:59.000
+As a rule, when this wall is built,
+
+20:59.000 --> 21:02.000
+one central brick is allocated,
+
+21:02.000 --> 21:06.000
+that is, based on the threat, one large central brick is chosen.
+
+21:06.000 --> 21:11.000
+And around it, the rest of the bricks are built.
+
+21:11.000 --> 21:14.000
+The structure.
+
+21:14.000 --> 21:22.000
+These bricks that I will draw now,
+
+21:22.000 --> 21:26.000
+I draw them for the sake of simplicity of understanding.
+
+21:26.000 --> 21:30.000
+Because it is clear that in real life they can find each other,
+
+21:30.000 --> 21:34.000
+they can intersect, they can duplicate each other.
+
+21:34.000 --> 21:38.000
+But nevertheless, the most important thing is that to some extent
+
+21:38.000 --> 21:41.000
+all these bricks are present in this wall.
+
+21:41.000 --> 21:45.000
+The first brick.
+
+21:45.000 --> 21:49.000
+The first does not mean that it is the most important,
+
+21:49.000 --> 21:52.000
+it will just be the first.
+
+21:52.000 --> 21:55.000
+Because in every company, the main brick is naturally its own.
+
+21:55.000 --> 21:58.000
+Let's call it information security.
+
+21:58.000 --> 22:05.000
+Information security.
+
+22:05.000 --> 22:12.000
+The term information security is quite fashionable.
+
+22:12.000 --> 22:18.000
+It has been fashionable since 2000,
+
+22:18.000 --> 22:21.000
+when the doctrine was adopted,
+
+22:21.000 --> 22:24.000
+there is such information security of the Russian Federation.
+
+22:24.000 --> 22:27.000
+What is information security?
+
+22:27.000 --> 22:30.000
+It is the state of security of the company's information resources.
+
+22:30.000 --> 22:33.000
+This is the ultimate goal,
+
+22:33.000 --> 22:36.000
+this is the state of security.
+
+22:36.000 --> 22:40.000
+This information security is achieved by a process
+
+22:40.000 --> 22:43.000
+called information protection.
+
+22:43.000 --> 22:46.000
+What is the complexity of this brick?
+
+22:46.000 --> 22:49.000
+The complexity is that, first of all,
+
+22:49.000 --> 22:54.000
+you need to look at what forms the information takes.
+
+22:54.000 --> 22:57.000
+Because information can take many different forms.
+
+22:57.000 --> 23:00.000
+These can be documents,
+
+23:00.000 --> 23:03.000
+which can be on paper,
+
+23:03.000 --> 23:06.000
+they can be on electronic media,
+
+23:06.000 --> 23:09.000
+this can be electronic information.
+
+23:09.000 --> 23:12.000
+Information can be in people's heads,
+
+23:12.000 --> 23:15.000
+this is also information that needs to be protected.
+
+23:15.000 --> 23:18.000
+Information can be in the form of industrial waste,
+
+23:18.000 --> 23:21.000
+this is also some kind of information that needs to be protected.
+
+23:21.000 --> 23:24.000
+When they start to create this brick,
+
+23:24.000 --> 23:27.000
+which is called information security,
+
+23:27.000 --> 23:32.000
+the first thing they do is to determine the information that needs to be protected,
+
+23:32.000 --> 23:37.000
+and the second is to build the forms in which this information can be presented.
+
+23:37.000 --> 23:40.000
+And they build protection based on these forms.
+
+23:40.000 --> 23:46.000
+The complexity is that the vast majority of information resources
+
+23:46.000 --> 23:49.000
+are now in electronic form,
+
+23:49.000 --> 23:53.000
+so to speak, information security has a certain angle,
+
+23:53.000 --> 23:57.000
+which is connected with the protection of information presented in electronic form.
+
+23:57.000 --> 24:03.000
+We will talk in more detail in the section called information security.
+
+24:03.000 --> 24:06.000
+How is it built?
+
+24:06.000 --> 24:11.000
+What directions of building this brick are related to information security?
+
+24:11.000 --> 24:14.000
+I will draw it here.
+
+24:15.000 --> 24:21.000
+If the information is presented in the form of material or paper documents,
+
+24:21.000 --> 24:24.000
+and in general in the form of documents,
+
+24:24.000 --> 24:27.000
+then it is necessary to create a confidential production case.
+
+24:27.000 --> 24:30.000
+One of the directions is a confidential production case.
+
+24:35.000 --> 24:37.000
+A confidential production case.
+
+24:37.000 --> 24:44.000
+The second direction is...
+
+24:44.000 --> 24:49.000
+I have already said that a lot of information resources,
+
+24:49.000 --> 24:53.000
+closed information resources are presented in electronic form.
+
+24:53.000 --> 24:56.000
+The second direction is IT security,
+
+24:56.000 --> 25:00.000
+that is, the protection of information resources presented in electronic form.
+
+25:00.000 --> 25:03.000
+IT security.
+
+25:08.000 --> 25:13.000
+Information, protection of information can be organized by measures.
+
+25:13.000 --> 25:19.000
+Therefore, the so-called organizational measures are widely used.
+
+25:23.000 --> 25:28.000
+Organizational measures.
+
+25:28.000 --> 25:30.000
+Or events.
+
+25:30.000 --> 25:32.000
+Under the organizational measures,
+
+25:32.000 --> 25:35.000
+this is a fairly large set of events.
+
+25:35.000 --> 25:38.000
+You can even include the restriction of access to information,
+
+25:38.000 --> 25:41.000
+control and access regime in the company, video surveillance.
+
+25:41.000 --> 25:45.000
+These are all some kind of organizational measures of information protection.
+
+25:45.000 --> 25:48.000
+In organizational measures,
+
+25:48.000 --> 25:51.000
+this is the breaking of information into parts.
+
+25:51.000 --> 25:53.000
+These are also organizational measures of protection.
+
+25:53.000 --> 25:57.000
+If you have some information,
+
+25:57.000 --> 26:00.000
+a formula that you want to protect,
+
+26:00.000 --> 26:02.000
+then it is broken into parts,
+
+26:02.000 --> 26:04.000
+let's say, into several parts.
+
+26:04.000 --> 26:06.000
+These parts are territorially divided.
+
+26:06.000 --> 26:08.000
+That is, one part is located in one city,
+
+26:08.000 --> 26:10.000
+the second part is located in another city,
+
+26:10.000 --> 26:12.000
+the third part is located in a third city.
+
+26:12.000 --> 26:16.000
+And different people have access to these parts.
+
+26:16.000 --> 26:19.000
+Therefore, the criminal, in order to get all this formula,
+
+26:19.000 --> 26:21.000
+all this information,
+
+26:21.000 --> 26:24.000
+has to collect it from different people
+
+26:24.000 --> 26:26.000
+and from territorially divided objects.
+
+26:26.000 --> 26:28.000
+Which is naturally much more difficult
+
+26:28.000 --> 26:32.000
+than if this formula was in one place.
+
+26:32.000 --> 26:35.000
+This is a classic division of information into parts,
+
+26:35.000 --> 26:39.000
+a classic organizational principle of protection.
+
+26:39.000 --> 26:42.000
+This was used quite widely before.
+
+26:42.000 --> 26:46.000
+And now, if we remember how the secret of Coca-Cola was protected,
+
+26:46.000 --> 26:51.000
+then one of the methods was in the 1920s or 1930s,
+
+26:51.000 --> 26:53.000
+it was an organizational one.
+
+26:53.000 --> 26:55.000
+This formula was really divided into three parts.
+
+26:55.000 --> 27:00.000
+Each of these parts had access to only a certain number of people.
+
+27:01.000 --> 27:06.000
+Here, the direction is legal measures.
+
+27:10.000 --> 27:12.000
+Legal measures.
+
+27:12.000 --> 27:16.000
+In order to create information security,
+
+27:16.000 --> 27:18.000
+this block called information security,
+
+27:18.000 --> 27:20.000
+legal measures can also be applied.
+
+27:20.000 --> 27:24.000
+For example, if you create a commercial secret regime,
+
+27:24.000 --> 27:27.000
+that is, if, having read the law of commercial secrecy,
+
+27:27.000 --> 27:30.000
+you decided to create a commercial secret regime,
+
+27:30.000 --> 27:34.000
+then you must apply some legal measures.
+
+27:34.000 --> 27:36.000
+Approval of a list of information,
+
+27:36.000 --> 27:38.000
+creation of certain instructions,
+
+27:38.000 --> 27:41.000
+these are legal measures.
+
+27:41.000 --> 27:45.000
+I will stop at technical measures.
+
+27:47.000 --> 27:49.000
+These are technical measures.
+
+27:53.000 --> 27:55.000
+Technical measures.
+
+27:56.000 --> 28:03.000
+These are technical measures for the closure of various channels of information leakage.
+
+28:03.000 --> 28:08.000
+Basically, this is protection against industrial espionage.
+
+28:08.000 --> 28:12.000
+In order to ensure that information does not go through
+
+28:12.000 --> 28:16.000
+some technical solutions on technical channels.
+
+28:16.000 --> 28:23.000
+And here I would probably add another point.
+
+28:23.000 --> 28:25.000
+These are personnel measures.
+
+28:27.000 --> 28:29.000
+Personnel measures.
+
+28:29.000 --> 28:34.000
+That is, information is in people's heads in any case,
+
+28:34.000 --> 28:37.000
+and to conduct some events,
+
+28:37.000 --> 28:38.000
+that is, personnel measures,
+
+28:38.000 --> 28:42.000
+so that people who know your commercial secrets,
+
+28:42.000 --> 28:44.000
+know your classified information,
+
+28:44.000 --> 28:46.000
+so that they do not disclose it.
+
+28:46.000 --> 28:50.000
+This is a whole complex called personnel measures and personnel events.
+
+28:50.000 --> 28:55.000
+I will tell you more about them when we talk about personnel security.
+
+28:56.000 --> 28:58.000
+So, the first brick.
+
+29:00.000 --> 29:02.000
+The second brick.
+
+29:06.000 --> 29:08.000
+Let's call it personnel security.
+
+29:11.000 --> 29:13.000
+Personnel security.
+
+29:14.000 --> 29:19.000
+So, threats, I already said, I will remind you a little more,
+
+29:19.000 --> 29:21.000
+which come from a person.
+
+29:21.000 --> 29:24.000
+There are basically three groups of threats.
+
+29:24.000 --> 29:26.000
+This is the enforcement of illegal actions,
+
+29:26.000 --> 29:28.000
+this is the disclosure of information,
+
+29:28.000 --> 29:31.000
+and this is the enforcement of incompetent actions.
+
+29:31.000 --> 29:36.000
+Therefore, basically, all events aimed at personnel security,
+
+29:36.000 --> 29:39.000
+they are divided into three large groups.
+
+29:39.000 --> 29:42.000
+These are measures related to protection
+
+29:44.000 --> 29:47.000
+from committing illegal actions.
+
+29:51.000 --> 29:58.000
+Committing illegal actions.
+
+29:58.000 --> 30:00.000
+Well, illegal actions, of course,
+
+30:00.000 --> 30:03.000
+are those actions that violate certain rules of law.
+
+30:03.000 --> 30:06.000
+First of all, these are actions that fall under the articles of the Criminal Code,
+
+30:06.000 --> 30:09.000
+the Administrative Code, the Labor Code, and so on.
+
+30:11.000 --> 30:14.000
+This is protection from disclosure of information.
+
+30:20.000 --> 30:22.000
+From disclosure of information.
+
+30:27.000 --> 30:29.000
+In principle, if you go into detail,
+
+30:29.000 --> 30:33.000
+disclosure of information is a private case of committing illegal actions.
+
+30:34.000 --> 30:37.000
+But in personnel security, this area is distinguished separately,
+
+30:37.000 --> 30:42.000
+simply because it is quite relevant and has a certain specificity.
+
+30:44.000 --> 30:47.000
+This is, of course, disclosure of confidential information,
+
+30:47.000 --> 30:49.000
+that is, information with limited access.
+
+30:50.000 --> 30:55.000
+And the third area is protection from incompetent actions.
+
+30:55.000 --> 31:00.000
+Protection from incompetent actions.
+
+31:08.000 --> 31:11.000
+This is not really a question of the security service.
+
+31:11.000 --> 31:14.000
+As a rule, protection from incompetent actions
+
+31:14.000 --> 31:16.000
+does not take part in the security service,
+
+31:16.000 --> 31:20.000
+although sometimes it is involved in this direction.
+
+31:20.000 --> 31:23.000
+The threat coming from this direction is really real,
+
+31:23.000 --> 31:26.000
+because you can build a very powerful,
+
+31:26.000 --> 31:29.000
+very modern, good security system,
+
+31:29.000 --> 31:33.000
+but incompetent people will simply ruin the company,
+
+31:33.000 --> 31:36.000
+and whatever security you build, it will be completely ineffective.
+
+31:38.000 --> 31:40.000
+A little bit about the peculiarity of this brick,
+
+31:40.000 --> 31:42.000
+which is called personnel security.
+
+31:42.000 --> 31:44.000
+First of all, this is the biggest,
+
+31:44.000 --> 31:46.000
+and as a rule the most problematic,
+
+31:46.000 --> 31:49.000
+and the weakest link in the entire security system.
+
+31:50.000 --> 31:54.000
+The vast majority of problems that the company has
+
+31:54.000 --> 31:56.000
+are related to personnel security.
+
+31:57.000 --> 31:59.000
+There is a certain statistic,
+
+31:59.000 --> 32:02.000
+that according to the disclosure of information,
+
+32:02.000 --> 32:05.000
+about 80-85% of the information,
+
+32:05.000 --> 32:07.000
+the classified information,
+
+32:07.000 --> 32:11.000
+is either used by personnel security,
+
+32:11.000 --> 32:13.000
+or by incorrect documents.
+
+32:14.000 --> 32:17.000
+And only about 15% of the information
+
+32:17.000 --> 32:20.000
+is used by other means,
+
+32:20.000 --> 32:23.000
+like industrial espionage, hackers, and so on.
+
+32:24.000 --> 32:26.000
+Why does this happen?
+
+32:26.000 --> 32:30.000
+It is clear, because the use of industrial espionage equipment,
+
+32:30.000 --> 32:33.000
+well, first of all, its use is immediately
+
+32:33.000 --> 32:36.000
+subject to the corresponding articles of the Criminal Code,
+
+32:36.000 --> 32:41.000
+which is not good for the customer.
+
+32:41.000 --> 32:43.000
+And second, the equipment of industrial espionage
+
+32:43.000 --> 32:45.000
+is quite expensive.
+
+32:45.000 --> 32:47.000
+To get the same information,
+
+32:47.000 --> 32:49.000
+you can use a much simpler,
+
+32:49.000 --> 32:51.000
+more accessible method.
+
+32:52.000 --> 32:55.000
+Well, to take the right person to a restaurant,
+
+32:55.000 --> 32:58.000
+to drink vodka, then wine, then beer,
+
+32:58.000 --> 33:00.000
+and get the same information.
+
+33:00.000 --> 33:03.000
+Without violating any articles of the Criminal Code.
+
+33:03.000 --> 33:06.000
+We do not take the scrimmage component.
+
+33:06.000 --> 33:09.000
+And this method of obtaining information
+
+33:09.000 --> 33:11.000
+can be much cheaper
+
+33:11.000 --> 33:14.000
+than the use of industrial espionage equipment.
+
+33:14.000 --> 33:17.000
+Therefore, as a rule, everything related to
+
+33:17.000 --> 33:19.000
+personnel safety is quite relevant.
+
+33:20.000 --> 33:23.000
+The peculiarity of this brick is that
+
+33:23.000 --> 33:25.000
+it is quite stable,
+
+33:25.000 --> 33:27.000
+that is, it changes very slowly.
+
+33:28.000 --> 33:31.000
+Everything related to personnel safety is psychology.
+
+33:31.000 --> 33:33.000
+Psychology of people changes very slowly.
+
+33:33.000 --> 33:36.000
+The methods of influence of one person on another,
+
+33:36.000 --> 33:38.000
+as they were in ancient Rome,
+
+33:38.000 --> 33:40.000
+probably remain the same.
+
+33:40.000 --> 33:42.000
+The same bribery, the same blackmail,
+
+33:42.000 --> 33:44.000
+the same insult.
+
+33:44.000 --> 33:47.000
+Maybe some torture left the first place,
+
+33:47.000 --> 33:49.000
+but the second or the third.
+
+33:52.000 --> 33:54.000
+And personnel safety issues
+
+33:54.000 --> 33:56.000
+are solved approximately the same
+
+33:56.000 --> 33:59.000
+regardless of what the company does.
+
+33:59.000 --> 34:01.000
+That is, whether it is financers,
+
+34:01.000 --> 34:03.000
+whether it is manufacturers,
+
+34:03.000 --> 34:05.000
+whether it is the service sector,
+
+34:05.000 --> 34:08.000
+personnel safety issues are solved approximately the same.
+
+34:08.000 --> 34:11.000
+But the psychology of people working in different organizations
+
+34:11.000 --> 34:13.000
+is approximately the same.
+
+34:13.000 --> 34:16.000
+Unlike, say, some technical solutions
+
+34:16.000 --> 34:18.000
+that can change very quickly
+
+34:18.000 --> 34:20.000
+and which are built individually
+
+34:20.000 --> 34:23.000
+depending on what kind of company.
+
+34:24.000 --> 34:26.000
+This is personnel safety.
+
+34:26.000 --> 34:29.000
+This is a brick called personnel safety.
+
+34:31.000 --> 34:33.000
+There is a brick,
+
+34:33.000 --> 34:35.000
+let's call it the third brick.
+
+34:35.000 --> 34:38.000
+It is also related to the human factor.
+
+34:38.000 --> 34:42.000
+The third brick is personnel safety.
+
+34:49.000 --> 34:51.000
+Personal safety.
+
+34:51.000 --> 34:54.000
+Personal safety is mainly applied
+
+34:54.000 --> 34:56.000
+to the first persons of the company
+
+34:56.000 --> 34:58.000
+in order for them to work,
+
+34:58.000 --> 35:00.000
+make some decisions.
+
+35:00.000 --> 35:02.000
+These decisions were provided
+
+35:02.000 --> 35:04.000
+with a certain level of safety.
+
+35:04.000 --> 35:06.000
+Basically, everything that concerns
+
+35:06.000 --> 35:10.000
+personal safety is built in three directions.
+
+35:10.000 --> 35:12.000
+This is physical protection.
+
+35:16.000 --> 35:18.000
+Physical protection.
+
+35:19.000 --> 35:23.000
+This is legal protection.
+
+35:29.000 --> 35:31.000
+Legal protection.
+
+35:31.000 --> 35:33.000
+This is psychological protection.
+
+35:36.000 --> 35:38.000
+Psychological protection.
+
+35:42.000 --> 35:44.000
+Legal protection.
+
+35:44.000 --> 35:48.000
+Physical protection is the work of bodyguards.
+
+35:48.000 --> 35:52.000
+This is the provision of body safety.
+
+35:54.000 --> 35:56.000
+There are a lot of problems
+
+35:56.000 --> 35:58.000
+related to the legal side.
+
+35:58.000 --> 36:01.000
+Unfortunately, according to our legislation,
+
+36:01.000 --> 36:04.000
+bodyguards work, they exist.
+
+36:04.000 --> 36:07.000
+Unfortunately, there are no bodyguards in the legal side.
+
+36:07.000 --> 36:09.000
+When I will talk about the principles
+
+36:09.000 --> 36:11.000
+and the principle of legality,
+
+36:11.000 --> 36:13.000
+I will talk about it in detail.
+
+36:13.000 --> 36:16.000
+Legal protection is the legal provision
+
+36:16.000 --> 36:20.000
+of decision-making by the company's management.
+
+36:20.000 --> 36:23.000
+Basically, this is the work of lawyers.
+
+36:23.000 --> 36:25.000
+If the lawyers have done poorly,
+
+36:25.000 --> 36:27.000
+it is the work of lawyers.
+
+36:27.000 --> 36:29.000
+This is the legal provision
+
+36:29.000 --> 36:32.000
+of decision-making by the company's first person.
+
+36:32.000 --> 36:36.000
+Psychological protection is the work of psychologists.
+
+36:36.000 --> 36:40.000
+This is the psychological provision
+
+36:40.000 --> 36:42.000
+of decision-making
+
+36:42.000 --> 36:44.000
+so that people who make decisions
+
+36:44.000 --> 36:47.000
+make decisions in a state of psychological stability,
+
+36:47.000 --> 36:49.000
+psychological balance,
+
+36:49.000 --> 36:52.000
+so that there is no decision-making
+
+36:52.000 --> 36:55.000
+in a state of some kind of effect.
+
+36:55.000 --> 36:58.000
+Basically, this brick is built
+
+36:58.000 --> 37:01.000
+in these three directions.
+
+37:01.000 --> 37:03.000
+Of course, it can be further painted
+
+37:03.000 --> 37:05.000
+as some kind of safe food,
+
+37:05.000 --> 37:07.000
+safe swimming and everything else.
+
+37:07.000 --> 37:09.000
+But usually this is not done,
+
+37:09.000 --> 37:11.000
+it is quite expensive.
+
+37:11.000 --> 37:13.000
+And in the best case,
+
+37:13.000 --> 37:15.000
+in the maximum version of commercial structures,
+
+37:15.000 --> 37:17.000
+personal security is built
+
+37:17.000 --> 37:19.000
+in these three directions.
+
+37:19.000 --> 37:21.000
+The fourth brick
+
+37:26.000 --> 37:30.000
+is called economic security.
+
+37:31.000 --> 37:36.000
+Economic security.
+
+37:39.000 --> 37:41.000
+I have already said that economic security
+
+37:41.000 --> 37:44.000
+is basically the security of business processes
+
+37:44.000 --> 37:47.000
+that take place in the company.
+
+37:47.000 --> 37:49.000
+This brick is built,
+
+37:49.000 --> 37:52.000
+which is called economic security,
+
+37:52.000 --> 37:55.000
+depending on the business processes.
+
+37:55.000 --> 37:59.000
+I also focus on economic security.
+
+37:59.000 --> 38:01.000
+Economic security is not only
+
+38:01.000 --> 38:03.000
+the security service,
+
+38:03.000 --> 38:05.000
+but many departments
+
+38:05.000 --> 38:08.000
+that are present in the company.
+
+38:08.000 --> 38:10.000
+If we build economic security
+
+38:10.000 --> 38:13.000
+from the position of the security service,
+
+38:13.000 --> 38:15.000
+then, as a rule,
+
+38:15.000 --> 38:18.000
+this is the business intelligence.
+
+38:23.000 --> 38:25.000
+Business intelligence.
+
+38:25.000 --> 38:27.000
+This is the direction
+
+38:27.000 --> 38:29.000
+of the security service.
+
+38:29.000 --> 38:31.000
+What is business intelligence?
+
+38:31.000 --> 38:33.000
+I will describe it in two words.
+
+38:33.000 --> 38:35.000
+There are different terms.
+
+38:35.000 --> 38:38.000
+There is the concept of business intelligence,
+
+38:38.000 --> 38:41.000
+there is the concept of competitive intelligence,
+
+38:41.000 --> 38:43.000
+there is the concept of corporate intelligence,
+
+38:43.000 --> 38:45.000
+business intelligence.
+
+38:45.000 --> 38:47.000
+In fact, this is information analytics.
+
+38:47.000 --> 38:49.000
+These are two directions.
+
+38:49.000 --> 38:51.000
+This is the collection of information,
+
+38:51.000 --> 38:53.000
+this is its analysis.
+
+38:53.000 --> 38:55.000
+There is an operational direction,
+
+38:55.000 --> 38:58.000
+but in fact, this is information analytics.
+
+38:58.000 --> 39:01.000
+From the point of view of economic risks,
+
+39:01.000 --> 39:03.000
+from the point of view of checking
+
+39:03.000 --> 39:05.000
+the compatibility of the partner,
+
+39:05.000 --> 39:07.000
+and everything else.
+
+39:07.000 --> 39:09.000
+There is a direction,
+
+39:09.000 --> 39:12.000
+the so-called economic management,
+
+39:12.000 --> 39:15.000
+and the minimization of economic risks.
+
+39:17.000 --> 39:20.000
+Management and minimization.
+
+39:25.000 --> 39:27.000
+Economic risks.
+
+39:29.000 --> 39:32.000
+This is not always done by the security service,
+
+39:32.000 --> 39:35.000
+although it is attracted to solving this problem.
+
+39:35.000 --> 39:38.000
+For example, to minimize economic risks
+
+39:38.000 --> 39:41.000
+from the point of view of duplicating
+
+39:41.000 --> 39:43.000
+some economic processes.
+
+39:43.000 --> 39:46.000
+If there is only one raw material supplier,
+
+39:46.000 --> 39:49.000
+then it is clear that this is an unstable system,
+
+39:49.000 --> 39:51.000
+and from the point of view of security,
+
+39:51.000 --> 39:53.000
+these are risks, these are threats.
+
+39:53.000 --> 39:56.000
+As soon as this supplier is lost,
+
+39:56.000 --> 39:59.000
+the supply of some materials is lost.
+
+39:59.000 --> 40:01.000
+There should be duplication.
+
+40:01.000 --> 40:03.000
+Supply duplication,
+
+40:03.000 --> 40:05.000
+supplier duplication,
+
+40:05.000 --> 40:07.000
+consumer duplication, and so on.
+
+40:07.000 --> 40:11.000
+What is the security service doing?
+
+40:11.000 --> 40:14.000
+Basically, this is protection against fraud.
+
+40:18.000 --> 40:20.000
+Protection against fraud.
+
+40:24.000 --> 40:26.000
+Here we are talking about fraud
+
+40:26.000 --> 40:29.000
+not from the point of view of the company staff,
+
+40:29.000 --> 40:32.000
+but from the point of view of other organizations
+
+40:32.000 --> 40:36.000
+and fraud from the point of view of other legal entities.
+
+40:36.000 --> 40:38.000
+Well, maybe, for example,
+
+40:38.000 --> 40:41.000
+protection against hostile absorption.
+
+40:46.000 --> 40:48.000
+Hostile absorption.
+
+40:49.000 --> 40:52.000
+This is also a fairly fashionable term,
+
+40:52.000 --> 40:55.000
+protection against hostile absorption.
+
+40:55.000 --> 40:58.000
+What is hostile absorption?
+
+40:58.000 --> 41:01.000
+This is the control over the company's assets
+
+41:01.000 --> 41:04.000
+in the face of the company's owner,
+
+41:04.000 --> 41:07.000
+the company's management.
+
+41:07.000 --> 41:09.000
+There are different schemes.
+
+41:09.000 --> 41:11.000
+There are white schemes,
+
+41:11.000 --> 41:13.000
+there are gray schemes,
+
+41:13.000 --> 41:15.000
+there are black schemes.
+
+41:15.000 --> 41:18.000
+Security services are involved in solving issues
+
+41:18.000 --> 41:21.000
+to protect against hostile absorption.
+
+41:21.000 --> 41:24.000
+I draw your attention to the fact that they are involved
+
+41:24.000 --> 41:27.000
+because many issues are related to lawyers,
+
+41:27.000 --> 41:30.000
+many issues are related to the company's management.
+
+41:30.000 --> 41:33.000
+Basically, this is informational work,
+
+41:33.000 --> 41:36.000
+this is a relationship with state bodies,
+
+41:36.000 --> 41:38.000
+including the police,
+
+41:38.000 --> 41:40.000
+to protect against hostile absorption.
+
+41:40.000 --> 41:42.000
+This is physical protection of the building,
+
+41:42.000 --> 41:45.000
+so that the company does not physically gain access
+
+41:45.000 --> 41:48.000
+to the company's territory, and so on.
+
+41:48.000 --> 41:51.000
+Now, in general, protection against hostile absorption
+
+41:51.000 --> 41:53.000
+is quite relevant,
+
+41:53.000 --> 41:55.000
+although, in my opinion,
+
+41:55.000 --> 41:57.000
+this peak has already passed in Moscow,
+
+41:57.000 --> 41:59.000
+now it is slightly shifting to the regions.
+
+41:59.000 --> 42:02.000
+This is already a secondary redistribution of property on the market.
+
+42:02.000 --> 42:05.000
+This is for economic security.
+
+42:05.000 --> 42:08.000
+There is a direction of technical security.
+
+42:09.000 --> 42:12.000
+Basically, technical security,
+
+42:12.000 --> 42:14.000
+these bricks,
+
+42:14.000 --> 42:16.000
+are divided into three large groups,
+
+42:16.000 --> 42:18.000
+into three components.
+
+42:18.000 --> 42:20.000
+This is engineering and technical security,
+
+42:20.000 --> 42:22.000
+this is technical security,
+
+42:22.000 --> 42:24.000
+and this is IT security.
+
+42:26.000 --> 42:28.000
+The fifth brick.
+
+42:32.000 --> 42:35.000
+This is engineering and technical security.
+
+42:39.000 --> 42:42.000
+Technical security.
+
+42:44.000 --> 42:47.000
+What is engineering and technical security?
+
+42:47.000 --> 42:49.000
+Engineering and technical security,
+
+42:49.000 --> 42:54.000
+in fact, is engineering and technical equipment of the territory.
+
+42:54.000 --> 42:57.000
+Depending on the territory,
+
+42:57.000 --> 42:59.000
+depending on the object,
+
+42:59.000 --> 43:01.000
+engineering and technical security
+
+43:01.000 --> 43:03.000
+is built in different directions.
+
+43:03.000 --> 43:05.000
+Although there are some common approaches,
+
+43:05.000 --> 43:07.000
+some common points,
+
+43:07.000 --> 43:10.000
+which are connected with measures.
+
+43:10.000 --> 43:12.000
+I will draw like this, as I usually do.
+
+43:12.000 --> 43:15.000
+This is fire safety.
+
+43:19.000 --> 43:21.000
+Fire safety.
+
+43:23.000 --> 43:26.000
+This is relevant for any company,
+
+43:26.000 --> 43:30.000
+because every day something burns down somewhere.
+
+43:30.000 --> 43:32.000
+Fire protection,
+
+43:32.000 --> 43:34.000
+fire safety,
+
+43:34.000 --> 43:39.000
+is also one of the components of corporate security.
+
+43:39.000 --> 43:41.000
+At any exhibition,
+
+43:41.000 --> 43:44.000
+at a security technology forum,
+
+43:44.000 --> 43:48.000
+there will be stands dedicated to fire safety.
+
+43:48.000 --> 43:51.000
+Here it is clear what needs to be done,
+
+43:51.000 --> 43:57.000
+because there are certain requirements from firefighters,
+
+43:57.000 --> 44:00.000
+these requirements are desirable to be met.
+
+44:01.000 --> 44:05.000
+Now there are a lot of measures for fire safety,
+
+44:05.000 --> 44:09.000
+starting with fire paint, doors, stickers, fire extinguishers,
+
+44:09.000 --> 44:11.000
+and so on.
+
+44:11.000 --> 44:13.000
+There are a lot of measures.
+
+44:13.000 --> 44:15.000
+They just need to be implemented.
+
+44:15.000 --> 44:19.000
+There is a video surveillance system.
+
+44:24.000 --> 44:26.000
+The installation of video surveillance systems
+
+44:26.000 --> 44:29.000
+is an integral part of engineering and technical security.
+
+44:29.000 --> 44:34.000
+The most effective is a combined video surveillance system.
+
+44:34.000 --> 44:37.000
+Some video cameras are installed openly,
+
+44:37.000 --> 44:39.000
+some are installed secretly.
+
+44:41.000 --> 44:43.000
+There are some legal issues
+
+44:43.000 --> 44:46.000
+where video surveillance ends,
+
+44:46.000 --> 44:50.000
+where surveillance as a operational event ends,
+
+44:50.000 --> 44:54.000
+and where surveillance as a security television begins.
+
+44:54.000 --> 44:59.000
+In general, this mechanism is well developed,
+
+44:59.000 --> 45:03.000
+and video surveillance is widely used.
+
+45:03.000 --> 45:06.000
+There are a lot of companies that provide these services.
+
+45:06.000 --> 45:09.000
+Here, too, it is clear what needs to be done,
+
+45:09.000 --> 45:13.000
+based on a specific task and a specific goal that you want to achieve.
+
+45:15.000 --> 45:22.000
+The next area is the control and pass mode.
+
+45:25.000 --> 45:30.000
+Control and pass mode.
+
+45:33.000 --> 45:38.000
+It is clear that if outsiders visit your enterprise,
+
+45:38.000 --> 45:41.000
+then you don't have to talk about serious security.
+
+45:41.000 --> 45:44.000
+Therefore, the control and pass mode
+
+45:44.000 --> 45:47.000
+is a component of corporate security
+
+45:47.000 --> 45:50.000
+and a component of engineering and technical security.
+
+45:51.000 --> 45:56.000
+There are a lot of technical solutions of the control and pass mode.
+
+45:56.000 --> 46:00.000
+These are widely used ASCUT systems,
+
+46:00.000 --> 46:03.000
+automated access control systems.
+
+46:03.000 --> 46:08.000
+They are used when you have a large number of people,
+
+46:08.000 --> 46:11.000
+more than 300-400 people at the enterprise,
+
+46:11.000 --> 46:13.000
+large factories.
+
+46:13.000 --> 46:16.000
+These ASCUT systems are very effective.
+
+46:16.000 --> 46:21.000
+In small companies, where there are few people,
+
+46:21.000 --> 46:26.000
+some simplified manual control and pass modes are used.
+
+46:29.000 --> 46:33.000
+The control and pass mode involves not only the control of people
+
+46:33.000 --> 46:35.000
+who enter the enterprise,
+
+46:35.000 --> 46:39.000
+but also the creation of zones based on the principle of confidentiality.
+
+46:39.000 --> 46:42.000
+There are some zones in the form of floors,
+
+46:42.000 --> 46:45.000
+where only certain employees can enter.
+
+46:45.000 --> 46:48.000
+It can be for a certain employee,
+
+46:48.000 --> 46:50.000
+it can be for a certain time,
+
+46:50.000 --> 46:52.000
+that is, you can be there for a certain time,
+
+46:52.000 --> 46:54.000
+and you can't be there for a certain time.
+
+46:54.000 --> 46:57.000
+All this is decided by the control and pass mode.
+
+46:57.000 --> 47:00.000
+There is a measure, there is a direction,
+
+47:00.000 --> 47:03.000
+which is called perimeter protection.
+
+47:07.000 --> 47:10.000
+Naturally, where these perimeters exist.
+
+47:10.000 --> 47:14.000
+First of all, it is relevant in those enterprises,
+
+47:14.000 --> 47:18.000
+which produce something valuable and useful for employees.
+
+47:18.000 --> 47:22.000
+For example, a meat plant, a liquor and vodka plant.
+
+47:22.000 --> 47:25.000
+The security of the perimeters can be relevant.
+
+47:25.000 --> 47:27.000
+Some consulting companies,
+
+47:27.000 --> 47:30.000
+that is, a company that represents the service sector,
+
+47:30.000 --> 47:35.000
+these problems can be put aside and not be so relevant.
+
+47:36.000 --> 47:40.000
+There can be engineering and technical security.
+
+47:40.000 --> 47:44.000
+These are the most diverse alarm systems.
+
+47:52.000 --> 47:57.000
+Alarm systems for finding, opening windows, doors, etc.
+
+47:57.000 --> 48:00.000
+There is a very large variety of them.
+
+48:00.000 --> 48:03.000
+In principle, there is a methodological feature.
+
+48:03.000 --> 48:07.000
+The distribution of these alarm systems is given.
+
+48:09.000 --> 48:14.000
+Engineering and technical security can be in some other direction.
+
+48:14.000 --> 48:16.000
+It depends on the object.
+
+48:16.000 --> 48:19.000
+This is engineering and technical equipment territory.
+
+48:21.000 --> 48:23.000
+This brick.
+
+48:24.000 --> 48:26.000
+And the other two bricks.
+
+48:26.000 --> 48:28.000
+I will also focus on them.
+
+48:28.000 --> 48:30.000
+The sixth brick.
+
+48:33.000 --> 48:36.000
+This is technical security.
+
+48:44.000 --> 48:51.000
+Technical security is mainly a protection from information leakage channels.
+
+48:51.000 --> 48:55.000
+I talked a little about it in the section on information security.
+
+48:55.000 --> 48:59.000
+But very often this brick is allocated as a separate component.
+
+49:00.000 --> 49:02.000
+From a physical point of view,
+
+49:02.000 --> 49:06.000
+there are three channels of information transmission.
+
+49:06.000 --> 49:08.000
+This is the acoustic channel.
+
+49:08.000 --> 49:10.000
+What is said can be heard.
+
+49:10.000 --> 49:14.000
+This is the visual channel of information leakage.
+
+49:14.000 --> 49:16.000
+What happens can be seen.
+
+49:16.000 --> 49:20.000
+This is the electromagnetic channel of information leakage.
+
+49:20.000 --> 49:23.000
+Where there are electrical signals,
+
+49:23.000 --> 49:26.000
+where information is transmitted through electrical signals,
+
+49:26.000 --> 49:28.000
+there is electromagnetic radiation,
+
+49:28.000 --> 49:32.000
+which has a tendency to pass through different barriers.
+
+49:32.000 --> 49:34.000
+It can be recorded.
+
+49:34.000 --> 49:37.000
+This is also like a channel of information leakage.
+
+49:37.000 --> 49:42.000
+The vast majority of the equipment of industrial espionage that exists,
+
+49:42.000 --> 49:46.000
+it uses any of these channels of information leakage.
+
+49:46.000 --> 49:54.000
+Therefore, technical security is built on the protection of these three channels of information leakage.
+
+49:56.000 --> 50:08.000
+Protection from the acoustic channel of information leakage.
+
+50:10.000 --> 50:13.000
+Protection from the visual channel.
+
+50:13.000 --> 50:26.000
+And protection from PEMIN.
+
+50:26.000 --> 50:28.000
+There is such a term.
+
+50:28.000 --> 50:31.000
+PEMIN is a side electromagnetic radiation.
+
+50:31.000 --> 50:38.000
+Now, in general, there are many companies on the market that provide these services.
+
+50:38.000 --> 50:41.000
+Basically, they are positioned in the market of information protection.
+
+50:41.000 --> 50:46.000
+Companies that, from a technical point of view,
+
+50:46.000 --> 50:50.000
+not from a personnel point of view, not from a legal point of view,
+
+50:50.000 --> 50:52.000
+but from a technical point of view,
+
+50:52.000 --> 50:56.000
+protect these channels of information leakage.
+
+50:56.000 --> 51:00.000
+And the last brick on which I will dwell is the seventh brick.
+
+51:00.000 --> 51:05.000
+This is IT security.
+
+51:09.000 --> 51:11.000
+IT security.
+
+51:11.000 --> 51:14.000
+What is the situation?
+
+51:14.000 --> 51:21.000
+Now this brick is gaining more and more popularity and more and more importance.
+
+51:21.000 --> 51:24.000
+What is IT security?
+
+51:24.000 --> 51:29.000
+This is the state of security of the company's information resources presented in electronic form.
+
+51:29.000 --> 51:32.000
+The complexity of this brick.
+
+51:32.000 --> 51:34.000
+Firstly, it changes very quickly.
+
+51:35.000 --> 51:39.000
+Unlike, for example, personnel security, which I mentioned, it changes very quickly.
+
+51:39.000 --> 51:43.000
+Literally every day there are new technical solutions,
+
+51:43.000 --> 51:48.000
+new threats, new viruses, new protection and everything else.
+
+51:48.000 --> 51:55.000
+A person who deals with IT security should sit on it every day.
+
+51:55.000 --> 51:59.000
+That is, to do IT security, just by reading a book or going to an exhibition,
+
+51:59.000 --> 52:03.000
+this is unrealistic, this is pointless, unfortunately, no one does this.
+
+52:03.000 --> 52:11.000
+Therefore, IT security should be a separate, well-trained person who will constantly do this.
+
+52:11.000 --> 52:19.000
+The difficulty is that this IT guy who deals with IT security is a thing in itself.
+
+52:19.000 --> 52:24.000
+It is very difficult to understand what he does, to understand an unprepared person.
+
+52:24.000 --> 52:28.000
+There have been cases, this is a serious problem,
+
+52:28.000 --> 52:33.000
+when if an IT security person is subordinate to the head of the security service,
+
+52:33.000 --> 52:38.000
+then the head of the security service may not understand what the IT security person is doing.
+
+52:38.000 --> 52:44.000
+Just because he does not have enough experience, or even education.
+
+52:44.000 --> 52:47.000
+Therefore, unfortunately, this is a certain thing in itself.
+
+52:47.000 --> 52:52.000
+There are approaches, personnel approaches to select a specialist in IT security,
+
+52:52.000 --> 52:56.000
+organizational approaches, what he can do, what he cannot do.
+
+52:56.000 --> 53:00.000
+There is an audit of IT security, which is desirable to apply,
+
+53:00.000 --> 53:04.000
+including for control of its IT security.
+
+53:04.000 --> 53:12.000
+Basically, IT security is solved in three directions.
+
+53:12.000 --> 53:15.000
+This is all about network protection.
+
+53:15.000 --> 53:24.000
+That is, the protection of information resources, which are in the company, in network solutions.
+
+53:24.000 --> 53:32.000
+This is the protection of autonomous information resources,
+
+53:32.000 --> 53:35.000
+or information resources presented on autonomous carriers.
+
+53:35.000 --> 53:40.000
+Protection of autonomous information.
+
+53:40.000 --> 53:46.000
+Protection of information.
+
+53:46.000 --> 53:56.000
+And this is the protection of information that is transmitted through scattered objects.
+
+53:56.000 --> 53:59.000
+That is, when you need to transmit information from one city to another,
+
+53:59.000 --> 54:03.000
+using the Internet or some other information systems.
+
+54:03.000 --> 54:08.000
+That is, the protection of information when transmitted between scattered objects.
+
+54:13.000 --> 54:18.000
+Protection of information when transmitted.
+
+54:22.000 --> 54:24.000
+What should I pay attention to?
+
+54:24.000 --> 54:30.000
+If we consider some trends, what is the trend?
+
+54:30.000 --> 54:34.000
+The information resources of the company are now about 50 to 50.
+
+54:34.000 --> 54:39.000
+50% are presented in material form, in the form of documents, papers.
+
+54:39.000 --> 54:44.000
+And 50% are presented in electronic form.
+
+54:44.000 --> 54:50.000
+If we take 10 years ago, then basically all information resources were presented on paper,
+
+54:50.000 --> 54:52.000
+that is, on material carriers.
+
+54:52.000 --> 54:57.000
+I think that in 10 years the main type of information resources,
+
+54:57.000 --> 55:02.000
+the main type of carriers on which there will be information resources,
+
+55:02.000 --> 55:03.000
+will be electronic.
+
+55:03.000 --> 55:05.000
+That is, everything will be presented in electronic form.
+
+55:05.000 --> 55:12.000
+Material carriers will probably be in the form of some archives or duplication.
+
+55:12.000 --> 55:16.000
+If we look at this problem from the point of view of security,
+
+55:16.000 --> 55:18.000
+from the point of view of protection,
+
+55:18.000 --> 55:21.000
+then what can be predicted and what can be looked at?
+
+55:21.000 --> 55:23.000
+Look at what are the trends.
+
+55:23.000 --> 55:28.000
+If we take some paper document,
+
+55:28.000 --> 55:30.000
+how is it protected?
+
+55:30.000 --> 55:33.000
+In principle, it is protected only by access protection.
+
+55:33.000 --> 55:37.000
+The maximum you can do with it is lock it in some safe.
+
+55:37.000 --> 55:40.000
+Put an armed guard to the safe.
+
+55:40.000 --> 55:42.000
+All this is in some controlled territory.
+
+55:42.000 --> 55:45.000
+That is, you protect access to this document.
+
+55:45.000 --> 55:52.000
+Any security system is initially considered imperfect and imperfect,
+
+55:52.000 --> 55:54.000
+because in any case, all this can be hacked.
+
+55:54.000 --> 55:57.000
+As soon as the safe is hacked and the document is obtained,
+
+55:57.000 --> 55:59.000
+this document is presented in an open form.
+
+55:59.000 --> 56:02.000
+That is, we do not have any secret inscriptions,
+
+56:02.000 --> 56:04.000
+secret ink, disappearing, and so on.
+
+56:04.000 --> 56:08.000
+They are there, but in everyday life they are usually not used.
+
+56:08.000 --> 56:13.000
+If we take an electronic carrier,
+
+56:13.000 --> 56:15.000
+that is, some kind of electronic array of information,
+
+56:15.000 --> 56:21.000
+then the direction of protection is built on two strategic lines.
+
+56:21.000 --> 56:25.000
+That is, protection is built directly on access,
+
+56:25.000 --> 56:27.000
+in the form of access restrictions,
+
+56:27.000 --> 56:29.000
+in the form of electronic identifiers,
+
+56:29.000 --> 56:33.000
+in the form of some kind of biometric identity recognition systems.
+
+56:33.000 --> 56:37.000
+And the second direction is protection of the document itself.
+
+56:37.000 --> 56:39.000
+What cannot be done with paper.
+
+56:39.000 --> 56:42.000
+The protection of the document itself is mainly done with cryptography,
+
+56:42.000 --> 56:45.000
+that is, cryptographic means of protection.
+
+56:45.000 --> 56:47.000
+If in a simplified version,
+
+56:47.000 --> 56:49.000
+some information is taken,
+
+56:49.000 --> 56:53.000
+a kilobyte or megabyte of information is divided into 10 parts,
+
+56:53.000 --> 56:57.000
+all this is done in a very simplified version.
+
+56:57.000 --> 56:59.000
+These parts are re-piled up,
+
+56:59.000 --> 57:01.000
+the tenth part is on the second,
+
+57:01.000 --> 57:03.000
+the second part is on the fourth,
+
+57:03.000 --> 57:05.000
+the fourth part is on the first.
+
+57:05.000 --> 57:07.000
+Thus, a certain encryption of the document occurs.
+
+57:07.000 --> 57:09.000
+The value of the document is not lost from this.
+
+57:09.000 --> 57:11.000
+That is, it is possible to decrypt in the future,
+
+57:11.000 --> 57:13.000
+that is, to put these parts in place,
+
+57:13.000 --> 57:15.000
+and the value of the document will be preserved.
+
+57:15.000 --> 57:17.000
+That is, there will be the same document.
+
+57:17.000 --> 57:19.000
+What cannot be done with paper.
+
+57:19.000 --> 57:21.000
+You cannot tear it,
+
+57:21.000 --> 57:23.000
+re-pile it,
+
+57:23.000 --> 57:25.000
+preserving the value of the document.
+
+57:25.000 --> 57:27.000
+This is possible,
+
+57:27.000 --> 57:29.000
+but the value of the document naturally disappears from this.
+
+57:29.000 --> 57:33.000
+Therefore, the direction of protection of information resources
+
+57:33.000 --> 57:37.000
+presented in the electronic form is more modern,
+
+57:37.000 --> 57:39.000
+and can be done more perfectly,
+
+57:39.000 --> 57:43.000
+because it will go in different strategic directions.
+
+57:43.000 --> 57:47.000
+If we talk about the destruction of documents,
+
+57:47.000 --> 57:51.000
+if you have 10 volumes of materials that need to be urgently destroyed,
+
+57:51.000 --> 57:53.000
+and they are presented on paper,
+
+57:53.000 --> 57:55.000
+then you will not eat them,
+
+57:55.000 --> 57:57.000
+tear them,
+
+57:57.000 --> 57:59.000
+and destroy them in a short time.
+
+57:59.000 --> 58:01.000
+If you have the same 10 volumes of materials,
+
+58:01.000 --> 58:03.000
+presented in the electronic form,
+
+58:03.000 --> 58:05.000
+then you can do it all
+
+58:05.000 --> 58:07.000
+in a matter of seconds,
+
+58:07.000 --> 58:09.000
+and you will be guaranteed from not being restored.
+
+58:09.000 --> 58:11.000
+Even from this point of view,
+
+58:11.000 --> 58:13.000
+from the point of view of the destruction of documents,
+
+58:13.000 --> 58:15.000
+electronic documents,
+
+58:15.000 --> 58:19.000
+they are much more convenient to work with,
+
+58:19.000 --> 58:21.000
+and to a greater extent they can be protected.
+
+58:23.000 --> 58:25.000
+So, the walls and bricks,
+
+58:25.000 --> 58:29.000
+they are already individual,
+
+58:29.000 --> 58:31.000
+depending on what the company does.
+
+58:31.000 --> 58:33.000
+That is, if you have some kind of factory,
+
+58:33.000 --> 58:35.000
+which produces something
+
+58:35.000 --> 58:37.000
+and some waste is poured into the river,
+
+58:37.000 --> 58:39.000
+then, probably,
+
+58:39.000 --> 58:41.000
+environmental safety issues will be relevant.
+
+58:41.000 --> 58:43.000
+There is some kind of sea port,
+
+58:43.000 --> 58:45.000
+environmental safety issues
+
+58:45.000 --> 58:47.000
+could be relevant.
+
+58:47.000 --> 58:49.000
+But, as a rule, in the standard version,
+
+58:49.000 --> 58:51.000
+these are just the classic bricks,
+
+58:51.000 --> 58:53.000
+the classic subsystems
+
+58:53.000 --> 58:55.000
+for the construction of the operating safety system.
+
+59:05.000 --> 59:07.000
+Now, at one more point,
+
+59:07.000 --> 59:09.000
+I would like to draw your attention
+
+59:09.000 --> 59:11.000
+to the principles that must be observed
+
+59:11.000 --> 59:13.000
+when organizing
+
+59:13.000 --> 59:15.000
+the corporate safety system.
+
+59:17.000 --> 59:21.000
+There are quite a lot of them.
+
+59:21.000 --> 59:23.000
+At some points,
+
+59:23.000 --> 59:25.000
+I will focus more on the details,
+
+59:25.000 --> 59:27.000
+at some I will just talk about
+
+59:27.000 --> 59:29.000
+the fact that they exist.
+
+59:29.000 --> 59:31.000
+But, I say again,
+
+59:31.000 --> 59:33.000
+the principles are necessary for the implementation.
+
+59:33.000 --> 59:35.000
+The principles.
+
+59:39.000 --> 59:41.000
+The first principle
+
+59:41.000 --> 59:43.000
+I will probably stop at
+
+59:43.000 --> 59:45.000
+is the principle of legality.
+
+59:47.000 --> 59:49.000
+Legality.
+
+59:49.000 --> 59:51.000
+I will not call for
+
+59:51.000 --> 59:53.000
+compliance with legality,
+
+59:53.000 --> 59:55.000
+this is not the topic of my seminar.
+
+59:55.000 --> 59:57.000
+Just keep in mind
+
+59:57.000 --> 59:59.000
+that everything you do
+
+59:59.000 --> 01:00:01.000
+on the corporate safety line
+
+01:00:01.000 --> 01:00:03.000
+is always clear whether you do it legally
+
+01:00:03.000 --> 01:00:05.000
+or illegally.
+
+01:00:05.000 --> 01:00:07.000
+The reason is simple and banal.
+
+01:00:07.000 --> 01:00:09.000
+The legislation on corporate safety
+
+01:00:09.000 --> 01:00:11.000
+is, unfortunately,
+
+01:00:11.000 --> 01:00:13.000
+very imperfect.
+
+01:00:13.000 --> 01:00:15.000
+The main law on which
+
+01:00:15.000 --> 01:00:17.000
+corporate safety lives
+
+01:00:17.000 --> 01:00:19.000
+is the law on private security
+
+01:00:19.000 --> 01:00:21.000
+and detective activity.
+
+01:00:21.000 --> 01:00:23.000
+The law that was adopted
+
+01:00:23.000 --> 01:00:25.000
+in 1992,
+
+01:00:25.000 --> 01:00:27.000
+that is, before the Constitution was adopted,
+
+01:00:27.000 --> 01:00:29.000
+before the law on weapons,
+
+01:00:29.000 --> 01:00:31.000
+on the police, on the State Security,
+
+01:00:31.000 --> 01:00:33.000
+on security, and so on.
+
+01:00:33.000 --> 01:00:35.000
+The law was adopted as a transitional law.
+
+01:00:35.000 --> 01:00:37.000
+It was clear in the early 90s
+
+01:00:37.000 --> 01:00:39.000
+that the state was not able
+
+01:00:39.000 --> 01:00:41.000
+to protect the emerging business.
+
+01:00:41.000 --> 01:00:43.000
+It was adopted, I would say,
+
+01:00:43.000 --> 01:00:45.000
+quite a political decision
+
+01:00:45.000 --> 01:00:47.000
+that corporate security
+
+01:00:47.000 --> 01:00:49.000
+would be the direction of business.
+
+01:00:49.000 --> 01:00:51.000
+I note that this is a political decision
+
+01:00:51.000 --> 01:00:53.000
+because the law
+
+01:00:53.000 --> 01:00:55.000
+on the protection of the business
+
+01:00:55.000 --> 01:00:57.000
+is not a political decision.
+
+01:00:57.000 --> 01:00:59.000
+For example, in Belarus,
+
+01:00:59.000 --> 01:01:01.000
+corporate security
+
+01:01:01.000 --> 01:01:03.000
+does not exist in the form
+
+01:01:03.000 --> 01:01:05.000
+that it exists in Russia.
+
+01:01:05.000 --> 01:01:07.000
+It is a state-owned business.
+
+01:01:07.000 --> 01:01:09.000
+It was decided that
+
+01:01:09.000 --> 01:01:11.000
+corporate security
+
+01:01:11.000 --> 01:01:13.000
+would be the direction of business.
+
+01:01:13.000 --> 01:01:15.000
+Naturally, it was necessary
+
+01:01:15.000 --> 01:01:17.000
+to create some temporary rules
+
+01:01:17.000 --> 01:01:19.000
+for this business.
+
+01:01:19.000 --> 01:01:21.000
+And this law was created
+
+01:01:21.000 --> 01:01:23.000
+on the private security
+
+01:01:23.000 --> 01:01:25.000
+and detective activity.
+
+01:01:25.000 --> 01:01:27.000
+This law was temporary.
+
+01:01:27.000 --> 01:01:29.000
+It was written on the knee.
+
+01:01:29.000 --> 01:01:31.000
+Unfortunately, there is nothing
+
+01:01:31.000 --> 01:01:33.000
+more permanent than temporary.
+
+01:01:33.000 --> 01:01:35.000
+This law has existed
+
+01:01:35.000 --> 01:01:37.000
+since 1992.
+
+01:01:37.000 --> 01:01:39.000
+It has undergone changes,
+
+01:01:39.000 --> 01:01:41.000
+but nevertheless it exists.
+
+01:01:41.000 --> 01:01:43.000
+In general, we have very few laws
+
+01:01:43.000 --> 01:01:45.000
+that have remained since 1992.
+
+01:01:45.000 --> 01:01:47.000
+As a rule, all the legislation
+
+01:01:47.000 --> 01:01:49.000
+in the early 90s has already been rewritten.
+
+01:01:49.000 --> 01:01:51.000
+Therefore,
+
+01:01:51.000 --> 01:01:53.000
+unfortunately,
+
+01:01:53.000 --> 01:01:55.000
+the law on corporate security
+
+01:01:55.000 --> 01:01:57.000
+is not perfect
+
+01:01:57.000 --> 01:01:59.000
+from the perspective of the regulatory base.
+
+01:01:59.000 --> 01:02:01.000
+I have already given examples
+
+01:02:01.000 --> 01:02:03.000
+of bodyguards.
+
+01:02:03.000 --> 01:02:05.000
+We have bodyguards.
+
+01:02:05.000 --> 01:02:07.000
+There is even such an organization
+
+01:02:07.000 --> 01:02:09.000
+as the National Association of Bodyguards.
+
+01:02:09.000 --> 01:02:11.000
+But they do not exist.
+
+01:02:11.000 --> 01:02:13.000
+You can contact the CHOP,
+
+01:02:13.000 --> 01:02:15.000
+which provides services
+
+01:02:15.000 --> 01:02:17.000
+for the physical protection of people,
+
+01:02:17.000 --> 01:02:19.000
+that is, for the work of bodyguards.
+
+01:02:19.000 --> 01:02:21.000
+CHOP will give you bodyguards.
+
+01:02:21.000 --> 01:02:23.000
+But do not be surprised
+
+01:02:23.000 --> 01:02:25.000
+that the contract that will be concluded
+
+01:02:25.000 --> 01:02:27.000
+will be concluded on the protection
+
+01:02:27.000 --> 01:02:29.000
+of material values.
+
+01:02:29.000 --> 01:02:31.000
+According to our law,
+
+01:02:31.000 --> 01:02:33.000
+there is protection of life
+
+01:02:33.000 --> 01:02:35.000
+and health of people,
+
+01:02:35.000 --> 01:02:37.000
+but a bodyguard,
+
+01:02:37.000 --> 01:02:39.000
+if he is protected
+
+01:02:39.000 --> 01:02:41.000
+by the contract of life and health of a person,
+
+01:02:41.000 --> 01:02:43.000
+can only be armed
+
+01:02:43.000 --> 01:02:45.000
+with special means,
+
+01:02:45.000 --> 01:02:47.000
+such as a whistle, a baton, and so on.
+
+01:02:47.000 --> 01:02:49.000
+It is clear that no respected businessman
+
+01:02:49.000 --> 01:02:51.000
+wants his life to be protected
+
+01:02:51.000 --> 01:02:53.000
+by a person with a whistle and a baton.
+
+01:02:53.000 --> 01:02:55.000
+It is clear and obvious.
+
+01:02:55.000 --> 01:02:57.000
+Therefore, all the contracts that are concluded
+
+01:02:57.000 --> 01:02:59.000
+are on the protection of material values.
+
+01:02:59.000 --> 01:03:01.000
+That is, what is on a person,
+
+01:03:01.000 --> 01:03:03.000
+such as a gold chain,
+
+01:03:03.000 --> 01:03:05.000
+a watch, a briefcase
+
+01:03:05.000 --> 01:03:07.000
+with documents,
+
+01:03:07.000 --> 01:03:09.000
+is located near a person.
+
+01:03:09.000 --> 01:03:11.000
+In reality, this is the work of a bodyguard.
+
+01:03:11.000 --> 01:03:13.000
+Although according to the documents,
+
+01:03:13.000 --> 01:03:15.000
+this is the protection of material values.
+
+01:03:15.000 --> 01:03:17.000
+It is clear that if, God forbid,
+
+01:03:17.000 --> 01:03:19.000
+a bodyguard uses firearms,
+
+01:03:19.000 --> 01:03:21.000
+if he kills someone,
+
+01:03:21.000 --> 01:03:23.000
+he will have a lot of serious problems.
+
+01:03:23.000 --> 01:03:25.000
+Therefore,
+
+01:03:25.000 --> 01:03:27.000
+unfortunately,
+
+01:03:27.000 --> 01:03:29.000
+the legislation is very imperfect.
+
+01:03:29.000 --> 01:03:31.000
+Many questions arise
+
+01:03:31.000 --> 01:03:33.000
+about the limitation
+
+01:03:33.000 --> 01:03:35.000
+of the termination of
+
+01:03:35.000 --> 01:03:37.000
+operational events,
+
+01:03:37.000 --> 01:03:39.000
+where the events
+
+01:03:39.000 --> 01:03:41.000
+that are held by the security service begin.
+
+01:03:41.000 --> 01:03:43.000
+Can the security service
+
+01:03:43.000 --> 01:03:45.000
+listen to corporate telephone
+
+01:03:45.000 --> 01:03:47.000
+and negotiate with employees?
+
+01:03:47.000 --> 01:03:49.000
+Where is the video surveillance system installed?
+
+01:03:49.000 --> 01:03:51.000
+Can the video surveillance system
+
+01:03:51.000 --> 01:03:53.000
+be installed in the toilets or not?
+
+01:03:53.000 --> 01:03:55.000
+There are a lot of questions,
+
+01:03:55.000 --> 01:03:57.000
+including legal ones.
+
+01:03:57.000 --> 01:03:59.000
+There are some algorithms,
+
+01:03:59.000 --> 01:04:01.000
+some solutions.
+
+01:04:01.000 --> 01:04:03.000
+But keep in mind
+
+01:04:03.000 --> 01:04:05.000
+that everything you do
+
+01:04:05.000 --> 01:04:07.000
+on the corporate security line
+
+01:04:07.000 --> 01:04:09.000
+is a very thin line
+
+01:04:09.000 --> 01:04:11.000
+between legality and illegality.
+
+01:04:11.000 --> 01:04:13.000
+This is in relation to legality.
+
+01:04:13.000 --> 01:04:15.000
+The second principle
+
+01:04:15.000 --> 01:04:17.000
+that is desirable to be implemented
+
+01:04:17.000 --> 01:04:19.000
+is the complexity.
+
+01:04:19.000 --> 01:04:21.000
+Everything you do
+
+01:04:21.000 --> 01:04:23.000
+on the corporate security line
+
+01:04:23.000 --> 01:04:25.000
+must be done in a complex.
+
+01:04:25.000 --> 01:04:27.000
+Complexity implies
+
+01:04:27.000 --> 01:04:29.000
+ensuring the safety
+
+01:04:29.000 --> 01:04:31.000
+of all objects
+
+01:04:31.000 --> 01:04:33.000
+that you have identified
+
+01:04:33.000 --> 01:04:35.000
+and the complexity implies
+
+01:04:35.000 --> 01:04:37.000
+ensuring the security
+
+01:04:37.000 --> 01:04:39.000
+of all objects
+
+01:04:39.000 --> 01:04:41.000
+that you have identified
+
+01:04:41.000 --> 01:04:43.000
+and the complexity implies
+
+01:04:43.000 --> 01:04:45.000
+ensuring the safety
+
+01:04:45.000 --> 01:04:47.000
+of all objects.
+
+01:04:47.000 --> 01:04:49.000
+I have personally encountered
+
+01:04:49.000 --> 01:04:51.000
+a case when a person,
+
+01:04:51.000 --> 01:04:53.000
+a company manager,
+
+01:04:53.000 --> 01:04:55.000
+installed a cryptographic
+
+01:04:55.000 --> 01:04:57.000
+protection of computer information
+
+01:04:57.000 --> 01:04:59.000
+about 10 years ago.
+
+01:04:59.000 --> 01:05:01.000
+Nevertheless,
+
+01:05:01.000 --> 01:05:03.000
+it was not effective
+
+01:05:03.000 --> 01:05:05.000
+because the documents
+
+01:05:05.000 --> 01:05:07.000
+that he protected
+
+01:05:07.000 --> 01:05:09.000
+with cryptography
+
+01:05:09.000 --> 01:05:11.000
+were printed
+
+01:05:11.000 --> 01:05:13.000
+and were lying on the tables,
+
+01:05:13.000 --> 01:05:15.000
+under the tables,
+
+01:05:15.000 --> 01:05:17.000
+in the garbage bins,
+
+01:05:17.000 --> 01:05:19.000
+etc.
+
+01:05:19.000 --> 01:05:21.000
+It was clear
+
+01:05:21.000 --> 01:05:23.000
+that the principle of complexity
+
+01:05:23.000 --> 01:05:25.000
+was violated.
+
+01:05:25.000 --> 01:05:27.000
+It was ineffective
+
+01:05:27.000 --> 01:05:29.000
+and unwise
+
+01:05:29.000 --> 01:05:31.000
+to install expensive
+
+01:05:31.000 --> 01:05:33.000
+systems of the SCIS
+
+01:05:33.000 --> 01:05:35.000
+and the so-called
+
+01:05:35.000 --> 01:05:37.000
+cryptographic protection
+
+01:05:37.000 --> 01:05:39.000
+of the computer information
+
+01:05:39.000 --> 01:05:41.000
+in the database.
+
+01:05:41.000 --> 01:05:43.000
+Therefore,
+
+01:05:43.000 --> 01:05:45.000
+try to apply
+
+01:05:45.000 --> 01:05:47.000
+this principle of complexity.
+
+01:05:49.000 --> 01:05:51.000
+There is a principle
+
+01:05:51.000 --> 01:05:53.000
+of temporariness.
+
+01:05:59.000 --> 01:06:01.000
+The principle of temporariness
+
+01:06:01.000 --> 01:06:03.000
+implies that
+
+01:06:03.000 --> 01:06:05.000
+everything that you do
+
+01:06:05.000 --> 01:06:07.000
+in the field of security
+
+01:06:07.000 --> 01:06:09.000
+should be done
+
+01:06:09.000 --> 01:06:11.000
+in advance.
+
+01:06:11.000 --> 01:06:13.000
+You should always take
+
+01:06:13.000 --> 01:06:15.000
+one step
+
+01:06:15.000 --> 01:06:17.000
+towards the potential
+
+01:06:17.000 --> 01:06:19.000
+violator.
+
+01:06:19.000 --> 01:06:21.000
+There is a saying
+
+01:06:21.000 --> 01:06:23.000
+that it is too late
+
+01:06:23.000 --> 01:06:25.000
+to drink borscht
+
+01:06:25.000 --> 01:06:27.000
+when the kidneys fall off.
+
+01:06:27.000 --> 01:06:29.000
+It is very relevant
+
+01:06:29.000 --> 01:06:31.000
+in the field of security.
+
+01:06:31.000 --> 01:06:33.000
+As soon as something
+
+01:06:33.000 --> 01:06:35.000
+happens,
+
+01:06:35.000 --> 01:06:37.000
+you start thinking
+
+01:06:37.000 --> 01:06:39.000
+about it.
+
+01:06:39.000 --> 01:06:41.000
+It is based on experience.
+
+01:06:41.000 --> 01:06:43.000
+Unfortunately,
+
+01:06:43.000 --> 01:06:45.000
+it is not always
+
+01:06:45.000 --> 01:06:47.000
+the case.
+
+01:06:47.000 --> 01:06:49.000
+The principle of temporariness
+
+01:06:49.000 --> 01:06:51.000
+implies that
+
+01:06:51.000 --> 01:06:53.000
+everything that you do
+
+01:06:53.000 --> 01:06:55.000
+in the field of security
+
+01:06:55.000 --> 01:06:57.000
+should be done
+
+01:06:57.000 --> 01:06:59.000
+in advance.
+
+01:06:59.000 --> 01:07:01.000
+There is a saying
+
+01:07:01.000 --> 01:07:03.000
+that it is too late
+
+01:07:03.000 --> 01:07:05.000
+to drink borscht
+
+01:07:05.000 --> 01:07:07.000
+when the kidneys fall off.
+
+01:07:07.000 --> 01:07:09.000
+Unfortunately,
+
+01:07:09.000 --> 01:07:11.000
+it is not always the case.
+
+01:07:11.000 --> 01:07:13.000
+The next principle
+
+01:07:13.000 --> 01:07:15.000
+I would like to point out
+
+01:07:15.000 --> 01:07:17.000
+is the principle of temporariness.
+
+01:07:17.000 --> 01:07:19.000
+The principle of temporariness
+
+01:07:19.000 --> 01:07:21.000
+implies that
+
+01:07:21.000 --> 01:07:23.000
+everything that you do
+
+01:07:23.000 --> 01:07:25.000
+in the field of security
+
+01:07:25.000 --> 01:07:27.000
+should be done
+
+01:07:27.000 --> 01:07:29.000
+in advance.
+
+01:07:29.000 --> 01:07:31.000
+If we say that bodyguards
+
+01:07:31.000 --> 01:07:33.000
+guard the body for 20 minutes,
+
+01:07:33.000 --> 01:07:35.000
+and then drink
+
+01:07:35.000 --> 01:07:37.000
+beer for 20 minutes,
+
+01:07:37.000 --> 01:07:39.000
+then we do not have to
+
+01:07:39.000 --> 01:07:41.000
+guard this person.
+
+01:07:41.000 --> 01:07:43.000
+If this person
+
+01:07:43.000 --> 01:07:45.000
+is guarded for 8 hours
+
+01:07:45.000 --> 01:07:47.000
+at work,
+
+01:07:47.000 --> 01:07:49.000
+and then he goes to the next yard
+
+01:07:49.000 --> 01:07:51.000
+to take out the garbage in his slippers,
+
+01:07:51.000 --> 01:07:53.000
+then we do not have to
+
+01:07:53.000 --> 01:07:55.000
+guard this person.
+
+01:07:55.000 --> 01:07:57.000
+Therefore, everything that will be done
+
+01:07:57.000 --> 01:07:59.000
+in the field of corporate security
+
+01:07:59.000 --> 01:08:01.000
+should be done in advance.
+
+01:08:01.000 --> 01:08:03.000
+As a rule, the principle of temporariness
+
+01:08:03.000 --> 01:08:05.000
+or the problems with the principle of temporariness
+
+01:08:05.000 --> 01:08:07.000
+or the breakdown of this principle
+
+01:08:07.000 --> 01:08:09.000
+are associated with a human factor.
+
+01:08:09.000 --> 01:08:11.000
+There is a guard
+
+01:08:11.000 --> 01:08:13.000
+in the face,
+
+01:08:13.000 --> 01:08:15.000
+for example,
+
+01:08:15.000 --> 01:08:17.000
+the head of the security service.
+
+01:08:17.000 --> 01:08:19.000
+When this head of the security service
+
+01:08:19.000 --> 01:08:21.000
+goes around, checks everything,
+
+01:08:21.000 --> 01:08:23.000
+the system works.
+
+01:08:23.000 --> 01:08:25.000
+The head of the security service
+
+01:08:25.000 --> 01:08:27.000
+leaves,
+
+01:08:27.000 --> 01:08:29.000
+goes to a seminar,
+
+01:08:29.000 --> 01:08:31.000
+the system starts to malfunction.
+
+01:08:31.000 --> 01:08:33.000
+The principle of temporariness
+
+01:08:33.000 --> 01:08:35.000
+can be violated in the time factor.
+
+01:08:35.000 --> 01:08:37.000
+During the day, everything works well,
+
+01:08:37.000 --> 01:08:39.000
+at night, when there is no one,
+
+01:08:39.000 --> 01:08:41.000
+everything can work badly.
+
+01:08:41.000 --> 01:08:43.000
+It can be violated by a natural factor.
+
+01:08:43.000 --> 01:08:45.000
+On the street, let's say, 0 degrees,
+
+01:08:45.000 --> 01:08:47.000
+everything works well,
+
+01:08:47.000 --> 01:08:49.000
+on the street, minus 30,
+
+01:08:49.000 --> 01:08:51.000
+everything starts to work badly
+
+01:08:51.000 --> 01:08:53.000
+and the equipment fails.
+
+01:08:53.000 --> 01:08:55.000
+The principle of corporative security
+
+01:08:55.000 --> 01:08:57.000
+is based on this.
+
+01:08:57.000 --> 01:08:59.000
+Everything you do should work continuously.
+
+01:09:01.000 --> 01:09:03.000
+There is a principle of activity.
+
+01:09:07.000 --> 01:09:09.000
+I will not dwell on it.
+
+01:09:09.000 --> 01:09:11.000
+There is a famous saying
+
+01:09:11.000 --> 01:09:13.000
+that the best defense
+
+01:09:13.000 --> 01:09:15.000
+is an attack.
+
+01:09:15.000 --> 01:09:17.000
+Therefore,
+
+01:09:17.000 --> 01:09:19.000
+it is about
+
+01:09:19.000 --> 01:09:21.000
+everything you do
+
+01:09:21.000 --> 01:09:23.000
+in the case of corporate security,
+
+01:09:23.000 --> 01:09:25.000
+it should be done actively.
+
+01:09:27.000 --> 01:09:29.000
+The principle of systematic plannedness
+
+01:09:41.000 --> 01:09:43.000
+says that you should create
+
+01:09:43.000 --> 01:09:45.000
+a system.
+
+01:09:45.000 --> 01:09:47.000
+There should not be
+
+01:09:47.000 --> 01:09:49.000
+individual elements of corporate security,
+
+01:09:49.000 --> 01:09:51.000
+but a system of corporate security.
+
+01:09:53.000 --> 01:09:55.000
+Everything that is done
+
+01:09:55.000 --> 01:09:57.000
+in the line of corporate security
+
+01:09:57.000 --> 01:09:59.000
+should be done in a certain way.
+
+01:10:01.000 --> 01:10:03.000
+There is a very relevant
+
+01:10:03.000 --> 01:10:05.000
+and problematic principle
+
+01:10:07.000 --> 01:10:09.000
+related to the principle of purposefulness.
+
+01:10:09.000 --> 01:10:11.000
+The principle of purposefulness
+
+01:10:19.000 --> 01:10:21.000
+assumes that
+
+01:10:21.000 --> 01:10:23.000
+the money you invest
+
+01:10:23.000 --> 01:10:25.000
+in the system of corporate security
+
+01:10:25.000 --> 01:10:27.000
+will not allow you
+
+01:10:27.000 --> 01:10:29.000
+to make a profit.
+
+01:10:29.000 --> 01:10:31.000
+The management of the company
+
+01:10:31.000 --> 01:10:33.000
+understands this very clearly.
+
+01:10:33.000 --> 01:10:35.000
+You have a profit.
+
+01:10:35.000 --> 01:10:37.000
+If you invest
+
+01:10:37.000 --> 01:10:39.000
+in the development of the production,
+
+01:10:39.000 --> 01:10:41.000
+it will allow you to make a profit.
+
+01:10:41.000 --> 01:10:43.000
+If you invest
+
+01:10:43.000 --> 01:10:45.000
+in security,
+
+01:10:45.000 --> 01:10:47.000
+you will not make a profit.
+
+01:10:47.000 --> 01:10:49.000
+You can only get protection
+
+01:10:49.000 --> 01:10:51.000
+from losses.
+
+01:10:51.000 --> 01:10:53.000
+Therefore,
+
+01:10:53.000 --> 01:10:55.000
+losses that can be made
+
+01:10:55.000 --> 01:10:57.000
+if you do not spend
+
+01:10:57.000 --> 01:10:59.000
+money on security are always considered.
+
+01:11:01.000 --> 01:11:03.000
+When the question arises
+
+01:11:03.000 --> 01:11:05.000
+how much money to spend on security,
+
+01:11:05.000 --> 01:11:07.000
+it is always based on losses.
+
+01:11:07.000 --> 01:11:09.000
+If the loss is equal to 100 rubles,
+
+01:11:09.000 --> 01:11:11.000
+it makes no sense to spend
+
+01:11:11.000 --> 01:11:13.000
+1000 rubles on security.
+
+01:11:13.000 --> 01:11:15.000
+This is often the case.
+
+01:11:15.000 --> 01:11:17.000
+I gave an example
+
+01:11:17.000 --> 01:11:19.000
+of a store.
+
+01:11:19.000 --> 01:11:21.000
+You can reduce the theft
+
+01:11:21.000 --> 01:11:23.000
+to a very small amount,
+
+01:11:23.000 --> 01:11:25.000
+but the money you invest
+
+01:11:25.000 --> 01:11:27.000
+in the development of the equipment
+
+01:11:27.000 --> 01:11:29.000
+will be economically ineffective.
+
+01:11:29.000 --> 01:11:31.000
+The losses will be much less
+
+01:11:31.000 --> 01:11:33.000
+than the money you will spend
+
+01:11:33.000 --> 01:11:35.000
+on the technical equipment
+
+01:11:35.000 --> 01:11:37.000
+of the store.
+
+01:11:39.000 --> 01:11:41.000
+There is a principle
+
+01:11:41.000 --> 01:11:43.000
+that is widely used in security.
+
+01:11:43.000 --> 01:11:45.000
+This is the duplication principle.
+
+01:11:47.000 --> 01:11:49.000
+The duplication principle.
+
+01:11:51.000 --> 01:11:53.000
+Let's recall an old joke.
+
+01:11:55.000 --> 01:11:57.000
+Then it turned into a plot from Yarolash.
+
+01:11:59.000 --> 01:12:01.000
+When a little boy
+
+01:12:01.000 --> 01:12:03.000
+was asked to buy two tickets,
+
+01:12:03.000 --> 01:12:05.000
+his grandmother asked him
+
+01:12:05.000 --> 01:12:07.000
+why he was buying two tickets.
+
+01:12:07.000 --> 01:12:09.000
+He said that he would go to the controller
+
+01:12:09.000 --> 01:12:11.000
+and lose one ticket.
+
+01:12:11.000 --> 01:12:13.000
+He would have a second ticket.
+
+01:12:13.000 --> 01:12:15.000
+The grandmother asked him
+
+01:12:15.000 --> 01:12:17.000
+if he would lose a second ticket.
+
+01:12:17.000 --> 01:12:19.000
+He replied that he had a production ticket.
+
+01:12:21.000 --> 01:12:23.000
+It is right to understand
+
+01:12:23.000 --> 01:12:25.000
+that some critical things
+
+01:12:25.000 --> 01:12:27.000
+must be duplicated.
+
+01:12:27.000 --> 01:12:29.000
+This makes the system expensive.
+
+01:12:29.000 --> 01:12:31.000
+The system with duplicated subsystems
+
+01:12:31.000 --> 01:12:33.000
+is more expensive,
+
+01:12:33.000 --> 01:12:35.000
+but in some critical
+
+01:12:35.000 --> 01:12:37.000
+important things
+
+01:12:37.000 --> 01:12:39.000
+it justifies it.
+
+01:12:39.000 --> 01:12:41.000
+If we take a space industry,
+
+01:12:41.000 --> 01:12:43.000
+there is duplication
+
+01:12:43.000 --> 01:12:45.000
+up to 5-7 times.
+
+01:12:45.000 --> 01:12:47.000
+Up to 5-7 blocks
+
+01:12:47.000 --> 01:12:49.000
+can take on functions
+
+01:12:49.000 --> 01:12:51.000
+of some other blocks.
+
+01:12:51.000 --> 01:12:53.000
+Just because it is space,
+
+01:12:53.000 --> 01:12:55.000
+you can't send
+
+01:12:55.000 --> 01:12:57.000
+a block or a part there.
+
+01:12:57.000 --> 01:12:59.000
+The duplication principle
+
+01:12:59.000 --> 01:13:01.000
+is widely applied
+
+01:13:01.000 --> 01:13:03.000
+in corporate security.
+
+01:13:05.000 --> 01:13:07.000
+For example, in IT security
+
+01:13:07.000 --> 01:13:09.000
+it is necessary to duplicate
+
+01:13:09.000 --> 01:13:11.000
+information resources,
+
+01:13:11.000 --> 01:13:13.000
+create backups, etc.
+
+01:13:13.000 --> 01:13:15.000
+In the technical direction
+
+01:13:15.000 --> 01:13:17.000
+it is also widely applied.
+
+01:13:17.000 --> 01:13:19.000
+For example, the communication system,
+
+01:13:19.000 --> 01:13:21.000
+the main reserve channel,
+
+01:13:21.000 --> 01:13:23.000
+some fire safety sensors,
+
+01:13:23.000 --> 01:13:25.000
+the main one for smoke and heat,
+
+01:13:25.000 --> 01:13:27.000
+it is widely applied.
+
+01:13:29.000 --> 01:13:31.000
+We often face
+
+01:13:31.000 --> 01:13:33.000
+the question of
+
+01:13:33.000 --> 01:13:35.000
+duplication of information resources.
+
+01:13:35.000 --> 01:13:37.000
+It is clear that
+
+01:13:37.000 --> 01:13:39.000
+if there is a fire,
+
+01:13:39.000 --> 01:13:41.000
+all information resources are destroyed,
+
+01:13:41.000 --> 01:13:43.000
+then the company faces
+
+01:13:43.000 --> 01:13:45.000
+a big problem
+
+01:13:45.000 --> 01:13:47.000
+if there is no duplication system.
+
+01:13:47.000 --> 01:13:49.000
+There are different algorithms.
+
+01:13:49.000 --> 01:13:51.000
+It can be a remote server
+
+01:13:51.000 --> 01:13:53.000
+or a bank cell,
+
+01:13:53.000 --> 01:13:55.000
+or some other options.
+
+01:13:57.000 --> 01:13:59.000
+The main thing is
+
+01:13:59.000 --> 01:14:01.000
+that the duplicated information resources
+
+01:14:01.000 --> 01:14:03.000
+are not near the main server.
+
+01:14:03.000 --> 01:14:05.000
+If there is a fire,
+
+01:14:05.000 --> 01:14:07.000
+it destroys
+
+01:14:07.000 --> 01:14:09.000
+the main information resources.
+
+01:14:11.000 --> 01:14:13.000
+The duplication principle
+
+01:14:13.000 --> 01:14:15.000
+is widely applied
+
+01:14:15.000 --> 01:14:17.000
+in all aspects
+
+01:14:17.000 --> 01:14:19.000
+of corporate security.
+
+01:14:23.000 --> 01:14:25.000
+The specialization principle
+
+01:14:25.000 --> 01:14:27.000
+is quite simple.
+
+01:14:27.000 --> 01:14:29.000
+You can do some things
+
+01:14:29.000 --> 01:14:31.000
+in the corporate security
+
+01:14:31.000 --> 01:14:33.000
+by yourself,
+
+01:14:33.000 --> 01:14:35.000
+by reading books,
+
+01:14:35.000 --> 01:14:37.000
+by attending seminars.
+
+01:14:37.000 --> 01:14:39.000
+Some aspects
+
+01:14:39.000 --> 01:14:41.000
+of corporate security
+
+01:14:41.000 --> 01:14:43.000
+should be trusted
+
+01:14:43.000 --> 01:14:45.000
+to the specialists,
+
+01:14:45.000 --> 01:14:47.000
+to the narrow specialists
+
+01:14:47.000 --> 01:14:49.000
+of your field.
+
+01:14:49.000 --> 01:14:51.000
+The specialization principle
+
+01:14:51.000 --> 01:14:53.000
+is about
+
+01:14:53.000 --> 01:14:55.000
+IT security.
+
+01:14:55.000 --> 01:14:57.000
+I have already mentioned it.
+
+01:14:57.000 --> 01:14:59.000
+There should be a specialist
+
+01:14:59.000 --> 01:15:01.000
+who is working on it every day.
+
+01:15:01.000 --> 01:15:03.000
+You can search
+
+01:15:03.000 --> 01:15:05.000
+for industrial espionage equipment
+
+01:15:05.000 --> 01:15:07.000
+in your office
+
+01:15:07.000 --> 01:15:09.000
+by yourself
+
+01:15:09.000 --> 01:15:11.000
+by buying some non-linear locators.
+
+01:15:11.000 --> 01:15:13.000
+I would not recommend
+
+01:15:13.000 --> 01:15:15.000
+doing it
+
+01:15:15.000 --> 01:15:17.000
+because the equipment
+
+01:15:17.000 --> 01:15:19.000
+is quite expensive.
+
+01:15:19.000 --> 01:15:21.000
+You can search
+
+01:15:21.000 --> 01:15:23.000
+for industrial espionage equipment
+
+01:15:23.000 --> 01:15:25.000
+by yourself.
+
+01:15:25.000 --> 01:15:27.000
+You can work on it
+
+01:15:27.000 --> 01:15:29.000
+by yourself.
+
+01:15:29.000 --> 01:15:31.000
+You can buy
+
+01:15:31.000 --> 01:15:33.000
+some equipment
+
+01:15:33.000 --> 01:15:35.000
+by yourself.
+
+01:15:35.000 --> 01:15:37.000
+It is better to use
+
+01:15:37.000 --> 01:15:39.000
+the services of the specialists
+
+01:15:39.000 --> 01:15:41.000
+in these things.
+
+01:15:41.000 --> 01:15:43.000
+However, some things
+
+01:15:43.000 --> 01:15:45.000
+can be done by yourself
+
+01:15:45.000 --> 01:15:47.000
+in the corporate security.
+
+01:15:47.000 --> 01:15:49.000
+There is a concept
+
+01:15:49.000 --> 01:15:51.000
+of interaction and coordination.
+
+01:15:51.000 --> 01:15:53.000
+This is the principle.
+
+01:15:53.000 --> 01:15:55.000
+Interaction
+
+01:15:55.000 --> 01:15:57.000
+and coordination.
+
+01:15:57.000 --> 01:15:59.000
+First of all,
+
+01:15:59.000 --> 01:16:01.000
+this principle
+
+01:16:01.000 --> 01:16:03.000
+applies to the security services.
+
+01:16:03.000 --> 01:16:05.000
+The security services
+
+01:16:05.000 --> 01:16:07.000
+should coordinate
+
+01:16:07.000 --> 01:16:09.000
+their activities.
+
+01:16:09.000 --> 01:16:11.000
+It is related to the interaction
+
+01:16:11.000 --> 01:16:13.000
+of the security services
+
+01:16:13.000 --> 01:16:15.000
+with the security services
+
+01:16:15.000 --> 01:16:17.000
+of the police.
+
+01:16:17.000 --> 01:16:19.000
+They have to
+
+01:16:19.000 --> 01:16:21.000
+interact with each other.
+
+01:16:21.000 --> 01:16:23.000
+There is a certain
+
+01:16:23.000 --> 01:16:25.000
+relationship
+
+01:16:25.000 --> 01:16:27.000
+between the security services
+
+01:16:27.000 --> 01:16:29.000
+and the internal affairs.
+
+01:16:29.000 --> 01:16:31.000
+This principle
+
+01:16:31.000 --> 01:16:33.000
+applies
+
+01:16:33.000 --> 01:16:35.000
+to the interaction
+
+01:16:35.000 --> 01:16:37.000
+of the security services
+
+01:16:37.000 --> 01:16:39.000
+and other companies.
+
+01:16:39.000 --> 01:16:41.000
+This is the principle
+
+01:16:41.000 --> 01:16:43.000
+of interaction and coordination.
+
+01:16:43.000 --> 01:16:45.000
+There is another interesting principle.
+
+01:16:45.000 --> 01:16:47.000
+I will talk about it.
+
+01:16:47.000 --> 01:16:49.000
+It is the principle of improvement.
+
+01:16:51.000 --> 01:16:53.000
+Improvement.
+
+01:16:55.000 --> 01:16:57.000
+What does
+
+01:16:57.000 --> 01:16:59.000
+this principle say?
+
+01:17:01.000 --> 01:17:03.000
+The corporate security system
+
+01:17:03.000 --> 01:17:05.000
+that you have created
+
+01:17:05.000 --> 01:17:07.000
+should be checked
+
+01:17:07.000 --> 01:17:09.000
+from the point of view
+
+01:17:09.000 --> 01:17:11.000
+of improvement.
+
+01:17:11.000 --> 01:17:13.000
+First of all,
+
+01:17:13.000 --> 01:17:15.000
+it applies to two aspects.
+
+01:17:15.000 --> 01:17:17.000
+The first one is
+
+01:17:17.000 --> 01:17:19.000
+the technical aspects.
+
+01:17:21.000 --> 01:17:23.000
+Technical issues.
+
+01:17:27.000 --> 01:17:29.000
+The second one is
+
+01:17:29.000 --> 01:17:31.000
+the threats.
+
+01:17:31.000 --> 01:17:33.000
+The technical issues.
+
+01:17:33.000 --> 01:17:35.000
+You can equip
+
+01:17:35.000 --> 01:17:37.000
+your office, your department,
+
+01:17:37.000 --> 01:17:39.000
+your company
+
+01:17:39.000 --> 01:17:41.000
+with the latest technology
+
+01:17:41.000 --> 01:17:43.000
+in the field of corporate security.
+
+01:17:43.000 --> 01:17:45.000
+In a year or a year and a half,
+
+01:17:45.000 --> 01:17:47.000
+you will find out
+
+01:17:47.000 --> 01:17:49.000
+that all this has become
+
+01:17:49.000 --> 01:17:51.000
+hopelessly outdated
+
+01:17:51.000 --> 01:17:53.000
+and you need to change it.
+
+01:17:53.000 --> 01:17:55.000
+The technology is moving
+
+01:17:55.000 --> 01:17:57.000
+very fast.
+
+01:17:57.000 --> 01:17:59.000
+There was analog television,
+
+01:17:59.000 --> 01:18:01.000
+now there is digital.
+
+01:18:01.000 --> 01:18:03.000
+There was one resolution,
+
+01:18:03.000 --> 01:18:05.000
+now there is another.
+
+01:18:05.000 --> 01:18:07.000
+The technical means of attack
+
+01:18:07.000 --> 01:18:09.000
+and the security of IT
+
+01:18:09.000 --> 01:18:11.000
+are changing very fast.
+
+01:18:11.000 --> 01:18:13.000
+Something new happens
+
+01:18:13.000 --> 01:18:15.000
+almost every day.
+
+01:18:15.000 --> 01:18:17.000
+Every month,
+
+01:18:17.000 --> 01:18:19.000
+new products are released.
+
+01:18:19.000 --> 01:18:21.000
+The principle of improvement
+
+01:18:21.000 --> 01:18:23.000
+is checked from the point of view
+
+01:18:23.000 --> 01:18:25.000
+of technical issues.
+
+01:18:25.000 --> 01:18:27.000
+It also needs to be prepared
+
+01:18:27.000 --> 01:18:29.000
+by the management.
+
+01:18:29.000 --> 01:18:31.000
+Not every manager understands
+
+01:18:31.000 --> 01:18:33.000
+why he has to spend money
+
+01:18:33.000 --> 01:18:35.000
+on technical reequipment.
+
+01:18:35.000 --> 01:18:37.000
+It happens very fast.
+
+01:18:37.000 --> 01:18:39.000
+And the improvement
+
+01:18:39.000 --> 01:18:41.000
+is from the point of view of threats.
+
+01:18:41.000 --> 01:18:43.000
+As I said,
+
+01:18:43.000 --> 01:18:45.000
+the protection is built
+
+01:18:45.000 --> 01:18:47.000
+on the basis of real threats.
+
+01:18:47.000 --> 01:18:49.000
+The threats can change.
+
+01:18:49.000 --> 01:18:51.000
+The corporate security system
+
+01:18:51.000 --> 01:18:53.000
+needs to be improved
+
+01:18:53.000 --> 01:18:55.000
+from the point of view of the threats.
+
+01:18:55.000 --> 01:18:57.000
+For example,
+
+01:18:57.000 --> 01:18:59.000
+to make it clear,
+
+01:18:59.000 --> 01:19:01.000
+a control-missile regime
+
+01:19:01.000 --> 01:19:03.000
+is created in the company.
+
+01:19:03.000 --> 01:19:05.000
+The threat is determined
+
+01:19:05.000 --> 01:19:07.000
+by the threat.
+
+01:19:07.000 --> 01:19:09.000
+What kind of threat?
+
+01:19:09.000 --> 01:19:11.000
+It can be a threat
+
+01:19:11.000 --> 01:19:13.000
+from a hooligan
+
+01:19:13.000 --> 01:19:15.000
+or a drunk person
+
+01:19:15.000 --> 01:19:17.000
+who wants to enter the facility.
+
+01:19:17.000 --> 01:19:19.000
+It is clear.
+
+01:19:19.000 --> 01:19:21.000
+The protection system
+
+01:19:21.000 --> 01:19:23.000
+is built on the basis of these threats.
+
+01:19:23.000 --> 01:19:25.000
+If the threats are different,
+
+01:19:25.000 --> 01:19:27.000
+for example,
+
+01:19:27.000 --> 01:19:29.000
+you defend yourself
+
+01:19:29.000 --> 01:19:31.000
+from a terrorist
+
+01:19:31.000 --> 01:19:33.000
+and you have to build
+
+01:19:33.000 --> 01:19:35.000
+a completely different control-missile regime.
+
+01:19:35.000 --> 01:19:37.000
+Because the first option
+
+01:19:37.000 --> 01:19:39.000
+will not be effective.
+
+01:19:43.000 --> 01:19:45.000
+The improvement from the point of view of threats
+
+01:19:45.000 --> 01:19:47.000
+is not necessarily
+
+01:19:47.000 --> 01:19:49.000
+an increase in the system.
+
+01:19:49.000 --> 01:19:51.000
+It can be a certain weakening of the system.
+
+01:19:51.000 --> 01:19:53.000
+If the threats are gone,
+
+01:19:53.000 --> 01:19:55.000
+there is no point in spending a lot of money
+
+01:19:55.000 --> 01:19:57.000
+on security.
+
+01:19:57.000 --> 01:19:59.000
+The improvement from the point of view of threats
+
+01:19:59.000 --> 01:20:01.000
+can be a weakening of the system.
+
+01:20:11.000 --> 01:20:13.000
+There is a principle
+
+01:20:13.000 --> 01:20:15.000
+that is also quite interesting.
+
+01:20:15.000 --> 01:20:17.000
+It is the centralization of the control.
+
+01:20:19.000 --> 01:20:21.000
+The principle of centralization
+
+01:20:21.000 --> 01:20:23.000
+of the control.
+
+01:20:25.000 --> 01:20:27.000
+What does it mean?
+
+01:20:27.000 --> 01:20:29.000
+The system of corporate security
+
+01:20:29.000 --> 01:20:31.000
+should be subordinate to someone
+
+01:20:31.000 --> 01:20:33.000
+and close to someone.
+
+01:20:35.000 --> 01:20:37.000
+The strict rule and strict requirement
+
+01:20:37.000 --> 01:20:39.000
+is the subordination
+
+01:20:39.000 --> 01:20:41.000
+of the security department
+
+01:20:41.000 --> 01:20:43.000
+to the first person of the company.
+
+01:20:43.000 --> 01:20:45.000
+It can be the general director,
+
+01:20:45.000 --> 01:20:47.000
+the owner of the company,
+
+01:20:47.000 --> 01:20:49.000
+or someone else.
+
+01:20:49.000 --> 01:20:51.000
+But in no case is security
+
+01:20:51.000 --> 01:20:53.000
+subordinated to top managers,
+
+01:20:53.000 --> 01:20:55.000
+to other departments
+
+01:20:55.000 --> 01:20:57.000
+or not to the first person of the company.
+
+01:20:59.000 --> 01:21:01.000
+The difficult question
+
+01:21:01.000 --> 01:21:03.000
+arises when
+
+01:21:03.000 --> 01:21:05.000
+the owner of the company,
+
+01:21:05.000 --> 01:21:07.000
+the owner of the company,
+
+01:21:07.000 --> 01:21:09.000
+the owner of the company
+
+01:21:09.000 --> 01:21:11.000
+and the general director
+
+01:21:11.000 --> 01:21:13.000
+are different people.
+
+01:21:13.000 --> 01:21:15.000
+Who should the security department
+
+01:21:15.000 --> 01:21:17.000
+close to?
+
+01:21:17.000 --> 01:21:19.000
+There are no ready-made final decisions here,
+
+01:21:19.000 --> 01:21:21.000
+because the question is quite slippery.
+
+01:21:21.000 --> 01:21:23.000
+In the vast majority of cases,
+
+01:21:23.000 --> 01:21:25.000
+the security department's chief
+
+01:21:25.000 --> 01:21:27.000
+subordinates to the company's owner
+
+01:21:27.000 --> 01:21:29.000
+in strategic matters,
+
+01:21:29.000 --> 01:21:31.000
+and the general director
+
+01:21:31.000 --> 01:21:33.000
+in current matters.
+
+01:21:37.000 --> 01:21:39.000
+Why is there such a division?
+
+01:21:39.000 --> 01:21:41.000
+Because the company's owner
+
+01:21:41.000 --> 01:21:43.000
+can set tasks for the security department
+
+01:21:43.000 --> 01:21:45.000
+in relation to certain control
+
+01:21:45.000 --> 01:21:47.000
+or certain actions
+
+01:21:47.000 --> 01:21:49.000
+in relation to the general director.
+
+01:21:49.000 --> 01:21:51.000
+For example,
+
+01:21:51.000 --> 01:21:53.000
+the general director
+
+01:21:53.000 --> 01:21:55.000
+is also a hired person.
+
+01:21:55.000 --> 01:21:57.000
+Although the question is very slippery,
+
+01:21:57.000 --> 01:21:59.000
+it is solved in different ways.
+
+01:21:59.000 --> 01:22:01.000
+There are no ready-made solutions here.
+
+01:22:05.000 --> 01:22:07.000
+There are several principles
+
+01:22:07.000 --> 01:22:09.000
+related to the human factor.
+
+01:22:09.000 --> 01:22:11.000
+The principle of minimizing
+
+01:22:11.000 --> 01:22:13.000
+the use of the human factor.
+
+01:22:13.000 --> 01:22:15.000
+Minimizing
+
+01:22:15.000 --> 01:22:17.000
+the use
+
+01:22:17.000 --> 01:22:19.000
+of
+
+01:22:19.000 --> 01:22:21.000
+the human factor.
+
+01:22:33.000 --> 01:22:35.000
+From the point of view of security,
+
+01:22:35.000 --> 01:22:37.000
+I have already said that the weakest link
+
+01:22:37.000 --> 01:22:39.000
+is the human factor.
+
+01:22:39.000 --> 01:22:41.000
+Therefore, as soon as the security system
+
+01:22:41.000 --> 01:22:43.000
+is strongly tied to the human factor,
+
+01:22:43.000 --> 01:22:45.000
+it is always bad.
+
+01:22:45.000 --> 01:22:47.000
+Therefore, they try to make
+
+01:22:47.000 --> 01:22:49.000
+the system not tied to the human factor.
+
+01:22:49.000 --> 01:22:51.000
+This is also related to the leadership
+
+01:22:51.000 --> 01:22:53.000
+of the security service.
+
+01:22:53.000 --> 01:22:55.000
+The system should not be tied
+
+01:22:55.000 --> 01:22:57.000
+to a specific head of the security service.
+
+01:22:57.000 --> 01:22:59.000
+This is related to some technical solutions,
+
+01:22:59.000 --> 01:23:01.000
+to some other solutions,
+
+01:23:01.000 --> 01:23:03.000
+so that as few questions as possible
+
+01:23:03.000 --> 01:23:05.000
+are closed on the human factor.
+
+01:23:05.000 --> 01:23:07.000
+The technique is clear,
+
+01:23:07.000 --> 01:23:09.000
+predictable,
+
+01:23:09.000 --> 01:23:11.000
+logical,
+
+01:23:11.000 --> 01:23:13.000
+and predictable.
+
+01:23:13.000 --> 01:23:15.000
+A person is usually not logical,
+
+01:23:15.000 --> 01:23:17.000
+unpredictable,
+
+01:23:17.000 --> 01:23:19.000
+and unpredictable.
+
+01:23:19.000 --> 01:23:21.000
+There are also many ways
+
+01:23:21.000 --> 01:23:23.000
+to influence a person.
+
+01:23:23.000 --> 01:23:25.000
+Therefore, everything that is tied
+
+01:23:25.000 --> 01:23:27.000
+to the human factor is the weakest link.
+
+01:23:29.000 --> 01:23:31.000
+There is a very interesting principle.
+
+01:23:33.000 --> 01:23:35.000
+There is such a concept as the golden section of security.
+
+01:23:39.000 --> 01:23:41.000
+The golden section of security.
+
+01:23:45.000 --> 01:23:47.000
+What is it?
+
+01:23:51.000 --> 01:23:53.000
+Usually, it is drawn in the form of a triangle,
+
+01:23:57.000 --> 01:23:59.000
+where there are such parameters as
+
+01:23:59.000 --> 01:24:01.000
+price,
+
+01:24:01.000 --> 01:24:03.000
+speed,
+
+01:24:05.000 --> 01:24:07.000
+and security in the corners.
+
+01:24:07.000 --> 01:24:09.000
+When these three parameters are analyzed,
+
+01:24:09.000 --> 01:24:11.000
+it is necessary to assume that
+
+01:24:11.000 --> 01:24:13.000
+you will not be able to choose
+
+01:24:13.000 --> 01:24:15.000
+all three parameters at the same time.
+
+01:24:15.000 --> 01:24:17.000
+Usually, they choose
+
+01:24:17.000 --> 01:24:19.000
+some two priority parameters.
+
+01:24:19.000 --> 01:24:21.000
+You can make the system safe
+
+01:24:21.000 --> 01:24:23.000
+and make it cheap,
+
+01:24:23.000 --> 01:24:25.000
+but it will take a long time to create.
+
+01:24:25.000 --> 01:24:27.000
+You can make the system safe,
+
+01:24:27.000 --> 01:24:29.000
+you can make the system fast,
+
+01:24:29.000 --> 01:24:31.000
+but it will be very expensive.
+
+01:24:31.000 --> 01:24:33.000
+You can make the system fast,
+
+01:24:33.000 --> 01:24:35.000
+but it will be very expensive.
+
+01:24:35.000 --> 01:24:37.000
+You can make the system cheap,
+
+01:24:37.000 --> 01:24:39.000
+you can make it fast,
+
+01:24:39.000 --> 01:24:41.000
+but it will be unsafe.
+
+01:24:41.000 --> 01:24:43.000
+Therefore, initially,
+
+01:24:43.000 --> 01:24:45.000
+when this system of corporate security is created,
+
+01:24:45.000 --> 01:24:47.000
+they try to determine
+
+01:24:47.000 --> 01:24:49.000
+these three parameters.
+
+01:24:53.000 --> 01:24:55.000
+Somewhere, let's say,
+
+01:24:55.000 --> 01:24:57.000
+some priority parameters are chosen.
+
+01:24:57.000 --> 01:24:59.000
+Two priority parameters
+
+01:24:59.000 --> 01:25:01.000
+are chosen from these three.
+
+01:25:01.000 --> 01:25:03.000
+Here, this golden section
+
+01:25:03.000 --> 01:25:05.000
+is, of course,
+
+01:25:05.000 --> 01:25:07.000
+individual for each company.
+
+01:25:07.000 --> 01:25:09.000
+That is, for each company
+
+01:25:09.000 --> 01:25:11.000
+some two priority parameters are given.
+
+01:25:11.000 --> 01:25:13.000
+The main ones must be chosen,
+
+01:25:13.000 --> 01:25:15.000
+and the rest must be sacrificed.
+
+01:25:15.000 --> 01:25:17.000
+There are several more principles
+
+01:25:17.000 --> 01:25:19.000
+that are applied.
+
+01:25:19.000 --> 01:25:21.000
+The principle of personal responsibility
+
+01:25:21.000 --> 01:25:23.000
+is also related to the human factor.
+
+01:25:23.000 --> 01:25:25.000
+The principle of personal responsibility
+
+01:25:25.000 --> 01:25:27.000
+is also related to the human factor.
+
+01:25:27.000 --> 01:25:29.000
+The principle of personal responsibility
+
+01:25:29.000 --> 01:25:31.000
+The principle of personal responsibility
+
+01:25:37.000 --> 01:25:39.000
+The principle of personal responsibility
+
+01:25:39.000 --> 01:25:41.000
+is clear.
+
+01:25:41.000 --> 01:25:43.000
+Here I would pay attention
+
+01:25:43.000 --> 01:25:45.000
+not so much to the severity of the punishment,
+
+01:25:45.000 --> 01:25:47.000
+if we are talking about responsibility,
+
+01:25:47.000 --> 01:25:49.000
+but to the inviolability of the punishment.
+
+01:25:49.000 --> 01:25:51.000
+That is, people should know
+
+01:25:51.000 --> 01:25:53.000
+that for committing some illegal actions
+
+01:25:53.000 --> 01:25:55.000
+they are waiting for punishment.
+
+01:25:55.000 --> 01:25:57.000
+As a rule,
+
+01:25:57.000 --> 01:25:59.000
+observing the formation
+
+01:25:59.000 --> 01:26:01.000
+of the corporate security system,
+
+01:26:01.000 --> 01:26:03.000
+I can say that
+
+01:26:03.000 --> 01:26:05.000
+the formation of all corporate security systems
+
+01:26:05.000 --> 01:26:07.000
+is usually carried out
+
+01:26:07.000 --> 01:26:09.000
+through some kind of punishment.
+
+01:26:09.000 --> 01:26:11.000
+That is,
+
+01:26:11.000 --> 01:26:13.000
+corporate security systems are created,
+
+01:26:13.000 --> 01:26:15.000
+and usually after that
+
+01:26:15.000 --> 01:26:17.000
+there is a certain rejection
+
+01:26:17.000 --> 01:26:19.000
+from the employees of the company.
+
+01:26:19.000 --> 01:26:21.000
+Because any security
+
+01:26:21.000 --> 01:26:23.000
+is a certain restriction
+
+01:26:23.000 --> 01:26:25.000
+of the employee's authority,
+
+01:26:25.000 --> 01:26:27.000
+a certain complication
+
+01:26:27.000 --> 01:26:29.000
+of their life at work, and so on.
+
+01:26:29.000 --> 01:26:31.000
+After that,
+
+01:26:31.000 --> 01:26:33.000
+people begin to be outraged,
+
+01:26:33.000 --> 01:26:35.000
+people begin to not fulfill
+
+01:26:35.000 --> 01:26:37.000
+the requirements that the security system
+
+01:26:37.000 --> 01:26:39.000
+builds.
+
+01:26:39.000 --> 01:26:41.000
+People are first convinced,
+
+01:26:41.000 --> 01:26:43.000
+then, as a rule,
+
+01:26:43.000 --> 01:26:45.000
+punished because the conviction
+
+01:26:45.000 --> 01:26:47.000
+in most cases is inactive.
+
+01:26:47.000 --> 01:26:49.000
+And in the future,
+
+01:26:49.000 --> 01:26:51.000
+the system will start working.
+
+01:26:51.000 --> 01:26:53.000
+That is, it goes through punishment.
+
+01:26:53.000 --> 01:26:55.000
+In relation to personal responsibility,
+
+01:26:55.000 --> 01:26:57.000
+such demonstrative events are widely used,
+
+01:26:57.000 --> 01:26:59.000
+starting with public punishments,
+
+01:26:59.000 --> 01:27:01.000
+ending with public,
+
+01:27:01.000 --> 01:27:03.000
+so to speak,
+
+01:27:03.000 --> 01:27:05.000
+attraction to responsibility,
+
+01:27:05.000 --> 01:27:07.000
+including criminal responsibility,
+
+01:27:07.000 --> 01:27:09.000
+and the consequences associated
+
+01:27:09.000 --> 01:27:11.000
+with this.
+
+01:27:11.000 --> 01:27:13.000
+That is,
+
+01:27:13.000 --> 01:27:15.000
+when people understand
+
+01:27:15.000 --> 01:27:17.000
+that for, say,
+
+01:27:17.000 --> 01:27:19.000
+violation of some rules,
+
+01:27:19.000 --> 01:27:21.000
+for committing an action
+
+01:27:21.000 --> 01:27:23.000
+that falls under the Criminal Code,
+
+01:27:23.000 --> 01:27:25.000
+the court can bring to justice,
+
+01:27:25.000 --> 01:27:27.000
+this is a fairly effective thing.
+
+01:27:27.000 --> 01:27:29.000
+Then, as a rule,
+
+01:27:29.000 --> 01:27:31.000
+people behave very calmly and quietly.
+
+01:27:33.000 --> 01:27:35.000
+The next point
+
+01:27:35.000 --> 01:27:37.000
+is
+
+01:27:37.000 --> 01:27:39.000
+the principle of restriction of authority.
+
+01:27:43.000 --> 01:27:45.000
+The principle of restriction of authority.
+
+01:27:45.000 --> 01:27:47.000
+I have already mentioned
+
+01:27:47.000 --> 01:27:49.000
+the principle of restriction of authority.
+
+01:27:49.000 --> 01:27:51.000
+In the classical version,
+
+01:27:51.000 --> 01:27:53.000
+people should have access
+
+01:27:53.000 --> 01:27:55.000
+only to the information
+
+01:27:55.000 --> 01:27:57.000
+they need
+
+01:27:57.000 --> 01:27:59.000
+to perform their work,
+
+01:27:59.000 --> 01:28:01.000
+and should have
+
+01:28:01.000 --> 01:28:03.000
+small powers,
+
+01:28:03.000 --> 01:28:05.000
+and there should be maximum control.
+
+01:28:05.000 --> 01:28:07.000
+The problem is mainly when
+
+01:28:07.000 --> 01:28:09.000
+the powers are maximum,
+
+01:28:09.000 --> 01:28:11.000
+and the control is minimal.
+
+01:28:11.000 --> 01:28:13.000
+When the system is built
+
+01:28:13.000 --> 01:28:15.000
+to the maximum,
+
+01:28:15.000 --> 01:28:17.000
+the problem does not arise.
+
+01:28:23.000 --> 01:28:25.000
+There are a few more principles
+
+01:28:25.000 --> 01:28:27.000
+that are quite important.
+
+01:28:27.000 --> 01:28:29.000
+The principle of multilaterality.
+
+01:28:37.000 --> 01:28:39.000
+What does this principle say?
+
+01:28:39.000 --> 01:28:41.000
+It says that
+
+01:28:41.000 --> 01:28:43.000
+any security system
+
+01:28:43.000 --> 01:28:45.000
+does not guarantee
+
+01:28:45.000 --> 01:28:47.000
+100% security.
+
+01:28:53.000 --> 01:28:55.000
+Any security line
+
+01:28:55.000 --> 01:28:57.000
+can be overcome.
+
+01:28:57.000 --> 01:28:59.000
+It's just about time,
+
+01:28:59.000 --> 01:29:01.000
+money, expediency, etc.
+
+01:29:01.000 --> 01:29:03.000
+The more security lines there are,
+
+01:29:03.000 --> 01:29:05.000
+the more reliable
+
+01:29:05.000 --> 01:29:07.000
+the system is.
+
+01:29:07.000 --> 01:29:09.000
+For example,
+
+01:29:09.000 --> 01:29:11.000
+the security line
+
+01:29:11.000 --> 01:29:13.000
+is used in security events.
+
+01:29:13.000 --> 01:29:15.000
+If you have a separate room
+
+01:29:15.000 --> 01:29:17.000
+and you need to provide
+
+01:29:17.000 --> 01:29:19.000
+security for this room
+
+01:29:19.000 --> 01:29:21.000
+in some building,
+
+01:29:21.000 --> 01:29:23.000
+then here you can
+
+01:29:23.000 --> 01:29:25.000
+create only one security line.
+
+01:29:25.000 --> 01:29:27.000
+There are bars,
+
+01:29:27.000 --> 01:29:29.000
+metal doors on the windows,
+
+01:29:29.000 --> 01:29:31.000
+a man with a gun,
+
+01:29:31.000 --> 01:29:33.000
+and so on.
+
+01:29:33.000 --> 01:29:35.000
+If you have a separate mansion
+
+01:29:35.000 --> 01:29:37.000
+with adjacent territory,
+
+01:29:37.000 --> 01:29:39.000
+security events
+
+01:29:39.000 --> 01:29:41.000
+are usually built
+
+01:29:41.000 --> 01:29:43.000
+according to the ring principle.
+
+01:29:43.000 --> 01:29:45.000
+There is a perimeter
+
+01:29:45.000 --> 01:29:47.000
+that guards the dogs,
+
+01:29:47.000 --> 01:29:49.000
+sensors,
+
+01:29:49.000 --> 01:29:51.000
+alarm systems, etc.
+
+01:29:51.000 --> 01:29:53.000
+There is a second security line,
+
+01:29:53.000 --> 01:29:55.000
+for example,
+
+01:29:55.000 --> 01:29:57.000
+a building with metal doors,
+
+01:29:57.000 --> 01:29:59.000
+bars, etc.
+
+01:29:59.000 --> 01:30:01.000
+There is a third security line,
+
+01:30:01.000 --> 01:30:03.000
+which is the security of the floor.
+
+01:30:03.000 --> 01:30:05.000
+The fourth security line
+
+01:30:05.000 --> 01:30:07.000
+is the security of the room.
+
+01:30:07.000 --> 01:30:09.000
+It is a classic multi-border
+
+01:30:09.000 --> 01:30:11.000
+security principle.
+
+01:30:11.000 --> 01:30:13.000
+In IT security,
+
+01:30:13.000 --> 01:30:15.000
+the multi-border principle
+
+01:30:15.000 --> 01:30:17.000
+is widely used.
+
+01:30:17.000 --> 01:30:19.000
+For example,
+
+01:30:19.000 --> 01:30:21.000
+you need to enter a password
+
+01:30:21.000 --> 01:30:23.000
+to enter a computer,
+
+01:30:23.000 --> 01:30:25.000
+to enter an information system,
+
+01:30:25.000 --> 01:30:27.000
+you need to show
+
+01:30:27.000 --> 01:30:29.000
+some electronic identifiers,
+
+01:30:29.000 --> 01:30:31.000
+to enter a particularly
+
+01:30:31.000 --> 01:30:33.000
+classified file,
+
+01:30:33.000 --> 01:30:35.000
+to make your fingerprint,
+
+01:30:35.000 --> 01:30:37.000
+or an iris of the eye,
+
+01:30:37.000 --> 01:30:39.000
+or something else.
+
+01:30:39.000 --> 01:30:41.000
+This is also a classic multi-border
+
+01:30:41.000 --> 01:30:43.000
+security principle.
+
+01:30:45.000 --> 01:30:47.000
+There is a principle
+
+01:30:47.000 --> 01:30:49.000
+that is often violated,
+
+01:30:49.000 --> 01:30:51.000
+it is the principle of equality.
+
+01:30:57.000 --> 01:30:59.000
+The principle of equality
+
+01:30:59.000 --> 01:31:01.000
+says that the system
+
+01:31:03.000 --> 01:31:05.000
+of security
+
+01:31:05.000 --> 01:31:07.000
+is determined
+
+01:31:07.000 --> 01:31:09.000
+by the strength
+
+01:31:09.000 --> 01:31:11.000
+of the least protected element.
+
+01:31:11.000 --> 01:31:13.000
+If you have 10 windows
+
+01:31:13.000 --> 01:31:15.000
+in a simplified version,
+
+01:31:15.000 --> 01:31:17.000
+you put a very powerful
+
+01:31:17.000 --> 01:31:19.000
+grill on 9 windows,
+
+01:31:19.000 --> 01:31:21.000
+and on the 10th window
+
+01:31:21.000 --> 01:31:23.000
+there is no grill at all,
+
+01:31:23.000 --> 01:31:25.000
+then the strength of these 9 grills
+
+01:31:25.000 --> 01:31:27.000
+will be absolutely pointless
+
+01:31:27.000 --> 01:31:29.000
+and useless, because the criminal
+
+01:31:29.000 --> 01:31:31.000
+will climb into this 10th window.
+
+01:31:31.000 --> 01:31:33.000
+In practice, this is very common,
+
+01:31:33.000 --> 01:31:35.000
+when there are very powerful
+
+01:31:35.000 --> 01:31:37.000
+security peaks in this system,
+
+01:31:37.000 --> 01:31:39.000
+and there are some holes
+
+01:31:39.000 --> 01:31:41.000
+through which the criminal
+
+01:31:41.000 --> 01:31:43.000
+can easily penetrate.
+
+01:31:43.000 --> 01:31:45.000
+Remember one of the strict
+
+01:31:45.000 --> 01:31:47.000
+security rules,
+
+01:31:47.000 --> 01:31:49.000
+the strength of the security system
+
+01:31:49.000 --> 01:31:51.000
+is generally estimated
+
+01:31:51.000 --> 01:31:53.000
+by the strength of the
+
+01:31:53.000 --> 01:31:55.000
+least protected element.
+
+01:31:55.000 --> 01:31:57.000
+In life, you often encounter this.
+
+01:31:57.000 --> 01:31:59.000
+There are two more principles,
+
+01:31:59.000 --> 01:32:01.000
+I will draw them here.
+
+01:32:03.000 --> 01:32:05.000
+There is a principle of psychological
+
+01:32:05.000 --> 01:32:07.000
+impact on the offender.
+
+01:32:21.000 --> 01:32:23.000
+What is it about?
+
+01:32:23.000 --> 01:32:25.000
+By the way, this is a very cheap
+
+01:32:25.000 --> 01:32:27.000
+implementation principle,
+
+01:32:27.000 --> 01:32:29.000
+you go to the store very often,
+
+01:32:29.000 --> 01:32:31.000
+you see a sticker,
+
+01:32:31.000 --> 01:32:33.000
+the object is guarded by the police,
+
+01:32:33.000 --> 01:32:35.000
+it is difficult to say
+
+01:32:35.000 --> 01:32:37.000
+whether it is guarded or not,
+
+01:32:37.000 --> 01:32:39.000
+but it protects you from some
+
+01:32:39.000 --> 01:32:41.000
+levels of threat.
+
+01:32:41.000 --> 01:32:43.000
+Attention is being filmed by a hidden
+
+01:32:43.000 --> 01:32:45.000
+video camera in stores,
+
+01:32:45.000 --> 01:32:47.000
+there are also such stickers.
+
+01:32:47.000 --> 01:32:49.000
+What is it?
+
+01:32:49.000 --> 01:32:51.000
+These stickers pursue different
+
+01:32:51.000 --> 01:32:53.000
+purposes, including a certain
+
+01:32:53.000 --> 01:32:55.000
+psychological impact.
+
+01:32:55.000 --> 01:32:57.000
+If you put these stickers on,
+
+01:32:57.000 --> 01:32:59.000
+all your problems will be solved,
+
+01:32:59.000 --> 01:33:01.000
+at least it will protect you
+
+01:33:01.000 --> 01:33:03.000
+from some levels of threat.
+
+01:33:03.000 --> 01:33:05.000
+At the household level,
+
+01:33:05.000 --> 01:33:07.000
+you often encounter this,
+
+01:33:07.000 --> 01:33:09.000
+you walk along the country side,
+
+01:33:09.000 --> 01:33:11.000
+you see a sign that
+
+01:33:11.000 --> 01:33:13.000
+there is an angry dog in the yard.
+
+01:33:13.000 --> 01:33:15.000
+This is a psychological impact
+
+01:33:15.000 --> 01:33:17.000
+on a potential offender.
+
+01:33:17.000 --> 01:33:19.000
+It is advisable not to overdo it,
+
+01:33:19.000 --> 01:33:21.000
+because sometimes,
+
+01:33:21.000 --> 01:33:23.000
+for example, stickers are placed
+
+01:33:23.000 --> 01:33:25.000
+and the alarm is set,
+
+01:33:25.000 --> 01:33:27.000
+and it determines the brand.
+
+01:33:27.000 --> 01:33:29.000
+For example, Clifford,
+
+01:33:29.000 --> 01:33:31.000
+Alligator, and so on.
+
+01:33:31.000 --> 01:33:33.000
+It is pointless to talk about
+
+01:33:33.000 --> 01:33:35.000
+the specific model of the alarm
+
+01:33:35.000 --> 01:33:37.000
+installed on this car,
+
+01:33:37.000 --> 01:33:39.000
+because the attackers know
+
+01:33:39.000 --> 01:33:41.000
+all these systems,
+
+01:33:41.000 --> 01:33:43.000
+the anti-theft system,
+
+01:33:43.000 --> 01:33:45.000
+and it is pointless to inform them
+
+01:33:45.000 --> 01:33:47.000
+in advance what is installed there.
+
+01:33:47.000 --> 01:33:49.000
+Nevertheless, the principle of psychological
+
+01:33:49.000 --> 01:33:51.000
+impact is widely used
+
+01:33:51.000 --> 01:33:53.000
+and it works very well.
+
+01:33:53.000 --> 01:33:55.000
+You can install a video camera
+
+01:33:55.000 --> 01:33:57.000
+on your object,
+
+01:33:57.000 --> 01:33:59.000
+so that it can be seen.
+
+01:33:59.000 --> 01:34:01.000
+And surprisingly,
+
+01:34:01.000 --> 01:34:03.000
+you will find that
+
+01:34:03.000 --> 01:34:05.000
+the number of people
+
+01:34:05.000 --> 01:34:07.000
+who want to climb over
+
+01:34:07.000 --> 01:34:09.000
+this fence will sharply decrease
+
+01:34:09.000 --> 01:34:11.000
+due to the psychological impact.
+
+01:34:13.000 --> 01:34:15.000
+Sometimes documents are made
+
+01:34:15.000 --> 01:34:17.000
+in such a way
+
+01:34:17.000 --> 01:34:19.000
+to apply this principle
+
+01:34:19.000 --> 01:34:21.000
+to the psychological impact.
+
+01:34:21.000 --> 01:34:23.000
+There is a mode of commercial secrecy.
+
+01:34:23.000 --> 01:34:25.000
+If you want to create it,
+
+01:34:25.000 --> 01:34:27.000
+you need to make sure
+
+01:34:27.000 --> 01:34:29.000
+that the employees take on
+
+01:34:29.000 --> 01:34:31.000
+the obligation to keep
+
+01:34:31.000 --> 01:34:33.000
+your commercial secrets.
+
+01:34:33.000 --> 01:34:35.000
+This obligation can be
+
+01:34:35.000 --> 01:34:37.000
+either through a labor agreement
+
+01:34:37.000 --> 01:34:39.000
+where a separate record is made,
+
+01:34:39.000 --> 01:34:41.000
+or through a separate agreement
+
+01:34:41.000 --> 01:34:43.000
+or a separate agreement.
+
+01:34:43.000 --> 01:34:45.000
+A separate agreement
+
+01:34:45.000 --> 01:34:47.000
+is more effective,
+
+01:34:47.000 --> 01:34:49.000
+both psychologically and
+
+01:34:49.000 --> 01:34:51.000
+through psychological impact.
+
+01:34:51.000 --> 01:34:53.000
+When a person reads
+
+01:34:53.000 --> 01:34:55.000
+and sees that the articles
+
+01:34:55.000 --> 01:34:57.000
+of the Criminal Code,
+
+01:34:57.000 --> 01:34:59.000
+Administrative Code,
+
+01:34:59.000 --> 01:35:01.000
+Labor Code,
+
+01:35:01.000 --> 01:35:03.000
+are flashing,
+
+01:35:03.000 --> 01:35:05.000
+this is much more effective
+
+01:35:05.000 --> 01:35:07.000
+from the psychological point of view
+
+01:35:07.000 --> 01:35:09.000
+than just a simple phrase
+
+01:35:09.000 --> 01:35:11.000
+in a labor agreement.
+
+01:35:11.000 --> 01:35:13.000
+Therefore, pay attention
+
+01:35:13.000 --> 01:35:15.000
+to the psychological impact
+
+01:35:15.000 --> 01:35:17.000
+of the law.
+
+01:35:17.000 --> 01:35:19.000
+There is a principle
+
+01:35:19.000 --> 01:35:21.000
+of combining
+
+01:35:21.000 --> 01:35:23.000
+publicity and conspiracy.
+
+01:35:39.000 --> 01:35:41.000
+This is the last principle
+
+01:35:41.000 --> 01:35:43.000
+I will talk about.
+
+01:35:43.000 --> 01:35:45.000
+It is about
+
+01:35:45.000 --> 01:35:47.000
+everything you do
+
+01:35:47.000 --> 01:35:49.000
+in the corporate security line
+
+01:35:49.000 --> 01:35:51.000
+is usually divided into
+
+01:35:51.000 --> 01:35:53.000
+two large groups.
+
+01:35:53.000 --> 01:35:55.000
+The first is
+
+01:35:55.000 --> 01:35:57.000
+an open event,
+
+01:35:57.000 --> 01:35:59.000
+that is, you do not hide
+
+01:35:59.000 --> 01:36:01.000
+what is happening.
+
+01:36:01.000 --> 01:36:03.000
+The second is a hidden event.
+
+01:36:03.000 --> 01:36:05.000
+Hiding everything
+
+01:36:05.000 --> 01:36:07.000
+that is done in the corporate security line
+
+01:36:07.000 --> 01:36:09.000
+is unrealistic,
+
+01:36:09.000 --> 01:36:11.000
+it is pointless and expensive.
+
+01:36:11.000 --> 01:36:13.000
+Therefore, everything is divided
+
+01:36:13.000 --> 01:36:15.000
+into two large groups.
+
+01:36:15.000 --> 01:36:17.000
+In particular,
+
+01:36:17.000 --> 01:36:19.000
+some checks
+
+01:36:19.000 --> 01:36:21.000
+that are carried out in companies
+
+01:36:21.000 --> 01:36:23.000
+are usually divided into two groups.
+
+01:36:23.000 --> 01:36:25.000
+These are open checks
+
+01:36:25.000 --> 01:36:27.000
+and hidden checks.
+
+01:36:27.000 --> 01:36:29.000
+There are planned checks,
+
+01:36:29.000 --> 01:36:31.000
+check of the confidential
+
+01:36:31.000 --> 01:36:33.000
+business of production,
+
+01:36:33.000 --> 01:36:35.000
+everyone can know that
+
+01:36:35.000 --> 01:36:37.000
+a check will come.
+
+01:36:37.000 --> 01:36:39.000
+There are unplanned checks,
+
+01:36:39.000 --> 01:36:41.000
+but they are not determined.
+
+01:36:41.000 --> 01:36:43.000
+Unplanned checks
+
+01:36:43.000 --> 01:36:45.000
+are like a sword
+
+01:36:45.000 --> 01:36:47.000
+that hangs over a person
+
+01:36:47.000 --> 01:36:49.000
+and he knows that
+
+01:36:49.000 --> 01:36:51.000
+some of the things
+
+01:36:51.000 --> 01:36:53.000
+he has to do
+
+01:36:53.000 --> 01:36:55.000
+can always be checked
+
+01:36:55.000 --> 01:36:57.000
+in the security line.
+
+01:36:57.000 --> 01:36:59.000
+Unplanned checks
+
+01:36:59.000 --> 01:37:01.000
+usually show the true
+
+01:37:01.000 --> 01:37:03.000
+position of the case.
+
+01:37:03.000 --> 01:37:05.000
+Planned checks are more
+
+01:37:05.000 --> 01:37:07.000
+from the point of view
+
+01:37:07.000 --> 01:37:09.000
+of the organization,
+
+01:37:09.000 --> 01:37:11.000
+and unplanned checks are more
+
+01:37:11.000 --> 01:37:13.000
+from the point of view of real control.
+
+01:37:13.000 --> 01:37:15.000
+These are the principles.
+
+01:37:15.000 --> 01:37:17.000
+What do you think about the
+
+01:37:17.000 --> 01:37:19.000
+construction of a corporate security system?
+
+01:37:19.000 --> 01:37:21.000
+What do you think about the
+
+01:37:21.000 --> 01:37:23.000
+construction of a corporate security system?
+
+01:37:23.000 --> 01:37:25.000
+I would like to finish
+
+01:37:25.000 --> 01:37:27.000
+the first topic
+
+01:37:27.000 --> 01:37:29.000
+about the construction
+
+01:37:29.000 --> 01:37:31.000
+of a corporate security system.
+
+01:37:31.000 --> 01:37:33.000
+I would like to
+
+01:37:33.000 --> 01:37:35.000
+pay attention to
+
+01:37:35.000 --> 01:37:37.000
+the following points.
+
+01:37:37.000 --> 01:37:39.000
+The security system
+
+01:37:39.000 --> 01:37:41.000
+is effective
+
+01:37:41.000 --> 01:37:43.000
+when a pyramid is built.
+
+01:37:43.000 --> 01:37:45.000
+I mean a barricade.
+
+01:37:45.000 --> 01:37:47.000
+On the one hand,
+
+01:37:47.000 --> 01:37:49.000
+there is a personnel,
+
+01:37:49.000 --> 01:37:51.000
+security service workers,
+
+01:37:51.000 --> 01:37:53.000
+management of the company.
+
+01:37:53.000 --> 01:37:55.000
+On the other hand,
+
+01:37:55.000 --> 01:37:57.000
+there are potential
+
+01:37:57.000 --> 01:37:59.000
+violations of the barricade.
+
+01:37:59.000 --> 01:38:01.000
+When there is a barricade,
+
+01:38:01.000 --> 01:38:03.000
+the system is built effectively.
+
+01:38:03.000 --> 01:38:05.000
+In practice,
+
+01:38:05.000 --> 01:38:07.000
+such a rigid barricade
+
+01:38:07.000 --> 01:38:09.000
+does not usually arise.
+
+01:38:09.000 --> 01:38:11.000
+There is usually
+
+01:38:11.000 --> 01:38:13.000
+some incomprehensible figure,
+
+01:38:13.000 --> 01:38:15.000
+where the personnel is on one side,
+
+01:38:15.000 --> 01:38:17.000
+the security service is on the other side,
+
+01:38:17.000 --> 01:38:19.000
+the management of the company
+
+01:38:19.000 --> 01:38:21.000
+is on the third side,
+
+01:38:21.000 --> 01:38:23.000
+and the potential violator
+
+01:38:23.000 --> 01:38:25.000
+is generally unknown.
+
+01:38:25.000 --> 01:38:27.000
+There should always be
+
+01:38:27.000 --> 01:38:29.000
+some ideal that you need to strive for.
+
+01:38:29.000 --> 01:38:31.000
+This ideal is precisely
+
+01:38:31.000 --> 01:38:33.000
+the barricade I am talking about.
+
+01:38:33.000 --> 01:38:35.000
+The second point
+
+01:38:35.000 --> 01:38:37.000
+that you will face
+
+01:38:37.000 --> 01:38:39.000
+and usually face
+
+01:38:39.000 --> 01:38:41.000
+when building a corporate security system
+
+01:38:41.000 --> 01:38:43.000
+is
+
+01:38:43.000 --> 01:38:45.000
+how to assess
+
+01:38:45.000 --> 01:38:47.000
+the effectiveness
+
+01:38:47.000 --> 01:38:49.000
+of corporate security.
+
+01:38:49.000 --> 01:38:51.000
+What is it about?
+
+01:38:51.000 --> 01:38:53.000
+It is about
+
+01:38:53.000 --> 01:38:55.000
+professionally competent
+
+01:38:55.000 --> 01:38:57.000
+work of the security service
+
+01:38:57.000 --> 01:38:59.000
+and the fact
+
+01:38:59.000 --> 01:39:01.000
+that it is not visible.
+
+01:39:01.000 --> 01:39:03.000
+All the problems
+
+01:39:03.000 --> 01:39:05.000
+that arise
+
+01:39:05.000 --> 01:39:07.000
+are solved at the stage of birth.
+
+01:39:07.000 --> 01:39:09.000
+Therefore,
+
+01:39:09.000 --> 01:39:11.000
+nothing happens around the company.
+
+01:39:11.000 --> 01:39:13.000
+But when nothing happens,
+
+01:39:13.000 --> 01:39:15.000
+the question arises
+
+01:39:15.000 --> 01:39:17.000
+why nothing happens.
+
+01:39:17.000 --> 01:39:19.000
+Either because nothing happens
+
+01:39:19.000 --> 01:39:21.000
+or because the security service
+
+01:39:21.000 --> 01:39:23.000
+works competently.
+
+01:39:23.000 --> 01:39:25.000
+Many managers
+
+01:39:25.000 --> 01:39:27.000
+start asking
+
+01:39:27.000 --> 01:39:29.000
+why they should not
+
+01:39:29.000 --> 01:39:31.000
+work in the security service
+
+01:39:31.000 --> 01:39:33.000
+if nothing happens.
+
+01:39:33.000 --> 01:39:35.000
+Therefore,
+
+01:39:35.000 --> 01:39:37.000
+security service often has problems
+
+01:39:37.000 --> 01:39:39.000
+with assessing its activity
+
+01:39:39.000 --> 01:39:41.000
+and its effectiveness.
+
+01:39:41.000 --> 01:39:43.000
+Security service often
+
+01:39:43.000 --> 01:39:45.000
+conducts such demonstrations.
+
+01:39:45.000 --> 01:39:47.000
+It is necessary to catch someone
+
+01:39:47.000 --> 01:39:49.000
+and show their importance.
+
+01:39:49.000 --> 01:39:51.000
+But professional security service
+
+01:39:51.000 --> 01:39:53.000
+does not work.
+
+01:39:53.000 --> 01:39:55.000
+Nothing happens around.
+
+01:39:55.000 --> 01:39:57.000
+What is the most difficult
+
+01:39:57.000 --> 01:39:59.000
+thing when building
+
+01:39:59.000 --> 01:40:01.000
+a corporate security system?
+
+01:40:01.000 --> 01:40:03.000
+In my opinion,
+
+01:40:03.000 --> 01:40:05.000
+it is the analyst.
+
+01:40:05.000 --> 01:40:07.000
+It is necessary to create
+
+01:40:07.000 --> 01:40:09.000
+an information-analytical unit
+
+01:40:09.000 --> 01:40:11.000
+that will get the information
+
+01:40:11.000 --> 01:40:13.000
+and analyze it.
+
+01:40:13.000 --> 01:40:15.000
+It is difficult to find
+
+01:40:15.000 --> 01:40:17.000
+analysts in the corporate security line.
+
+01:40:17.000 --> 01:40:19.000
+There are not many of them.
+
+01:40:19.000 --> 01:40:21.000
+They are not prepared anywhere.
+
+01:40:21.000 --> 01:40:23.000
+It requires
+
+01:40:23.000 --> 01:40:25.000
+a certain experience
+
+01:40:25.000 --> 01:40:27.000
+and an analytical mind.
+
+01:40:31.000 --> 01:40:33.000
+The result of the work
+
+01:40:33.000 --> 01:40:35.000
+from the information-analytical unit
+
+01:40:35.000 --> 01:40:37.000
+can be obtained only after a while.
+
+01:40:37.000 --> 01:40:39.000
+Usually,
+
+01:40:39.000 --> 01:40:41.000
+after at least a few months
+
+01:40:41.000 --> 01:40:43.000
+after the creation
+
+01:40:43.000 --> 01:40:45.000
+of the information-analytical unit,
+
+01:40:45.000 --> 01:40:47.000
+you can expect some result.
+
+01:40:47.000 --> 01:40:49.000
+Unlike security services,
+
+01:40:49.000 --> 01:40:51.000
+where the result
+
+01:40:51.000 --> 01:40:53.000
+can happen the next day
+
+01:40:53.000 --> 01:40:55.000
+or an hour
+
+01:40:55.000 --> 01:40:57.000
+after the security service was established.
+
+01:40:57.000 --> 01:40:59.000
+You will face this problem.
+
+01:40:59.000 --> 01:41:01.000
+There is a concept
+
+01:41:01.000 --> 01:41:03.000
+of work on demonstration events
+
+01:41:03.000 --> 01:41:05.000
+and work on the result.
+
+01:41:05.000 --> 01:41:07.000
+What I want to say
+
+01:41:07.000 --> 01:41:09.000
+is that
+
+01:41:09.000 --> 01:41:11.000
+sometimes security is a fashion.
+
+01:41:11.000 --> 01:41:13.000
+You often face it.
+
+01:41:13.000 --> 01:41:15.000
+It is a fashion
+
+01:41:15.000 --> 01:41:17.000
+and a fashion type of activity.
+
+01:41:17.000 --> 01:41:19.000
+It is a fashion
+
+01:41:19.000 --> 01:41:21.000
+and a fashion type of activity.
+
+01:41:21.000 --> 01:41:23.000
+Security services
+
+01:41:23.000 --> 01:41:25.000
+build their work
+
+01:41:25.000 --> 01:41:27.000
+not from the point of view of efficiency,
+
+01:41:27.000 --> 01:41:29.000
+but from the point of view of certain fashion directions.
+
+01:41:29.000 --> 01:41:31.000
+When you see
+
+01:41:31.000 --> 01:41:33.000
+bodyguards
+
+01:41:33.000 --> 01:41:35.000
+driving in a car
+
+01:41:35.000 --> 01:41:37.000
+and in front of them
+
+01:41:37.000 --> 01:41:39.000
+a bodyguard
+
+01:41:39.000 --> 01:41:41.000
+is driving in an open convertible
+
+01:41:41.000 --> 01:41:43.000
+in Moscow,
+
+01:41:43.000 --> 01:41:45.000
+stopping at every traffic light,
+
+01:41:45.000 --> 01:41:47.000
+from the point of view of human protection,
+
+01:41:47.000 --> 01:41:49.000
+it is pointless.
+
+01:41:49.000 --> 01:41:51.000
+But it is a demonstration event.
+
+01:41:51.000 --> 01:41:53.000
+A person likes
+
+01:41:53.000 --> 01:41:55.000
+a car with a bodyguard.
+
+01:41:55.000 --> 01:41:57.000
+Although
+
+01:41:57.000 --> 01:41:59.000
+it cannot be effective
+
+01:41:59.000 --> 01:42:01.000
+because
+
+01:42:01.000 --> 01:42:03.000
+there is no real protection.
+
+01:42:03.000 --> 01:42:05.000
+A lot of
+
+01:42:05.000 --> 01:42:07.000
+security
+
+01:42:07.000 --> 01:42:09.000
+is created
+
+01:42:09.000 --> 01:42:11.000
+from a certain
+
+01:42:11.000 --> 01:42:13.000
+how to say
+
+01:42:13.000 --> 01:42:15.000
+from a certain image.
+
+01:42:15.000 --> 01:42:17.000
+A competitor has
+
+01:42:17.000 --> 01:42:19.000
+a bodyguard
+
+01:42:19.000 --> 01:42:21.000
+and a company manager
+
+01:42:21.000 --> 01:42:23.000
+creates security
+
+01:42:23.000 --> 01:42:25.000
+and a company manager
+
+01:42:25.000 --> 01:42:27.000
+creates security
+
+01:42:27.000 --> 01:42:29.000
+from the point of view
+
+01:42:29.000 --> 01:42:31.000
+that a competitor has it,
+
+01:42:31.000 --> 01:42:33.000
+so it should be mine.
+
+01:42:33.000 --> 01:42:35.000
+Look from this point of view
+
+01:42:35.000 --> 01:42:37.000
+how you need to create a security unit
+
+01:42:37.000 --> 01:42:39.000
+and how it will work
+
+01:42:39.000 --> 01:42:41.000
+from the point of view of efficiency
+
+01:42:41.000 --> 01:42:43.000
+or from the point of view
+
+01:42:43.000 --> 01:42:45.000
+of efficiency.
+
+01:42:45.000 --> 01:42:47.000
+I would like to emphasize
+
+01:42:47.000 --> 01:42:49.000
+that all the questions
+
+01:42:49.000 --> 01:42:51.000
+that you will solve
+
+01:42:51.000 --> 01:42:53.000
+in the line of corporate security
+
+01:42:53.000 --> 01:42:55.000
+should be divided into two big groups.
+
+01:42:55.000 --> 01:42:57.000
+The one where it is clear what needs to be done
+
+01:42:57.000 --> 01:42:59.000
+and the one where it is not clear what needs to be done.
+
+01:42:59.000 --> 01:43:01.000
+The one where it is clear what needs to be done
+
+01:43:01.000 --> 01:43:03.000
+I would say
+
+01:43:03.000 --> 01:43:05.000
+is mainly technical issues.
+
+01:43:05.000 --> 01:43:07.000
+You need to install
+
+01:43:07.000 --> 01:43:09.000
+a video surveillance system.
+
+01:43:09.000 --> 01:43:11.000
+In general, it is clear what needs to be done.
+
+01:43:11.000 --> 01:43:13.000
+You need to look at
+
+01:43:13.000 --> 01:43:15.000
+what cameras,
+
+01:43:15.000 --> 01:43:17.000
+choose a company
+
+01:43:17.000 --> 01:43:19.000
+that will install it,
+
+01:43:19.000 --> 01:43:21.000
+serve it, and so on.
+
+01:43:21.000 --> 01:43:23.000
+You need to allocate money for it.
+
+01:43:23.000 --> 01:43:25.000
+There are problems where it is not clear what needs to be done.
+
+01:43:25.000 --> 01:43:27.000
+As a rule, it is a relationship
+
+01:43:27.000 --> 01:43:29.000
+with the controlling law enforcement agencies,
+
+01:43:29.000 --> 01:43:31.000
+it is business intelligence,
+
+01:43:31.000 --> 01:43:33.000
+it is personnel security.
+
+01:43:33.000 --> 01:43:35.000
+And here,
+
+01:43:35.000 --> 01:43:37.000
+at those moments
+
+01:43:37.000 --> 01:43:39.000
+when it is not clear what needs to be done,
+
+01:43:39.000 --> 01:43:41.000
+the law enforcement agencies pay more attention to it.
+
+01:43:43.000 --> 01:43:45.000
+I think that is all
+
+01:43:45.000 --> 01:43:47.000
+about our first topic
+
+01:43:47.000 --> 01:43:49.000
+on building corporate security systems.

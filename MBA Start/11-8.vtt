@@ -1,0 +1,5938 @@
+WEBVTT
+
+00:00.000 --> 00:10.000
+The topic of today's lecture is the control and assessment of the effectiveness of marketing activity.
+
+00:11.000 --> 00:13.000
+This lecture consists of three sections.
+
+00:14.000 --> 00:19.000
+In the first section, we will consider the problem of measuring the effectiveness of marketing as such.
+
+00:20.000 --> 00:25.000
+We will look at the main model, which is at the heart of the entire assessment of the effectiveness of marketing.
+
+00:26.000 --> 00:29.000
+This model is called the chain model of effectiveness.
+
+00:30.000 --> 00:34.000
+In the second section, we will consider the main marketing metrics.
+
+00:35.000 --> 00:40.000
+This is a tool for measuring the various aspects of the marketing activity of a company,
+
+00:41.000 --> 00:44.000
+which is later used for control.
+
+00:45.000 --> 00:48.000
+We will consider the control of marketing activity in the third section.
+
+00:49.000 --> 00:54.000
+Now let's see what are the goals and tasks of our lecture today.
+
+00:54.000 --> 01:00.000
+First of all, in order to start studying the control and assessment of marketing activity,
+
+01:01.000 --> 01:04.000
+it is necessary to understand why this control is needed.
+
+01:05.000 --> 01:09.000
+Because many companies believe that there is no need for this.
+
+01:10.000 --> 01:15.000
+We will provide arguments in favor of the fact that control is necessary for every company.
+
+01:16.000 --> 01:20.000
+And every company must study the results of its investment in marketing
+
+01:21.000 --> 01:23.000
+and control them on a regular basis.
+
+01:24.000 --> 01:27.000
+Then we will study the main marketing metrics.
+
+01:28.000 --> 01:31.000
+I have completed quite a lot of practical tasks.
+
+01:32.000 --> 01:34.000
+And by the end of the second section,
+
+01:35.000 --> 01:40.000
+you all should learn to calculate the main quantitative indicators in marketing on your own,
+
+01:41.000 --> 01:45.000
+to use them in your companies to measure the effectiveness of marketing activity.
+
+01:46.000 --> 01:50.000
+After that, we will consider the main principles of marketing control.
+
+01:50.000 --> 01:53.000
+We will see how the marketing metrics we have studied
+
+01:54.000 --> 01:58.000
+are used for complex control of the marketing activity of companies
+
+01:59.000 --> 02:01.000
+and assessment of the results of the activity.
+
+02:07.000 --> 02:11.000
+We will proceed to the first part, to the execution of our first task,
+
+02:12.000 --> 02:17.000
+to show that the control and assessment of the effectiveness of marketing activity are really necessary for companies.
+
+02:17.000 --> 02:23.000
+Many companies in practice believe that such an activity as control is not necessary.
+
+02:24.000 --> 02:26.000
+It is just a waste of money,
+
+02:27.000 --> 02:31.000
+the time of employees and no tangible effect this activity gives.
+
+02:32.000 --> 02:35.000
+Many companies really neglect control.
+
+02:36.000 --> 02:39.000
+And, it would seem, they live quite happily.
+
+02:40.000 --> 02:43.000
+But this is just the situation that is said to be happiness in ignorance.
+
+02:44.000 --> 02:48.000
+Recently, a study was conducted by several American companies,
+
+02:49.000 --> 02:53.000
+as a result of which they found that for every dollar invested in marketing,
+
+02:54.000 --> 02:56.000
+they get a profit of only 70 cents.
+
+02:57.000 --> 03:01.000
+They were horrified to find that all those huge investments in marketing that they made
+
+03:02.000 --> 03:04.000
+actually brought losses to companies.
+
+03:05.000 --> 03:07.000
+They could live in ignorance and on,
+
+03:08.000 --> 03:11.000
+but now they understand that their marketing activity is ineffective
+
+03:11.000 --> 03:14.000
+and they should correct their actions.
+
+03:15.000 --> 03:19.000
+And think about whether your marketing is actually effective or not.
+
+03:20.000 --> 03:24.000
+Do you get a profit from those investments that you invest in advertising
+
+03:25.000 --> 03:29.000
+or other aspects of promoting your product or in the development of new products?
+
+03:30.000 --> 03:33.000
+Therefore, every company must use control
+
+03:34.000 --> 03:37.000
+of the results of its marketing activity on a regular basis
+
+03:37.000 --> 03:41.000
+and find out the problems that arise in due time.
+
+03:42.000 --> 03:46.000
+The problem of neglect of the control of the marketing activity
+
+03:47.000 --> 03:50.000
+is typical for both foreign and Russian companies.
+
+03:51.000 --> 03:54.000
+Among the foreign managers, a survey was conducted, which gave the following results.
+
+03:55.000 --> 03:59.000
+66% of managers said that the control of the assessment of the effectiveness of marketing
+
+04:00.000 --> 04:02.000
+is the most relevant problem for them today.
+
+04:02.000 --> 04:06.000
+The problem is not only that the marketing budgets of many companies
+
+04:07.000 --> 04:12.000
+are millions of dollars and they are second in many cases after the production costs.
+
+04:13.000 --> 04:17.000
+The problem is that, unfortunately, many marketing specialists
+
+04:18.000 --> 04:21.000
+still do not have the qualifications to fully assess the effectiveness of marketing.
+
+04:22.000 --> 04:24.000
+As for Russian companies,
+
+04:25.000 --> 04:28.000
+many directors of Russian enterprises often say
+
+04:28.000 --> 04:33.000
+that Russian marketers often neglect the control of the effectiveness of their marketing activities
+
+04:34.000 --> 04:40.000
+and cannot assess whether the marketing decisions they make are reasonable.
+
+04:41.000 --> 04:45.000
+At a recent conference on the problems of teaching marketing in Russia,
+
+04:46.000 --> 04:49.000
+the director of the marketing company Fort Motor Company stated
+
+04:50.000 --> 04:54.000
+that her company also has a problem of assessing the effectiveness of marketing.
+
+04:54.000 --> 04:56.000
+It is related to the following.
+
+04:57.000 --> 05:00.000
+Russian marketers can develop the most creative advertising campaigns,
+
+05:01.000 --> 05:04.000
+can offer great ideas, but they do not think about
+
+05:05.000 --> 05:09.000
+whether it is reasonable to implement these ideas in terms of profit for the company.
+
+05:10.000 --> 05:12.000
+They just do not know how to assess the effectiveness of marketing decisions.
+
+05:13.000 --> 05:17.000
+This is a really relevant problem for both Russia and foreign companies.
+
+05:17.000 --> 05:25.000
+If we recall the marketing mix and the 4P or 5-7P that we considered in the general marketing module,
+
+05:26.000 --> 05:27.000
+we need to add the following.
+
+05:28.000 --> 05:31.000
+The most important P in marketing is profitability.
+
+05:32.000 --> 05:35.000
+And every company should understand that marketing is not the goal itself,
+
+05:36.000 --> 05:40.000
+it is a tool for increasing the company's profits and improving the results of its activities.
+
+05:40.000 --> 05:51.000
+Now, after we are sure that the control of marketing activities is really necessary for any company,
+
+05:52.000 --> 05:56.000
+we will move on to the first section of our lectures
+
+05:57.000 --> 06:01.000
+and consider what place control takes in terms of marketing.
+
+06:02.000 --> 06:03.000
+Pay attention to the slide.
+
+06:03.000 --> 06:09.000
+You see that any marketing plan starts with control and ends with control.
+
+06:10.000 --> 06:15.000
+At the beginning, the company sets a summary of the control indicators of its activity,
+
+06:16.000 --> 06:20.000
+which it will use at the end of the marketing plan to implement control.
+
+06:21.000 --> 06:24.000
+Have the goals that were set by the company at the beginning been achieved?
+
+06:25.000 --> 06:28.000
+Do the real results correspond to the desired results?
+
+06:28.000 --> 06:33.000
+Thus, control is an integral part of the marketing activity of any company.
+
+06:34.000 --> 06:37.000
+Let's consider the model of the chain of marketing effectiveness.
+
+06:38.000 --> 06:39.000
+The essence of this model is as follows.
+
+06:40.000 --> 06:43.000
+Each company has its own strategy.
+
+06:44.000 --> 06:47.000
+There is a set of functional strategies that you have already studied.
+
+06:48.000 --> 06:53.000
+But the implementation of any strategy involves certain tactical actions of the company.
+
+06:53.000 --> 06:59.000
+In the slide, you can see how the strategy block is being used to implement the tactical actions of the company.
+
+07:00.000 --> 07:04.000
+It is easy to assume that any tactical actions,
+
+07:05.000 --> 07:08.000
+be it the implementation of an advertising campaign or the development of a new product,
+
+07:09.000 --> 07:11.000
+involve certain costs.
+
+07:12.000 --> 07:15.000
+By investing money in these tactical actions,
+
+07:16.000 --> 07:20.000
+the company assumes that it will get a significant result.
+
+07:20.000 --> 07:23.000
+Namely, the increase in profits, for example,
+
+07:24.000 --> 07:26.000
+or the change in other indicators of the company's activity.
+
+07:27.000 --> 07:29.000
+What actions can take place?
+
+07:30.000 --> 07:37.000
+In the slide, you can see that tactical actions can affect the internal and external environment of the company in a certain way.
+
+07:38.000 --> 07:41.000
+First, they influence the buyers.
+
+07:42.000 --> 07:46.000
+For example, they change their attitude to the product or change the behavior of the buyer.
+
+07:47.000 --> 07:51.000
+Secondly, these actions influence the market.
+
+07:52.000 --> 07:56.000
+Thirdly, they influence the financial indicators of the company's activity.
+
+07:57.000 --> 08:00.000
+For example, the level of profit the company receives.
+
+08:01.000 --> 08:05.000
+When the company invests money in certain tactical actions,
+
+08:06.000 --> 08:09.000
+the company assumes that it will get certain results.
+
+08:10.000 --> 08:12.000
+The results can be as follows.
+
+08:12.000 --> 08:16.000
+In the right part of the slide, you can see a list of possible results.
+
+08:17.000 --> 08:21.000
+On the one hand, they can reflect the change in the company's position in the market.
+
+08:22.000 --> 08:24.000
+For example, the share of the company's market can increase.
+
+08:25.000 --> 08:29.000
+Secondly, these actions can increase the company's market capital
+
+08:30.000 --> 08:33.000
+and increase the value of the company's relationship with the consumers.
+
+08:34.000 --> 08:38.000
+And finally, the company's profit or share price can change.
+
+08:39.000 --> 08:45.000
+Here we can see that on one side of the scale there are the company's costs for the tactical actions,
+
+08:46.000 --> 08:48.000
+the conditioned strategies,
+
+08:49.000 --> 08:55.000
+and on the other side there is the result expressed in the aspects related to the finances,
+
+08:56.000 --> 08:58.000
+the market and the consumers.
+
+08:59.000 --> 09:03.000
+If we compare what we have invested and what we have received,
+
+09:03.000 --> 09:09.000
+we can evaluate how effective our marketing activity is.
+
+09:10.000 --> 09:13.000
+Any company has an idea of the size of its marketing budget.
+
+09:14.000 --> 09:22.000
+But how can we evaluate the results related to the consumers, the market and the financial indicators?
+
+09:23.000 --> 09:31.000
+In order to quantify the aspects related to the consumers, the market and the financial indicators of the company's activities,
+
+09:31.000 --> 09:34.000
+there are so-called marketing metrics.
+
+09:35.000 --> 09:37.000
+What are marketing metrics?
+
+09:38.000 --> 09:42.000
+Metrics are a system of quantitative indicators that can be used in any discipline.
+
+09:43.000 --> 09:46.000
+Marketing also has its own set of metrics.
+
+09:47.000 --> 09:52.000
+It is the marketing metrics that allow us to quantify the aspects related to the consumers,
+
+09:53.000 --> 09:56.000
+the market and the financial indicators of the company's activities.
+
+09:56.000 --> 10:01.000
+If we could not quantify the results of our marketing activities,
+
+10:02.000 --> 10:05.000
+we would not be able to draw a conclusion about the effectiveness of our marketing.
+
+10:06.000 --> 10:07.000
+Pay attention to the slide.
+
+10:08.000 --> 10:11.000
+Here you can see the classification of marketing metrics.
+
+10:12.000 --> 10:17.000
+All marketing metrics can be divided into several groups.
+
+10:18.000 --> 10:21.000
+In the center you can see the most important marketing metrics,
+
+10:22.000 --> 10:25.000
+those related to the market and our consumers.
+
+10:26.000 --> 10:30.000
+In addition, each marketing activity has its own metrics.
+
+10:31.000 --> 10:33.000
+Sales management has its own metrics.
+
+10:34.000 --> 10:37.000
+Advertising management also has its own marketing metrics.
+
+10:38.000 --> 10:44.000
+Today we will look at all these quantitative indicators in order to learn how to calculate them.
+
+10:45.000 --> 10:48.000
+Let's start with the metrics related to the market.
+
+10:49.000 --> 10:55.000
+The first and probably the most frequently used metric, which is known to almost everyone, is the market share.
+
+10:56.000 --> 11:00.000
+It would seem that it is not difficult to measure the share of the company's market.
+
+11:01.000 --> 11:04.000
+You just need to evaluate the volume of our product sales
+
+11:05.000 --> 11:09.000
+by the volume of our product sales plus the volume of the competitors' products.
+
+11:10.000 --> 11:11.000
+But there are some tricky things.
+
+11:12.000 --> 11:17.000
+First, we need to understand what we mean by the market in this case.
+
+11:18.000 --> 11:22.000
+Where are the boundaries of the total volume of product sales?
+
+11:22.000 --> 11:28.000
+What do we mean by the products and who should we consider as competitors?
+
+11:29.000 --> 11:32.000
+How to correctly define the boundaries of the market?
+
+11:33.000 --> 11:34.000
+Pay attention to the slide.
+
+11:35.000 --> 11:38.000
+Here is an example of a certain market.
+
+11:39.000 --> 11:40.000
+The key words are as follows.
+
+11:41.000 --> 11:42.000
+The market is a sports shoe.
+
+11:43.000 --> 11:46.000
+We are talking about the product we are considering.
+
+11:47.000 --> 11:51.000
+We are not just considering the whole shoe, but the sports shoe.
+
+11:52.000 --> 11:54.000
+The shoes for children from 2 to 16 years old.
+
+11:55.000 --> 11:58.000
+We limit our market to children's shoes.
+
+11:59.000 --> 12:03.000
+The next important aspect is the shoes for middle and high income buyers.
+
+12:04.000 --> 12:07.000
+Again, we define the boundaries of our market
+
+12:08.000 --> 12:11.000
+to better define who are our competitors.
+
+12:12.000 --> 12:14.000
+The next factor is geographical.
+
+12:15.000 --> 12:18.000
+We define the region of interest to the market.
+
+12:19.000 --> 12:23.000
+It is impossible to define the market share by defining the region.
+
+12:24.000 --> 12:26.000
+Having defined the boundaries of the market,
+
+12:27.000 --> 12:30.000
+we need to decide how to measure the market share.
+
+12:31.000 --> 12:35.000
+We can measure the market share from the point of view of the volume of sales in the monetary expression.
+
+12:36.000 --> 12:41.000
+We can also measure the market share from the point of view of the volume of sales in the natural expression,
+
+12:42.000 --> 12:43.000
+that is, in the units of the product.
+
+12:44.000 --> 12:45.000
+Which option to choose?
+
+12:46.000 --> 12:47.000
+What is better?
+
+12:48.000 --> 12:51.000
+Is it better to evaluate the market share in terms of the monetary units
+
+12:52.000 --> 12:54.000
+than in the natural expression or vice versa?
+
+12:55.000 --> 12:57.000
+In different situations, we need different assessments.
+
+12:58.000 --> 13:00.000
+What are the advantages and disadvantages?
+
+13:01.000 --> 13:02.000
+Let's consider.
+
+13:03.000 --> 13:06.000
+If we consider the market share, taking into account the volume of sales in the monetary expression,
+
+13:07.000 --> 13:11.000
+then the change in the market share can be caused by, for example,
+
+13:12.000 --> 13:14.000
+such a factor as the change in the price of the product.
+
+13:14.000 --> 13:20.000
+Here we cannot understand how the number of transactions with our products or with the products of competitors has changed.
+
+13:21.000 --> 13:24.000
+Using the market share calculated from the volume of sales in the natural expression,
+
+13:25.000 --> 13:32.000
+we can clearly understand that here we have taken into account only specific transactions and specific purchased goods.
+
+13:33.000 --> 13:37.000
+Here, the price increase or, on the contrary, the price decrease does not play any role.
+
+13:38.000 --> 13:39.000
+Now the next metric.
+
+13:40.000 --> 13:41.000
+The relative market share.
+
+13:41.000 --> 13:45.000
+What is the difference between the relative market share and the relative market share?
+
+13:46.000 --> 13:48.000
+When we consider the relative market share,
+
+13:49.000 --> 13:52.000
+we consider the volume of sales of not all the goods on our market,
+
+13:53.000 --> 13:57.000
+but only the volume of sales of our main competitor, if there is such a thing.
+
+13:58.000 --> 14:00.000
+Knowing the relative market share, we can understand
+
+14:01.000 --> 14:04.000
+how effective our activity is compared to the activity of our competitor.
+
+14:05.000 --> 14:08.000
+Accordingly, if the relative market share is more than 100%,
+
+14:08.000 --> 14:14.000
+it means that our volume of sales exceeds the volume of sales of the competitor.
+
+14:15.000 --> 14:20.000
+If it is less than 100%, then we lag behind and it is necessary to take any action.
+
+14:21.000 --> 14:22.000
+Pay attention to the next slide.
+
+14:23.000 --> 14:28.000
+Here you see the matrix of the Boston Consulting Group.
+
+14:29.000 --> 14:34.000
+Here all the goods of the company are divided into some categories.
+
+14:34.000 --> 14:40.000
+As you can see, they are divided according to the criteria of the market potential and the relative market share.
+
+14:41.000 --> 14:44.000
+These are the indicators that we have just considered.
+
+14:45.000 --> 14:49.000
+The next metric that needs to be studied is the market concentration index.
+
+14:50.000 --> 14:53.000
+Different markets have different concentrations.
+
+14:54.000 --> 14:56.000
+In some markets there are many small players,
+
+14:57.000 --> 14:59.000
+in other markets there are large companies.
+
+14:59.000 --> 15:05.000
+For each company it is necessary to understand the market it operates in,
+
+15:06.000 --> 15:07.000
+what is the concentration on it.
+
+15:08.000 --> 15:10.000
+To calculate the concentration index,
+
+15:11.000 --> 15:15.000
+we need to add up the market share of several players.
+
+15:16.000 --> 15:17.000
+Usually, it is 3 or 4 companies.
+
+15:18.000 --> 15:21.000
+These are companies with the largest market share.
+
+15:30.000 --> 15:33.000
+Now let's discuss the answer.
+
+15:34.000 --> 15:38.000
+In our task, the concentration index of the market is 55%.
+
+15:39.000 --> 15:41.000
+This is not a very high indicator, but not very low.
+
+15:42.000 --> 15:45.000
+This means that there are several fairly serious players in the market,
+
+15:46.000 --> 15:48.000
+and the company must take this into account in its activities.
+
+15:49.000 --> 15:54.000
+The next metric related to the market is the brand development index.
+
+15:55.000 --> 15:57.000
+How do we calculate the brand development index?
+
+15:57.000 --> 16:02.000
+We take the sales volume of our brand to the consumers of a certain group.
+
+16:03.000 --> 16:08.000
+For example, we choose a group of consumers, state institutions,
+
+16:09.000 --> 16:14.000
+and calculate the brand development index in this category of consumers, in this segment.
+
+16:15.000 --> 16:20.000
+To do this, we divide the sales volume of our goods to this group of buyers
+
+16:21.000 --> 16:24.000
+into the total sales volume of our brand.
+
+16:24.000 --> 16:28.000
+What does the brand development index tell us about a certain segment of buyers?
+
+16:29.000 --> 16:33.000
+By comparing the brand development index in different segments of buyers,
+
+16:34.000 --> 16:38.000
+we can understand which of these segments is stronger or weaker.
+
+16:39.000 --> 16:40.000
+What does it mean?
+
+16:41.000 --> 16:45.000
+Which segment consumes our goods or services to a greater extent, and which to a lesser extent?
+
+16:55.000 --> 16:59.000
+The correct answer to this problem is the brand development index
+
+17:00.000 --> 17:04.000
+in the state institution segment is 1.32.
+
+17:05.000 --> 17:06.000
+What does this mean?
+
+17:07.000 --> 17:14.000
+If we assume that the average segment among all the segments of our consumers
+
+17:15.000 --> 17:17.000
+has a development index of 1,
+
+17:18.000 --> 17:24.000
+then this segment of the state institution consumes our goods more actively.
+
+17:25.000 --> 17:27.000
+This is one of the main segments.
+
+17:28.000 --> 17:34.000
+If a company has a segment of consumers with the highest brand development index,
+
+17:35.000 --> 17:38.000
+it means that these are the main consumers of the company,
+
+17:39.000 --> 17:41.000
+and they should be given maximum attention.
+
+17:42.000 --> 17:47.000
+In some cases, knowing the brand development index in different segments,
+
+17:48.000 --> 17:49.000
+companies become niche.
+
+17:50.000 --> 17:54.000
+They switch all their efforts to this particular segment and work only with this segment.
+
+17:55.000 --> 17:57.000
+All other segments are secondary for them.
+
+17:58.000 --> 18:00.000
+This is one of the possible strategies of a company.
+
+18:01.000 --> 18:03.000
+The next metric is related to the market.
+
+18:04.000 --> 18:06.000
+It is the coefficient of the brand penetration into the market.
+
+18:07.000 --> 18:09.000
+This metric is calculated as follows.
+
+18:09.000 --> 18:13.000
+We take the number of buyers who buy our goods
+
+18:14.000 --> 18:17.000
+and divide it by the total number of potential buyers in the market.
+
+18:18.000 --> 18:23.000
+Thus, we can understand how actively our goods are used.
+
+18:34.000 --> 18:36.000
+The correct answer to this problem is
+
+18:36.000 --> 18:41.000
+that the coefficient of the brand penetration into the market is 2.5%.
+
+18:42.000 --> 18:43.000
+This is a small number.
+
+18:44.000 --> 18:49.000
+It means that only 2.5% of potential buyers buy our goods.
+
+18:50.000 --> 18:57.000
+In this case, a company should either increase the awareness of its buyers,
+
+18:58.000 --> 19:00.000
+or change their attitude to our goods,
+
+19:01.000 --> 19:03.000
+that is, to cover more and more buyers.
+
+19:03.000 --> 19:08.000
+There are cases when the coefficient of the brand penetration into the market is very high,
+
+19:09.000 --> 19:10.000
+and it is close to 100%.
+
+19:11.000 --> 19:14.000
+What should a company do in this situation to increase the volume of sales?
+
+19:15.000 --> 19:18.000
+In this case, there is no one else to attract.
+
+19:19.000 --> 19:22.000
+All buyers or almost everyone buys our goods.
+
+19:23.000 --> 19:25.000
+In this case, a company should choose another strategy.
+
+19:26.000 --> 19:29.000
+It is possible to encourage buyers to buy our goods more often
+
+19:30.000 --> 19:32.000
+or to buy our goods in a larger volume.
+
+19:33.000 --> 19:39.000
+Thus, we see that a company needs to know the coefficient of the brand penetration into the market
+
+19:40.000 --> 19:41.000
+or a certain product into the market
+
+19:42.000 --> 19:46.000
+to understand what actions to take to improve the performance of its activities.
+
+19:47.000 --> 19:53.000
+The next metric related to the market is called a share of the wallet.
+
+19:54.000 --> 19:55.000
+What does it mean?
+
+19:56.000 --> 20:01.000
+Imagine a buyer who goes to the store every day and buys goods of a certain category.
+
+20:01.000 --> 20:03.000
+Let's choose a certain product category.
+
+20:04.000 --> 20:05.000
+Let's say it's dairy products.
+
+20:06.000 --> 20:09.000
+Our buyer buys dairy products of various brands.
+
+20:10.000 --> 20:17.000
+If we take all the total costs of the buyer for dairy products in the denominator,
+
+20:18.000 --> 20:22.000
+and there will be costs for dairy products of our brand,
+
+20:22.000 --> 20:34.000
+we will calculate the cost of all the brands of this buyer.
+
+20:45.000 --> 20:50.000
+If the share of the wallet is high, the buyer buys goods of our brand only.
+
+20:50.000 --> 20:53.000
+Maybe he rarely buys goods of other brands.
+
+20:54.000 --> 20:56.000
+I mean goods of a certain category.
+
+20:57.000 --> 20:59.000
+In this case, what can we do?
+
+21:00.000 --> 21:04.000
+We can only encourage him to buy goods in a larger volume.
+
+21:05.000 --> 21:07.000
+We have no reason to lure this buyer to competitors,
+
+21:08.000 --> 21:10.000
+because he does not buy goods of competitors.
+
+21:11.000 --> 21:13.000
+If the share of the wallet is not high,
+
+21:14.000 --> 21:17.000
+it means that the buyer buys both our goods of this category
+
+21:17.000 --> 21:19.000
+and goods of competitors.
+
+21:20.000 --> 21:24.000
+In this case, our primary task is to switch the buyer
+
+21:25.000 --> 21:29.000
+from buying goods of competitors to buying goods of our brand.
+
+21:30.000 --> 21:34.000
+We see that depending on the value of the share of the wallet,
+
+21:35.000 --> 21:38.000
+we can take various actions to improve the performance of our activity.
+
+21:39.000 --> 21:42.000
+Now, having considered the main metrics related to the market,
+
+21:43.000 --> 21:45.000
+we move on to metrics related to consumers.
+
+21:45.000 --> 21:49.000
+On the slide, you can see the so-called hierarchy of effects.
+
+21:50.000 --> 21:54.000
+The chain of awareness, attitude, behavior.
+
+21:55.000 --> 22:00.000
+This is a chain that the buyer needs to go through to make a purchase.
+
+22:01.000 --> 22:03.000
+Why do we need to consider this chain?
+
+22:04.000 --> 22:06.000
+It would seem that if we are interested in a deal,
+
+22:07.000 --> 22:08.000
+if we are interested in buying goods,
+
+22:09.000 --> 22:11.000
+why do we need to consider awareness and attitude?
+
+22:12.000 --> 22:14.000
+There are very serious arguments here.
+
+22:15.000 --> 22:19.000
+If a situation arises when the volume of sales is not high or not high enough,
+
+22:20.000 --> 22:22.000
+because any company's sales volume is not always high enough,
+
+22:23.000 --> 22:24.000
+and you always want more,
+
+22:25.000 --> 22:30.000
+then you need to understand the reason why the buyer refuses to buy our goods.
+
+22:31.000 --> 22:32.000
+The reasons can be different.
+
+22:33.000 --> 22:38.000
+These reasons can be identified by analyzing the behavior of the buyer at different stages.
+
+22:39.000 --> 22:42.000
+Let's say, the buyer may not buy our goods,
+
+22:42.000 --> 22:46.000
+because he does not know about the existence of our brand.
+
+22:47.000 --> 22:49.000
+That is, awareness of our product is low.
+
+22:50.000 --> 22:52.000
+Here we need to take certain actions,
+
+22:53.000 --> 22:55.000
+for example, increase our advertising budget.
+
+22:56.000 --> 22:59.000
+There are situations when the buyer refuses to buy for other reasons.
+
+23:00.000 --> 23:01.000
+When the awareness is high,
+
+23:02.000 --> 23:05.000
+but the attitude of the buyer to the product is not good enough,
+
+23:06.000 --> 23:08.000
+and therefore the buyer refuses to buy.
+
+23:09.000 --> 23:11.000
+Knowing that the problem is in the attitude,
+
+23:12.000 --> 23:14.000
+we will adopt completely different strategies
+
+23:15.000 --> 23:17.000
+than in the case when we know that the problem is in awareness.
+
+23:18.000 --> 23:22.000
+If we talk about measuring awareness,
+
+23:23.000 --> 23:25.000
+we need to understand that this is a metric,
+
+23:26.000 --> 23:29.000
+which means that we measure awareness quantitatively.
+
+23:30.000 --> 23:32.000
+How to measure awareness quantitatively?
+
+23:33.000 --> 23:36.000
+First of all, you need to identify several types of awareness.
+
+23:36.000 --> 23:38.000
+Spontaneous awareness means that
+
+23:39.000 --> 23:43.000
+when the question is asked about the goods of a certain category,
+
+23:44.000 --> 23:48.000
+the buyer without a hint calls our brand or the name of our company.
+
+23:49.000 --> 23:51.000
+And the next type of awareness is allocated,
+
+23:52.000 --> 23:54.000
+the so-called Top of Mind indicator.
+
+23:55.000 --> 23:56.000
+What does it mean?
+
+23:57.000 --> 24:00.000
+This indicator can be translated as the first in the list,
+
+24:01.000 --> 24:02.000
+or what comes to mind first.
+
+24:03.000 --> 24:05.000
+Here the survey is conducted as follows.
+
+24:06.000 --> 24:07.000
+When the question is asked,
+
+24:08.000 --> 24:11.000
+what brands of goods of a certain category do you know?
+
+24:12.000 --> 24:15.000
+And the brand that he calls first,
+
+24:16.000 --> 24:18.000
+or the brand that he calls first,
+
+24:19.000 --> 24:20.000
+is called Top of Mind.
+
+24:21.000 --> 24:23.000
+This indicator reflects the percentage of buyers
+
+24:24.000 --> 24:27.000
+who named our brand or the name of our company
+
+24:28.000 --> 24:32.000
+as the first in the list of brands or goods of a certain category.
+
+24:33.000 --> 24:35.000
+How to measure the quantitatively?
+
+24:36.000 --> 24:41.000
+This is the percentage of buyers who named our brand or the name of our company
+
+24:42.000 --> 24:44.000
+without a hint.
+
+24:45.000 --> 24:46.000
+Not necessarily the first in the list.
+
+24:47.000 --> 24:50.000
+And how to measure the quantitatively?
+
+24:51.000 --> 24:56.000
+In this case, when the buyer receives a list of companies
+
+24:57.000 --> 25:00.000
+and marks the brands that he knows,
+
+25:00.000 --> 25:05.000
+we record the percentage of buyers who know our product
+
+25:06.000 --> 25:10.000
+based on the list they have.
+
+25:11.000 --> 25:12.000
+Next.
+
+25:13.000 --> 25:15.000
+The most difficult thing is to measure the quantitatively.
+
+25:16.000 --> 25:17.000
+It would seem paradoxical.
+
+25:18.000 --> 25:19.000
+How to measure the quantitatively?
+
+25:20.000 --> 25:23.000
+Here, the marketers have found a solution.
+
+25:24.000 --> 25:26.000
+Of course, the quantitatively is measured
+
+25:26.000 --> 25:30.000
+by conducting a marketing survey of the buyers.
+
+25:31.000 --> 25:35.000
+To measure the quantitatively, it is not enough to measure it in general.
+
+25:36.000 --> 25:40.000
+Because there is no clear understanding of what the quantitatively is.
+
+25:41.000 --> 25:43.000
+One buyer will say that he has a good relationship,
+
+25:44.000 --> 25:45.000
+another will say that it is not good enough.
+
+25:46.000 --> 25:47.000
+But this information will not give us anything.
+
+25:48.000 --> 25:50.000
+We will not be able to understand the essence of the relationship
+
+25:51.000 --> 25:53.000
+between our buyer and our brand or our product.
+
+25:53.000 --> 25:57.000
+Therefore, the marketers have divided the concept of the relationship
+
+25:58.000 --> 25:59.000
+into several characteristics.
+
+26:00.000 --> 26:01.000
+The first is the image.
+
+26:02.000 --> 26:05.000
+How to measure the quantitatively?
+
+26:06.000 --> 26:10.000
+In the survey, the buyers are offered to evaluate a number of statements on a scale.
+
+26:11.000 --> 26:14.000
+Usually, this scale is 5 or 7.
+
+26:15.000 --> 26:19.000
+1 means that the buyer does not agree with the statement at all.
+
+26:20.000 --> 26:24.000
+5 or 7 means that the buyer absolutely agrees with the statement.
+
+26:25.000 --> 26:27.000
+What statements can be given about the image?
+
+26:28.000 --> 26:30.000
+For example, the statement is given.
+
+26:31.000 --> 26:36.000
+I believe that the image of this brand corresponds to my way of life.
+
+26:37.000 --> 26:41.000
+Or, for example, I believe that the image of this brand suggests
+
+26:42.000 --> 26:46.000
+that these products are purchased by people of mature age.
+
+26:46.000 --> 26:49.000
+And the buyer evaluates whether he agrees with this or not.
+
+26:50.000 --> 26:54.000
+And having quantitative assessments of the agreement or disagreement
+
+26:55.000 --> 26:57.000
+with this statement of potential buyers,
+
+26:58.000 --> 27:02.000
+we can draw a conclusion about what, in the opinion of consumers,
+
+27:03.000 --> 27:04.000
+the image of our product is.
+
+27:05.000 --> 27:09.000
+The next aspect of the relationship is the price-quality ratio.
+
+27:10.000 --> 27:13.000
+Companies and consumers may have completely different opinions
+
+27:13.000 --> 27:15.000
+about the price-quality ratio.
+
+27:16.000 --> 27:19.000
+Almost all companies believe that they have adequate prices
+
+27:20.000 --> 27:21.000
+and very high quality.
+
+27:22.000 --> 27:25.000
+But the buyers may disagree with this for various reasons.
+
+27:26.000 --> 27:28.000
+Because they do not know enough about the quality of the goods.
+
+27:29.000 --> 27:30.000
+Because they have a biased opinion.
+
+27:31.000 --> 27:33.000
+Or, in general, the attitude to the product does not allow them
+
+27:34.000 --> 27:36.000
+to say that the product has high quality.
+
+27:37.000 --> 27:41.000
+That is, some external factors affect their opinion.
+
+27:42.000 --> 27:46.000
+Nevertheless, we need to evaluate how the buyers perceive
+
+27:47.000 --> 27:48.000
+the price-quality ratio.
+
+27:49.000 --> 27:50.000
+And this perception is always subjective.
+
+27:51.000 --> 27:52.000
+How to do this?
+
+27:53.000 --> 27:54.000
+How to get quantitative assessments?
+
+27:55.000 --> 27:57.000
+In this case, again, there are surveys of potential buyers.
+
+27:58.000 --> 28:01.000
+They are offered the same 5 or 7-point scale
+
+28:02.000 --> 28:04.000
+from completely disagreeable to completely agreeable.
+
+28:05.000 --> 28:07.000
+But here such statements are offered.
+
+28:08.000 --> 28:11.000
+One of the most common statements used in this case
+
+28:12.000 --> 28:16.000
+is that the goods of a given brand have an adequate price-quality ratio.
+
+28:17.000 --> 28:21.000
+And here our buyer will either agree with this or disagree.
+
+28:22.000 --> 28:27.000
+Another option is to say that the goods of a given brand
+
+28:28.000 --> 28:32.000
+have a higher quality than the corresponding price.
+
+28:32.000 --> 28:39.000
+The next aspect of the quantitative attitude is the perceived quality.
+
+28:40.000 --> 28:45.000
+Here, too, the buyer is offered a scale from completely low quality
+
+28:46.000 --> 28:47.000
+to extremely high quality.
+
+28:48.000 --> 28:51.000
+And we get quantitative assessments of the perceived quality of our product.
+
+28:52.000 --> 28:55.000
+Many companies are surprised when they find out
+
+28:56.000 --> 28:57.000
+that the perceived quality of their goods or services
+
+28:57.000 --> 29:02.000
+is significantly different from the perceived quality of their products.
+
+29:03.000 --> 29:06.000
+Often, the buyer does not have enough information about the quality.
+
+29:07.000 --> 29:10.000
+Therefore, it is important to measure the perceived quality,
+
+29:11.000 --> 29:13.000
+not the real one, whatever it is.
+
+29:14.000 --> 29:16.000
+The next indicator that is measured
+
+29:17.000 --> 29:20.000
+during the study of the buyer's attitude to goods or brands
+
+29:21.000 --> 29:22.000
+is the intention.
+
+29:23.000 --> 29:25.000
+Here, the most various intentions are studied,
+
+29:25.000 --> 29:28.000
+that is, the characteristics of the behavior of the buyer.
+
+29:29.000 --> 29:33.000
+And also, a scale is used from completely disagreeable to completely agreeable
+
+29:34.000 --> 29:36.000
+to assess various statements.
+
+29:37.000 --> 29:39.000
+Here, the statements are associated with the actions
+
+29:40.000 --> 29:44.000
+that the buyer intends or does not intend to make.
+
+29:45.000 --> 29:47.000
+These can be completely different statements.
+
+29:48.000 --> 29:52.000
+For example, I plan to refuse to purchase a product of your brand.
+
+29:52.000 --> 29:55.000
+Here, the buyer assesses whether he agrees with this statement,
+
+29:56.000 --> 29:59.000
+that he plans to refuse or does not agree, that he does not plan to.
+
+30:00.000 --> 30:02.000
+There can be more complex statements.
+
+30:03.000 --> 30:07.000
+For example, if I find that there is no product available in the store
+
+30:08.000 --> 30:10.000
+of the research brand,
+
+30:11.000 --> 30:13.000
+then I will not purchase a product of the competing brand.
+
+30:14.000 --> 30:17.000
+Accordingly, the buyer notes whether he agrees with this statement or not.
+
+30:17.000 --> 30:21.000
+Here, the most various intentions of the buyer can be studied,
+
+30:22.000 --> 30:24.000
+depending on what interests us at the moment,
+
+30:25.000 --> 30:28.000
+or what aspects of our activity are relevant at the moment.
+
+30:29.000 --> 30:30.000
+And the last aspect,
+
+30:31.000 --> 30:33.000
+related to the buyer's attitude to goods,
+
+30:34.000 --> 30:35.000
+is the intention to buy.
+
+30:36.000 --> 30:37.000
+Here, a simple scale is used,
+
+30:38.000 --> 30:43.000
+from absolutely agreeable to completely agreeable.
+
+30:44.000 --> 30:46.000
+And, accordingly, the intermediate values.
+
+30:47.000 --> 30:49.000
+Here, we can find out what percentage of buyers
+
+30:50.000 --> 30:52.000
+may or may not buy our product.
+
+30:53.000 --> 30:55.000
+Then we will talk about the intention to buy,
+
+30:56.000 --> 30:59.000
+and see how this metric can be used to assess the potential volume of sales.
+
+31:00.000 --> 31:02.000
+The next metric, related to the consumer,
+
+31:03.000 --> 31:05.000
+is the consumer satisfaction.
+
+31:06.000 --> 31:09.000
+The consumer satisfaction can also be estimated quantitatively.
+
+31:10.000 --> 31:11.000
+In the slide, you can see an example
+
+31:12.000 --> 31:16.000
+of how the consumer satisfaction was estimated quantitatively during the study.
+
+31:17.000 --> 31:19.000
+What conclusions can we draw from this assessment?
+
+31:20.000 --> 31:24.000
+Here, you can see that 50% of consumers are satisfied with goods or services
+
+31:25.000 --> 31:27.000
+studied in this case.
+
+31:28.000 --> 31:31.000
+But we see that the extremely satisfied buyers are twice as few.
+
+31:32.000 --> 31:35.000
+Well, and extremely unsatisfied are very few.
+
+31:36.000 --> 31:38.000
+Accordingly, knowing the ratio of the group of buyers
+
+31:39.000 --> 31:41.000
+with high satisfaction or low,
+
+31:42.000 --> 31:44.000
+we can draw the appropriate conclusions about our further actions.
+
+31:44.000 --> 31:48.000
+It rarely happens, or rather, it never happens,
+
+31:49.000 --> 31:52.000
+that all buyers are extremely satisfied with goods or services.
+
+31:53.000 --> 31:55.000
+But the satisfaction of the buyer can be managed.
+
+31:56.000 --> 31:57.000
+How?
+
+31:58.000 --> 32:00.000
+First of all, by managing expectations.
+
+32:01.000 --> 32:04.000
+If a company creates high expectations about its goods or services,
+
+32:05.000 --> 32:11.000
+then the buyers are not very pleased with their real performance of goods or services.
+
+32:11.000 --> 32:15.000
+It turns out that we are to blame for the reduction of satisfaction.
+
+32:16.000 --> 32:19.000
+If we do not increase the expectations of the buyers,
+
+32:20.000 --> 32:24.000
+it may turn out that the buyers will say that they are more satisfied
+
+32:25.000 --> 32:29.000
+with what they received, because they did not expect such a high level of service.
+
+32:30.000 --> 32:34.000
+For example, they did not expect that the goods would be of such high quality.
+
+32:35.000 --> 32:40.000
+The next metric used to study consumers is the desire to recommend.
+
+32:41.000 --> 32:42.000
+It is quite simple.
+
+32:43.000 --> 32:45.000
+During the survey of buyers, we determine
+
+32:46.000 --> 32:51.000
+what percentage of buyers are ready to recommend our goods to the representatives of their reference group,
+
+32:52.000 --> 32:53.000
+for example, to their friends or acquaintances.
+
+32:54.000 --> 32:57.000
+The next metric is more complex — the desire to search.
+
+32:58.000 --> 33:03.000
+It means that there are buyers who will not purchase the goods of the competitor
+
+33:04.000 --> 33:05.000
+without discovering that our goods are available.
+
+33:06.000 --> 33:08.000
+In this case, we will call them the ones who want to search.
+
+33:08.000 --> 33:12.000
+Having determined the percentage of buyers who want to search for our goods,
+
+33:13.000 --> 33:15.000
+regardless of whether they are in the store or not,
+
+33:16.000 --> 33:17.000
+and will not buy the goods of another brand,
+
+33:18.000 --> 33:22.000
+this percentage is called the desire to search.
+
+33:23.000 --> 33:27.000
+The next metric related to buyers is the coefficient of retention of consumers.
+
+33:28.000 --> 33:29.000
+This is not such a simple coefficient.
+
+33:30.000 --> 33:35.000
+To calculate it, we need to know how many consumers we were able to retain,
+
+33:35.000 --> 33:40.000
+that is, to keep them as customers among those we could lose.
+
+33:41.000 --> 33:46.000
+It is not so easy to determine how many buyers we could lose during a certain period.
+
+33:47.000 --> 33:49.000
+If we use the contract system of relations,
+
+33:50.000 --> 33:56.000
+we can assume that if a contract with our company is signed with a buyer at the moment,
+
+33:57.000 --> 33:58.000
+and it does not expire in the near future,
+
+33:59.000 --> 34:02.000
+that is, it expires beyond the limits of the period we are considering,
+
+34:02.000 --> 34:07.000
+we can say that this buyer is not at risk of loss.
+
+34:08.000 --> 34:10.000
+We do not consider him as the one we could lose,
+
+34:11.000 --> 34:14.000
+and do not take into account the coefficient of retention of buyers.
+
+34:15.000 --> 34:20.000
+We take into account only those who we could lose, but did not lose.
+
+34:21.000 --> 34:24.000
+The next metric is the profitability of consumers.
+
+34:25.000 --> 34:29.000
+It is not a secret that different buyers bring different levels of profit to the company.
+
+34:29.000 --> 34:33.000
+Some of them buy very little or buy only at low prices,
+
+34:34.000 --> 34:38.000
+others buy a large number of goods and buy at high prices.
+
+34:39.000 --> 34:46.000
+To know how to distribute the efforts to serve and establish a relationship with different consumers,
+
+34:47.000 --> 34:50.000
+the company needs to understand the profitability of a particular buyer.
+
+34:51.000 --> 34:54.000
+In addition, we consider the so-called consumer value.
+
+34:54.000 --> 34:59.000
+The consumer value is the entire flow of money that we will receive from him
+
+35:00.000 --> 35:03.000
+during the entire period of interaction with this buyer.
+
+35:04.000 --> 35:06.000
+This period can be several decades.
+
+35:07.000 --> 35:13.000
+Therefore, if the company at some point wants to take actions that may lead to the loss of a client,
+
+35:14.000 --> 35:22.000
+for example, not to agree to a price reduction or to refuse to provide special conditions for a certain client,
+
+35:22.000 --> 35:28.000
+the company should remember that there are many years of possible profitable relationships ahead.
+
+35:29.000 --> 35:32.000
+In order not to lose this long-term focus,
+
+35:33.000 --> 35:36.000
+each company should assess the value of the relationship with each client.
+
+35:37.000 --> 35:43.000
+Finally, the next metrics related to the buyer are the cost of retention and the cost of attracting buyers.
+
+35:44.000 --> 35:50.000
+There is nothing complicated here, we just assess what costs we need to bear
+
+35:50.000 --> 35:57.000
+in order to attract one buyer and what costs are necessary to retain one buyer.
+
+35:58.000 --> 36:03.000
+It is no secret that retaining a buyer is much cheaper than attracting a new one.
+
+36:04.000 --> 36:06.000
+Sometimes the difference in these costs reaches tens of times.
+
+36:07.000 --> 36:14.000
+Nevertheless, most often companies try to attract new clients,
+
+36:14.000 --> 36:16.000
+while spending large amounts of money.
+
+36:17.000 --> 36:21.000
+They pay less attention to their old clients,
+
+36:22.000 --> 36:25.000
+and they can refuse to provide services or goods to the company,
+
+36:26.000 --> 36:28.000
+leaving the competition, and many companies do not even notice this,
+
+36:29.000 --> 36:32.000
+considering that they do not need old clients, they need to attract as many new ones as possible.
+
+36:33.000 --> 36:39.000
+In order for the company not to forget what the costs are for these two types of activities,
+
+36:40.000 --> 36:43.000
+for retention and for attraction, it is necessary to calculate them.
+
+36:44.000 --> 36:47.000
+We have discussed the main metrics related to the market and buyers.
+
+36:48.000 --> 36:51.000
+Now we will discuss the questions related to the profit.
+
+36:52.000 --> 36:55.000
+Why are we discussing this question now?
+
+36:56.000 --> 37:00.000
+The fact is that the knowledge of profit, retention and margin
+
+37:01.000 --> 37:04.000
+will help us to calculate the next, more complex marketing metrics,
+
+37:05.000 --> 37:07.000
+which we will discuss later.
+
+37:08.000 --> 37:12.000
+So, here our main concepts are margin and retention.
+
+37:12.000 --> 37:13.000
+What is the difference?
+
+37:14.000 --> 37:19.000
+Margin can be calculated in rubles or other monetary units, as well as in percents.
+
+37:20.000 --> 37:23.000
+In rubles, the margin is the difference between the price of a product,
+
+37:24.000 --> 37:26.000
+that is, the price per unit of a product, and the cost of the product.
+
+37:27.000 --> 37:31.000
+Usually, these are full costs, that is, variable costs plus constant costs.
+
+37:32.000 --> 37:33.000
+The margin can be considered in percents,
+
+37:34.000 --> 37:38.000
+as the ratio of the margin in monetary units, for example, in rubles,
+
+37:39.000 --> 37:41.000
+to the price per unit of the product.
+
+37:42.000 --> 37:46.000
+Here it is necessary to distinguish the concept of margin and retention.
+
+37:47.000 --> 37:49.000
+If we say that the margin is measured in percents,
+
+37:50.000 --> 37:51.000
+the retention is also in percents,
+
+37:52.000 --> 37:54.000
+we cannot say that it is the same thing, it is not the same thing at all.
+
+37:55.000 --> 37:56.000
+What is the difference?
+
+37:57.000 --> 37:59.000
+The margin is the percentage of the price of a product,
+
+38:00.000 --> 38:01.000
+that is, of the entire price value,
+
+38:02.000 --> 38:04.000
+and the retention is the percentage of the costs.
+
+38:05.000 --> 38:06.000
+To calculate the retention,
+
+38:07.000 --> 38:10.000
+we need to multiply the percentage of the retention by the costs.
+
+38:10.000 --> 38:11.000
+To calculate the margin,
+
+38:12.000 --> 38:15.000
+we need to multiply the percentage of the margin by the cost of the product,
+
+38:16.000 --> 38:17.000
+and this will result in different quantities.
+
+38:19.000 --> 38:21.000
+And finally, what is the retention?
+
+38:22.000 --> 38:26.000
+Retention is the difference between the price of a product and the variable costs.
+
+38:27.000 --> 38:30.000
+Knowing the retention, we can calculate the margin for the variable costs,
+
+38:31.000 --> 38:34.000
+as the ratio of the retention to the price per unit of the product.
+
+38:40.000 --> 38:42.000
+Now let's do the following task.
+
+38:43.000 --> 38:46.000
+In the workbook, you are offered to calculate the margin and retention
+
+38:47.000 --> 38:49.000
+using a certain example.
+
+38:50.000 --> 38:53.000
+Let's look at such a metric as marketing costs.
+
+38:54.000 --> 38:57.000
+Any company should understand what its marketing costs are
+
+38:58.000 --> 38:59.000
+and be sure to take them into account.
+
+39:00.000 --> 39:03.000
+But the knowledge of marketing costs in units of money
+
+39:04.000 --> 39:06.000
+does not always give the right answer.
+
+39:06.000 --> 39:09.000
+You can't compare the marketing costs of other companies,
+
+39:10.000 --> 39:12.000
+because they may depend on the scale of the activity.
+
+39:13.000 --> 39:16.000
+And for this, companies often calculate the marketing costs
+
+39:17.000 --> 39:19.000
+as a percentage of the sales volume.
+
+39:20.000 --> 39:23.000
+In many industries, there are some common standards
+
+39:24.000 --> 39:27.000
+about the average marketing costs of companies in this industry.
+
+39:28.000 --> 39:30.000
+And knowing this standard,
+
+39:31.000 --> 39:33.000
+you can calculate the marketing costs
+
+39:33.000 --> 39:35.000
+of companies in this industry.
+
+39:36.000 --> 39:38.000
+Knowing this average level,
+
+39:39.000 --> 39:42.000
+a company can compare its own indicator with the average
+
+39:43.000 --> 39:45.000
+and understand whether it spends more or less.
+
+39:46.000 --> 39:48.000
+And if it spends more, is it justified?
+
+39:49.000 --> 39:50.000
+And why does it do it?
+
+39:51.000 --> 39:54.000
+That is, to make a conscious decision to spend more on marketing than competitors.
+
+39:55.000 --> 39:57.000
+Now let's move on to the next important indicator.
+
+39:58.000 --> 39:59.000
+This is the target sales volume.
+
+40:00.000 --> 40:02.000
+What is the target sales volume? Why calculate it?
+
+40:03.000 --> 40:05.000
+What are the main goals for profit?
+
+40:06.000 --> 40:08.000
+And to achieve a certain profit,
+
+40:09.000 --> 40:11.000
+you need to understand the sales volume
+
+40:12.000 --> 40:14.000
+that a company needs to achieve this profit.
+
+40:15.000 --> 40:17.000
+That is, what is the minimum sales volume
+
+40:18.000 --> 40:20.000
+that we need to achieve to get the desired profit.
+
+40:21.000 --> 40:22.000
+Pay attention to the formula.
+
+40:23.000 --> 40:25.000
+Here we use the following quantities.
+
+40:26.000 --> 40:28.000
+Constant company costs, target profit and return.
+
+40:29.000 --> 40:31.000
+You remember that the return is the difference
+
+40:31.000 --> 40:33.000
+between the price of the product and the variable costs
+
+40:34.000 --> 40:35.000
+for the production of this product.
+
+40:36.000 --> 40:38.000
+Knowing these four quantities,
+
+40:39.000 --> 40:40.000
+a company can calculate
+
+40:41.000 --> 40:43.000
+what sales volume it needs to achieve
+
+40:44.000 --> 40:46.000
+to get the desired profit at this price level
+
+40:47.000 --> 40:49.000
+and at this level of costs.
+
+40:50.000 --> 40:52.000
+Complete the task in the workbook
+
+40:53.000 --> 40:55.000
+and calculate what sales volume a company needs to achieve
+
+40:56.000 --> 40:58.000
+to get the desired profit.
+
+41:01.000 --> 41:07.000
+How to calculate the sales volume?
+
+41:08.000 --> 41:11.000
+Now let's move on to the next block of metrics.
+
+41:12.000 --> 41:15.000
+These are metrics related to sales management.
+
+41:16.000 --> 41:18.000
+Let's divide the metrics related to sales management
+
+41:19.000 --> 41:20.000
+into two groups.
+
+41:21.000 --> 41:23.000
+Those metrics that are related to management
+
+41:24.000 --> 41:27.000
+of household staff, that is, sales managers.
+
+41:28.000 --> 41:29.000
+They can be called differently.
+
+41:29.000 --> 41:33.000
+They are people who deal with personal sales in the company.
+
+41:34.000 --> 41:38.000
+The second group of metrics is related to distribution channels.
+
+41:39.000 --> 41:43.000
+When we use not personal sales, but intermediaries.
+
+41:44.000 --> 41:47.000
+First, let's consider metrics related to personal sales,
+
+41:48.000 --> 41:49.000
+that is, management of household staff.
+
+41:50.000 --> 41:53.000
+You can see on the slide that there are at least four options
+
+41:54.000 --> 41:57.000
+for calculating the efficiency coefficient of household staff.
+
+41:58.000 --> 42:03.000
+It's a good idea to choose one of these options
+
+42:04.000 --> 42:05.000
+and use it in your work.
+
+42:06.000 --> 42:07.000
+Many companies do it.
+
+42:08.000 --> 42:11.000
+They choose a coefficient and use it
+
+42:12.000 --> 42:13.000
+to compare different employees
+
+42:14.000 --> 42:16.000
+to study the results of their work.
+
+42:17.000 --> 42:21.000
+To set rewards for certain employees
+
+42:22.000 --> 42:24.000
+or to set sales goals.
+
+42:25.000 --> 42:26.000
+But it's not that simple.
+
+42:27.000 --> 42:30.000
+Any company should use several efficiency coefficients
+
+42:31.000 --> 42:32.000
+of household staff.
+
+42:33.000 --> 42:37.000
+It helps to understand what the problems are
+
+42:38.000 --> 42:40.000
+if we don't reach the desired sales level.
+
+42:43.000 --> 42:45.000
+Let's consider this problem as an example.
+
+42:46.000 --> 42:48.000
+Solve the problem from a workbook
+
+42:49.000 --> 42:51.000
+that describes the activities of two managers
+
+42:51.000 --> 42:53.000
+of Vasily Stepan.
+
+42:54.000 --> 42:56.000
+Then we'll discuss the results
+
+42:57.000 --> 43:00.000
+and what recommendations you can give to the company
+
+43:01.000 --> 43:03.000
+when working with this staff.
+
+43:14.000 --> 43:16.000
+So, what conclusions can we draw?
+
+43:17.000 --> 43:19.000
+We can see that Vasily's sales manager
+
+43:19.000 --> 43:21.000
+has a rather low sales volume
+
+43:22.000 --> 43:23.000
+for the number of contacts.
+
+43:24.000 --> 43:25.000
+What does it mean?
+
+43:26.000 --> 43:28.000
+It means that this manager lacks
+
+43:29.000 --> 43:30.000
+the skills of personal sales
+
+43:31.000 --> 43:33.000
+and the skills of making deals.
+
+43:34.000 --> 43:36.000
+He makes a lot of efforts to sell the product,
+
+43:37.000 --> 43:38.000
+but it doesn't work out.
+
+43:39.000 --> 43:41.000
+So, we can make a decision
+
+43:42.000 --> 43:44.000
+to offer the manager additional training opportunities
+
+43:45.000 --> 43:47.000
+and send him to a personal sales training
+
+43:47.000 --> 43:51.000
+or offer other options to improve his skills.
+
+43:52.000 --> 43:54.000
+Now let's compare Vasily's results
+
+43:55.000 --> 43:56.000
+with Stepan's.
+
+43:57.000 --> 43:59.000
+We can see that Stepan's manager
+
+44:00.000 --> 44:02.000
+has a rather high sales volume for each contact.
+
+44:03.000 --> 44:06.000
+But his sales level is almost the same.
+
+44:07.000 --> 44:09.000
+What is Stepan's problem?
+
+44:10.000 --> 44:12.000
+Maybe he makes insufficient efforts
+
+44:13.000 --> 44:16.000
+to carry out his household activities.
+
+44:17.000 --> 44:19.000
+He simply doesn't spend much time on sales.
+
+44:20.000 --> 44:21.000
+What is the reason?
+
+44:22.000 --> 44:24.000
+We need to understand the reason
+
+44:25.000 --> 44:26.000
+of Stepan's behavior.
+
+44:27.000 --> 44:29.000
+In this case, personal sales training won't help him.
+
+44:30.000 --> 44:31.000
+He already knows how to make deals.
+
+44:32.000 --> 44:35.000
+He just doesn't actively contact the customer.
+
+44:36.000 --> 44:38.000
+What can we do here?
+
+44:39.000 --> 44:41.000
+What are the options?
+
+44:42.000 --> 44:44.000
+First of all, it's possible that Stepan
+
+44:44.000 --> 44:47.000
+doesn't have enough motivation to work actively.
+
+44:48.000 --> 44:50.000
+In this case, we need to think about his reward
+
+44:51.000 --> 44:54.000
+and maybe offer additional motivating factors.
+
+44:55.000 --> 44:57.000
+The second option, which is also common,
+
+44:58.000 --> 45:01.000
+is that this manager doesn't have enough time
+
+45:02.000 --> 45:04.000
+to establish contact with potential customers.
+
+45:05.000 --> 45:07.000
+He is overloaded with other work,
+
+45:08.000 --> 45:10.000
+for example, filling documents,
+
+45:11.000 --> 45:13.000
+collecting information about sales,
+
+45:14.000 --> 45:16.000
+and other responsibilities,
+
+45:17.000 --> 45:19.000
+which prevent him from fully
+
+45:20.000 --> 45:24.000
+carrying out sales and contacting customers.
+
+45:25.000 --> 45:27.000
+We can see that in these two examples,
+
+45:28.000 --> 45:29.000
+in the case of Vasiliy and Stepan,
+
+45:30.000 --> 45:32.000
+we need different strategies.
+
+45:33.000 --> 45:35.000
+The different efficiency coefficients
+
+45:36.000 --> 45:38.000
+from the household staff helped us to understand
+
+45:39.000 --> 45:40.000
+what we should do.
+
+45:41.000 --> 45:43.000
+The next important quantitative indicators
+
+45:44.000 --> 45:46.000
+are the costs for one deal.
+
+45:47.000 --> 45:49.000
+To calculate the costs for one deal,
+
+45:50.000 --> 45:52.000
+we need to divide the total cost
+
+45:53.000 --> 45:55.000
+for the household activity of the company
+
+45:56.000 --> 45:57.000
+into the number of deals
+
+45:58.000 --> 45:59.000
+or the number of sold goods.
+
+46:00.000 --> 46:01.000
+Why do we need to take into account
+
+46:02.000 --> 46:03.000
+the costs for one deal?
+
+46:04.000 --> 46:06.000
+It often happens that the costs for one deal
+
+46:07.000 --> 46:09.000
+of a certain sales manager are quite high.
+
+46:10.000 --> 46:11.000
+What can it be connected with?
+
+46:11.000 --> 46:12.000
+It can be connected with the fact that
+
+46:13.000 --> 46:14.000
+this manager cannot distinguish
+
+46:15.000 --> 46:16.000
+a prospective customer from a non-prospective one,
+
+46:17.000 --> 46:19.000
+and thus spends his time and resources
+
+46:20.000 --> 46:21.000
+on him.
+
+46:22.000 --> 46:23.000
+There are situations when the sales manager
+
+46:24.000 --> 46:26.000
+gives too many samples of the product
+
+46:27.000 --> 46:28.000
+to everyone who wants it,
+
+46:29.000 --> 46:30.000
+and not necessarily to those who really
+
+46:31.000 --> 46:32.000
+plan to purchase the product.
+
+46:33.000 --> 46:34.000
+In this case, the costs for one deal
+
+46:35.000 --> 46:36.000
+can also increase.
+
+46:37.000 --> 46:38.000
+Therefore, each company should control
+
+46:38.000 --> 46:40.000
+the costs for each deal in general
+
+46:41.000 --> 46:42.000
+and the costs for each deal
+
+46:43.000 --> 46:44.000
+of each particular employee
+
+46:45.000 --> 46:48.000
+who sells goods or services to the company.
+
+46:49.000 --> 46:51.000
+The next indicator that each company
+
+46:52.000 --> 46:53.000
+should calculate is the amount of
+
+46:54.000 --> 46:56.000
+the household staff that is not lost.
+
+46:57.000 --> 46:59.000
+This is the number of sales managers
+
+47:00.000 --> 47:01.000
+that the company can afford
+
+47:02.000 --> 47:03.000
+to maximize
+
+47:04.000 --> 47:06.000
+so that its activity does not become lost.
+
+47:06.000 --> 47:08.000
+The calculated amount of the household staff
+
+47:09.000 --> 47:10.000
+that is not lost
+
+47:11.000 --> 47:12.000
+allows us to achieve
+
+47:13.000 --> 47:15.000
+a non-negative profit.
+
+47:16.000 --> 47:17.000
+In order to achieve a positive profit,
+
+47:18.000 --> 47:19.000
+the number of household staff
+
+47:20.000 --> 47:21.000
+should be less than the calculated amount
+
+47:22.000 --> 47:25.000
+of the household staff that is not lost.
+
+47:26.000 --> 47:28.000
+Let's consider a task from a workbook
+
+47:29.000 --> 47:30.000
+that requires us to calculate
+
+47:31.000 --> 47:33.000
+the maximum number of sales managers
+
+47:34.000 --> 47:35.000
+that can afford to lose
+
+47:36.000 --> 47:39.000
+so that their profit is not negative.
+
+47:49.000 --> 47:50.000
+After we have considered
+
+47:51.000 --> 47:52.000
+the main quantitative indicators
+
+47:53.000 --> 47:54.000
+related to the management of household staff
+
+47:55.000 --> 47:57.000
+that deals with personal sales in the company,
+
+47:58.000 --> 47:59.000
+we move on to the consideration of those metrics
+
+48:00.000 --> 48:01.000
+that are used in the management
+
+48:02.000 --> 48:03.000
+of distribution channels.
+
+48:04.000 --> 48:05.000
+In other words, in those situations
+
+48:06.000 --> 48:07.000
+we need to consider
+
+48:08.000 --> 48:09.000
+the number of sales managers
+
+48:10.000 --> 48:11.000
+that can afford to lose
+
+48:12.000 --> 48:13.000
+so that their profit is not negative.
+
+48:14.000 --> 48:16.000
+The first indicator is the distribution coverage.
+
+48:17.000 --> 48:19.000
+In order to calculate the distribution coverage,
+
+48:20.000 --> 48:21.000
+we need to divide the number of sales managers
+
+48:22.000 --> 48:23.000
+that sell our product
+
+48:24.000 --> 48:25.000
+or the products of our brand
+
+48:26.000 --> 48:27.000
+into the total number of sales managers
+
+48:28.000 --> 48:29.000
+working in the area
+
+48:30.000 --> 48:31.000
+that is being studied.
+
+48:32.000 --> 48:33.000
+It is impossible to say
+
+48:34.000 --> 48:35.000
+that the distribution coverage
+
+48:36.000 --> 48:37.000
+should be the highest
+
+48:38.000 --> 48:39.000
+or vice versa the lowest.
+
+48:40.000 --> 48:41.000
+Why?
+
+48:42.000 --> 48:43.000
+Because the distribution coverage
+
+48:44.000 --> 48:45.000
+should correspond to our sales strategy.
+
+48:46.000 --> 48:47.000
+If we say that we are making
+
+48:48.000 --> 48:49.000
+an intensive sales,
+
+48:50.000 --> 48:51.000
+then, of course,
+
+48:52.000 --> 48:53.000
+the distribution coverage
+
+48:54.000 --> 48:55.000
+should be large.
+
+48:56.000 --> 48:57.000
+That is, a large number of sales managers
+
+48:58.000 --> 49:00.000
+should offer our product to the buyers.
+
+49:01.000 --> 49:02.000
+If we find that
+
+49:03.000 --> 49:04.000
+with an intensive sales coverage
+
+49:04.000 --> 49:05.000
+the distribution coverage
+
+49:06.000 --> 49:07.000
+is large enough,
+
+49:08.000 --> 49:09.000
+then we need to attract
+
+49:10.000 --> 49:11.000
+more sales managers.
+
+49:12.000 --> 49:13.000
+If, on the contrary,
+
+49:14.000 --> 49:15.000
+we say that we have an exclusive sales,
+
+49:16.000 --> 49:17.000
+but we find that
+
+49:18.000 --> 49:19.000
+the distribution coverage
+
+49:20.000 --> 49:21.000
+is large enough,
+
+49:22.000 --> 49:23.000
+that many companies
+
+49:24.000 --> 49:25.000
+sell our product,
+
+49:26.000 --> 49:27.000
+then this sales cannot be called exclusive.
+
+49:28.000 --> 49:29.000
+And here we also need to make adjustments.
+
+49:30.000 --> 49:31.000
+The next indicator
+
+49:32.000 --> 49:33.000
+that we should calculate
+
+49:34.000 --> 49:35.000
+for the distribution channels,
+
+49:36.000 --> 49:37.000
+that is, for the use of intermediaries,
+
+49:38.000 --> 49:39.000
+is the share of the shelf.
+
+49:40.000 --> 49:41.000
+What is the share of the shelf?
+
+49:42.000 --> 49:43.000
+This is the ratio of the number of places
+
+49:44.000 --> 49:45.000
+belonging to our products on the shelf,
+
+49:46.000 --> 49:47.000
+for example, a supermarket or a hypermarket,
+
+49:48.000 --> 49:49.000
+to the total number of places on the shelf.
+
+49:50.000 --> 49:51.000
+I mean the shelf
+
+49:52.000 --> 49:53.000
+dedicated to the products
+
+49:54.000 --> 49:55.000
+of a certain product category.
+
+49:56.000 --> 49:57.000
+Why is this important?
+
+49:58.000 --> 49:59.000
+We can say that the share of the shelf
+
+50:00.000 --> 50:01.000
+is, in a sense, the share of the market.
+
+50:02.000 --> 50:03.000
+If we consider the shelf
+
+50:04.000 --> 50:05.000
+as a market,
+
+50:06.000 --> 50:07.000
+because the buyer,
+
+50:08.000 --> 50:09.000
+who is in the store,
+
+50:10.000 --> 50:11.000
+chooses from the products
+
+50:12.000 --> 50:13.000
+that he sees on the shelf of the supermarket.
+
+50:14.000 --> 50:15.000
+Thus, the more places on the shelf
+
+50:16.000 --> 50:17.000
+belong to us,
+
+50:18.000 --> 50:19.000
+that is, the higher the share of the shelf,
+
+50:20.000 --> 50:21.000
+this indicator that we calculate,
+
+50:22.000 --> 50:23.000
+the higher the probability
+
+50:24.000 --> 50:25.000
+that the buyer will buy our product.
+
+50:26.000 --> 50:27.000
+To increase the share of the shelf,
+
+50:28.000 --> 50:29.000
+many companies
+
+50:30.000 --> 50:31.000
+resort to various tricks.
+
+50:32.000 --> 50:33.000
+One of the strategies
+
+50:34.000 --> 50:35.000
+is to create new trading brands.
+
+50:36.000 --> 50:37.000
+If a company has several brands,
+
+50:38.000 --> 50:39.000
+it will take up more space
+
+50:40.000 --> 50:41.000
+on the shelves of the supermarket
+
+50:42.000 --> 50:43.000
+than if the company
+
+50:44.000 --> 50:45.000
+had only one brand.
+
+50:46.000 --> 50:47.000
+Thus, the probability
+
+50:48.000 --> 50:49.000
+that the buyer will buy
+
+50:50.000 --> 50:51.000
+our product increases.
+
+50:52.000 --> 50:53.000
+Another option
+
+50:54.000 --> 50:55.000
+is to create
+
+50:56.000 --> 50:57.000
+a modification of the product.
+
+50:58.000 --> 50:59.000
+Let's say, when a company
+
+51:00.000 --> 51:01.000
+offers several modifications
+
+51:02.000 --> 51:03.000
+of a product under one brand,
+
+51:04.000 --> 51:05.000
+the share of the shelf
+
+51:06.000 --> 51:07.000
+is usually higher.
+
+51:08.000 --> 51:09.000
+The third factor
+
+51:10.000 --> 51:11.000
+that we study
+
+51:12.000 --> 51:13.000
+is the absence of the product
+
+51:14.000 --> 51:15.000
+in the warehouse.
+
+51:16.000 --> 51:17.000
+It is sometimes called
+
+51:18.000 --> 51:19.000
+out of stock.
+
+51:20.000 --> 51:21.000
+This is the ratio
+
+51:22.000 --> 51:23.000
+of the number of intermediaries
+
+51:24.000 --> 51:25.000
+who do not have our product
+
+51:26.000 --> 51:27.000
+at a certain time,
+
+51:28.000 --> 51:29.000
+at the moment of measurement.
+
+51:30.000 --> 51:31.000
+It is sold there,
+
+51:32.000 --> 51:33.000
+we work with this intermediary,
+
+51:34.000 --> 51:35.000
+and the ratio of the number of intermediaries
+
+51:36.000 --> 51:37.000
+is the total number
+
+51:38.000 --> 51:39.000
+of intermediaries
+
+51:40.000 --> 51:41.000
+we work with.
+
+51:42.000 --> 51:43.000
+This factor can also be a source
+
+51:44.000 --> 51:45.000
+of possible problems.
+
+51:46.000 --> 51:47.000
+If we find that
+
+51:48.000 --> 51:49.000
+the absence of the product
+
+51:50.000 --> 51:51.000
+in the warehouse is high,
+
+51:52.000 --> 51:53.000
+we need to improve
+
+51:54.000 --> 51:55.000
+the system of our product movement,
+
+51:56.000 --> 51:57.000
+to ensure that the product
+
+51:58.000 --> 51:59.000
+is always available.
+
+52:00.000 --> 52:01.000
+If, for example, we find
+
+52:02.000 --> 52:03.000
+that the distribution coverage is low,
+
+52:04.000 --> 52:05.000
+we need to improve
+
+52:06.000 --> 52:07.000
+the system of our product movement.
+
+52:08.000 --> 52:09.000
+We see that
+
+52:10.000 --> 52:11.000
+using these metrics,
+
+52:12.000 --> 52:13.000
+calculating these quantitative indicators,
+
+52:14.000 --> 52:15.000
+the company can diagnose
+
+52:16.000 --> 52:17.000
+the reason for their problems
+
+52:18.000 --> 52:19.000
+with sales and sales.
+
+52:20.000 --> 52:21.000
+Now we move on
+
+52:22.000 --> 52:23.000
+to the next group of marketing metrics
+
+52:24.000 --> 52:25.000
+that are related to the product policy of the company.
+
+52:26.000 --> 52:27.000
+Now we will talk
+
+52:28.000 --> 52:29.000
+about the development of new products.
+
+52:30.000 --> 52:31.000
+When a company develops a new product
+
+52:32.000 --> 52:33.000
+and offers it to its buyers,
+
+52:34.000 --> 52:35.000
+it is necessary to calculate
+
+52:36.000 --> 52:37.000
+the coefficient of trial purchases
+
+52:38.000 --> 52:39.000
+and the coefficient of repeated purchases.
+
+52:40.000 --> 52:41.000
+In the slide you can see
+
+52:42.000 --> 52:43.000
+how these coefficients are calculated.
+
+52:44.000 --> 52:45.000
+To calculate the coefficient of trial purchases,
+
+52:46.000 --> 52:47.000
+we need to divide the number of buyers
+
+52:48.000 --> 52:49.000
+who tried the product
+
+52:50.000 --> 52:51.000
+by the total number of potential buyers.
+
+52:53.000 --> 52:54.000
+The coefficient of repeated purchases
+
+52:55.000 --> 52:56.000
+is the ratio of the number of buyers
+
+52:57.000 --> 52:58.000
+who bought our product again
+
+52:59.000 --> 53:00.000
+to all those who tried it.
+
+53:00.000 --> 53:01.000
+Please note that
+
+53:02.000 --> 53:03.000
+the coefficient of repeated purchases
+
+53:04.000 --> 53:05.000
+is the ratio of the number of buyers
+
+53:06.000 --> 53:07.000
+who tried the product
+
+53:08.000 --> 53:09.000
+and not all potential buyers.
+
+53:10.000 --> 53:11.000
+As a rule,
+
+53:12.000 --> 53:13.000
+these coefficients are calculated
+
+53:14.000 --> 53:15.000
+by the results of marketing research.
+
+53:16.000 --> 53:17.000
+A survey is conducted
+
+53:18.000 --> 53:19.000
+to determine
+
+53:20.000 --> 53:21.000
+whether potential buyers
+
+53:22.000 --> 53:23.000
+intend to buy a certain product
+
+53:24.000 --> 53:25.000
+and the percentage of buyers
+
+53:26.000 --> 53:27.000
+who buy it
+
+53:28.000 --> 53:29.000
+is determined
+
+53:30.000 --> 53:31.000
+by the coefficient of repeated purchases.
+
+53:32.000 --> 53:33.000
+Now let's look at the next diagram.
+
+53:34.000 --> 53:35.000
+In this case,
+
+53:36.000 --> 53:37.000
+we will analyze
+
+53:38.000 --> 53:39.000
+how the coefficient of repeated purchases
+
+53:40.000 --> 53:41.000
+and the information
+
+53:42.000 --> 53:43.000
+about possible trial purchases
+
+53:44.000 --> 53:45.000
+can help us
+
+53:46.000 --> 53:47.000
+determine the predicted volume of sales.
+
+53:48.000 --> 53:49.000
+Let's imagine
+
+53:50.000 --> 53:51.000
+that we conducted a marketing research,
+
+53:52.000 --> 53:53.000
+surveyed potential buyers
+
+53:54.000 --> 53:55.000
+and asked them
+
+53:56.000 --> 53:57.000
+to name a certain product
+
+53:57.000 --> 53:58.000
+and to name a certain product.
+
+53:59.000 --> 54:00.000
+The product is shown in the form of a sample
+
+54:01.000 --> 54:02.000
+or described in detail
+
+54:03.000 --> 54:04.000
+by its main characteristics.
+
+54:05.000 --> 54:06.000
+Let's imagine
+
+54:07.000 --> 54:08.000
+that we had a 5-point rating scale
+
+54:09.000 --> 54:10.000
+and the upper values of this scale
+
+54:11.000 --> 54:12.000
+4 and 5
+
+54:13.000 --> 54:14.000
+meant that
+
+54:15.000 --> 54:16.000
+the buyer will probably buy our product
+
+54:17.000 --> 54:18.000
+or the buyer will definitely buy our product,
+
+54:19.000 --> 54:20.000
+that is, most likely to buy.
+
+54:21.000 --> 54:22.000
+The lower values
+
+54:23.000 --> 54:24.000
+are the ones
+
+54:25.000 --> 54:26.000
+that are not shown
+
+54:27.000 --> 54:28.000
+in the scale.
+
+54:29.000 --> 54:30.000
+We take all those buyers
+
+54:31.000 --> 54:32.000
+in the percentage
+
+54:33.000 --> 54:34.000
+of the total number of respondents
+
+54:35.000 --> 54:36.000
+who will probably buy our product
+
+54:37.000 --> 54:38.000
+and who will definitely buy,
+
+54:39.000 --> 54:40.000
+that is, will definitely buy our product
+
+54:41.000 --> 54:42.000
+and calculate what percentage
+
+54:43.000 --> 54:44.000
+they make up
+
+54:45.000 --> 54:46.000
+of the total number of respondents.
+
+54:47.000 --> 54:48.000
+And this value
+
+54:49.000 --> 54:50.000
+can be considered
+
+54:51.000 --> 54:52.000
+as the coefficient of trial purchases.
+
+54:53.000 --> 54:54.000
+That is, this is the number of buyers,
+
+54:55.000 --> 54:56.000
+the share of buyers
+
+54:57.000 --> 54:58.000
+who will buy our new product.
+
+54:59.000 --> 55:00.000
+We cannot use this value
+
+55:01.000 --> 55:02.000
+to calculate
+
+55:03.000 --> 55:04.000
+the total sales volume
+
+55:05.000 --> 55:06.000
+directly.
+
+55:07.000 --> 55:08.000
+Why?
+
+55:09.000 --> 55:10.000
+Because not all potential buyers
+
+55:11.000 --> 55:12.000
+are aware of our product.
+
+55:13.000 --> 55:14.000
+And you remember that we calculated
+
+55:15.000 --> 55:16.000
+the coefficient of awareness,
+
+55:17.000 --> 55:18.000
+that is, the percentage of potential buyers
+
+55:19.000 --> 55:20.000
+who know about the existence of our product.
+
+55:21.000 --> 55:22.000
+And in order to determine
+
+55:23.000 --> 55:24.000
+how many people
+
+55:25.000 --> 55:26.000
+will buy our product,
+
+55:27.000 --> 55:28.000
+we need
+
+55:29.000 --> 55:30.000
+all those people
+
+55:31.000 --> 55:32.000
+who would buy the product,
+
+55:33.000 --> 55:34.000
+probably bought
+
+55:35.000 --> 55:36.000
+or definitely bought
+
+55:37.000 --> 55:38.000
+under the conditions of knowing
+
+55:39.000 --> 55:40.000
+this product,
+
+55:41.000 --> 55:42.000
+under the conditions of awareness,
+
+55:43.000 --> 55:44.000
+multiply by the coefficient of awareness,
+
+55:45.000 --> 55:46.000
+that is, remove from this number of buyers
+
+55:47.000 --> 55:48.000
+all those who do not know
+
+55:49.000 --> 55:50.000
+about our product at the moment.
+
+55:51.000 --> 55:52.000
+And only in this way
+
+55:53.000 --> 55:54.000
+we can determine the predicted
+
+55:55.000 --> 55:56.000
+volume of trial purchases.
+
+55:57.000 --> 55:58.000
+We can multiply
+
+55:59.000 --> 56:00.000
+the volume of trial purchases
+
+56:01.000 --> 56:02.000
+by this coefficient
+
+56:03.000 --> 56:04.000
+and get the estimated number
+
+56:05.000 --> 56:06.000
+of repeated purchases.
+
+56:07.000 --> 56:08.000
+We assume that when a buyer tries to buy,
+
+56:09.000 --> 56:10.000
+he buys one unit of the product,
+
+56:11.000 --> 56:12.000
+but when he tries to buy again,
+
+56:13.000 --> 56:14.000
+he can buy more units of the product
+
+56:15.000 --> 56:16.000
+for one purchase.
+
+56:17.000 --> 56:18.000
+Thus, we need the number of buyers
+
+56:19.000 --> 56:20.000
+who plan to make a second purchase
+
+56:21.000 --> 56:22.000
+multiplied by the number of units of the product
+
+56:23.000 --> 56:24.000
+that they plan to buy on average,
+
+56:24.000 --> 56:25.000
+and then multiply by the frequency
+
+56:26.000 --> 56:27.000
+of the transaction.
+
+56:28.000 --> 56:29.000
+When we talk about trial purchases,
+
+56:30.000 --> 56:31.000
+we assume that a trial purchase
+
+56:32.000 --> 56:33.000
+is made once,
+
+56:34.000 --> 56:35.000
+and any subsequent one
+
+56:36.000 --> 56:37.000
+will be considered as a second one.
+
+56:38.000 --> 56:39.000
+When we talk about second purchases,
+
+56:40.000 --> 56:41.000
+then in the following period of time
+
+56:42.000 --> 56:43.000
+a buyer can make several
+
+56:44.000 --> 56:45.000
+second purchases.
+
+56:46.000 --> 56:47.000
+Therefore, knowing the estimated
+
+56:48.000 --> 56:49.000
+number of buyers who should make
+
+56:50.000 --> 56:51.000
+a second purchase
+
+56:52.000 --> 56:53.000
+and knowing how many units of the product
+
+56:54.000 --> 56:55.000
+they will buy,
+
+56:56.000 --> 56:57.000
+we must multiply this number
+
+56:58.000 --> 56:59.000
+by the estimated frequency
+
+57:00.000 --> 57:01.000
+of the purchase.
+
+57:02.000 --> 57:03.000
+Only after this,
+
+57:04.000 --> 57:05.000
+we will be able to get the estimated
+
+57:06.000 --> 57:07.000
+number of repeated purchases.
+
+57:08.000 --> 57:09.000
+Pay attention to the diagram.
+
+57:10.000 --> 57:11.000
+You see that
+
+57:12.000 --> 57:13.000
+the total estimated volume of sales
+
+57:14.000 --> 57:15.000
+consists of the estimated volume
+
+57:16.000 --> 57:17.000
+of trial purchases
+
+57:18.000 --> 57:19.000
+and the estimated volume of repeated purchases.
+
+57:20.000 --> 57:21.000
+Knowing the coefficients of trial purchases
+
+57:22.000 --> 57:23.000
+and the coefficients of repeated purchases,
+
+57:24.000 --> 57:25.000
+we can calculate
+
+57:26.000 --> 57:27.000
+the estimated volume of sales.
+
+57:28.000 --> 57:29.000
+Now, do the task from the workbook.
+
+57:30.000 --> 57:31.000
+Calculate the estimated volume of sales
+
+57:32.000 --> 57:33.000
+for a certain new product.
+
+57:46.000 --> 57:47.000
+Now, let's move on to the next metric
+
+57:48.000 --> 57:49.000
+within the framework of the company's
+
+57:50.000 --> 57:51.000
+product policy.
+
+57:52.000 --> 57:53.000
+This metric is associated with the concept
+
+57:54.000 --> 57:55.000
+of commodity cannibalism.
+
+57:56.000 --> 57:57.000
+This situation occurs when
+
+57:58.000 --> 57:59.000
+a new product appears in the company.
+
+58:00.000 --> 58:01.000
+And inevitably, this new product
+
+58:02.000 --> 58:03.000
+eats up part of the volume of sales
+
+58:04.000 --> 58:05.000
+of the old product.
+
+58:06.000 --> 58:07.000
+To determine which part of the volume of sales
+
+58:08.000 --> 58:09.000
+of the old product will be eaten up
+
+58:10.000 --> 58:11.000
+by a new product,
+
+58:12.000 --> 58:13.000
+we use the coefficient of cannibalization.
+
+58:14.000 --> 58:15.000
+We divide the lost sales,
+
+58:16.000 --> 58:17.000
+that is, the sales that we lost
+
+58:18.000 --> 58:19.000
+as a result of the introduction
+
+58:20.000 --> 58:21.000
+of a new product into the market
+
+58:21.000 --> 58:22.000
+as a result of the introduction
+
+58:23.000 --> 58:24.000
+of a new product into the market,
+
+58:25.000 --> 58:26.000
+that is, the sale of an old product,
+
+58:27.000 --> 58:28.000
+into the volume of sales of a new product.
+
+58:29.000 --> 58:30.000
+And what does this coefficient of cannibalization
+
+58:31.000 --> 58:32.000
+allow us to understand?
+
+58:33.000 --> 58:34.000
+It shows us whether it is reasonable
+
+58:35.000 --> 58:36.000
+from the point of view of the volume of sales
+
+58:37.000 --> 58:38.000
+and profits
+
+58:39.000 --> 58:40.000
+of introducing a new product into the market.
+
+58:41.000 --> 58:42.000
+If the coefficient of cannibalization
+
+58:43.000 --> 58:44.000
+is less than 100%,
+
+58:45.000 --> 58:46.000
+it turns out that we have lost
+
+58:47.000 --> 58:48.000
+the volume of sales less than we received
+
+58:49.000 --> 58:50.000
+due to the introduction of a new product
+
+58:51.000 --> 58:52.000
+into the market.
+
+58:53.000 --> 58:54.000
+There are situations when
+
+58:55.000 --> 58:56.000
+the coefficient of cannibalization
+
+58:57.000 --> 58:58.000
+is 100%.
+
+58:59.000 --> 59:00.000
+This means that a new product
+
+59:01.000 --> 59:02.000
+has completely replaced an old product.
+
+59:03.000 --> 59:04.000
+And here the change in the profit of the company
+
+59:05.000 --> 59:06.000
+depends on the margin
+
+59:07.000 --> 59:08.000
+of a new and old product.
+
+59:09.000 --> 59:10.000
+If the margin of a new product is greater,
+
+59:11.000 --> 59:12.000
+then the profit of the company will increase.
+
+59:13.000 --> 59:14.000
+There are situations when
+
+59:15.000 --> 59:16.000
+the coefficient of cannibalization
+
+59:17.000 --> 59:18.000
+exceeds 100%.
+
+59:19.000 --> 59:20.000
+What does this mean?
+
+59:21.000 --> 59:22.000
+The amount of new products
+
+59:23.000 --> 59:24.000
+has decreased to a greater extent
+
+59:25.000 --> 59:26.000
+than the volume of sales of new products.
+
+59:27.000 --> 59:28.000
+What can this be connected with?
+
+59:29.000 --> 59:30.000
+Usually, this happens in cases
+
+59:31.000 --> 59:32.000
+when buyers,
+
+59:33.000 --> 59:34.000
+having seen that a new product
+
+59:35.000 --> 59:36.000
+has appeared,
+
+59:37.000 --> 59:38.000
+improved, modified,
+
+59:39.000 --> 59:40.000
+more attractive,
+
+59:41.000 --> 59:42.000
+refuse to purchase an old product,
+
+59:43.000 --> 59:44.000
+but at the same time
+
+59:45.000 --> 59:46.000
+they have not yet purchased a new one,
+
+59:47.000 --> 59:48.000
+either because they do not have enough money
+
+59:49.000 --> 59:50.000
+to purchase it,
+
+59:51.000 --> 59:52.000
+but because they have not yet
+
+59:53.000 --> 59:54.000
+purchased a new product.
+
+59:55.000 --> 59:56.000
+In this case, the coefficient of cannibalization
+
+59:57.000 --> 59:58.000
+exceeds 100%.
+
+59:59.000 --> 01:00:00.000
+This can be dangerous for the company.
+
+01:00:01.000 --> 01:00:02.000
+It turns out that it has lost
+
+01:00:03.000 --> 01:00:04.000
+an old product,
+
+01:00:05.000 --> 01:00:06.000
+and the new product has not yet
+
+01:00:07.000 --> 01:00:08.000
+started to work in the market.
+
+01:00:09.000 --> 01:00:10.000
+Now let's complete the task
+
+01:00:11.000 --> 01:00:12.000
+from the workbook
+
+01:00:13.000 --> 01:00:14.000
+and calculate the coefficient of cannibalization
+
+01:00:15.000 --> 01:00:16.000
+for a certain new product.
+
+01:00:21.000 --> 01:00:24.000
+The cost of the new product
+
+01:00:25.000 --> 01:00:26.000
+Now we move on
+
+01:00:27.000 --> 01:00:28.000
+to a very important question.
+
+01:00:29.000 --> 01:00:30.000
+The metric is called
+
+01:00:31.000 --> 01:00:32.000
+the market capital.
+
+01:00:33.000 --> 01:00:34.000
+The market capital is considered
+
+01:00:35.000 --> 01:00:36.000
+to be the main non-material asset
+
+01:00:37.000 --> 01:00:38.000
+of the company.
+
+01:00:39.000 --> 01:00:40.000
+Due to the market capital,
+
+01:00:41.000 --> 01:00:42.000
+the company can get
+
+01:00:43.000 --> 01:00:44.000
+a large amount of additional profit.
+
+01:00:45.000 --> 01:00:46.000
+In fact, the market capital
+
+01:00:47.000 --> 01:00:48.000
+is the additional profit,
+
+01:00:49.000 --> 01:00:50.000
+that is, it is the increase in profit
+
+01:00:51.000 --> 01:00:52.000
+of the company
+
+01:00:53.000 --> 01:00:54.000
+due to the ownership of a certain brand.
+
+01:00:55.000 --> 01:00:56.000
+If we take a situation
+
+01:00:57.000 --> 01:00:58.000
+when a company sells a certain product
+
+01:00:59.000 --> 01:01:00.000
+under its own brand,
+
+01:01:01.000 --> 01:01:02.000
+and take another situation
+
+01:01:03.000 --> 01:01:04.000
+when a company sells a similar product,
+
+01:01:05.000 --> 01:01:06.000
+but without this brand,
+
+01:01:07.000 --> 01:01:08.000
+and compare the profit obtained
+
+01:01:09.000 --> 01:01:10.000
+in the first and second cases,
+
+01:01:11.000 --> 01:01:12.000
+we can understand
+
+01:01:13.000 --> 01:01:14.000
+what part of the profit,
+
+01:01:15.000 --> 01:01:16.000
+what amount
+
+01:01:17.000 --> 01:01:18.000
+the company gets
+
+01:01:19.000 --> 01:01:20.000
+due to the brand.
+
+01:01:21.000 --> 01:01:22.000
+The larger the market capital,
+
+01:01:23.000 --> 01:01:24.000
+the greater the additional profit
+
+01:01:25.000 --> 01:01:26.000
+the company can get
+
+01:01:27.000 --> 01:01:28.000
+due to its own brand.
+
+01:01:29.000 --> 01:01:30.000
+Many researchers
+
+01:01:31.000 --> 01:01:32.000
+proposed different algorithms
+
+01:01:33.000 --> 01:01:34.000
+and methods of calculating the market capital.
+
+01:01:35.000 --> 01:01:36.000
+Let's take a look at several of these methods.
+
+01:01:37.000 --> 01:01:38.000
+The first method
+
+01:01:39.000 --> 01:01:40.000
+was proposed by the advertising agency
+
+01:01:41.000 --> 01:01:42.000
+Young and Rubicon.
+
+01:01:43.000 --> 01:01:44.000
+Here you can see
+
+01:01:45.000 --> 01:01:46.000
+the four indicators
+
+01:01:47.000 --> 01:01:48.000
+that measure the market capital.
+
+01:01:49.000 --> 01:01:50.000
+That is, the perceived difference
+
+01:01:51.000 --> 01:01:52.000
+between the brand's life,
+
+01:01:53.000 --> 01:01:54.000
+brand's respect and brand's knowledge.
+
+01:01:55.000 --> 01:01:56.000
+If we compare
+
+01:01:57.000 --> 01:01:58.000
+our brand
+
+01:01:59.000 --> 01:02:00.000
+with the brand of a competitor
+
+01:02:01.000 --> 01:02:02.000
+and give certain assessments
+
+01:02:03.000 --> 01:02:04.000
+regarding the brand's respect
+
+01:02:05.000 --> 01:02:06.000
+and brand's knowledge,
+
+01:02:07.000 --> 01:02:08.000
+our brand's knowledge
+
+01:02:09.000 --> 01:02:10.000
+and the brand's knowledge of the competitor,
+
+01:02:11.000 --> 01:02:12.000
+it is better to do these measurements
+
+01:02:13.000 --> 01:02:14.000
+not with the help of employees,
+
+01:02:15.000 --> 01:02:16.000
+but using the opinion of consumers.
+
+01:02:17.000 --> 01:02:18.000
+By comparing the assessments
+
+01:02:19.000 --> 01:02:20.000
+on these four indicators,
+
+01:02:21.000 --> 01:02:22.000
+the company can understand
+
+01:02:23.000 --> 01:02:24.000
+the market capital of which brand
+
+01:02:25.000 --> 01:02:26.000
+is higher than our brand
+
+01:02:27.000 --> 01:02:28.000
+or the brand of the competitor
+
+01:02:29.000 --> 01:02:30.000
+and make the appropriate conclusions.
+
+01:02:31.000 --> 01:02:32.000
+The next method is similar.
+
+01:02:33.000 --> 01:02:34.000
+You can see that it differs
+
+01:02:35.000 --> 01:02:36.000
+only by two characteristics
+
+01:02:37.000 --> 01:02:38.000
+according to which the market capital is assessed.
+
+01:02:39.000 --> 01:02:40.000
+The first is the attractiveness of the brand,
+
+01:02:41.000 --> 01:02:42.000
+that is, the degree
+
+01:02:43.000 --> 01:02:44.000
+to which the buyers want to buy the product,
+
+01:02:45.000 --> 01:02:46.000
+how attractive it is for them,
+
+01:02:47.000 --> 01:02:48.000
+and the trust in the brand.
+
+01:02:49.000 --> 01:02:50.000
+The same algorithm
+
+01:02:51.000 --> 01:02:52.000
+is used by the company
+
+01:02:53.000 --> 01:02:54.000
+to conduct a survey of the buyers
+
+01:02:55.000 --> 01:02:56.000
+in order to determine
+
+01:02:57.000 --> 01:02:58.000
+which brand
+
+01:02:59.000 --> 01:03:00.000
+or brand of the competitor
+
+01:03:01.000 --> 01:03:02.000
+has more market capital.
+
+01:03:03.000 --> 01:03:04.000
+It is impossible to say
+
+01:03:05.000 --> 01:03:06.000
+that there are brands
+
+01:03:07.000 --> 01:03:08.000
+that have high indicators
+
+01:03:09.000 --> 01:03:10.000
+according to all these characteristics.
+
+01:03:11.000 --> 01:03:12.000
+This probably does not happen.
+
+01:03:13.000 --> 01:03:14.000
+There are some trends.
+
+01:03:15.000 --> 01:03:16.000
+Research shows that
+
+01:03:17.000 --> 01:03:18.000
+brands that have existed for a long time
+
+01:03:19.000 --> 01:03:20.000
+receive higher grades
+
+01:03:21.000 --> 01:03:22.000
+in terms of uniqueness
+
+01:03:23.000 --> 01:03:24.000
+and relevance in the lifestyle of the buyers.
+
+01:03:25.000 --> 01:03:26.000
+More modern new brands
+
+01:03:27.000 --> 01:03:28.000
+receive high grades
+
+01:03:29.000 --> 01:03:31.000
+in terms of uniqueness and relevance,
+
+01:03:32.000 --> 01:03:33.000
+but low grades
+
+01:03:34.000 --> 01:03:35.000
+in terms of knowledge and respect,
+
+01:03:36.000 --> 01:03:37.000
+because they have existed on the market
+
+01:03:38.000 --> 01:03:39.000
+not so long ago.
+
+01:03:40.000 --> 01:03:41.000
+The next method
+
+01:03:42.000 --> 01:03:43.000
+is the so-called Morin method.
+
+01:03:44.000 --> 01:03:45.000
+Here we get
+
+01:03:46.000 --> 01:03:47.000
+a more quantitative assessment.
+
+01:03:48.000 --> 01:03:49.000
+Here we can compare
+
+01:03:49.000 --> 01:03:50.000
+the market capital of our brand
+
+01:03:51.000 --> 01:03:52.000
+and the brand of competitors
+
+01:03:53.000 --> 01:03:54.000
+not only on a regular scale,
+
+01:03:55.000 --> 01:03:56.000
+that is, we can say not only
+
+01:03:57.000 --> 01:03:58.000
+which brand has higher
+
+01:03:59.000 --> 01:04:00.000
+or lower market capital,
+
+01:04:01.000 --> 01:04:02.000
+but we can also compare
+
+01:04:03.000 --> 01:04:04.000
+how much higher
+
+01:04:05.000 --> 01:04:06.000
+and how much lower.
+
+01:04:07.000 --> 01:04:08.000
+You see the formula.
+
+01:04:09.000 --> 01:04:10.000
+The market capital is the sum of the market share
+
+01:04:11.000 --> 01:04:12.000
+relative price and loyalty index.
+
+01:04:13.000 --> 01:04:14.000
+Relative price.
+
+01:04:15.000 --> 01:04:16.000
+What is it?
+
+01:04:17.000 --> 01:04:18.000
+It is the percentage
+
+01:04:19.000 --> 01:04:20.000
+of the price of our product,
+
+01:04:21.000 --> 01:04:22.000
+the product of our brand,
+
+01:04:23.000 --> 01:04:24.000
+higher than the price
+
+01:04:25.000 --> 01:04:26.000
+of the product of the competitor's brand.
+
+01:04:27.000 --> 01:04:28.000
+And we see the following logic here.
+
+01:04:29.000 --> 01:04:30.000
+The higher the market share,
+
+01:04:31.000 --> 01:04:32.000
+the higher the brand capital.
+
+01:04:33.000 --> 01:04:34.000
+And this is quite logical.
+
+01:04:35.000 --> 01:04:36.000
+If the product has a higher market share,
+
+01:04:37.000 --> 01:04:38.000
+then, apparently,
+
+01:04:39.000 --> 01:04:40.000
+this brand is attractive for buyers
+
+01:04:41.000 --> 01:04:42.000
+and, perhaps, the brand capital
+
+01:04:43.000 --> 01:04:44.000
+is really higher.
+
+01:04:45.000 --> 01:04:46.000
+The second aspect is the relative price.
+
+01:04:47.000 --> 01:04:48.000
+Here we see the following logic.
+
+01:04:49.000 --> 01:04:50.000
+Indeed,
+
+01:04:51.000 --> 01:04:52.000
+if the price of our product,
+
+01:04:53.000 --> 01:04:54.000
+the product of our brand,
+
+01:04:55.000 --> 01:04:56.000
+is higher than the price of the competitor's product,
+
+01:04:57.000 --> 01:04:58.000
+and we really sell the product
+
+01:04:59.000 --> 01:05:00.000
+at this price and still exist,
+
+01:05:01.000 --> 01:05:02.000
+then, apparently,
+
+01:05:03.000 --> 01:05:04.000
+there are some objective reasons
+
+01:05:05.000 --> 01:05:06.000
+why buyers pay more for our product.
+
+01:05:07.000 --> 01:05:08.000
+Therefore, we have more market capital.
+
+01:05:09.000 --> 01:05:10.000
+And the next component of this formula
+
+01:05:11.000 --> 01:05:12.000
+is the loyalty index.
+
+01:05:13.000 --> 01:05:14.000
+The loyalty index
+
+01:05:15.000 --> 01:05:16.000
+is the percentage of buyers
+
+01:05:17.000 --> 01:05:18.000
+who stated during the poll
+
+01:05:19.000 --> 01:05:20.000
+that they plan to purchase our product,
+
+01:05:21.000 --> 01:05:22.000
+to continue purchasing
+
+01:05:23.000 --> 01:05:24.000
+our brand's product next year.
+
+01:05:25.000 --> 01:05:26.000
+Here we see the following logic.
+
+01:05:27.000 --> 01:05:28.000
+The more loyal buyers we have,
+
+01:05:29.000 --> 01:05:30.000
+the higher the market capital.
+
+01:05:31.000 --> 01:05:32.000
+And now,
+
+01:05:33.000 --> 01:05:34.000
+do the task from the workbook.
+
+01:05:35.000 --> 01:05:36.000
+Compare the market capital
+
+01:05:37.000 --> 01:05:38.000
+of your brand
+
+01:05:39.000 --> 01:05:40.000
+and the brand of the competitor
+
+01:05:41.000 --> 01:05:42.000
+you have chosen for analysis
+
+01:05:43.000 --> 01:05:44.000
+and draw a conclusion
+
+01:05:45.000 --> 01:05:46.000
+whose market capital is higher.
+
+01:05:49.000 --> 01:05:50.000
+The next step is to make a decision.
+
+01:05:51.000 --> 01:05:52.000
+The decision is made
+
+01:05:53.000 --> 01:05:54.000
+based on the market capital
+
+01:05:55.000 --> 01:05:56.000
+of the competitor.
+
+01:05:57.000 --> 01:05:58.000
+Now we move on
+
+01:05:59.000 --> 01:06:00.000
+to the next group of marketing metrics
+
+01:06:01.000 --> 01:06:02.000
+related to price management.
+
+01:06:03.000 --> 01:06:04.000
+The first indicator
+
+01:06:05.000 --> 01:06:06.000
+that we need to consider
+
+01:06:07.000 --> 01:06:08.000
+is the price premium.
+
+01:06:09.000 --> 01:06:10.000
+This is the ratio
+
+01:06:11.000 --> 01:06:12.000
+of the difference between the price of our product
+
+01:06:13.000 --> 01:06:14.000
+and the price of the competitor's product
+
+01:06:15.000 --> 01:06:16.000
+to the price of the competitor's product.
+
+01:06:17.000 --> 01:06:18.000
+Knowing the price premium,
+
+01:06:19.000 --> 01:06:20.000
+we can understand
+
+01:06:21.000 --> 01:06:22.000
+how much our product is more expensive
+
+01:06:23.000 --> 01:06:24.000
+than the competitor's product.
+
+01:06:25.000 --> 01:06:26.000
+Despite the price premium,
+
+01:06:27.000 --> 01:06:28.000
+it can have a negative meaning.
+
+01:06:29.000 --> 01:06:30.000
+That is,
+
+01:06:31.000 --> 01:06:32.000
+we need to measure the price premium
+
+01:06:33.000 --> 01:06:35.000
+at all stages of product distribution.
+
+01:06:36.000 --> 01:06:37.000
+That is, at the level of the manufacturer's price,
+
+01:06:38.000 --> 01:06:39.000
+at the level of the wholesale price
+
+01:06:40.000 --> 01:06:42.000
+and at the level of the retail price.
+
+01:06:43.000 --> 01:06:44.000
+By calculating the price premium
+
+01:06:45.000 --> 01:06:46.000
+of our products regularly,
+
+01:06:47.000 --> 01:06:48.000
+we can see
+
+01:06:49.000 --> 01:06:50.000
+the price premium of our products
+
+01:06:51.000 --> 01:06:52.000
+relative to the competitors'.
+
+01:06:53.000 --> 01:06:54.000
+There are situations
+
+01:06:55.000 --> 01:06:56.000
+when the price premium
+
+01:06:57.000 --> 01:06:58.000
+at the level of the manufacturer
+
+01:06:59.000 --> 01:07:00.000
+has the same value
+
+01:07:01.000 --> 01:07:02.000
+and at the level of the wholesale price
+
+01:07:03.000 --> 01:07:04.000
+has a completely different value.
+
+01:07:05.000 --> 01:07:06.000
+Here we can see
+
+01:07:07.000 --> 01:07:08.000
+how the power distribution changes.
+
+01:07:09.000 --> 01:07:10.000
+The next indicator
+
+01:07:11.000 --> 01:07:12.000
+that we need to consider
+
+01:07:13.000 --> 01:07:14.000
+is the so-called reserve price.
+
+01:07:15.000 --> 01:07:16.000
+What is a reserve price?
+
+01:07:17.000 --> 01:07:18.000
+A reserve price is the price
+
+01:07:19.000 --> 01:07:20.000
+at which our product is sold.
+
+01:07:21.000 --> 01:07:22.000
+You can see it
+
+01:07:23.000 --> 01:07:24.000
+on the slide of the chart
+
+01:07:25.000 --> 01:07:26.000
+where the reserve price is located.
+
+01:07:27.000 --> 01:07:28.000
+There is also an indicator
+
+01:07:29.000 --> 01:07:30.000
+of the maximum willingness to buy.
+
+01:07:31.000 --> 01:07:32.000
+This is the volume of sales
+
+01:07:33.000 --> 01:07:34.000
+that we have
+
+01:07:35.000 --> 01:07:36.000
+at a price equal to zero.
+
+01:07:37.000 --> 01:07:38.000
+Someone may say
+
+01:07:39.000 --> 01:07:40.000
+that if the price of our product is zero,
+
+01:07:41.000 --> 01:07:42.000
+then all our products will be taken away.
+
+01:07:43.000 --> 01:07:44.000
+This is not always the case.
+
+01:07:45.000 --> 01:07:46.000
+Here we can say
+
+01:07:47.000 --> 01:07:48.000
+that if the price is zero,
+
+01:07:49.000 --> 01:07:50.000
+then we will not sell our products,
+
+01:07:51.000 --> 01:07:52.000
+because many buyers
+
+01:07:53.000 --> 01:07:54.000
+will want to buy our products for free.
+
+01:07:55.000 --> 01:07:56.000
+But in fact,
+
+01:07:57.000 --> 01:07:58.000
+the purchasing possibilities
+
+01:07:59.000 --> 01:08:00.000
+have their own limitations.
+
+01:08:01.000 --> 01:08:02.000
+Therefore, the volume of sales
+
+01:08:03.000 --> 01:08:04.000
+at a zero price is not infinite,
+
+01:08:05.000 --> 01:08:06.000
+but has a certain level.
+
+01:08:07.000 --> 01:08:08.000
+Pay attention to the chart
+
+01:08:09.000 --> 01:08:10.000
+where we can see
+
+01:08:11.000 --> 01:08:12.000
+the maximum willingness to buy.
+
+01:08:13.000 --> 01:08:14.000
+If we connect the points
+
+01:08:15.000 --> 01:08:16.000
+of maximum willingness to buy
+
+01:08:16.000 --> 01:08:17.000
+and the reserve price,
+
+01:08:18.000 --> 01:08:19.000
+we will get
+
+01:08:20.000 --> 01:08:21.000
+a linear demand function.
+
+01:08:22.000 --> 01:08:23.000
+Why do we study the reserve prices?
+
+01:08:24.000 --> 01:08:25.000
+Knowing the reserve price,
+
+01:08:26.000 --> 01:08:27.000
+the variable cost per unit of the product,
+
+01:08:28.000 --> 01:08:29.000
+we can easily calculate
+
+01:08:30.000 --> 01:08:31.000
+the optimal price of our product.
+
+01:08:32.000 --> 01:08:33.000
+It would seem
+
+01:08:34.000 --> 01:08:35.000
+that this is not too simple.
+
+01:08:36.000 --> 01:08:37.000
+First, we need to make sure
+
+01:08:38.000 --> 01:08:39.000
+that the optimal price
+
+01:08:40.000 --> 01:08:41.000
+has a certain level of demand.
+
+01:08:42.000 --> 01:08:43.000
+If we calculate the optimal price
+
+01:08:43.000 --> 01:08:44.000
+of our product,
+
+01:08:45.000 --> 01:08:46.000
+we can calculate
+
+01:08:47.000 --> 01:08:48.000
+the optimal price
+
+01:08:49.000 --> 01:08:50.000
+that maximizes the profit of the company
+
+01:08:51.000 --> 01:08:52.000
+according to this formula.
+
+01:08:53.000 --> 01:08:54.000
+Let's check
+
+01:08:55.000 --> 01:08:56.000
+whether this is true.
+
+01:08:57.000 --> 01:08:58.000
+On the slide you will see a table
+
+01:08:59.000 --> 01:09:00.000
+where various price options
+
+01:09:01.000 --> 01:09:02.000
+for products from 0 to 5 are presented,
+
+01:09:03.000 --> 01:09:04.000
+the corresponding volume of sales,
+
+01:09:05.000 --> 01:09:06.000
+the variable costs,
+
+01:09:07.000 --> 01:09:08.000
+which in all cases are the same,
+
+01:09:09.000 --> 01:09:10.000
+and the maximum willingness to buy.
+
+01:09:10.000 --> 01:09:11.000
+You are offered to calculate
+
+01:09:12.000 --> 01:09:13.000
+the difference between the price
+
+01:09:14.000 --> 01:09:15.000
+and the variable costs
+
+01:09:16.000 --> 01:09:17.000
+and calculate the total return.
+
+01:09:18.000 --> 01:09:19.000
+After we fill in
+
+01:09:20.000 --> 01:09:21.000
+all the empty cells in this table,
+
+01:09:22.000 --> 01:09:23.000
+we will be able to find
+
+01:09:24.000 --> 01:09:25.000
+what price maximizes
+
+01:09:26.000 --> 01:09:27.000
+the total return,
+
+01:09:28.000 --> 01:09:29.000
+in fact, our profit.
+
+01:09:30.000 --> 01:09:31.000
+Let's try to calculate it
+
+01:09:32.000 --> 01:09:33.000
+using the formula.
+
+01:09:34.000 --> 01:09:35.000
+So, our reserve price
+
+01:09:36.000 --> 01:09:37.000
+is 0.5.
+
+01:09:37.000 --> 01:09:38.000
+So, our reserve price
+
+01:09:39.000 --> 01:09:40.000
+is 5.
+
+01:09:41.000 --> 01:09:42.000
+When the price is 5,
+
+01:09:43.000 --> 01:09:44.000
+the volume of sales is 0.
+
+01:09:45.000 --> 01:09:46.000
+The variable cost per unit of the product
+
+01:09:47.000 --> 01:09:48.000
+according to our table
+
+01:09:49.000 --> 01:09:50.000
+is 1.
+
+01:09:51.000 --> 01:09:52.000
+That is, 5 plus 1 is 6,
+
+01:09:53.000 --> 01:09:54.000
+divide by 2,
+
+01:09:55.000 --> 01:09:56.000
+and according to the formula,
+
+01:09:57.000 --> 01:09:58.000
+our optimal price
+
+01:09:59.000 --> 01:10:00.000
+with a linear demand function
+
+01:10:01.000 --> 01:10:02.000
+should be 3.
+
+01:10:03.000 --> 01:10:04.000
+Let's check
+
+01:10:05.000 --> 01:10:06.000
+whether this is true.
+
+01:10:07.000 --> 01:10:08.000
+We calculated the return
+
+01:10:09.000 --> 01:10:10.000
+in each case,
+
+01:10:11.000 --> 01:10:13.000
+and then calculated the total return,
+
+01:10:14.000 --> 01:10:15.000
+multiplying the return
+
+01:10:16.000 --> 01:10:17.000
+from the unit of the product
+
+01:10:18.000 --> 01:10:19.000
+by the volume of sales.
+
+01:10:20.000 --> 01:10:21.000
+And we got that
+
+01:10:22.000 --> 01:10:23.000
+in case when the price is 3 rubles,
+
+01:10:24.000 --> 01:10:25.000
+the total return will be maximum,
+
+01:10:26.000 --> 01:10:27.000
+it will be 4.
+
+01:10:28.000 --> 01:10:29.000
+That is, it turns out
+
+01:10:30.000 --> 01:10:31.000
+that this formula really allows us
+
+01:10:32.000 --> 01:10:33.000
+to calculate the optimal price
+
+01:10:34.000 --> 01:10:35.000
+in terms of profit maximization.
+
+01:10:35.000 --> 01:10:36.000
+Now let's consider
+
+01:10:37.000 --> 01:10:38.000
+the next important indicator,
+
+01:10:39.000 --> 01:10:40.000
+that is, the elasticity of demand for the price.
+
+01:10:41.000 --> 01:10:42.000
+The elasticity of demand for the price
+
+01:10:43.000 --> 01:10:44.000
+is calculated as
+
+01:10:45.000 --> 01:10:46.000
+the ratio of the change in the volume of sales
+
+01:10:47.000 --> 01:10:48.000
+to the change in the price.
+
+01:10:49.000 --> 01:10:50.000
+What does elasticity mean?
+
+01:10:51.000 --> 01:10:52.000
+The meaning of the elasticity indicator
+
+01:10:53.000 --> 01:10:54.000
+is that it helps us to determine
+
+01:10:55.000 --> 01:10:56.000
+how many percent
+
+01:10:57.000 --> 01:10:58.000
+the volume of sales will change
+
+01:10:59.000 --> 01:11:00.000
+when the price changes by 1%.
+
+01:11:01.000 --> 01:11:02.000
+For example,
+
+01:11:02.000 --> 01:11:03.000
+if our elasticity of demand for the price
+
+01:11:04.000 --> 01:11:05.000
+is equal to minus 5,
+
+01:11:06.000 --> 01:11:07.000
+it means that
+
+01:11:08.000 --> 01:11:09.000
+when the price increases by 1%,
+
+01:11:10.000 --> 01:11:11.000
+our volume of sales
+
+01:11:12.000 --> 01:11:13.000
+decreases by 5%.
+
+01:11:14.000 --> 01:11:15.000
+Why does it decrease?
+
+01:11:16.000 --> 01:11:17.000
+Because the indicator is equal to minus 5.
+
+01:11:18.000 --> 01:11:19.000
+The minus sign means
+
+01:11:20.000 --> 01:11:21.000
+that we have a connection
+
+01:11:22.000 --> 01:11:23.000
+between the price and the demand,
+
+01:11:24.000 --> 01:11:25.000
+in this case, the opposite.
+
+01:11:26.000 --> 01:11:27.000
+Now, do the task from the workbook.
+
+01:11:32.000 --> 01:11:33.000
+The next indicator
+
+01:11:34.000 --> 01:11:35.000
+that is usually calculated
+
+01:11:36.000 --> 01:11:37.000
+in price education
+
+01:11:38.000 --> 01:11:39.000
+is the so-called price cascade.
+
+01:11:40.000 --> 01:11:41.000
+There are often cases
+
+01:11:42.000 --> 01:11:43.000
+when the price
+
+01:11:44.000 --> 01:11:45.000
+that the buyer pays for the product
+
+01:11:46.000 --> 01:11:47.000
+is seriously different
+
+01:11:48.000 --> 01:11:49.000
+from the price in the price list,
+
+01:11:50.000 --> 01:11:51.000
+because there are various discounts.
+
+01:11:52.000 --> 01:11:53.000
+Discounts for the volume of sales,
+
+01:11:54.000 --> 01:11:55.000
+discounts for the constant price,
+
+01:11:56.000 --> 01:11:57.000
+discounts for the change in the price,
+
+01:11:58.000 --> 01:11:59.000
+discounts for the change in the price,
+
+01:12:00.000 --> 01:12:01.000
+discounts for the change in the price,
+
+01:12:02.000 --> 01:12:03.000
+discounts for the change in the price,
+
+01:12:04.000 --> 01:12:05.000
+discounts for certain payment conditions,
+
+01:12:06.000 --> 01:12:07.000
+these discounts are especially common
+
+01:12:08.000 --> 01:12:09.000
+in the industrial market.
+
+01:12:10.000 --> 01:12:11.000
+And to understand
+
+01:12:12.000 --> 01:12:13.000
+how much the real price of transactions
+
+01:12:14.000 --> 01:12:15.000
+differs from the price in the price list,
+
+01:12:16.000 --> 01:12:18.000
+we calculate the price cascade,
+
+01:12:19.000 --> 01:12:21.000
+that is, the attitude of the real price
+
+01:12:22.000 --> 01:12:23.000
+to the price in the price list.
+
+01:12:24.000 --> 01:12:27.000
+Do the task from the workbook.
+
+01:12:32.000 --> 01:12:40.000
+Now we move on to the next group of marketing metrics,
+
+01:12:41.000 --> 01:12:43.000
+these are the metrics for the promotion of a product.
+
+01:12:44.000 --> 01:12:48.000
+Let's divide the promotion of a product in this case into two parts.
+
+01:12:49.000 --> 01:12:52.000
+Metrics in the stimulus of sales and metrics in advertising.
+
+01:12:53.000 --> 01:12:56.000
+First, let's consider the metrics in the stimulus of sales.
+
+01:12:57.000 --> 01:12:59.000
+Almost every company has carried out at least once
+
+01:12:59.000 --> 01:13:01.000
+a promotion of a product,
+
+01:13:02.000 --> 01:13:03.000
+offered discounts to its customers.
+
+01:13:04.000 --> 01:13:07.000
+But in order to understand the purpose of offering
+
+01:13:08.000 --> 01:13:11.000
+different discounts in different situations to your customers,
+
+01:13:12.000 --> 01:13:13.000
+it is necessary to calculate in advance
+
+01:13:14.000 --> 01:13:17.000
+how much sales volume is needed
+
+01:13:18.000 --> 01:13:23.000
+to ensure the profitability of our promotion of a product.
+
+01:13:24.000 --> 01:13:27.000
+That is, how much we should increase the sales volume
+
+01:13:27.000 --> 01:13:32.000
+so that our profit does not decrease
+
+01:13:33.000 --> 01:13:35.000
+due to the fact that we offer discounts to our customers.
+
+01:13:36.000 --> 01:13:38.000
+In the slide you can see the formula.
+
+01:13:39.000 --> 01:13:40.000
+Knowing the size of the estimated discount
+
+01:13:41.000 --> 01:13:43.000
+and the marginal profit per unit of the product,
+
+01:13:44.000 --> 01:13:47.000
+we can calculate how much our sales volume should increase,
+
+01:13:48.000 --> 01:13:50.000
+to minimize the loss of money
+
+01:13:51.000 --> 01:13:53.000
+as a result of this promotion,
+
+01:13:54.000 --> 01:13:55.000
+as a result of the offer of discounts.
+
+01:13:55.000 --> 01:13:58.000
+Now, complete the task in your notebook.
+
+01:14:09.000 --> 01:14:12.000
+Now we move on to the metrics related to advertising.
+
+01:14:13.000 --> 01:14:16.000
+The main metrics used in advertising and media planning
+
+01:14:17.000 --> 01:14:21.000
+are impression, coverage, frequency and assessment coefficients.
+
+01:14:22.000 --> 01:14:23.000
+What does it all mean?
+
+01:14:23.000 --> 01:14:26.000
+Impression is the number of potential contacts
+
+01:14:27.000 --> 01:14:29.000
+of the target audience with our advertising message.
+
+01:14:30.000 --> 01:14:33.000
+Coverage is the number of people,
+
+01:14:34.000 --> 01:14:35.000
+the number of representatives of the target audience
+
+01:14:36.000 --> 01:14:40.000
+who had the opportunity to see our advertising message
+
+01:14:41.000 --> 01:14:42.000
+during a certain show.
+
+01:14:43.000 --> 01:14:47.000
+Pure coverage is the number of representatives of the target audience
+
+01:14:48.000 --> 01:14:51.000
+who actually saw our advertising message.
+
+01:14:51.000 --> 01:14:54.000
+The coverage is the number of people who could see it,
+
+01:14:55.000 --> 01:14:56.000
+but we don't know if they saw it or not.
+
+01:14:57.000 --> 01:14:58.000
+Pure coverage is the number of people who saw it,
+
+01:14:59.000 --> 01:15:00.000
+we know it.
+
+01:15:01.000 --> 01:15:04.000
+This information is obtained during marketing research.
+
+01:15:05.000 --> 01:15:07.000
+Frequency is the number of times
+
+01:15:08.000 --> 01:15:10.000
+the representative of the target audience
+
+01:15:11.000 --> 01:15:14.000
+could see our message on average.
+
+01:15:15.000 --> 01:15:18.000
+And the more complex metric is the assessment coefficient
+
+01:15:19.000 --> 01:15:20.000
+or rating point.
+
+01:15:21.000 --> 01:15:23.000
+The percentage of representatives of the target audience
+
+01:15:24.000 --> 01:15:26.000
+who had the opportunity to see our advertising message
+
+01:15:27.000 --> 01:15:30.000
+may seem to be the same as coverage.
+
+01:15:31.000 --> 01:15:32.000
+The target audience is the same,
+
+01:15:33.000 --> 01:15:37.000
+and we count who could see our advertising message.
+
+01:15:38.000 --> 01:15:39.000
+But in case of coverage,
+
+01:15:40.000 --> 01:15:42.000
+the number of people is the indicator.
+
+01:15:43.000 --> 01:15:44.000
+In case of rating point,
+
+01:15:45.000 --> 01:15:46.000
+the indicator is in percentages.
+
+01:15:47.000 --> 01:15:50.000
+Although it is often indicated without the percentage sign.
+
+01:15:51.000 --> 01:15:54.000
+If the rating point is 5,
+
+01:15:55.000 --> 01:15:58.000
+it means that 5% of the target audience
+
+01:15:59.000 --> 01:16:01.000
+had the opportunity to see our advertising message.
+
+01:16:02.000 --> 01:16:04.000
+If the coverage is 5,
+
+01:16:05.000 --> 01:16:06.000
+it means that 5 people
+
+01:16:07.000 --> 01:16:10.000
+had the opportunity to see our advertising message.
+
+01:16:11.000 --> 01:16:14.000
+And finally, the Graphical Rating Point.
+
+01:16:15.000 --> 01:16:16.000
+Sometimes it is simply called GRP.
+
+01:16:17.000 --> 01:16:18.000
+It is the rating point
+
+01:16:19.000 --> 01:16:22.000
+accumulated by all the indicators of our advertising message.
+
+01:16:23.000 --> 01:16:24.000
+To better understand how it is calculated
+
+01:16:25.000 --> 01:16:26.000
+and what all these indicators mean,
+
+01:16:27.000 --> 01:16:28.000
+let's look at an example.
+
+01:16:29.000 --> 01:16:33.000
+So, let's imagine that our target audience is 5 people.
+
+01:16:34.000 --> 01:16:37.000
+And we had 5 indicators of our advertising message.
+
+01:16:38.000 --> 01:16:39.000
+You can see in the table
+
+01:16:40.000 --> 01:16:41.000
+that the pluses mean that
+
+01:16:42.000 --> 01:16:43.000
+this representative of the target audience
+
+01:16:44.000 --> 01:16:45.000
+had the opportunity to see our message.
+
+01:16:46.000 --> 01:16:47.000
+The minuses mean that
+
+01:16:48.000 --> 01:16:50.000
+he did not have the opportunity to see our advertising message
+
+01:16:51.000 --> 01:16:52.000
+at the time of this show.
+
+01:16:53.000 --> 01:16:54.000
+We are calculating the impression.
+
+01:16:55.000 --> 01:16:58.000
+Try to calculate the impression indicator yourself.
+
+01:16:59.000 --> 01:17:03.000
+That is, the number of potential contacts of the target audience.
+
+01:17:03.000 --> 01:17:04.000
+Calculating the impression
+
+01:17:05.000 --> 01:17:07.000
+and knowing what our target audience is in general,
+
+01:17:08.000 --> 01:17:09.000
+that is, 100%,
+
+01:17:10.000 --> 01:17:11.000
+and 100% is 5 people,
+
+01:17:12.000 --> 01:17:14.000
+we can calculate the rating point
+
+01:17:15.000 --> 01:17:17.000
+as a percentage of those representatives of the target audience
+
+01:17:18.000 --> 01:17:19.000
+who could see the message
+
+01:17:20.000 --> 01:17:22.000
+in relation to the audience of the target audience.
+
+01:17:23.000 --> 01:17:24.000
+And this percentage
+
+01:17:25.000 --> 01:17:26.000
+is calculated
+
+01:17:27.000 --> 01:17:29.000
+by the number of contacts of the target audience.
+
+01:17:29.000 --> 01:17:30.000
+And this percentage
+
+01:17:31.000 --> 01:17:32.000
+is calculated
+
+01:17:33.000 --> 01:17:35.000
+by the number of contacts of the target audience.
+
+01:17:36.000 --> 01:17:38.000
+And when we calculate all the rating points,
+
+01:17:39.000 --> 01:17:40.000
+that is, the points for each show,
+
+01:17:41.000 --> 01:17:42.000
+we can add them up,
+
+01:17:43.000 --> 01:17:44.000
+and we get the value of the rating point.
+
+01:17:45.000 --> 01:17:46.000
+Let's see what the answers should be.
+
+01:17:47.000 --> 01:17:50.000
+You see that for each show we calculated the impression.
+
+01:17:51.000 --> 01:17:52.000
+That is, how many contacts
+
+01:17:53.000 --> 01:17:55.000
+of the target audience were there for each show.
+
+01:17:56.000 --> 01:17:57.000
+If we had 3 impressions,
+
+01:17:57.000 --> 01:17:59.000
+and the target audience is 5 people,
+
+01:18:00.000 --> 01:18:01.000
+then this is 60%.
+
+01:18:02.000 --> 01:18:05.000
+That is, the rating point for the first show is 60%.
+
+01:18:06.000 --> 01:18:07.000
+And so on.
+
+01:18:08.000 --> 01:18:09.000
+We calculate and, in the end,
+
+01:18:10.000 --> 01:18:11.000
+adding up all the rating points for each show,
+
+01:18:12.000 --> 01:18:13.000
+we get the value of the rating point.
+
+01:18:14.000 --> 01:18:16.000
+The next indicators used in media planning
+
+01:18:17.000 --> 01:18:18.000
+are the effective frequency
+
+01:18:19.000 --> 01:18:20.000
+and effective coverage.
+
+01:18:21.000 --> 01:18:23.000
+You remember that frequency is the average number of times
+
+01:18:24.000 --> 01:18:25.000
+that a representative of the target audience
+
+01:18:25.000 --> 01:18:27.000
+could see our message.
+
+01:18:28.000 --> 01:18:30.000
+Effective frequency is the number of times
+
+01:18:31.000 --> 01:18:32.000
+that, in our opinion,
+
+01:18:33.000 --> 01:18:36.000
+a customer needs to not only see,
+
+01:18:37.000 --> 01:18:39.000
+but also perceive, understand our message.
+
+01:18:40.000 --> 01:18:41.000
+In many cases, it is quite obvious
+
+01:18:42.000 --> 01:18:45.000
+that seeing the message once is not enough.
+
+01:18:46.000 --> 01:18:49.000
+The customer may not record anything from this message,
+
+01:18:50.000 --> 01:18:51.000
+and, accordingly, it will not affect
+
+01:18:52.000 --> 01:18:54.000
+his behavior when making purchases.
+
+01:18:55.000 --> 01:18:56.000
+That is why, most often,
+
+01:18:57.000 --> 01:18:59.000
+companies set a certain effective frequency,
+
+01:19:00.000 --> 01:19:01.000
+that is, the minimum number of times
+
+01:19:02.000 --> 01:19:03.000
+that the message should be seen
+
+01:19:04.000 --> 01:19:06.000
+so that something happens in the customer's head,
+
+01:19:07.000 --> 01:19:08.000
+so that it somehow affects his behavior.
+
+01:19:09.000 --> 01:19:10.000
+And, having established an effective frequency,
+
+01:19:11.000 --> 01:19:13.000
+we can calculate effective coverage.
+
+01:19:14.000 --> 01:19:17.000
+Effective coverage is the number of representatives
+
+01:19:18.000 --> 01:19:19.000
+of the target audience
+
+01:19:20.000 --> 01:19:22.000
+who could see our message
+
+01:19:22.000 --> 01:19:24.000
+and the number of times that the message should be seen.
+
+01:19:25.000 --> 01:19:26.000
+That is, with an effective frequency.
+
+01:19:27.000 --> 01:19:28.000
+Look at the table.
+
+01:19:29.000 --> 01:19:32.000
+You see that here we have the number of representatives
+
+01:19:33.000 --> 01:19:34.000
+of the target audience
+
+01:19:35.000 --> 01:19:37.000
+who had the opportunity to see our message
+
+01:19:38.000 --> 01:19:39.000
+with a certain number of times,
+
+01:19:40.000 --> 01:19:41.000
+that is, with a certain frequency.
+
+01:19:42.000 --> 01:19:43.000
+Suppose we establish that
+
+01:19:44.000 --> 01:19:46.000
+an effective frequency is 3 for us.
+
+01:19:47.000 --> 01:19:50.000
+Calculate what is the effective coverage in this case.
+
+01:19:52.000 --> 01:19:53.000
+We see that in this case,
+
+01:19:54.000 --> 01:19:55.000
+only those who have seen our message
+
+01:19:56.000 --> 01:19:57.000
+three or more times
+
+01:19:58.000 --> 01:19:59.000
+get under the effective coverage.
+
+01:20:00.000 --> 01:20:02.000
+That is, we add up the number of representatives
+
+01:20:03.000 --> 01:20:04.000
+of the target audience
+
+01:20:05.000 --> 01:20:06.000
+who saw the message three times,
+
+01:20:07.000 --> 01:20:08.000
+four times and five times
+
+01:20:09.000 --> 01:20:11.000
+and get 98,000 people.
+
+01:20:12.000 --> 01:20:13.000
+This is our effective coverage.
+
+01:20:14.000 --> 01:20:15.000
+And we see that
+
+01:20:16.000 --> 01:20:17.000
+the number of people who saw our message
+
+01:20:18.000 --> 01:20:19.000
+three times, four times and five times
+
+01:20:19.000 --> 01:20:20.000
+get 98,000 people.
+
+01:20:21.000 --> 01:20:22.000
+This is our effective coverage.
+
+01:20:23.000 --> 01:20:25.000
+The following metrics have a more general nature.
+
+01:20:26.000 --> 01:20:28.000
+They reflect the effectiveness of marketing as a whole.
+
+01:20:29.000 --> 01:20:31.000
+Surely, many of you have encountered
+
+01:20:32.000 --> 01:20:33.000
+the indicators of profitability and sales.
+
+01:20:34.000 --> 01:20:35.000
+This indicator is calculated as
+
+01:20:36.000 --> 01:20:37.000
+net profit as a percentage of revenue.
+
+01:20:38.000 --> 01:20:39.000
+Profitability of investments
+
+01:20:40.000 --> 01:20:41.000
+or return on investment
+
+01:20:42.000 --> 01:20:43.000
+is also probably familiar to many.
+
+01:20:44.000 --> 01:20:45.000
+Here we have
+
+01:20:46.000 --> 01:20:47.000
+the indicators calculated as net profit
+
+01:20:47.000 --> 01:20:49.000
+as a percentage of our investments.
+
+01:20:50.000 --> 01:20:53.000
+But there is a specific indicator in marketing.
+
+01:20:54.000 --> 01:20:56.000
+This is profitability of marketing investments.
+
+01:20:57.000 --> 01:20:58.000
+It is called RMI.
+
+01:20:59.000 --> 01:21:01.000
+Here we take the conversion of sales volume
+
+01:21:02.000 --> 01:21:04.000
+obtained precisely due to marketing activity,
+
+01:21:05.000 --> 01:21:06.000
+that is, the volume of sales
+
+01:21:07.000 --> 01:21:08.000
+that would not have been without marketing,
+
+01:21:09.000 --> 01:21:11.000
+multiply by the return,
+
+01:21:12.000 --> 01:21:13.000
+and you remember that this is
+
+01:21:14.000 --> 01:21:15.000
+the difference in price and variable costs,
+
+01:21:15.000 --> 01:21:17.000
+and subtract from this value
+
+01:21:18.000 --> 01:21:19.000
+the costs of marketing.
+
+01:21:20.000 --> 01:21:22.000
+In fact, this is how we calculate
+
+01:21:23.000 --> 01:21:24.000
+the conversion of our profit
+
+01:21:25.000 --> 01:21:27.000
+obtained as a result of marketing activity.
+
+01:21:28.000 --> 01:21:30.000
+And we divide this value by the costs of marketing.
+
+01:21:31.000 --> 01:21:34.000
+The higher the RMI of the investment in marketing,
+
+01:21:35.000 --> 01:21:36.000
+the more effective
+
+01:21:37.000 --> 01:21:39.000
+the marketing activity of the company.
+
+01:21:40.000 --> 01:21:42.000
+Now, do the task from the workbook.
+
+01:21:42.000 --> 01:21:44.000
+Calculate the profitability of investment in marketing
+
+01:21:45.000 --> 01:21:47.000
+according to the proposed condition.
+
+01:22:03.000 --> 01:22:05.000
+So, having considered the main marketing metrics,
+
+01:22:06.000 --> 01:22:08.000
+we now have to analyze
+
+01:22:09.000 --> 01:22:10.000
+how we can use them
+
+01:22:10.000 --> 01:22:12.000
+for a more complex assessment
+
+01:22:13.000 --> 01:22:15.000
+of our marketing activity
+
+01:22:16.000 --> 01:22:18.000
+and for the control of marketing in the company.
+
+01:22:19.000 --> 01:22:21.000
+The first element of control in marketing
+
+01:22:22.000 --> 01:22:24.000
+is the control over the implementation of annual plans.
+
+01:22:25.000 --> 01:22:26.000
+What is the point here?
+
+01:22:27.000 --> 01:22:28.000
+At the beginning of the marketing plan, as we remember,
+
+01:22:29.000 --> 01:22:30.000
+companies choose indicators
+
+01:22:31.000 --> 01:22:32.000
+according to which they will further control
+
+01:22:33.000 --> 01:22:34.000
+their marketing activity.
+
+01:22:35.000 --> 01:22:37.000
+And, of course, according to each indicator,
+
+01:22:38.000 --> 01:22:39.000
+the company sets a certain goal,
+
+01:22:40.000 --> 01:22:42.000
+which it would like to achieve.
+
+01:22:43.000 --> 01:22:44.000
+At the stage of control,
+
+01:22:45.000 --> 01:22:46.000
+we compare the target indicator
+
+01:22:47.000 --> 01:22:48.000
+and the real one,
+
+01:22:49.000 --> 01:22:50.000
+the one we have achieved
+
+01:22:51.000 --> 01:22:52.000
+during a certain period.
+
+01:22:53.000 --> 01:22:54.000
+The indicators
+
+01:22:55.000 --> 01:22:56.000
+for which the control is carried out
+
+01:22:57.000 --> 01:22:58.000
+for the implementation of the plans
+
+01:22:59.000 --> 01:23:00.000
+are divided into several groups.
+
+01:23:01.000 --> 01:23:02.000
+First, this is an analysis of the profitability.
+
+01:23:03.000 --> 01:23:04.000
+These are all indicators
+
+01:23:05.000 --> 01:23:06.000
+related to the goals for profitability.
+
+01:23:07.000 --> 01:23:10.000
+Next, the goals for the market share are assessed.
+
+01:23:11.000 --> 01:23:12.000
+Have we achieved the market share
+
+01:23:13.000 --> 01:23:15.000
+that was initially set as a goal?
+
+01:23:16.000 --> 01:23:18.000
+Here we assess both the market share
+
+01:23:19.000 --> 01:23:20.000
+and the relative market share.
+
+01:23:21.000 --> 01:23:23.000
+We also assess the level of our marketing costs.
+
+01:23:24.000 --> 01:23:26.000
+Have they exceeded the limit
+
+01:23:27.000 --> 01:23:28.000
+that we have set?
+
+01:23:29.000 --> 01:23:30.000
+And what is the ratio
+
+01:23:31.000 --> 01:23:32.000
+of the result obtained
+
+01:23:33.000 --> 01:23:34.000
+in terms of sales
+
+01:23:34.000 --> 01:23:36.000
+and the cost of the sales?
+
+01:23:37.000 --> 01:23:38.000
+Another integral part
+
+01:23:39.000 --> 01:23:41.000
+of the control for the implementation of the annual plans
+
+01:23:42.000 --> 01:23:44.000
+is monitoring the consumers.
+
+01:23:45.000 --> 01:23:46.000
+Here all the metrics are considered,
+
+01:23:47.000 --> 01:23:48.000
+which are related to the consumers
+
+01:23:49.000 --> 01:23:50.000
+we have talked about.
+
+01:23:51.000 --> 01:23:52.000
+We set goals for awareness,
+
+01:23:53.000 --> 01:23:56.000
+for the perception of our product or our brand,
+
+01:23:57.000 --> 01:23:58.000
+for the attitude of the buyer,
+
+01:23:59.000 --> 01:24:00.000
+for the retention of the buyer,
+
+01:24:01.000 --> 01:24:02.000
+and so on.
+
+01:24:02.000 --> 01:24:03.000
+We also monitor
+
+01:24:04.000 --> 01:24:05.000
+whether we have achieved
+
+01:24:06.000 --> 01:24:07.000
+the goals that we had set
+
+01:24:08.000 --> 01:24:10.000
+at the beginning of our planning.
+
+01:24:11.000 --> 01:24:12.000
+We also monitor
+
+01:24:13.000 --> 01:24:14.000
+whether we have achieved something.
+
+01:24:15.000 --> 01:24:18.000
+We also conduct an analysis of the financial indicators
+
+01:24:19.000 --> 01:24:22.000
+related to the achievement of the desired level of profit,
+
+01:24:23.000 --> 01:24:24.000
+level of return,
+
+01:24:25.000 --> 01:24:26.000
+level of margin.
+
+01:24:27.000 --> 01:24:28.000
+After the company has determined
+
+01:24:29.000 --> 01:24:30.000
+whether the real business situation
+
+01:24:30.000 --> 01:24:31.000
+is in line with the goals,
+
+01:24:32.000 --> 01:24:34.000
+whether the goals we had set at the beginning
+
+01:24:35.000 --> 01:24:36.000
+have been achieved,
+
+01:24:37.000 --> 01:24:39.000
+the next step is the control of profitability.
+
+01:24:40.000 --> 01:24:41.000
+Here, as a rule,
+
+01:24:42.000 --> 01:24:43.000
+the main indicators of profitability are calculated,
+
+01:24:44.000 --> 01:24:45.000
+profitability of sales,
+
+01:24:46.000 --> 01:24:47.000
+profitability of investments
+
+01:24:48.000 --> 01:24:49.000
+and profitability of marketing investments.
+
+01:24:50.000 --> 01:24:51.000
+And finally, if the company sees
+
+01:24:52.000 --> 01:24:53.000
+that there are some problems
+
+01:24:54.000 --> 01:24:55.000
+with achieving the goals,
+
+01:24:56.000 --> 01:24:57.000
+that is,
+
+01:24:57.000 --> 01:24:58.000
+the sales goals are not achieved,
+
+01:24:59.000 --> 01:25:01.000
+the market share does not correspond to the desired one,
+
+01:25:02.000 --> 01:25:03.000
+or the attitude to the product of the consumer
+
+01:25:04.000 --> 01:25:06.000
+is not what we would like to get,
+
+01:25:07.000 --> 01:25:08.000
+then we plan to carry out
+
+01:25:09.000 --> 01:25:10.000
+such a rather large-scale event
+
+01:25:11.000 --> 01:25:12.000
+as a marketing audit.
+
+01:25:13.000 --> 01:25:14.000
+This is an independent study
+
+01:25:15.000 --> 01:25:16.000
+of all the indicators of the company's activities,
+
+01:25:17.000 --> 01:25:18.000
+which allows us to understand
+
+01:25:19.000 --> 01:25:20.000
+what are the reasons
+
+01:25:21.000 --> 01:25:22.000
+for the insufficient achievement of the goals
+
+01:25:23.000 --> 01:25:25.000
+and what the company needs to change.
+
+01:25:25.000 --> 01:25:26.000
+The marketing audit
+
+01:25:27.000 --> 01:25:28.000
+consists of several elements.
+
+01:25:29.000 --> 01:25:30.000
+We analyze the marketing environment
+
+01:25:31.000 --> 01:25:32.000
+and the marketing strategy,
+
+01:25:33.000 --> 01:25:35.000
+we analyze the organization of marketing in the company,
+
+01:25:36.000 --> 01:25:37.000
+we organize all the systems,
+
+01:25:38.000 --> 01:25:39.000
+everything related to marketing,
+
+01:25:40.000 --> 01:25:41.000
+because the roots of our problems
+
+01:25:42.000 --> 01:25:44.000
+can lie in any of these elements.
+
+01:25:45.000 --> 01:25:46.000
+The conspectus and the working notebook
+
+01:25:47.000 --> 01:25:49.000
+offer you a rather detailed plan,
+
+01:25:50.000 --> 01:25:51.000
+which is offered by foreign researchers
+
+01:25:52.000 --> 01:25:53.000
+to companies for the purpose of
+
+01:25:53.000 --> 01:25:54.000
+the marketing audit.
+
+01:25:55.000 --> 01:25:56.000
+It contains a large number
+
+01:25:57.000 --> 01:25:58.000
+of marketing aspects,
+
+01:25:59.000 --> 01:26:00.000
+and if necessary,
+
+01:26:01.000 --> 01:26:02.000
+you can use this algorithm
+
+01:26:03.000 --> 01:26:04.000
+to conduct a marketing audit
+
+01:26:05.000 --> 01:26:06.000
+in your company.
+
+01:26:07.000 --> 01:26:08.000
+The marketing audit offered
+
+01:26:09.000 --> 01:26:10.000
+by foreign researchers
+
+01:26:11.000 --> 01:26:12.000
+is quite complex
+
+01:26:13.000 --> 01:26:14.000
+and involves a large-scale activity,
+
+01:26:15.000 --> 01:26:16.000
+which cannot be required of you
+
+01:26:17.000 --> 01:26:18.000
+in the form of a mandatory task
+
+01:26:19.000 --> 01:26:20.000
+within the framework of this course.
+
+01:26:21.000 --> 01:26:22.000
+But the Russian company
+
+01:26:23.000 --> 01:26:24.000
+offers a simpler methodology,
+
+01:26:25.000 --> 01:26:26.000
+consisting of a questionnaire
+
+01:26:27.000 --> 01:26:28.000
+and its decoding.
+
+01:26:29.000 --> 01:26:30.000
+In the working notebook,
+
+01:26:31.000 --> 01:26:32.000
+in the conspectus,
+
+01:26:33.000 --> 01:26:34.000
+you can also find this questionnaire.
+
+01:26:35.000 --> 01:26:36.000
+I suggest you answer the questions
+
+01:26:37.000 --> 01:26:38.000
+of this questionnaire,
+
+01:26:39.000 --> 01:26:40.000
+which is essentially
+
+01:26:41.000 --> 01:26:42.000
+an instrument of assessing
+
+01:26:43.000 --> 01:26:44.000
+the effectiveness of marketing in the company
+
+01:26:45.000 --> 01:26:46.000
+and understand whether the effectiveness
+
+01:26:47.000 --> 01:26:48.000
+of your marketing is high enough
+
+01:26:49.000 --> 01:26:50.000
+and whether you have a reason
+
+01:26:51.000 --> 01:26:52.000
+to think about and conduct
+
+01:26:53.000 --> 01:26:55.000
+a more detailed audit of your activity.
+
+01:26:56.000 --> 01:26:58.000
+How to conduct a marketing audit
+
+01:26:59.000 --> 01:27:01.000
+in a strategic level
+
+01:27:02.000 --> 01:27:04.000
+How to conduct a marketing audit
+
+01:27:05.000 --> 01:27:06.000
+in a strategic level
+
+01:27:07.000 --> 01:27:08.000
+Now let's move on
+
+01:27:09.000 --> 01:27:10.000
+to strategic control.
+
+01:27:11.000 --> 01:27:12.000
+To conduct control at a strategic level
+
+01:27:13.000 --> 01:27:14.000
+means to understand
+
+01:27:15.000 --> 01:27:16.000
+whether the company is moving
+
+01:27:17.000 --> 01:27:18.000
+in the right direction in general
+
+01:27:19.000 --> 01:27:20.000
+or there are some conceptual problems
+
+01:27:21.000 --> 01:27:22.000
+that do not allow it
+
+01:27:23.000 --> 01:27:24.000
+to be successful.
+
+01:27:25.000 --> 01:27:26.000
+Strategic control consists of several stages.
+
+01:27:27.000 --> 01:27:28.000
+To begin with,
+
+01:27:29.000 --> 01:27:30.000
+we traditionally set the parameters
+
+01:27:31.000 --> 01:27:32.000
+of our strategy assessment.
+
+01:27:33.000 --> 01:27:34.000
+I mean the parameters of the strategy assessment,
+
+01:27:35.000 --> 01:27:37.000
+not the processes we talked about earlier.
+
+01:27:38.000 --> 01:27:39.000
+After that, the company must ensure
+
+01:27:40.000 --> 01:27:41.000
+that all the necessary information
+
+01:27:42.000 --> 01:27:43.000
+for assessment
+
+01:27:44.000 --> 01:27:45.000
+is collected on a regular basis
+
+01:27:46.000 --> 01:27:47.000
+in order to have the opportunity
+
+01:27:48.000 --> 01:27:49.000
+to evaluate this information
+
+01:27:50.000 --> 01:27:51.000
+and use it for control.
+
+01:27:52.000 --> 01:27:53.000
+After we have collected information
+
+01:27:54.000 --> 01:27:55.000
+about our activity
+
+01:27:56.000 --> 01:27:57.000
+based on the selected parameters,
+
+01:27:58.000 --> 01:27:59.000
+we can compare
+
+01:28:00.000 --> 01:28:01.000
+the real and the desired parameters.
+
+01:28:02.000 --> 01:28:03.000
+And according to the results,
+
+01:28:04.000 --> 01:28:05.000
+the company makes a decision
+
+01:28:06.000 --> 01:28:07.000
+about the adjustment.
+
+01:28:08.000 --> 01:28:09.000
+What situations do we have?
+
+01:28:10.000 --> 01:28:11.000
+There is a situation
+
+01:28:12.000 --> 01:28:13.000
+when the planned results
+
+01:28:14.000 --> 01:28:15.000
+correspond to the real results.
+
+01:28:16.000 --> 01:28:17.000
+This is probably the simplest situation.
+
+01:28:18.000 --> 01:28:19.000
+But it is not always like that.
+
+01:28:19.000 --> 01:28:20.000
+There is a situation
+
+01:28:21.000 --> 01:28:22.000
+when the real performance
+
+01:28:23.000 --> 01:28:24.000
+of the company
+
+01:28:25.000 --> 01:28:26.000
+is higher than the desired performance.
+
+01:28:27.000 --> 01:28:28.000
+It is higher than the desired performance.
+
+01:28:29.000 --> 01:28:30.000
+What does it mean?
+
+01:28:31.000 --> 01:28:32.000
+We have overcompleted our plan?
+
+01:28:33.000 --> 01:28:34.000
+This is not good.
+
+01:28:35.000 --> 01:28:36.000
+Why?
+
+01:28:37.000 --> 01:28:38.000
+It means that we have set
+
+01:28:39.000 --> 01:28:40.000
+inadequate goals.
+
+01:28:41.000 --> 01:28:42.000
+We need to reconsider our goals.
+
+01:28:43.000 --> 01:28:44.000
+Maybe we have deliberately
+
+01:28:45.000 --> 01:28:46.000
+or unconsciously lowered the bar
+
+01:28:47.000 --> 01:28:48.000
+and did not reach the results
+
+01:28:49.000 --> 01:28:50.000
+we could have achieved.
+
+01:28:51.000 --> 01:28:52.000
+In a situation when
+
+01:28:53.000 --> 01:28:54.000
+the real performance is worse
+
+01:28:55.000 --> 01:28:56.000
+than the planned performance,
+
+01:28:57.000 --> 01:28:58.000
+the company usually
+
+01:28:59.000 --> 01:29:00.000
+needs to make adjustments.
+
+01:29:01.000 --> 01:29:02.000
+What does it mean to make adjustments?
+
+01:29:03.000 --> 01:29:04.000
+There are no obvious solutions.
+
+01:29:05.000 --> 01:29:06.000
+First of all,
+
+01:29:07.000 --> 01:29:08.000
+after we get
+
+01:29:09.000 --> 01:29:10.000
+a negative result,
+
+01:29:11.000 --> 01:29:12.000
+we see that the implementation of the strategy
+
+01:29:13.000 --> 01:29:14.000
+did not give us the desired results,
+
+01:29:15.000 --> 01:29:16.000
+we should pay attention
+
+01:29:17.000 --> 01:29:18.000
+to the selected parameters
+
+01:29:19.000 --> 01:29:20.000
+and evaluation indicators.
+
+01:29:21.000 --> 01:29:22.000
+Maybe we have chosen
+
+01:29:23.000 --> 01:29:24.000
+the wrong evaluation indicators
+
+01:29:25.000 --> 01:29:26.000
+and that is why we have
+
+01:29:27.000 --> 01:29:28.000
+not achieved a good result.
+
+01:29:29.000 --> 01:29:30.000
+If we have checked our parameters
+
+01:29:31.000 --> 01:29:32.000
+and decided that they were
+
+01:29:33.000 --> 01:29:34.000
+adequately selected
+
+01:29:35.000 --> 01:29:36.000
+in terms of the current market situation,
+
+01:29:37.000 --> 01:29:38.000
+we should think
+
+01:29:39.000 --> 01:29:40.000
+if our goals are adequate.
+
+01:29:41.000 --> 01:29:42.000
+If we confirm that
+
+01:29:43.000 --> 01:29:44.000
+our goals are relevant
+
+01:29:45.000 --> 01:29:46.000
+and there is no point in changing them,
+
+01:29:47.000 --> 01:29:48.000
+we should pay attention
+
+01:29:49.000 --> 01:29:50.000
+to the strategy.
+
+01:29:51.000 --> 01:29:52.000
+Maybe the problem
+
+01:29:53.000 --> 01:29:54.000
+in the implementation of the strategy
+
+01:29:55.000 --> 01:29:56.000
+is that the strategy was chosen
+
+01:29:57.000 --> 01:29:58.000
+incorrectly.
+
+01:29:59.000 --> 01:30:00.000
+Only if we get a confirmation
+
+01:30:01.000 --> 01:30:02.000
+that the strategy was chosen
+
+01:30:03.000 --> 01:30:04.000
+correctly and corresponds
+
+01:30:05.000 --> 01:30:06.000
+to the current situation
+
+01:30:07.000 --> 01:30:08.000
+in the external and internal
+
+01:30:09.000 --> 01:30:10.000
+environment of the company,
+
+01:30:11.000 --> 01:30:12.000
+only after that we make
+
+01:30:13.000 --> 01:30:14.000
+a decision to adjust
+
+01:30:15.000 --> 01:30:16.000
+the implementation of processes
+
+01:30:17.000 --> 01:30:18.000
+and operations in the company.
+
+01:30:19.000 --> 01:30:20.000
+We should make adjustments
+
+01:30:21.000 --> 01:30:22.000
+to the evaluation indicators
+
+01:30:23.000 --> 01:30:24.000
+and the strategy before
+
+01:30:25.000 --> 01:30:26.000
+the adjustment of operations.
+
+01:30:27.000 --> 01:30:28.000
+Now, complete the following task
+
+01:30:29.000 --> 01:30:30.000
+from the workbook.
+
+01:30:43.000 --> 01:30:44.000
+In conclusion,
+
+01:30:45.000 --> 01:30:46.000
+I would like to note the following.
+
+01:30:47.000 --> 01:30:48.000
+First of all,
+
+01:30:49.000 --> 01:30:50.000
+the control of marketing activities
+
+01:30:51.000 --> 01:30:52.000
+is certainly not a panacea.
+
+01:30:53.000 --> 01:30:54.000
+There are many situations
+
+01:30:55.000 --> 01:30:56.000
+when the control
+
+01:30:57.000 --> 01:30:58.000
+can only harm the company,
+
+01:30:59.000 --> 01:31:01.000
+namely, when the control is not carried out correctly.
+
+01:31:02.000 --> 01:31:03.000
+Let's look at several situations
+
+01:31:04.000 --> 01:31:05.000
+when the control
+
+01:31:06.000 --> 01:31:08.000
+can be carried out with some mistakes.
+
+01:31:09.000 --> 01:31:10.000
+First,
+
+01:31:11.000 --> 01:31:12.000
+there is a common situation
+
+01:31:13.000 --> 01:31:14.000
+when the control becomes
+
+01:31:15.000 --> 01:31:16.000
+not a means of achieving
+
+01:31:17.000 --> 01:31:18.000
+a certain result,
+
+01:31:19.000 --> 01:31:20.000
+when the company
+
+01:31:21.000 --> 01:31:22.000
+carries out the control
+
+01:31:23.000 --> 01:31:24.000
+only for the sake of
+
+01:31:25.000 --> 01:31:26.000
+the process of the control.
+
+01:31:27.000 --> 01:31:28.000
+And often in this situation
+
+01:31:29.000 --> 01:31:30.000
+the ordinary employees suffer,
+
+01:31:31.000 --> 01:31:33.000
+who are under constant control.
+
+01:31:34.000 --> 01:31:35.000
+They do not see why
+
+01:31:36.000 --> 01:31:37.000
+this control is carried out
+
+01:31:38.000 --> 01:31:39.000
+and it really does not give anything to the company.
+
+01:31:40.000 --> 01:31:41.000
+The second situation is related to the fact
+
+01:31:42.000 --> 01:31:43.000
+that managers, as a result of large-scale
+
+01:31:44.000 --> 01:31:45.000
+control measures and evaluation of activities,
+
+01:31:46.000 --> 01:31:47.000
+are simply overwhelmed
+
+01:31:47.000 --> 01:31:48.000
+with information about the results,
+
+01:31:49.000 --> 01:31:50.000
+about the controlled indicators,
+
+01:31:51.000 --> 01:31:52.000
+and they simply do not have time
+
+01:31:53.000 --> 01:31:54.000
+to figure out all the indicators
+
+01:31:55.000 --> 01:31:56.000
+they receive
+
+01:31:57.000 --> 01:31:58.000
+and in fact do not use them.
+
+01:31:59.000 --> 01:32:00.000
+That is, reports
+
+01:32:01.000 --> 01:32:02.000
+on the assessment of efficiency
+
+01:32:03.000 --> 01:32:04.000
+simply fall on the shelf
+
+01:32:05.000 --> 01:32:06.000
+and this does not give anything to the company.
+
+01:32:07.000 --> 01:32:08.000
+Such situations must also be avoided.
+
+01:32:09.000 --> 01:32:10.000
+And the third situation
+
+01:32:11.000 --> 01:32:12.000
+when the control can only harm the company
+
+01:32:13.000 --> 01:32:14.000
+occurs when the control
+
+01:32:15.000 --> 01:32:16.000
+is used
+
+01:32:17.000 --> 01:32:18.000
+for other purposes.
+
+01:32:19.000 --> 01:32:20.000
+For example,
+
+01:32:21.000 --> 01:32:22.000
+in some companies
+
+01:32:23.000 --> 01:32:24.000
+the control of the results of marketing activities
+
+01:32:25.000 --> 01:32:26.000
+is carried out
+
+01:32:27.000 --> 01:32:28.000
+exclusively to harm
+
+01:32:29.000 --> 01:32:30.000
+its employees in one way or another
+
+01:32:31.000 --> 01:32:32.000
+according to the results of this control.
+
+01:32:33.000 --> 01:32:34.000
+And often in such situations
+
+01:32:35.000 --> 01:32:36.000
+the results are bad.
+
+01:32:37.000 --> 01:32:38.000
+More precisely, they are almost always bad
+
+01:32:39.000 --> 01:32:40.000
+because the company sets
+
+01:32:41.000 --> 01:32:42.000
+inevitably unattainable goals,
+
+01:32:43.000 --> 01:32:44.000
+inevitably overestimated.
+
+01:32:45.000 --> 01:32:46.000
+It turns out that this control
+
+01:32:47.000 --> 01:32:48.000
+is used by the company's top managers
+
+01:32:49.000 --> 01:32:50.000
+to achieve other goals
+
+01:32:51.000 --> 01:32:52.000
+that have nothing to do
+
+01:32:53.000 --> 01:32:54.000
+with the efficiency of marketing.
+
+01:32:55.000 --> 01:32:56.000
+I would like to wish you
+
+01:32:57.000 --> 01:32:58.000
+to avoid these mistakes
+
+01:32:59.000 --> 01:33:00.000
+in the implementation of the control
+
+01:33:01.000 --> 01:33:02.000
+of marketing activities.
+
+01:33:03.000 --> 01:33:04.000
+I would like to wish you
+
+01:33:05.000 --> 01:33:06.000
+to really use the assessment
+
+01:33:07.000 --> 01:33:08.000
+of the efficiency of marketing
+
+01:33:09.000 --> 01:33:10.000
+in your companies.
+
+01:33:11.000 --> 01:33:12.000
+I would like to believe
+
+01:33:13.000 --> 01:33:14.000
+that all the formulas we have studied
+
+01:33:15.000 --> 01:33:16.000
+will come in handy for you
+
+01:33:17.000 --> 01:33:18.000
+in the implementation of the control
+
+01:33:19.000 --> 01:33:20.000
+and assessment of marketing
+
+01:33:21.000 --> 01:33:22.000
+in your company.
+
+01:33:23.000 --> 01:33:24.000
+Good luck in acquiring new knowledge
+
+01:33:25.000 --> 01:33:26.000
+and thank you for your attention.

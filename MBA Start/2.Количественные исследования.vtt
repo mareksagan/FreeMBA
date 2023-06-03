@@ -1,0 +1,3418 @@
+WEBVTT
+
+00:00.000 --> 00:13.160
+At the moment, we will move on to the next topic of our course, namely, linear programming.
+
+00:13.160 --> 00:21.240
+Let's start a little bit from afar. Imagine that you need to solve an equation, a solution that you
+
+00:21.240 --> 00:27.040
+cannot imagine. Well, let's say that you forgot the math course, and you want to solve the equation,
+
+00:27.040 --> 00:34.440
+for example, the form of cosine x is equal to sine x. The solution is quite simple, there are two angles, 45
+
+00:34.440 --> 00:47.520
+plus 180 would be 225 degrees, or in terms of pi, it is pi by 4, and, accordingly, pi plus pi by 4. But let's say
+
+00:47.520 --> 00:55.880
+that you forgot the math course and want to solve this equation. Can modern tools help you,
+
+00:55.880 --> 01:01.480
+for example, the Excel program? Yes, they can. Excel has a function called parameter selection,
+
+01:01.480 --> 01:09.800
+or in English goal seek. With its help, you can select one variable so that your equation is solved.
+
+01:09.800 --> 01:15.320
+Goal seek or parameter selection allows you to solve almost all equations. Unfortunately,
+
+01:15.320 --> 01:22.200
+this equation is only one variable, and there can be any degree, any complexity, but, alas,
+
+01:22.320 --> 01:28.520
+as I said, only one variable. There are some subtleties when solving such problems, but nevertheless.
+
+01:28.520 --> 01:36.280
+As an example, we will now see how to solve the equation sine x is equal to cosine x with the help of goal seek.
+
+01:36.280 --> 01:45.160
+As I said, the solution of the simplest equations is possible in the search function. Let's try.
+
+01:45.880 --> 01:52.600
+We have a simple equation sine x is equal to cosine x.
+
+01:52.600 --> 01:59.000
+Well, of course, in order to solve it in Excel, you will need to write it a little differently.
+
+01:59.000 --> 02:14.440
+Okay, so, we will call one of our cells x. We will set the value one there for now. We will call it x.
+
+02:14.440 --> 02:21.740
+Well, as you can see, yes, that is, since we have a sine of one minus a cosine of one is equal to zero
+
+02:21.740 --> 02:24.460
+Future
+
+02:51.820 --> 03:09.440
+The solution helps choose the correct cell for performing the penultimate equation listing.
+
+03:10.440 --> 03:16.940
+As you can see, XL is not 0, but it's 0.002.
+
+03:16.940 --> 03:18.440
+It's almost 0.
+
+03:18.440 --> 03:26.940
+If you want, you can change the accuracy and check the solution with a higher accuracy.
+
+03:26.940 --> 03:30.940
+As we expected, the solution is approximately pi by 2.
+
+03:30.940 --> 03:34.440
+Let's check it. I'll multiply this number by 4.
+
+03:34.440 --> 03:35.940
+Sorry, not by 4, of course.
+
+03:35.940 --> 03:39.940
+I'll multiply it by 4 and see what it is. Yes, 3, 3, 14.
+
+03:39.940 --> 03:43.940
+It should be 1, 5, 9 in the real pi.
+
+03:45.940 --> 03:53.940
+Now, if we set another initial value, for example, 5,
+
+03:53.940 --> 03:59.940
+we will get a completely different solution for this equation.
+
+04:00.940 --> 04:01.940
+Let's try.
+
+04:06.440 --> 04:15.940
+Data, analysis, what if, parameter selection, set cell C5, value equal to 0, change value of cell C4.
+
+04:15.940 --> 04:16.940
+OK.
+
+04:17.940 --> 04:19.940
+As you can see, we got a different value.
+
+04:19.940 --> 04:25.940
+And no matter what initial value we started with, or rather, not so,
+
+04:25.940 --> 04:31.940
+since equations have many solutions, there are two pi periodic, or rather, pi periodic solutions,
+
+04:31.940 --> 04:38.940
+then starting with different initial values, we will get different solutions.
+
+04:39.940 --> 04:40.940
+OK.
+
+04:40.940 --> 04:46.940
+Let's move on to more serious tasks, tasks of several variables.
+
+04:47.940 --> 04:52.940
+OK, we've seen how simple equations are solved by parameter selection.
+
+04:52.940 --> 04:55.940
+It's time to talk about more difficult tasks.
+
+04:55.940 --> 04:58.940
+Of course, tasks in life are much more difficult, most often.
+
+04:58.940 --> 05:03.940
+And another function of Excel will help us with this,
+
+05:03.940 --> 05:09.940
+namely, it's called solution search, or solver in English.
+
+05:10.940 --> 05:13.940
+In fact, a solver, or rather, solution search,
+
+05:13.940 --> 05:19.940
+is a program that allows you to implement linear programming on Excel.
+
+05:20.940 --> 05:22.940
+What is linear programming?
+
+05:22.940 --> 05:26.940
+Linear programming is a search for an optimal solution
+
+05:26.940 --> 05:34.940
+in a situation when your initial data is limited.
+
+05:35.940 --> 05:40.940
+Limited not in the sense that you don't have enough data,
+
+05:40.940 --> 05:44.940
+but in the sense that you impose a limit, for example,
+
+05:44.940 --> 05:47.940
+you want to make the bathroom at home as big as possible,
+
+05:47.940 --> 05:50.940
+but its depth should not be more than one meter.
+
+05:50.940 --> 05:53.940
+This is an example of a typical limitation.
+
+05:56.940 --> 05:59.940
+The previous function that we discussed, goal seek,
+
+05:59.940 --> 06:01.940
+does not allow you to impose a limit.
+
+06:01.940 --> 06:07.940
+In addition, it allows you to solve tasks with only one variable.
+
+06:07.940 --> 06:13.940
+A solver allows you to work with functions of many variables.
+
+06:13.940 --> 06:15.940
+Of course, we understand that, for example,
+
+06:15.940 --> 06:18.940
+the value of the enterprise is always a function of many variables.
+
+06:18.940 --> 06:20.940
+This is a function of, I don't know,
+
+06:20.940 --> 06:22.940
+the cost, the cost of sale,
+
+06:22.940 --> 06:27.940
+the number of sales in the nominal expression,
+
+06:27.940 --> 06:33.940
+the function of our constant variables, variables, and so on.
+
+06:34.940 --> 06:37.940
+A solver allows you to work with a large number of functions.
+
+06:37.940 --> 06:41.940
+To be fair, I must say that not always and not everywhere,
+
+06:41.940 --> 06:45.940
+but nevertheless, a solver is a much more advanced tool.
+
+06:45.940 --> 06:49.940
+In addition, a solver allows two-dimensional and whole variables.
+
+06:49.940 --> 06:52.940
+You can't sell 2.3 cars, for example.
+
+06:52.940 --> 06:54.940
+You sell either two or three.
+
+06:54.940 --> 06:57.940
+In this regard, to be honest,
+
+06:57.940 --> 07:00.940
+whole variables in a solver work poorly,
+
+07:00.940 --> 07:03.940
+but it's better than nothing.
+
+07:03.940 --> 07:06.940
+After all, it's the only available,
+
+07:06.940 --> 07:08.940
+in fact, really available,
+
+07:08.940 --> 07:11.940
+solution to the linear programming problem.
+
+07:11.940 --> 07:16.940
+In addition, a solver offers things like solution analysis.
+
+07:16.940 --> 07:19.940
+We'll look at an example now,
+
+07:19.940 --> 07:21.940
+but for now we can say that,
+
+07:21.940 --> 07:23.940
+for example, such a task.
+
+07:23.940 --> 07:28.940
+You perform, like the following task,
+
+07:28.940 --> 07:30.940
+you produce a mixture of nuts,
+
+07:30.940 --> 07:33.940
+and you run out of one of the types of nuts.
+
+07:33.940 --> 07:35.940
+A person comes and asks,
+
+07:35.940 --> 07:38.940
+I know you're out of such nuts,
+
+07:38.940 --> 07:40.940
+for example, a hazelnut,
+
+07:40.940 --> 07:42.940
+but do you want to take it,
+
+07:42.940 --> 07:44.940
+but it's a half price more than you usually take.
+
+07:44.940 --> 07:46.940
+And you need to understand whether it's beneficial or not.
+
+07:46.940 --> 07:49.940
+Can you afford to buy this nut,
+
+07:49.940 --> 07:52.940
+so that you stay within your cost,
+
+07:52.940 --> 07:55.940
+so that your loss does not decrease,
+
+07:55.940 --> 07:57.940
+so that you do not get into losses.
+
+07:58.940 --> 08:03.940
+At the same time, a solver can be used,
+
+08:03.940 --> 08:06.940
+what is interesting, can be used in macros.
+
+08:06.940 --> 08:08.940
+If there is time, I can show you
+
+08:08.940 --> 08:10.940
+how macros work in Excel.
+
+08:10.940 --> 08:15.940
+And a solver allows you to use various search methods.
+
+08:15.940 --> 08:19.940
+At the same time, what is the problem?
+
+08:19.940 --> 08:22.940
+Solver, well, imagine,
+
+08:22.940 --> 08:25.940
+I will show this with my hand,
+
+08:25.940 --> 08:27.940
+imagine this function,
+
+08:27.940 --> 08:29.940
+which has two minimums,
+
+08:29.940 --> 08:31.940
+the main minimum and the second minimum,
+
+08:31.940 --> 08:33.940
+smaller, on the contrary, larger.
+
+08:33.940 --> 08:36.940
+Having entered the second small minimum,
+
+08:36.940 --> 08:38.940
+which is not global,
+
+08:38.940 --> 08:40.940
+but a local minimum,
+
+08:40.940 --> 08:42.940
+a solver will not be able to get out of it,
+
+08:42.940 --> 08:44.940
+because it does not search,
+
+08:44.940 --> 08:47.940
+like a goose, it does not go through the variable,
+
+08:47.940 --> 08:50.940
+it just looks for the derivative
+
+08:50.940 --> 08:52.940
+and looks where it should go next.
+
+08:52.940 --> 08:54.940
+If it gets into a hole,
+
+08:54.940 --> 08:57.940
+it will never get out of this hole.
+
+08:57.940 --> 08:59.940
+Well, accordingly,
+
+08:59.940 --> 09:02.940
+since it cannot get out of it,
+
+09:02.940 --> 09:04.940
+it needs help,
+
+09:04.940 --> 09:06.940
+the initial value of the variables must be shifted
+
+09:06.940 --> 09:09.940
+so that it is on the other side of the small hole.
+
+09:09.940 --> 09:12.940
+We will talk in more detail about the type of limitation,
+
+09:12.940 --> 09:14.940
+the existing type of limitation,
+
+09:14.940 --> 09:16.940
+when we solve the problem,
+
+09:16.940 --> 09:19.940
+but in principle there is a limitation on the budget.
+
+09:19.940 --> 09:21.940
+This is when you are preparing,
+
+09:21.940 --> 09:23.940
+for example, to spend money on the New Year,
+
+09:23.940 --> 09:26.940
+and you think how much you have to buy,
+
+09:26.940 --> 09:29.940
+and at the same time you understand
+
+09:29.940 --> 09:32.940
+that your budget is limited to,
+
+09:32.940 --> 09:35.940
+let's say, three or five thousand rubles.
+
+09:35.940 --> 09:38.940
+There are limitations on non-negativity,
+
+09:38.940 --> 09:40.940
+for example,
+
+09:40.940 --> 09:43.940
+let's say you are a metallurgical company,
+
+09:43.940 --> 09:45.940
+you produce alloys,
+
+09:45.940 --> 09:48.940
+if you sell a negative amount of some alloy,
+
+09:48.940 --> 09:51.940
+it means that you buy this alloy,
+
+09:51.940 --> 09:54.940
+you disassemble it into components
+
+09:54.940 --> 09:56.940
+and use it in others.
+
+09:56.940 --> 09:58.940
+This is probably not very correct.
+
+09:58.940 --> 10:01.940
+The limitation can be there at extreme risk,
+
+10:01.940 --> 10:03.940
+and as I said,
+
+10:03.940 --> 10:05.940
+there can be a limitation on the whole,
+
+10:05.940 --> 10:07.940
+non-whole, and so on,
+
+10:07.940 --> 10:09.940
+on the double, non-double, and so on.
+
+10:09.940 --> 10:11.940
+Let's talk about using the solver right now.
+
+10:11.940 --> 10:13.940
+Let's consider the following task.
+
+10:13.940 --> 10:15.940
+You work, you own a company
+
+10:15.940 --> 10:18.940
+that produces a mixture of nuts.
+
+10:19.940 --> 10:21.940
+The nuts are called
+
+10:21.940 --> 10:24.940
+nut-nut-plus-premium-lux,
+
+10:24.940 --> 10:27.940
+and they consist of the corresponding number
+
+10:27.940 --> 10:30.940
+of different types of nuts.
+
+10:33.940 --> 10:35.940
+Here, in this line,
+
+10:35.940 --> 10:38.940
+the number of nuts in the percentage
+
+10:38.940 --> 10:41.940
+of the components of this mixture is indicated,
+
+10:41.940 --> 10:43.940
+of course, in weight percentages.
+
+10:43.940 --> 10:45.940
+If you look,
+
+10:45.940 --> 10:48.940
+each line will be 100.
+
+10:48.940 --> 10:50.940
+Check it, make sure of it,
+
+10:50.940 --> 10:52.940
+so you don't doubt it.
+
+10:52.940 --> 10:54.940
+The sum is 100.
+
+10:55.940 --> 11:00.940
+The mixture is sold at different prices.
+
+11:03.940 --> 11:05.940
+You have a certain number
+
+11:05.940 --> 11:07.940
+of different types of nuts on the slot,
+
+11:07.940 --> 11:09.940
+you have a purchase price,
+
+11:09.940 --> 11:12.940
+and you want to maximize,
+
+11:12.940 --> 11:14.940
+let's call it a profit.
+
+11:14.940 --> 11:16.940
+It's not exactly a profit,
+
+11:16.940 --> 11:19.940
+because you still have operational costs,
+
+11:19.940 --> 11:21.940
+and so on.
+
+11:21.940 --> 11:23.940
+But in this case, let's call it
+
+11:23.940 --> 11:25.940
+an operational profit.
+
+11:25.940 --> 11:27.940
+In short, we'll call it a profit.
+
+11:27.940 --> 11:30.940
+Again, you buy peanuts for $2 per kilo of hazelnuts,
+
+11:30.940 --> 11:33.940
+for $3, for Brazilian nuts for $2, and so on.
+
+11:33.940 --> 11:35.940
+The most expensive nut is cedar,
+
+11:35.940 --> 11:38.940
+the most expensive mixture is lux.
+
+11:39.940 --> 11:41.940
+The number of nuts on the slot
+
+11:41.940 --> 11:43.940
+is completely different.
+
+11:43.940 --> 11:45.940
+What do we do next?
+
+11:45.940 --> 11:47.940
+We will change the production
+
+11:47.940 --> 11:49.940
+of our mixtures in this way.
+
+11:49.940 --> 11:52.940
+Look, if I put another number here,
+
+11:52.940 --> 11:55.940
+you will see how the number of nuts
+
+11:55.940 --> 11:58.940
+used in the line changes.
+
+11:58.940 --> 12:01.940
+For example, I put number 10 here,
+
+12:01.940 --> 12:05.940
+and we have a change in the growth rate.
+
+12:05.940 --> 12:08.940
+And we have a change in the growth rate
+
+12:08.940 --> 12:10.940
+of peanuts, of course,
+
+12:10.940 --> 12:13.940
+because we added 9 kilograms of nuts
+
+12:13.940 --> 12:15.940
+to the production mixture.
+
+12:15.940 --> 12:17.940
+Accordingly, 9 kilograms of new peanut
+
+12:17.940 --> 12:20.940
+consumption gives us 4.2 additional.
+
+12:20.940 --> 12:23.940
+And, for example, to demonstrate again,
+
+12:23.940 --> 12:26.940
+I will add another 10 kilograms
+
+12:26.940 --> 12:29.940
+of production in the lux mixture,
+
+12:29.940 --> 12:32.940
+and we will expect that now we will not need
+
+12:32.940 --> 12:35.940
+300 grams of nuts, as it was before,
+
+12:35.940 --> 12:38.940
+but 2.3 kilograms of nuts.
+
+12:38.940 --> 12:40.940
+So it is.
+
+12:40.940 --> 12:42.940
+Now pay attention,
+
+12:42.940 --> 12:44.940
+here in these three cells
+
+12:44.940 --> 12:46.940
+our sales are calculated.
+
+12:46.940 --> 12:48.940
+Sales are simply the sum of
+
+12:48.940 --> 12:50.940
+the paired products,
+
+12:50.940 --> 12:53.940
+the price of sales per production.
+
+12:53.940 --> 12:56.940
+Here the function XL is used,
+
+12:56.940 --> 12:58.940
+the sum of sales,
+
+12:59.940 --> 13:03.940
+it has an English name.
+
+13:05.940 --> 13:08.940
+Accordingly, our costs are also considered
+
+13:08.940 --> 13:11.940
+as the sum of sales,
+
+13:11.940 --> 13:15.940
+as the price per use of the corresponding
+
+13:15.940 --> 13:19.940
+quantity of the corresponding nut.
+
+13:19.940 --> 13:22.940
+And, of course, our profit is considered
+
+13:22.940 --> 13:25.940
+as the difference between our sales
+
+13:25.940 --> 13:27.940
+and our costs.
+
+13:28.940 --> 13:31.940
+We want to use the function,
+
+13:31.940 --> 13:34.940
+or rather the XL overhaul,
+
+13:34.940 --> 13:37.940
+which is called the search for a solution.
+
+13:37.940 --> 13:39.940
+In order to use it,
+
+13:39.940 --> 13:41.940
+you need to install it first.
+
+13:41.940 --> 13:44.940
+You should probably turn to your manual,
+
+13:44.940 --> 13:46.940
+that is, to the reference system,
+
+13:46.940 --> 13:48.940
+because in different versions
+
+13:48.940 --> 13:51.940
+it happens in several different ways.
+
+13:51.940 --> 13:54.940
+Most likely, if the overhaul is not installed,
+
+13:54.940 --> 13:57.940
+and by default it is not installed,
+
+13:57.940 --> 14:00.940
+you will need to resort to the help
+
+14:00.940 --> 14:03.940
+of your distributive disk.
+
+14:04.940 --> 14:07.940
+Okay, we want to use
+
+14:07.940 --> 14:10.940
+the search for a solution.
+
+14:16.940 --> 14:20.940
+What is the conclusion of this function?
+
+14:21.940 --> 14:25.940
+It asks what target function we want to see.
+
+14:25.940 --> 14:28.940
+First of all, we choose the target function
+
+14:28.940 --> 14:30.940
+and the target profit.
+
+14:30.940 --> 14:32.940
+As we agreed,
+
+14:32.940 --> 14:34.940
+as it is known,
+
+14:34.940 --> 14:36.940
+the purpose of any company
+
+14:36.940 --> 14:38.940
+is to get its profits
+
+14:38.940 --> 14:40.940
+by exploiting people.
+
+14:40.940 --> 14:43.940
+We will maximize the profit
+
+14:43.940 --> 14:46.940
+by changing the production.
+
+14:46.940 --> 14:49.940
+We will have to impose certain restrictions
+
+14:49.940 --> 14:52.940
+on the consumption of our nuts,
+
+14:52.940 --> 14:54.940
+because we understand
+
+14:54.940 --> 14:57.940
+that we cannot consume peanuts
+
+14:57.940 --> 14:59.940
+more than 300 kg
+
+14:59.940 --> 15:02.940
+and cedar nuts more than 100 kg.
+
+15:02.940 --> 15:06.940
+These are so-called budget restrictions.
+
+15:06.940 --> 15:08.940
+In addition,
+
+15:14.940 --> 15:16.940
+we will now see
+
+15:16.940 --> 15:19.940
+that we will need other restrictions.
+
+15:22.940 --> 15:25.940
+We clicked the Execute button.
+
+15:26.940 --> 15:28.940
+At the same time,
+
+15:28.940 --> 15:32.940
+Excel gives us an optimal solution.
+
+15:32.940 --> 15:35.940
+Okay, let's see what happened.
+
+15:35.940 --> 15:38.940
+We have a negative value
+
+15:38.940 --> 15:41.940
+in the production graph.
+
+15:41.940 --> 15:44.940
+What does this mean?
+
+15:45.940 --> 15:48.940
+From the point of view of Excel,
+
+15:48.940 --> 15:51.940
+from the point of view of its implementation
+
+15:51.940 --> 15:53.940
+of linear programming,
+
+15:53.940 --> 15:56.940
+we can buy a peanut mixture,
+
+15:56.940 --> 15:59.940
+disassemble it into component parts
+
+15:59.940 --> 16:02.940
+and use it in practice.
+
+16:02.940 --> 16:05.940
+We probably won't like it,
+
+16:05.940 --> 16:09.940
+so I suggest adding another restriction.
+
+16:09.940 --> 16:11.940
+It is clear that our production
+
+16:11.940 --> 16:13.940
+should not be less than zero.
+
+16:13.940 --> 16:16.940
+Let's run the search again.
+
+16:16.940 --> 16:19.940
+You will see that the numbers of the new solution
+
+16:19.940 --> 16:21.940
+will differ significantly.
+
+16:21.940 --> 16:24.940
+We will add another restriction.
+
+16:24.940 --> 16:27.940
+Click the Add button.
+
+16:27.940 --> 16:29.940
+Link to cell.
+
+16:29.940 --> 16:32.940
+Here you can use block links.
+
+16:34.940 --> 16:36.940
+Not less than or equal to,
+
+16:36.940 --> 16:39.940
+but more than or equal to zero.
+
+16:39.940 --> 16:42.940
+Pay attention to the drop-down menu.
+
+16:42.940 --> 16:44.940
+Less than or equal to,
+
+16:44.940 --> 16:46.940
+more than or equal to,
+
+16:46.940 --> 16:48.940
+whole or double.
+
+16:48.940 --> 16:51.940
+It is best to use less than or equal to,
+
+16:51.940 --> 16:53.940
+less than or equal to,
+
+16:53.940 --> 16:55.940
+or more than or equal to.
+
+16:55.940 --> 16:58.940
+Whole increases the size of the problem.
+
+16:58.940 --> 17:01.940
+Excel will take much longer
+
+17:01.940 --> 17:04.940
+to sort out its solution.
+
+17:04.940 --> 17:06.940
+The sign is equal.
+
+17:06.940 --> 17:08.940
+It is a very tough sign.
+
+17:08.940 --> 17:11.940
+Excel will have a much harder time
+
+17:11.940 --> 17:14.940
+solving the problem.
+
+17:14.940 --> 17:17.940
+We will talk about how to solve it later.
+
+17:17.940 --> 17:21.940
+For now, let's use the search function again.
+
+17:28.940 --> 17:30.940
+As you can see,
+
+17:30.940 --> 17:33.940
+Excel gave us a zero.
+
+17:33.940 --> 17:36.940
+It won't change anything.
+
+17:39.940 --> 17:41.940
+What happened?
+
+17:41.940 --> 17:44.940
+We ran out of hazelnuts.
+
+17:44.940 --> 17:47.940
+We ran out of cedar nuts.
+
+17:47.940 --> 17:50.940
+It turned out that the margin
+
+17:50.940 --> 17:53.940
+for the sale of the nut mix
+
+17:53.940 --> 17:56.940
+Lux is quite high.
+
+17:56.940 --> 17:59.940
+All the others.
+
+17:59.940 --> 18:02.940
+We ran out of cedar nuts,
+
+18:02.940 --> 18:05.940
+and at the same time we ran out of hazelnuts.
+
+18:06.940 --> 18:10.940
+Since the hazelnut is a part of all the nuts,
+
+18:10.940 --> 18:13.940
+we can't sell anything else.
+
+18:13.940 --> 18:17.940
+Let's try to start with a few other initial conditions
+
+18:17.940 --> 18:20.940
+to see what happens
+
+18:20.940 --> 18:23.940
+if we had more hazelnuts.
+
+18:23.940 --> 18:26.940
+Then we will come to the conclusion
+
+18:26.940 --> 18:29.940
+that some other nut will run out.
+
+18:29.940 --> 18:33.940
+The hazelnut should not be the first to run out.
+
+18:34.940 --> 18:37.940
+Let's run the search again.
+
+18:42.940 --> 18:45.940
+Sometimes it takes some time.
+
+18:45.940 --> 18:48.940
+Pay attention.
+
+18:48.940 --> 18:52.940
+Now not all sales are related to cedar nuts.
+
+18:57.940 --> 19:01.940
+As you can see, cedar nuts are used completely.
+
+19:02.940 --> 19:05.940
+This is normal.
+
+19:05.940 --> 19:08.940
+Pecan is used completely.
+
+19:14.940 --> 19:17.940
+Then the following task arises.
+
+19:17.940 --> 19:20.940
+Imagine that you are in a situation
+
+19:20.940 --> 19:23.940
+when you run out of pecan,
+
+19:23.940 --> 19:26.940
+and you run out of cedar nuts.
+
+19:26.940 --> 19:29.940
+Someone comes to you
+
+19:30.940 --> 19:33.940
+and offers to buy 200 kg of pecan,
+
+19:33.940 --> 19:36.940
+but not for $ 4 per kg,
+
+19:36.940 --> 19:39.940
+but for $ 8 per kg.
+
+19:39.940 --> 19:42.940
+Yes, the price is higher than your usual price,
+
+19:42.940 --> 19:45.940
+but on the other hand,
+
+19:45.940 --> 19:48.940
+while you have no pecan,
+
+19:48.940 --> 19:51.940
+if you can't get it anywhere on the market,
+
+19:51.940 --> 19:54.940
+you can't produce any more nuts.
+
+19:54.940 --> 19:57.940
+How to solve this problem?
+
+19:58.940 --> 20:01.940
+Is it worth buying twice as much?
+
+20:01.940 --> 20:04.940
+It turns out that Excel gives us this answer.
+
+20:07.940 --> 20:10.940
+Let's run the search again.
+
+20:14.940 --> 20:17.940
+And we will ask Excel
+
+20:17.940 --> 20:20.940
+to choose stability as a type of report.
+
+20:27.940 --> 20:30.940
+Pay attention.
+
+20:30.940 --> 20:33.940
+I don't know why Microsoft chose the name
+
+20:33.940 --> 20:36.940
+for this graph,
+
+20:36.940 --> 20:39.940
+but the name is much more intuitive.
+
+20:39.940 --> 20:42.940
+It is Shadow Price.
+
+20:42.940 --> 20:45.940
+Before such a price,
+
+20:45.940 --> 20:48.940
+you should be ready to pay
+
+20:48.940 --> 20:51.940
+for 1 kg of pecan,
+
+20:51.940 --> 20:54.940
+and then you can buy
+
+20:54.940 --> 20:57.940
+a corresponding nut
+
+20:57.940 --> 21:00.940
+at this price.
+
+21:00.940 --> 21:03.940
+This number shows
+
+21:03.940 --> 21:06.940
+the point where you will work at zero
+
+21:06.940 --> 21:09.940
+by buying a corresponding nut
+
+21:09.940 --> 21:12.940
+at this price.
+
+21:12.940 --> 21:15.940
+You saw how Solr works.
+
+21:15.940 --> 21:18.940
+It is a search engine.
+
+21:18.940 --> 21:21.940
+As I promised,
+
+21:22.940 --> 21:25.940
+we will talk about
+
+21:25.940 --> 21:28.940
+how to use the restrictions
+
+21:28.940 --> 21:31.940
+that we can impose
+
+21:31.940 --> 21:34.940
+when solving our tasks.
+
+21:34.940 --> 21:37.940
+The best restrictions are
+
+21:37.940 --> 21:40.940
+the non-strict restrictions
+
+21:40.940 --> 21:43.940
+on the top and bottom,
+
+21:43.940 --> 21:46.940
+that is, less or equal.
+
+21:46.940 --> 21:49.940
+The restrictions of the type equal
+
+21:49.940 --> 21:52.940
+to the number of nuts.
+
+21:52.940 --> 21:55.940
+Solver is not a strict tool.
+
+21:55.940 --> 21:58.940
+Try to give it a chance
+
+21:58.940 --> 22:01.940
+to oscillate
+
+22:01.940 --> 22:04.940
+within the range
+
+22:04.940 --> 22:07.940
+of 1.1 to 50 kg.
+
+22:07.940 --> 22:10.940
+This is a good solution.
+
+22:10.940 --> 22:13.940
+Solver is not a strict tool.
+
+22:13.940 --> 22:16.940
+Try to give it a chance
+
+22:16.940 --> 22:19.940
+to oscillate
+
+22:19.940 --> 22:22.940
+within the range
+
+22:22.940 --> 22:25.940
+of 1.1 to 50 kg.
+
+22:25.940 --> 22:28.940
+Solver will not experience
+
+22:28.940 --> 22:31.940
+significant jumps
+
+22:31.940 --> 22:34.940
+and will work much more stable.
+
+22:34.940 --> 22:37.940
+It will take much less time
+
+22:37.940 --> 22:40.940
+and its solution will be much more
+
+22:40.940 --> 22:43.940
+accurate and much more acceptable for you.
+
+22:46.940 --> 22:49.940
+What does the solution
+
+22:49.940 --> 22:52.940
+of the task in space look like?
+
+22:52.940 --> 22:55.940
+Imagine that you have only two nuts.
+
+22:55.940 --> 22:58.940
+In space, it looks like this.
+
+22:58.940 --> 23:01.940
+You have one axis, that is, one nut,
+
+23:01.940 --> 23:04.940
+the second axis, that is, another nut,
+
+23:04.940 --> 23:07.940
+and a certain plane
+
+23:07.940 --> 23:10.940
+that is your profit.
+
+23:10.940 --> 23:13.940
+It depends on how much you spend.
+
+23:13.940 --> 23:16.940
+One axis is one nut,
+
+23:16.940 --> 23:19.940
+the other is another nut.
+
+23:19.940 --> 23:22.940
+The plane in space is your profit.
+
+23:22.940 --> 23:25.940
+The limitations that we impose
+
+23:25.940 --> 23:28.940
+in space cut off certain parts
+
+23:28.940 --> 23:31.940
+of our solution plane.
+
+23:31.940 --> 23:34.940
+Our plane is a part of the solution
+
+23:34.940 --> 23:37.940
+that we are trying to solve.
+
+23:37.940 --> 23:40.940
+The solution is not a part of the solution.
+
+23:40.940 --> 23:43.940
+Accordingly, our plane
+
+23:43.940 --> 23:46.940
+from an infinite plane
+
+23:46.940 --> 23:49.940
+turns into a limited figure.
+
+23:49.940 --> 23:52.940
+If we start maximizing the function,
+
+23:52.940 --> 23:55.940
+it can take maximum value
+
+23:55.940 --> 23:58.940
+only at the point
+
+23:58.940 --> 24:01.940
+where several solutions converge,
+
+24:01.940 --> 24:04.940
+or at the edge, and so on.
+
+24:04.940 --> 24:07.940
+In space, it looks like a limited figure
+
+24:07.940 --> 24:10.940
+with several possible sides.
+
+24:10.940 --> 24:13.940
+It is difficult to imagine
+
+24:13.940 --> 24:16.940
+more than in three-dimensional space.
+
+24:16.940 --> 24:19.940
+Therefore, it is quite possible
+
+24:19.940 --> 24:22.940
+to imagine it in three-dimensional space.
+
+24:22.940 --> 24:25.940
+Try to do it.
+
+24:25.940 --> 24:28.940
+What else is necessary to talk about?
+
+24:28.940 --> 24:31.940
+Solver.
+
+24:31.940 --> 24:34.940
+Of course, everything works better
+
+24:34.940 --> 24:37.940
+with a solver, but it does not mean
+
+24:37.940 --> 24:40.940
+that it cannot be used for nonlinear solutions.
+
+24:40.940 --> 24:43.940
+However, as I said,
+
+24:43.940 --> 24:46.940
+it can find a local minimum
+
+24:46.940 --> 24:49.940
+or a local maximum,
+
+24:49.940 --> 24:52.940
+not finding a global minimum or maximum.
+
+24:52.940 --> 24:55.940
+The only way to deal with this
+
+24:55.940 --> 24:58.940
+is to move to solutions from different sides,
+
+24:58.940 --> 25:01.940
+that is, from different starting points.
+
+25:01.940 --> 25:04.940
+Unfortunately, in this case,
+
+25:04.940 --> 25:07.940
+there is only one possible option.
+
+25:07.940 --> 25:10.940
+As for the fairness of the solution,
+
+25:10.940 --> 25:13.940
+if we do not talk about the possibility
+
+25:13.940 --> 25:16.940
+of locking the solver in one of the existing minimums,
+
+25:16.940 --> 25:19.940
+then the solver solution is quite good.
+
+25:19.940 --> 25:22.940
+Nevertheless, if you have a lot of variables,
+
+25:22.940 --> 25:25.940
+try to get it out of balance.
+
+25:25.940 --> 25:28.940
+It is necessary to apply the solver
+
+25:28.940 --> 25:31.940
+many times already on the finished solution.
+
+25:31.940 --> 25:34.940
+Try to get it out of balance,
+
+25:34.940 --> 25:37.940
+changing the initial conditions a little bit
+
+25:37.940 --> 25:40.940
+or maybe even quite strongly.
+
+25:40.940 --> 25:43.940
+Okay, now we have talked
+
+25:43.940 --> 25:46.940
+about linear programming.
+
+25:46.940 --> 25:49.940
+According to the existing tradition,
+
+25:49.940 --> 25:52.940
+I will give you two simple tasks.
+
+25:52.940 --> 25:55.940
+The first of them is to find a solution
+
+25:55.940 --> 25:58.940
+and the second is to solve it.
+
+25:58.940 --> 26:01.940
+The first of them is similar to logistics.
+
+26:01.940 --> 26:04.940
+Both of them can be used
+
+26:04.940 --> 26:07.940
+to implement a general operating principle.
+
+26:07.940 --> 26:10.940
+Imagine a situation.
+
+26:10.940 --> 26:13.940
+Four people are standing
+
+26:13.940 --> 26:16.940
+in front of a narrow bridge across the river at night.
+
+26:16.940 --> 26:19.940
+One of them is fast enough
+
+26:19.940 --> 26:22.940
+and can cross the bridge in one minute,
+
+26:22.940 --> 26:25.940
+while the other is old enough
+
+26:25.940 --> 26:28.940
+and can't stand the weight of more than two people.
+
+26:28.940 --> 26:31.940
+Besides, there is no rail on the bridge,
+
+26:31.940 --> 26:34.940
+so it is impossible to walk on it at night.
+
+26:34.940 --> 26:37.940
+There is a flashlight, but it is only one.
+
+26:37.940 --> 26:40.940
+Someone has to give it to someone.
+
+26:40.940 --> 26:43.940
+Unfortunately, they cannot throw it away,
+
+26:43.940 --> 26:46.940
+because they risk to drop it.
+
+26:46.940 --> 26:49.940
+The task is to move all the people
+
+26:49.940 --> 26:52.940
+who have approached the bridge to the other side of the river.
+
+26:52.940 --> 26:55.940
+As a hint, as I said,
+
+26:55.940 --> 26:58.940
+when solving this task,
+
+26:58.940 --> 27:01.940
+you need to use a general operating principle.
+
+27:01.940 --> 27:04.940
+This was the first hint.
+
+27:04.940 --> 27:07.940
+If you don't want to wait for the second hint,
+
+27:07.940 --> 27:10.940
+stop the lecture now.
+
+27:10.940 --> 27:13.940
+The second hint will be a little later.
+
+27:13.940 --> 27:16.940
+The second hint.
+
+27:16.940 --> 27:19.940
+The solution is at the end of the lecture.
+
+27:19.940 --> 27:22.940
+Another task.
+
+27:22.940 --> 27:25.940
+It is called camel logistics.
+
+27:25.940 --> 27:28.940
+The task is this.
+
+27:28.940 --> 27:31.940
+There is a banana plantation on one edge of the desert,
+
+27:31.940 --> 27:34.940
+a thousand kilometers wide, and a store on the other.
+
+27:34.940 --> 27:37.940
+The crop of bananas this year was 3,000 pieces.
+
+27:37.940 --> 27:40.940
+We have one single vehicle, namely a camel.
+
+27:40.940 --> 27:43.940
+It is a modern camel with a self-loading and self-unloading device,
+
+27:43.940 --> 27:46.940
+a cruise stability system, GPS navigation, and so on.
+
+27:46.940 --> 27:49.940
+The camel's load is 1,000 bananas.
+
+27:49.940 --> 27:52.940
+But in order for the camel not to starve,
+
+27:52.940 --> 27:55.940
+it must eat one banana per kilometer.
+
+27:55.940 --> 27:58.940
+It doesn't matter if it carries 1,000 bananas,
+
+27:58.940 --> 28:01.940
+20 bananas, or nothing at all.
+
+28:01.940 --> 28:04.940
+It must eat anyway.
+
+28:04.940 --> 28:07.940
+The task is this.
+
+28:07.940 --> 28:10.940
+What is the maximum number of bananas
+
+28:10.940 --> 28:13.940
+that a camel can carry from a plantation to a store?
+
+28:13.940 --> 28:16.940
+Once again.
+
+28:16.940 --> 28:19.940
+The width of the desert is 1,000 kilometers.
+
+28:19.940 --> 28:22.940
+The load is 1,000 bananas.
+
+28:22.940 --> 28:25.940
+It eats one banana per kilometer.
+
+28:25.940 --> 28:28.940
+What is the maximum number of bananas
+
+28:28.940 --> 28:31.940
+that a camel can carry from a plantation to a store?
+
+28:31.940 --> 28:34.940
+And the hint that was mentioned in the previous task.
+
+28:34.940 --> 28:37.940
+When solving this task,
+
+28:37.940 --> 28:40.940
+we have to consider the following.
+
+28:40.940 --> 28:43.940
+We have discussed statistics,
+
+28:43.940 --> 28:46.940
+we have discussed linear programming.
+
+28:46.940 --> 28:49.940
+Linear programming assumes
+
+28:49.940 --> 28:52.940
+that you are in the deterministic world.
+
+28:52.940 --> 28:55.940
+When we were solving the task about nuts,
+
+28:55.940 --> 28:58.940
+we secretly assumed
+
+28:58.940 --> 29:01.940
+that all the nut mixtures
+
+29:01.940 --> 29:04.940
+that we produce will be bought from us.
+
+29:04.940 --> 29:07.940
+And at the prices that we set.
+
+29:07.940 --> 29:10.940
+But are we always so sure?
+
+29:10.940 --> 29:13.940
+Of course, not always.
+
+29:13.940 --> 29:16.940
+In fact, it is unlikely that a person
+
+29:16.940 --> 29:19.940
+can be so seriously sure.
+
+29:19.940 --> 29:22.940
+Unless we are talking about abstract mathematics.
+
+29:22.940 --> 29:25.940
+Imagine this situation.
+
+29:25.940 --> 29:28.940
+You are a boy who sells newspapers.
+
+29:28.940 --> 29:31.940
+You are a boy who sells newspapers.
+
+29:31.940 --> 29:34.940
+You buy newspapers from the editorial office for $1
+
+29:34.940 --> 29:37.940
+and sell them for $2.
+
+29:37.940 --> 29:40.940
+If you fail to sell all the newspapers,
+
+29:40.940 --> 29:43.940
+the editorial office is so kind to you
+
+29:43.940 --> 29:46.940
+that they take these newspapers for 50 cents each.
+
+29:46.940 --> 29:49.940
+You are a smart boy
+
+29:49.940 --> 29:52.940
+and you have managed to calculate
+
+29:52.940 --> 29:55.940
+that the average demand for your newspapers
+
+29:55.940 --> 29:58.940
+is 100 pieces of cloth per day.
+
+29:58.940 --> 30:01.940
+But this is the average demand.
+
+30:01.940 --> 30:04.940
+And the standard deviation is, let's say,
+
+30:04.940 --> 30:07.940
+20 newspapers.
+
+30:07.940 --> 30:10.940
+Under the conditions of this task,
+
+30:10.940 --> 30:13.940
+what should be the optimal order?
+
+30:13.940 --> 30:16.940
+As usual, we optimize the profit.
+
+30:16.940 --> 30:19.940
+It should be less than 100,
+
+30:19.940 --> 30:22.940
+exactly 100, more than 100.
+
+30:22.940 --> 30:25.940
+And if it is more than 100 or less than 100,
+
+30:25.940 --> 30:28.940
+then it should be more or less.
+
+30:28.940 --> 30:31.940
+And here a certain probability is involved,
+
+30:31.940 --> 30:34.940
+a certain uncertainty.
+
+30:34.940 --> 30:37.940
+Uncertainty is a broader concept than probability,
+
+30:37.940 --> 30:40.940
+as we have already noted.
+
+30:40.940 --> 30:43.940
+Nevertheless, we will consider
+
+30:43.940 --> 30:46.940
+that in this case we are dealing
+
+30:46.940 --> 30:49.940
+not with uncertainty as such,
+
+30:49.940 --> 30:52.940
+but with its part, probability.
+
+30:53.940 --> 30:56.940
+To solve such a problem,
+
+30:56.940 --> 30:59.940
+in general, this particular problem
+
+30:59.940 --> 31:02.940
+has a fairly accurate solution.
+
+31:02.940 --> 31:05.940
+But to solve such a problem,
+
+31:05.940 --> 31:08.940
+the so-called Monte Carlo method is used.
+
+31:08.940 --> 31:11.940
+A beautiful and loud name.
+
+31:11.940 --> 31:14.940
+Everyone immediately imagines
+
+31:14.940 --> 31:17.940
+James Bond sitting in Monte Carlo
+
+31:17.940 --> 31:20.940
+and winning roulette.
+
+31:20.940 --> 31:23.940
+Monte Carlo is a method
+
+31:23.940 --> 31:26.940
+of numerical solving of problems
+
+31:26.940 --> 31:29.940
+by a certain random number generator.
+
+31:29.940 --> 31:32.940
+In Excel, in Russian-language Excel,
+
+31:32.940 --> 31:35.940
+the function that generates random numbers
+
+31:35.940 --> 31:38.940
+is called sultchisl.
+
+31:38.940 --> 31:41.940
+In general, in all other programming languages
+
+31:41.940 --> 31:44.940
+it is called rand,
+
+31:44.940 --> 31:47.940
+from the word random, from English.
+
+31:48.940 --> 31:51.940
+This function gives the value
+
+31:51.940 --> 31:54.940
+evenly distributed between 0 and 1.
+
+31:54.940 --> 31:57.940
+Why exactly from 0 to 1?
+
+31:57.940 --> 32:00.940
+Because probability can take values
+
+32:00.940 --> 32:03.940
+from 0 to 1.
+
+32:03.940 --> 32:06.940
+Accordingly, the value of the function
+
+32:06.940 --> 32:09.940
+sultchisl is distributed from 0 to 1.
+
+32:09.940 --> 32:12.940
+But how do we use the function sultchisl
+
+32:12.940 --> 32:15.940
+for solving a problem
+
+32:16.940 --> 32:19.940
+to create a different distribution,
+
+32:19.940 --> 32:22.940
+different from 0 to 1?
+
+32:26.940 --> 32:29.940
+The so-called reverse distribution
+
+32:29.940 --> 32:32.940
+serves these purposes.
+
+32:32.940 --> 32:35.940
+In our case, since we believe
+
+32:35.940 --> 32:38.940
+that sales of newspapers are distributed
+
+32:38.940 --> 32:41.940
+normally, we will use a function
+
+32:41.940 --> 32:44.940
+that is used in Russian-language Excel.
+
+32:44.940 --> 32:47.940
+It is called normstobr.
+
+32:47.940 --> 32:50.940
+It is a normal standard reverse distribution.
+
+32:50.940 --> 32:53.940
+What will this function do?
+
+32:53.940 --> 32:56.940
+A normal cumulative distribution
+
+32:56.940 --> 32:59.940
+looks like this.
+
+32:59.940 --> 33:02.940
+It increases slowly and reaches 1.
+
+33:02.940 --> 33:05.940
+Thus, the function sultchisl,
+
+33:05.940 --> 33:08.940
+a random number,
+
+33:08.940 --> 33:11.940
+imagine an interval from 0 to 1,
+
+33:11.940 --> 33:14.940
+where this function is executed.
+
+33:14.940 --> 33:17.940
+The random number will give
+
+33:17.940 --> 33:20.940
+the value from 0 to 1.
+
+33:20.940 --> 33:23.940
+Accordingly, we will look for
+
+33:23.940 --> 33:26.940
+the corresponding point on this graph
+
+33:26.940 --> 33:29.940
+horizontally.
+
+33:29.940 --> 33:32.940
+Then we will mark the number
+
+33:32.940 --> 33:35.940
+of standard deviations
+
+33:35.940 --> 33:38.940
+at which this point is located.
+
+33:38.940 --> 33:41.940
+After generating a random number
+
+33:41.940 --> 33:44.940
+with a corresponding distribution,
+
+33:44.940 --> 33:47.940
+we will repeat this operation many times
+
+33:47.940 --> 33:50.940
+and get the result
+
+33:50.940 --> 33:53.940
+that we can already process.
+
+33:53.940 --> 33:56.940
+In the case of a boy,
+
+33:56.940 --> 33:59.940
+we will generate the sequence
+
+33:59.940 --> 34:02.940
+of demands for his product
+
+34:02.940 --> 34:05.940
+and compare what is the distribution
+
+34:05.940 --> 34:08.940
+of orders to the highest profit.
+
+34:08.940 --> 34:11.940
+It should be noted that
+
+34:11.940 --> 34:14.940
+this is not a Svender model,
+
+34:14.940 --> 34:17.940
+this is not the only task
+
+34:17.940 --> 34:20.940
+that can be solved in this way.
+
+34:20.940 --> 34:23.940
+Of course, the Monte Carlo method
+
+34:23.940 --> 34:26.940
+can solve anything.
+
+34:26.940 --> 34:29.940
+As an example, we will look
+
+34:29.940 --> 34:32.940
+at the modeling of gambling games.
+
+34:32.940 --> 34:35.940
+Gambling games are a very favorable
+
+34:35.940 --> 34:38.940
+basis for using the Monte Carlo method
+
+34:38.940 --> 34:41.940
+for one simple reason.
+
+34:41.940 --> 34:44.940
+The uncertainty used there
+
+34:44.940 --> 34:47.940
+is almost a pure probability.
+
+34:47.940 --> 34:50.940
+Yes, the Monte Carlo method
+
+34:50.940 --> 34:53.940
+lacks elegance and strictness.
+
+34:53.940 --> 34:56.940
+Of course, sophisticated mathematicians
+
+34:56.940 --> 34:59.940
+will never accept the results
+
+34:59.940 --> 35:02.940
+obtained by the Monte Carlo method.
+
+35:02.940 --> 35:05.940
+The solution to the Monte Carlo method
+
+35:05.940 --> 35:08.940
+may require a significant computational power.
+
+35:08.940 --> 35:11.940
+Here the so-called curse of dimensionality
+
+35:11.940 --> 35:14.940
+begins to work.
+
+35:14.940 --> 35:17.940
+Imagine that you are modeling
+
+35:17.940 --> 35:20.940
+the Monte Carlo method,
+
+35:20.940 --> 35:23.940
+for example, with the American option.
+
+35:23.940 --> 35:26.940
+This option can be realized at any time
+
+35:26.940 --> 35:29.940
+depending on the duration of its operation.
+
+35:29.940 --> 35:32.940
+For example, the duration of the operation
+
+35:32.940 --> 35:35.940
+is 90 days,
+
+35:35.940 --> 35:38.940
+and you want to simulate
+
+35:38.940 --> 35:41.940
+a thousand simulations every time.
+
+35:41.940 --> 35:44.940
+You do a thousand simulations
+
+35:44.940 --> 35:47.940
+on the first day,
+
+35:47.940 --> 35:50.940
+and from the end of each simulation
+
+35:50.940 --> 35:53.940
+you do a thousand simulations,
+
+35:53.940 --> 35:56.940
+and so on.
+
+35:56.940 --> 35:59.940
+By the 90th day,
+
+35:59.940 --> 36:02.940
+the computational power of all existing
+
+36:02.940 --> 36:05.940
+computers will be exhausted.
+
+36:05.940 --> 36:08.940
+Unfortunately, yes,
+
+36:08.940 --> 36:11.940
+sometimes this requires significant
+
+36:11.940 --> 36:14.940
+computational power,
+
+36:14.940 --> 36:17.940
+but fortunately not always.
+
+36:17.940 --> 36:20.940
+Therefore, the Monte Carlo method
+
+36:20.940 --> 36:23.940
+is desirable to have a reliable
+
+36:23.940 --> 36:26.940
+and reproducible random number generator.
+
+36:26.940 --> 36:29.940
+Why should the random number generator
+
+36:29.940 --> 36:32.940
+be reproducible?
+
+36:32.940 --> 36:35.940
+If you change something in your model,
+
+36:35.940 --> 36:38.940
+you must understand that the result
+
+36:38.940 --> 36:41.940
+that appeared is primarily related
+
+36:41.940 --> 36:44.940
+to changes in the model,
+
+36:44.940 --> 36:47.940
+and not to changes in the fact
+
+36:47.940 --> 36:50.940
+that the model is reproducible.
+
+36:50.940 --> 36:53.940
+This is a useful thing.
+
+36:53.940 --> 36:56.940
+Of course, it should be said
+
+36:56.940 --> 36:59.940
+that the random number generators
+
+36:59.940 --> 37:02.940
+used in the Monte Carlo method
+
+37:02.940 --> 37:05.940
+are based on simple numbers,
+
+37:05.940 --> 37:08.940
+on a pair of two simple numbers,
+
+37:08.940 --> 37:11.940
+and recently the calculation of random numbers
+
+37:11.940 --> 37:14.940
+has become a serious business.
+
+37:14.940 --> 37:17.940
+The task is simple,
+
+37:17.940 --> 37:20.940
+or more complicated,
+
+37:20.940 --> 37:23.940
+you come to the casino
+
+37:23.940 --> 37:26.940
+and play such a game.
+
+37:26.940 --> 37:29.940
+The probability of winning is 52%,
+
+37:29.940 --> 37:32.940
+you have a large amount of money,
+
+37:32.940 --> 37:35.940
+10 thousand dollars,
+
+37:35.940 --> 37:38.940
+and since you know that your game
+
+37:38.940 --> 37:41.940
+is winnable, you choose
+
+37:41.940 --> 37:44.940
+to play it.
+
+37:44.940 --> 37:47.940
+At the same time,
+
+37:47.940 --> 37:50.940
+since the game is quite strange,
+
+37:50.940 --> 37:53.940
+you play exactly a thousand times,
+
+37:53.940 --> 37:56.940
+and your goal is to take as much money
+
+37:56.940 --> 37:59.940
+as possible with you.
+
+37:59.940 --> 38:02.940
+Or, if you want,
+
+38:02.940 --> 38:05.940
+you can look at it differently.
+
+38:05.940 --> 38:08.940
+Two different players come to the casino,
+
+38:08.940 --> 38:11.940
+and one of them always bets 15%
+
+38:11.940 --> 38:14.940
+of what he has in stock.
+
+38:14.940 --> 38:17.940
+Let's see.
+
+38:17.940 --> 38:20.940
+Here is a graph of the amount
+
+38:20.940 --> 38:23.940
+at the disposal of a particular player.
+
+38:23.940 --> 38:26.940
+Okay, here they are both unlucky.
+
+38:26.940 --> 38:29.940
+Despite the fact that the game was winnable,
+
+38:29.940 --> 38:32.940
+both of them lost.
+
+38:32.940 --> 38:35.940
+But, let's say,
+
+38:35.940 --> 38:38.940
+the first player,
+
+38:38.940 --> 38:41.940
+who bets 15% of his fortune,
+
+38:41.940 --> 38:44.940
+lost a long time ago and hopelessly.
+
+38:44.940 --> 38:47.940
+The second player still has some money.
+
+38:47.940 --> 38:50.940
+Now I will press the F9 button,
+
+38:50.940 --> 38:53.940
+and so every time
+
+38:53.940 --> 38:56.940
+a new round of 1000 games will be re-read.
+
+38:56.940 --> 38:59.940
+Here the first player
+
+38:59.940 --> 39:02.940
+seems to be even lucky.
+
+39:03.940 --> 39:06.940
+The first player earned more than 90 thousand dollars,
+
+39:06.940 --> 39:09.940
+that is, 110 thousand minus
+
+39:09.940 --> 39:12.940
+the 10,000 he came with.
+
+39:12.940 --> 39:15.940
+But in the end,
+
+39:15.940 --> 39:18.940
+everything returned to its own in the circle,
+
+39:18.940 --> 39:21.940
+and the first player went bankrupt.
+
+39:21.940 --> 39:24.940
+While the second player fluctuated a little,
+
+39:24.940 --> 39:27.940
+and in the end remained
+
+39:27.940 --> 39:30.940
+with a more or less noticeable and acceptable amount.
+
+39:30.940 --> 39:33.940
+So, no matter how many times we press the F9 button,
+
+39:33.940 --> 39:36.940
+the player who bets the least amount
+
+39:36.940 --> 39:39.940
+will win almost always.
+
+39:39.940 --> 39:42.940
+Pay attention,
+
+39:42.940 --> 39:45.940
+he is in lilac color,
+
+39:45.940 --> 39:48.940
+here he even earned a decent amount.
+
+39:48.940 --> 39:51.940
+And so on.
+
+39:51.940 --> 39:54.940
+In exceptional cases,
+
+39:54.940 --> 39:57.940
+under conditions of very high luck,
+
+39:57.940 --> 40:00.940
+it is possible to win the first player,
+
+40:00.940 --> 40:03.940
+but it will be extremely rare.
+
+40:03.940 --> 40:06.940
+The situation will get even worse
+
+40:06.940 --> 40:09.940
+if we change the probability of winning
+
+40:09.940 --> 40:12.940
+from 52% to, say, 50.2%.
+
+40:12.940 --> 40:15.940
+Here, in fact, it is 50.2%.
+
+40:15.940 --> 40:18.940
+I'll just show you that it is really 50.2%.
+
+40:18.940 --> 40:21.940
+Then we need to bet
+
+40:21.940 --> 40:24.940
+not even 4%,
+
+40:24.940 --> 40:27.940
+but 0.4%
+
+40:27.940 --> 40:30.940
+so that our players
+
+40:30.940 --> 40:33.940
+will be able to win.
+
+40:33.940 --> 40:36.940
+And this is the most important thing.
+
+40:36.940 --> 40:39.940
+The most important thing is
+
+40:39.940 --> 40:42.940
+to win 0.4%
+
+40:42.940 --> 40:45.940
+so that our money grows
+
+40:45.940 --> 40:48.940
+as fast as possible.
+
+40:48.940 --> 40:51.940
+Let's see.
+
+40:55.940 --> 40:58.940
+The game is quite boring for the player,
+
+40:58.940 --> 41:01.940
+but nevertheless,
+
+41:01.940 --> 41:04.940
+if you pay attention,
+
+41:04.940 --> 41:07.940
+the first player's game is very fun,
+
+41:08.940 --> 41:11.940
+and of course,
+
+41:11.940 --> 41:14.940
+we have some unrealistic assumptions
+
+41:14.940 --> 41:17.940
+that the player's probability of winning
+
+41:17.940 --> 41:20.940
+is 50.2%.
+
+41:20.940 --> 41:23.940
+The player's probability of winning
+
+41:23.940 --> 41:26.940
+never reaches 50%.
+
+41:26.940 --> 41:29.940
+Of course, if the probability of winning is 49%,
+
+41:29.940 --> 41:32.940
+it is necessary to ask
+
+41:32.940 --> 41:35.940
+how much money
+
+41:36.940 --> 41:39.940
+to bet on the player.
+
+41:39.940 --> 41:42.940
+But sometimes,
+
+41:42.940 --> 41:45.940
+in some cases,
+
+41:45.940 --> 41:48.940
+one player will either stay at 0%
+
+41:48.940 --> 41:51.940
+or lose a little bit.
+
+41:51.940 --> 41:54.940
+But if you pay attention,
+
+41:54.940 --> 41:57.940
+a player who bets 15%
+
+41:57.940 --> 42:00.940
+will lose very quickly.
+
+42:00.940 --> 42:03.940
+This task is solved
+
+42:03.940 --> 42:06.940
+by Monte Carlo's method
+
+42:06.940 --> 42:09.940
+of simulation of existing values.
+
+42:09.940 --> 42:12.940
+Let's go back to the task
+
+42:12.940 --> 42:15.940
+of the newspaper seller.
+
+42:15.940 --> 42:18.940
+As I said,
+
+42:18.940 --> 42:21.940
+the price of a newspaper purchase is $1,
+
+42:21.940 --> 42:24.940
+the price of a newspaper sale is $2,
+
+42:24.940 --> 42:27.940
+and the price of a newspaper sale is $3.
+
+42:27.940 --> 42:30.940
+The price of a newspaper purchase is $1,
+
+42:30.940 --> 42:33.940
+the price of a newspaper sale is $2,
+
+42:33.940 --> 42:36.940
+and the price of a newspaper sale is $3.
+
+42:36.940 --> 42:39.940
+The cost of pre-order is $1,
+
+42:39.940 --> 42:42.940
+and the cost of over-order is $0.50.
+
+42:42.940 --> 42:45.940
+The publisher buys a newspaper
+
+42:45.940 --> 42:48.940
+purchased for $1 for $0.50.
+
+42:48.940 --> 42:51.940
+The average demand for a newspaper is $100,
+
+42:51.940 --> 42:54.940
+and the standard deviation is $20.
+
+42:55.940 --> 42:58.940
+What are we going to do here?
+
+42:58.940 --> 43:01.940
+We are going to simulate demand.
+
+43:01.940 --> 43:04.940
+The distribution will be approximately normal.
+
+43:04.940 --> 43:07.940
+The distribution will be slightly different
+
+43:07.940 --> 43:10.940
+from the normal one,
+
+43:10.940 --> 43:13.940
+but this is not very critical.
+
+43:13.940 --> 43:16.940
+We will simulate demand
+
+43:16.940 --> 43:19.940
+and we will see
+
+43:19.940 --> 43:22.940
+how the price of a newspaper
+
+43:23.940 --> 43:26.940
+affects the demand.
+
+43:26.940 --> 43:29.940
+We have different boys in this line.
+
+43:29.940 --> 43:32.940
+One boy orders 106 newspapers,
+
+43:32.940 --> 43:35.940
+the other 108,
+
+43:35.940 --> 43:38.940
+the third 110,
+
+43:38.940 --> 43:41.940
+the fourth 112,
+
+43:41.940 --> 43:44.940
+and so on.
+
+43:44.940 --> 43:47.940
+We will see how the demand
+
+43:47.940 --> 43:50.940
+affects the profit they get.
+
+43:50.940 --> 43:53.940
+We will run the simulation
+
+43:53.940 --> 43:56.940
+and leave the computer to count.
+
+44:02.940 --> 44:05.940
+As you can see,
+
+44:05.940 --> 44:08.940
+we have generated
+
+44:08.940 --> 44:11.940
+a little over 1,000 different demand values.
+
+44:11.940 --> 44:14.940
+We will build a graph
+
+44:14.940 --> 44:17.940
+of how the level of demand
+
+44:17.940 --> 44:20.940
+affects the profit.
+
+44:20.940 --> 44:23.940
+Here we have several different demand levels
+
+44:23.940 --> 44:26.940
+and the profit corresponding to them.
+
+44:26.940 --> 44:29.940
+We will insert a graph here.
+
+44:29.940 --> 44:32.940
+As usual, it will be a point graph.
+
+44:32.940 --> 44:35.940
+We will use our order as x
+
+44:35.940 --> 44:38.940
+and our profit as y.
+
+44:42.940 --> 44:45.940
+The graph shows that the optimal demand
+
+44:46.940 --> 44:49.940
+will be somewhere around $108-110.
+
+44:49.940 --> 44:52.940
+The optimal demand is affected
+
+44:52.940 --> 44:55.940
+by several conditions.
+
+44:55.940 --> 44:58.940
+In particular,
+
+44:58.940 --> 45:01.940
+the fact that we used
+
+45:01.940 --> 45:04.940
+a slightly shifted distribution.
+
+45:04.940 --> 45:07.940
+In addition, every time we generate
+
+45:07.940 --> 45:10.940
+a new batch of data,
+
+45:10.940 --> 45:13.940
+we will fluctuate a little
+
+45:13.940 --> 45:16.940
+and the optimal demand will be somewhere
+
+45:16.940 --> 45:19.940
+around $112-113.
+
+45:19.940 --> 45:22.940
+It would seem that the difference
+
+45:22.940 --> 45:25.940
+between the person who ordered 124
+
+45:25.940 --> 45:28.940
+and the one who ordered 108
+
+45:28.940 --> 45:31.940
+is not that big.
+
+45:31.940 --> 45:34.940
+But let's think about it.
+
+45:34.940 --> 45:37.940
+Is it a lot or a little?
+
+45:37.940 --> 45:40.940
+The graph does not show
+
+45:40.940 --> 45:43.940
+all possible expenses,
+
+45:43.940 --> 45:46.940
+in particular, rent, food etc.
+
+45:46.940 --> 45:49.940
+Imagine that the necessary expenses
+
+45:49.940 --> 45:52.940
+are $90,000.
+
+45:52.940 --> 45:55.940
+Thus, the person who ordered 124
+
+45:55.940 --> 45:58.940
+gets a profit of a little less than $1,000.
+
+45:58.940 --> 46:01.940
+While the person who ordered
+
+46:01.940 --> 46:04.940
+108 gets a profit of almost $4,000.
+
+46:04.940 --> 46:07.940
+This is almost 4 times higher
+
+46:08.940 --> 46:11.940
+than the level of 124 newspapers.
+
+46:16.940 --> 46:19.940
+It is clear that the 100 newspapers
+
+46:19.940 --> 46:22.940
+will be located at the level of 92,000.
+
+46:22.940 --> 46:25.940
+Nevertheless, the difference will be significant.
+
+46:25.940 --> 46:28.940
+If we are talking about profit,
+
+46:28.940 --> 46:31.940
+not sales,
+
+46:31.940 --> 46:34.940
+then the difference will be significant.
+
+46:35.940 --> 46:38.940
+Let's look at the histogram of our distribution.
+
+46:38.940 --> 46:41.940
+It looks like a normal distribution.
+
+46:47.940 --> 46:50.940
+Notice that the demand was several times
+
+46:50.940 --> 46:53.940
+around zero.
+
+46:53.940 --> 46:56.940
+Of course, we limited the demand
+
+46:56.940 --> 46:59.940
+from below zero.
+
+46:59.940 --> 47:02.940
+It is unlikely that someone will come
+
+47:02.940 --> 47:05.940
+and say that the demand is too high.
+
+47:05.940 --> 47:08.940
+Despite the fact that our average
+
+47:08.940 --> 47:11.940
+is only around 100 newspapers,
+
+47:11.940 --> 47:14.940
+the demand was several times
+
+47:14.940 --> 47:17.940
+significantly higher.
+
+47:17.940 --> 47:20.940
+Fortunately, the model of newspaper sellers
+
+47:20.940 --> 47:23.940
+has a strict solution.
+
+47:23.940 --> 47:26.940
+You can find it in the course application.
+
+47:26.940 --> 47:29.940
+The point is not in a strict solution.
+
+47:30.940 --> 47:33.940
+As a tradition,
+
+47:33.940 --> 47:36.940
+after the course is over,
+
+47:36.940 --> 47:39.940
+there are two tasks.
+
+47:39.940 --> 47:42.940
+Then, after a while,
+
+47:42.940 --> 47:45.940
+there are six tasks.
+
+47:45.940 --> 47:48.940
+The first task was given
+
+47:48.940 --> 47:51.940
+at the Moscow City Mathematical Olympiad
+
+47:51.940 --> 47:54.940
+for fifth-grade students.
+
+47:54.940 --> 47:57.940
+Two friends in the park met.
+
+47:57.940 --> 48:00.940
+The question was how old they were.
+
+48:00.940 --> 48:03.940
+The answer was strange.
+
+48:03.940 --> 48:06.940
+The number of pigeons was the same
+
+48:06.940 --> 48:09.940
+as the number of pigeons on the bench.
+
+48:09.940 --> 48:12.940
+The man said that he was not old enough.
+
+48:12.940 --> 48:15.940
+The second friend's son was older than him.
+
+48:15.940 --> 48:18.940
+Then it was clear.
+
+48:18.940 --> 48:21.940
+You need to guess
+
+48:21.940 --> 48:24.940
+how old the second friend's son was.
+
+48:24.940 --> 48:27.940
+There is a collection of coins.
+
+48:27.940 --> 48:30.940
+You can count them with your eyes closed.
+
+48:30.940 --> 48:33.940
+It is known that exactly 26 coins
+
+48:33.940 --> 48:36.940
+are on the top of the head.
+
+48:36.940 --> 48:39.940
+The coins should be divided into two piles
+
+48:39.940 --> 48:42.940
+so that there is an equal number of coins
+
+48:42.940 --> 48:45.940
+on each pile.
+
+48:45.940 --> 48:48.940
+You cannot distinguish the head from the eagle.
+
+48:48.940 --> 48:51.940
+You cannot distinguish the coin by touch.
+
+48:51.940 --> 48:54.940
+Here is a hint.
+
+48:54.940 --> 48:57.940
+All you can do with coins is to count and flip.
+
+48:57.940 --> 49:00.940
+The first task.
+
+49:00.940 --> 49:03.940
+A 32-kilogram cast-iron boat
+
+49:03.940 --> 49:06.940
+floats in the pool.
+
+49:06.940 --> 49:09.940
+The boat is thrown into the pool.
+
+49:09.940 --> 49:12.940
+How will the water level in the pool change?
+
+49:12.940 --> 49:15.940
+The water level in the pool will decrease.
+
+49:15.940 --> 49:18.940
+While the boat is in the pool,
+
+49:18.940 --> 49:21.940
+the water level in the pool will be 32 liters.
+
+49:31.940 --> 49:34.940
+When the boat is at the bottom,
+
+49:34.940 --> 49:37.940
+it takes only the volume of the water.
+
+49:37.940 --> 49:40.940
+It takes about 4 liters.
+
+49:40.940 --> 49:43.940
+The density of cast-iron is 8.
+
+49:43.940 --> 49:46.940
+The volume of the boat is about 4 liters.
+
+49:46.940 --> 49:49.940
+The water level in the pool is 28 liters.
+
+49:49.940 --> 49:52.940
+The water level will decrease.
+
+49:52.940 --> 49:55.940
+Next.
+
+49:55.940 --> 49:58.940
+There is a cup of water on the lever scales.
+
+49:58.940 --> 50:01.940
+You put your finger into the cup.
+
+50:01.940 --> 50:04.940
+Of course, without separating it.
+
+50:04.940 --> 50:07.940
+It seems that you hold the finger yourself.
+
+50:07.940 --> 50:10.940
+However, you probably do not take into account
+
+50:10.940 --> 50:13.940
+that the other people
+
+50:13.940 --> 50:16.940
+push their finger into the water.
+
+50:16.940 --> 50:19.940
+You overcome some resistance.
+
+50:19.940 --> 50:22.940
+What happens in this case?
+
+50:22.940 --> 50:25.940
+The cup is raised.
+
+50:25.940 --> 50:28.940
+The cup does not know
+
+50:28.940 --> 50:31.940
+that it has a finger in it.
+
+50:31.940 --> 50:34.940
+The water level has risen.
+
+50:34.940 --> 50:37.940
+The pressure has increased.
+
+50:37.940 --> 50:40.940
+The cup honestly transfers this pressure.
+
+50:41.940 --> 50:44.940
+The cup will weigh.
+
+50:44.940 --> 50:47.940
+The task with the bridge.
+
+50:47.940 --> 50:50.940
+The first thing that comes to mind
+
+50:50.940 --> 50:53.940
+is to send the fastest one.
+
+50:53.940 --> 50:56.940
+Let him run and wear this flashlight.
+
+50:56.940 --> 50:59.940
+This way you will get the result in 19 minutes.
+
+50:59.940 --> 51:02.940
+You can check.
+
+51:02.940 --> 51:05.940
+In fact, there is a general operational principle
+
+51:05.940 --> 51:08.940
+of the bridge.
+
+51:09.940 --> 51:12.940
+What is it?
+
+51:12.940 --> 51:15.940
+The principle is quite simple.
+
+51:15.940 --> 51:18.940
+If you have two long processes,
+
+51:18.940 --> 51:21.940
+you need to run them in parallel.
+
+51:21.940 --> 51:24.940
+Thus, those people who go 5 and 10 minutes
+
+51:24.940 --> 51:27.940
+should go together.
+
+51:27.940 --> 51:30.940
+How to do this?
+
+51:30.940 --> 51:33.940
+Of course, they cannot be let go first.
+
+51:33.940 --> 51:36.940
+Those who pass the bridge in 1 and 2 minutes should go first.
+
+51:36.940 --> 51:39.940
+Then 5 and 10 should go to the other side of the river.
+
+51:39.940 --> 51:42.940
+The second of the first two should return.
+
+51:42.940 --> 51:45.940
+And again they should go again.
+
+51:45.940 --> 51:48.940
+Thus, we get 2 minutes there,
+
+51:48.940 --> 51:51.940
+1 minute back,
+
+51:51.940 --> 51:54.940
+10 minutes there,
+
+51:54.940 --> 51:57.940
+2 minutes back,
+
+51:57.940 --> 52:00.940
+15 minutes,
+
+52:00.940 --> 52:03.940
+and 2 minutes forward, 17 minutes.
+
+52:03.940 --> 52:06.940
+This is almost 10% better than the decision
+
+52:06.940 --> 52:09.940
+that comes to mind automatically.
+
+52:09.940 --> 52:12.940
+It seems to me that 5 minutes of thinking
+
+52:12.940 --> 52:15.940
+is worth 10% improvement in performance.
+
+52:15.940 --> 52:18.940
+The task with the camel.
+
+52:18.940 --> 52:21.940
+There is another general operational principle.
+
+52:21.940 --> 52:24.940
+I'll tell you which one.
+
+52:24.940 --> 52:27.940
+The first one is how to solve it.
+
+52:27.940 --> 52:30.940
+It becomes clear almost immediately
+
+52:30.940 --> 52:33.940
+that if you load a thousand bananas on a camel
+
+52:33.940 --> 52:36.940
+and let it go to the maximum distance,
+
+52:36.940 --> 52:39.940
+then, of course, the camel will not reach any banana.
+
+52:39.940 --> 52:42.940
+Moreover, it will not be able to return even back.
+
+52:42.940 --> 52:45.940
+All this camel tuning,
+
+52:45.940 --> 52:48.940
+self-loading, self-unloading,
+
+52:48.940 --> 52:51.940
+the system of cargo sustainability, GPS and the desert
+
+52:51.940 --> 52:54.940
+serve the same purpose.
+
+52:54.940 --> 52:57.940
+The camel should be able to remove some part of the cargo from itself.
+
+52:57.940 --> 53:00.940
+And then return to the same place,
+
+53:00.940 --> 53:03.940
+knowing that the cargo will remain in safety.
+
+53:03.940 --> 53:06.940
+Thus, the first step to the solution would probably be like this.
+
+53:06.940 --> 53:09.940
+The camel takes a thousand bananas,
+
+53:09.940 --> 53:12.940
+goes 400 kilometers,
+
+53:12.940 --> 53:15.940
+throws 200 bananas,
+
+53:15.940 --> 53:18.940
+returns back, takes a thousand again,
+
+53:18.940 --> 53:21.940
+goes 400 kilometers, throws 200 bananas,
+
+53:21.940 --> 53:24.940
+returns back, takes a thousand,
+
+53:24.940 --> 53:27.940
+goes 400 kilometers.
+
+53:27.940 --> 53:30.940
+Here we find that in the place where it left the bananas,
+
+53:30.940 --> 53:33.940
+400 bananas are already lying.
+
+53:33.940 --> 53:36.940
+And it ate 400 bananas.
+
+53:36.940 --> 53:39.940
+It loads 400 bananas on itself,
+
+53:39.940 --> 53:42.940
+goes the remaining 600 kilometers,
+
+53:42.940 --> 53:45.940
+and thus it can deliver 400 bananas.
+
+53:45.940 --> 53:48.940
+Then the question arises,
+
+53:48.940 --> 53:51.940
+is this quantity the maximum?
+
+53:51.940 --> 53:54.940
+Maybe we can do something
+
+53:54.940 --> 53:57.940
+if, for example,
+
+53:57.940 --> 54:00.940
+we change the camel's first pass.
+
+54:00.940 --> 54:03.940
+Or maybe we can make more stops,
+
+54:03.940 --> 54:06.940
+and then the camel will be able to deliver more.
+
+54:06.940 --> 54:09.940
+It turns out that the general operational principle is this.
+
+54:09.940 --> 54:12.940
+If you have the equipment,
+
+54:12.940 --> 54:15.940
+it is desirable that it works with maximum load.
+
+54:15.940 --> 54:18.940
+That is, we need to break our thousand kilometers
+
+54:18.940 --> 54:21.940
+so that the camel starts with maximum load
+
+54:21.940 --> 54:24.940
+from each new point.
+
+54:24.940 --> 54:27.940
+If it starts with a thousand bananas
+
+54:27.940 --> 54:30.940
+three times from the first point,
+
+54:30.940 --> 54:33.940
+then it should start twice from the second point
+
+54:33.940 --> 54:36.940
+with a thousand bananas.
+
+54:36.940 --> 54:39.940
+And from the third point it should start once
+
+54:39.940 --> 54:42.940
+with a thousand bananas.
+
+54:42.940 --> 54:45.940
+If you write down the equation,
+
+54:45.940 --> 54:48.940
+that is, to get to the first stop,
+
+54:48.940 --> 54:51.940
+the camel should go back and forth,
+
+54:51.940 --> 54:54.940
+back and forth, five times.
+
+54:54.940 --> 54:57.940
+It should spend a thousand bananas for these five times.
+
+54:57.940 --> 55:00.940
+It is easy to determine
+
+55:00.940 --> 55:03.940
+that the distance it should cover is 200 kilometers.
+
+55:03.940 --> 55:06.940
+Now we have 2,000 bananas left at the second point.
+
+55:06.940 --> 55:09.940
+We need to go back and forth
+
+55:09.940 --> 55:12.940
+and spend a thousand bananas for this time.
+
+55:12.940 --> 55:15.940
+Of course, the distance should be 333.1 kilometers.
+
+55:15.940 --> 55:18.940
+Thus, from the third point,
+
+55:18.940 --> 55:21.940
+which is 200 plus 333.1,
+
+55:21.940 --> 55:24.940
+the camel starts again with a thousand bananas.
+
+55:24.940 --> 55:27.940
+It will eat as many bananas as it can,
+
+55:27.940 --> 55:30.940
+but it will be able to deliver the same 533.1.
+
+55:30.940 --> 55:33.940
+This is the optimal amount.
+
+55:33.940 --> 55:36.940
+You can check it in other ways.
+
+55:36.940 --> 55:39.940
+The task about two friends.
+
+55:39.940 --> 55:42.940
+It is an interesting task.
+
+55:42.940 --> 55:45.940
+As you have probably already seen,
+
+55:45.940 --> 55:48.940
+there is information where it is,
+
+55:48.940 --> 55:51.940
+and where it is not.
+
+55:51.940 --> 55:54.940
+The information starts with the phrase
+
+55:54.940 --> 55:57.940
+that two sons of a preschooler grow up.
+
+55:57.940 --> 56:00.940
+We assume that a preschooler is a child
+
+56:00.940 --> 56:03.940
+who is 7 or younger.
+
+56:03.940 --> 56:06.940
+What happens next?
+
+56:06.940 --> 56:09.940
+The person says that the number of pigeons
+
+56:09.940 --> 56:12.940
+is equal to the number of pigeons
+
+56:12.940 --> 56:15.940
+around that bench, and this is not enough.
+
+56:15.940 --> 56:18.940
+The solution is two-dimensional.
+
+56:18.940 --> 56:21.940
+Let's think further.
+
+56:21.940 --> 56:24.940
+What information is there
+
+56:24.940 --> 56:27.940
+that the elder looks like his mother?
+
+56:27.940 --> 56:30.940
+Of course, it's not that he looks like his mother.
+
+56:30.940 --> 56:33.940
+The information is that there is an elder.
+
+56:34.940 --> 56:37.940
+So, before that,
+
+56:37.940 --> 56:40.940
+when the first friend said
+
+56:40.940 --> 56:43.940
+that he did not have enough information,
+
+56:43.940 --> 56:46.940
+he was afraid that
+
+56:46.940 --> 56:49.940
+these sons could be twins.
+
+56:49.940 --> 56:52.940
+But since he was afraid that
+
+56:52.940 --> 56:55.940
+these sons could be twins,
+
+56:55.940 --> 56:58.940
+it greatly simplifies our decision.
+
+56:58.940 --> 57:01.940
+We will look for an answer in advance
+
+57:01.940 --> 57:04.940
+to the question of full squares.
+
+57:04.940 --> 57:07.940
+Thank God, there are not so many full squares.
+
+57:07.940 --> 57:10.940
+For some reason,
+
+57:10.940 --> 57:13.940
+you can immediately discard such numbers
+
+57:13.940 --> 57:16.940
+as 3, 5 and 7.
+
+57:16.940 --> 57:19.940
+Let's discuss.
+
+57:19.940 --> 57:22.940
+Let's say we take 49.
+
+57:22.940 --> 57:25.940
+What are the options?
+
+57:25.940 --> 57:28.940
+Either 1 and 49, or 7 and 70.
+
+57:28.940 --> 57:31.940
+Let's go on.
+
+57:31.940 --> 57:34.940
+36. What are the options?
+
+57:34.940 --> 57:37.940
+6 and 6,
+
+57:37.940 --> 57:40.940
+2 and 18,
+
+57:40.940 --> 57:43.940
+3 and 12,
+
+57:43.940 --> 57:46.940
+4 and 9.
+
+57:46.940 --> 57:49.940
+25 is the same,
+
+57:49.940 --> 57:52.940
+5 and 5, 1 and 25 do not work.
+
+57:52.940 --> 57:55.940
+16.
+
+57:55.940 --> 57:58.940
+What are the options?
+
+57:58.940 --> 58:01.940
+1 and 16, 2 and 8, 4 and 4.
+
+58:01.940 --> 58:04.940
+4 and 4, since there is an elder,
+
+58:04.940 --> 58:07.940
+2 and 8, 8 is an underage.
+
+58:07.940 --> 58:10.940
+The same thing happens with 3 and 3,
+
+58:10.940 --> 58:13.940
+or 1 and 9.
+
+58:13.940 --> 58:16.940
+9 is no underage.
+
+58:16.940 --> 58:19.940
+1 and 1, there is only one option left,
+
+58:19.940 --> 58:22.940
+that they are twins and they are one year old.
+
+58:22.940 --> 58:25.940
+2 and 2 are not working,
+
+58:25.940 --> 58:28.940
+so the second son is 1 and 4 years old.
+
+58:28.940 --> 58:31.940
+Another question about coins.
+
+58:31.940 --> 58:34.940
+It's a funny question.
+
+58:34.940 --> 58:37.940
+It's quite simple.
+
+58:37.940 --> 58:40.940
+Pay attention.
+
+58:40.940 --> 58:43.940
+The condition of the question says
+
+58:43.940 --> 58:46.940
+that the coins should be divided into two piles
+
+58:46.940 --> 58:49.940
+so that there are the same number of coins
+
+58:49.940 --> 58:52.940
+and the other pile should be the same.
+
+58:52.940 --> 58:55.940
+So, you can use the logic
+
+58:55.940 --> 58:58.940
+that a double negation is the same as a positive.
+
+58:58.940 --> 59:01.940
+Or, to put it simply,
+
+59:01.940 --> 59:04.940
+a minus to a minus gives a plus.
+
+59:04.940 --> 59:07.940
+You count 26 coins.
+
+59:07.940 --> 59:10.940
+Let's say, among them
+
+59:10.940 --> 59:13.940
+you got a K-coin with a top.
+
+59:13.940 --> 59:16.940
+Then how many coins are left in the second pile?
+
+59:17.940 --> 59:20.940
+26 minus K.
+
+59:20.940 --> 59:23.940
+Now, you flip the 26 coins
+
+59:23.940 --> 59:26.940
+with K-coins and a top.
+
+59:26.940 --> 59:29.940
+Now, in this pile
+
+59:29.940 --> 59:32.940
+there are 26 minus K coins.
+
+59:32.940 --> 59:35.940
+The K-coins with a top
+
+59:35.940 --> 59:38.940
+are now in the top.
+
+59:38.940 --> 59:41.940
+The coins with a minus K
+
+59:41.940 --> 59:44.940
+are now in the top.
+
+59:44.940 --> 59:47.940
+And the 26 minus K coins are left in the left pile.
+
+59:47.940 --> 59:50.940
+Thus, we got the same number of K-coins.
+
+59:50.940 --> 59:53.940
+There are many such interesting tasks.
+
+59:53.940 --> 59:56.940
+We need to solve them
+
+59:56.940 --> 59:59.940
+to make our brain work.
+
+59:59.940 --> 01:00:02.940
+It's very useful to solve them.
+
+01:00:02.940 --> 01:00:05.940
+Thank you.
+
+01:00:05.940 --> 01:00:08.940
+The course is over.
+
+01:00:08.940 --> 01:00:11.940
+I'd like to draw your attention
+
+01:00:11.940 --> 01:00:14.940
+to statistics.
+
+01:00:14.940 --> 01:00:17.940
+Statistics is not a recurring thing.
+
+01:00:17.940 --> 01:00:20.940
+But statistics often allows us
+
+01:00:20.940 --> 01:00:23.940
+to get more or less certain predictions.
+
+01:00:23.940 --> 01:00:26.940
+If not predictions,
+
+01:00:26.940 --> 01:00:29.940
+then preliminary results.
+
+01:00:29.940 --> 01:00:32.940
+Let's call it so.
+
+01:00:32.940 --> 01:00:35.940
+Because it's not possible to predict
+
+01:00:35.940 --> 01:00:38.940
+anything in general.
+
+01:00:39.940 --> 01:00:42.940
+Preliminary results will help you
+
+01:00:42.940 --> 01:00:45.940
+to cope better with your business.
+
+01:01:01.940 --> 01:01:04.940
+Of course, such things as linear programming
+
+01:01:04.940 --> 01:01:07.940
+and Monte Carlo method
+
+01:01:07.940 --> 01:01:10.940
+are also very useful.
+
+01:01:10.940 --> 01:01:13.940
+But I'd like to draw your attention
+
+01:01:13.940 --> 01:01:16.940
+to statistics.
+
+01:01:16.940 --> 01:01:19.940
+Of course, the question of statistics
+
+01:01:19.940 --> 01:01:22.940
+is very complicated.
+
+01:01:22.940 --> 01:01:25.940
+But we have no other choice
+
+01:01:25.940 --> 01:01:28.940
+than to believe
+
+01:01:28.940 --> 01:01:31.940
+that the conditions
+
+01:01:31.940 --> 01:01:34.940
+that existed in the past
+
+01:01:34.940 --> 01:01:37.940
+will be repeated in the future.
+
+01:01:37.940 --> 01:01:40.940
+Study statistics and its application in business.
+
+01:01:40.940 --> 01:01:43.940
+Good luck to everyone!

@@ -1,0 +1,4471 @@
+WEBVTT
+
+00:00.000 --> 00:11.000
+Good afternoon, my name is Natalia Smirnova, I am a consultant of BTEC company, or Business Engineering Technologies.
+
+00:11.000 --> 00:19.000
+Our company is engaged in operational consulting, that is, we are engaged in the production and process management of many companies, both Russian and foreign.
+
+00:19.000 --> 00:23.000
+It is logical to assume that this is what my today's course will be dedicated to.
+
+00:23.000 --> 00:29.000
+Before we start, let's talk about what we will be talking about today.
+
+00:29.000 --> 00:34.000
+First, we will discuss the process management system, what it is.
+
+00:34.000 --> 00:42.000
+Then we will see how the identification and allocation of business processes is done, on which all the processes are built.
+
+00:42.000 --> 00:48.000
+Then we will see how these business processes are described, because not only do they have to be allocated, but they also need to be described.
+
+00:49.000 --> 00:55.000
+Then we will see how we can analyze business processes before we optimize them.
+
+00:55.000 --> 01:00.000
+Because, according to experience, 90% of business processes need to be optimized.
+
+01:00.000 --> 01:06.000
+Therefore, we describe business processes not to get beautiful pictures, but to do something with these pictures.
+
+01:06.000 --> 01:14.000
+Next, we will see what methods exist, what methods of business processes optimization exist.
+
+01:14.000 --> 01:17.000
+Then we will see about the regulations.
+
+01:17.000 --> 01:25.000
+The regulations in most companies are that no one needs the documentation that is stored somewhere on the shelves and absolutely no one needs it.
+
+01:25.000 --> 01:31.000
+In fact, in the process management system, regulations are necessary that will act, that will be used.
+
+01:31.000 --> 01:33.000
+We will talk about this separately.
+
+01:33.000 --> 01:36.000
+Then we will see about the assessment of the cost of business processes.
+
+01:36.000 --> 01:37.000
+What is it?
+
+01:37.000 --> 01:45.000
+Not only do you need to describe a business process, analyze it, regulate it, but you also need to assess it so that you can manage its cost.
+
+01:45.000 --> 01:48.000
+Otherwise, why would you implement a process management system?
+
+01:48.000 --> 01:56.000
+And in the end, we will see how this business process is built according to the process management system.
+
+01:56.000 --> 02:00.000
+I will tell you about an example of how we did it using the example of a number of companies.
+
+02:00.000 --> 02:05.000
+Process Management System
+
+02:05.000 --> 02:08.000
+So, let's move on to the very first point.
+
+02:08.000 --> 02:10.000
+This is a process management system.
+
+02:10.000 --> 02:12.000
+Where did it all come from?
+
+02:12.000 --> 02:21.000
+Surely, you all know that in the early 16th and even earlier centuries there was a simple craft production.
+
+02:21.000 --> 02:25.000
+The craftsman was engaged in all business processes on his own.
+
+02:25.000 --> 02:28.000
+He had no one, or at most there were a couple of assistants.
+
+02:28.000 --> 02:30.000
+There was nothing special.
+
+02:30.000 --> 02:37.000
+And he himself was engaged in both the purchase of materials and the manufacture of leather products, and so on.
+
+02:37.000 --> 02:42.000
+And he developed a strategy for his development, marketing, and so on.
+
+02:42.000 --> 02:44.000
+If, of course, he knew these words.
+
+02:44.000 --> 02:46.000
+Therefore, everyone was led by one person.
+
+02:46.000 --> 02:50.000
+We can say that all his crafts were a single business process.
+
+02:50.000 --> 02:52.000
+And he was the only owner.
+
+02:52.000 --> 02:54.000
+What happened over time?
+
+02:54.000 --> 02:56.000
+Over time, this happened.
+
+02:56.000 --> 03:02.000
+In 1776, Adam Smith developed the concept of functionality.
+
+03:02.000 --> 03:07.000
+That is, it means that now we have more than one person doing everything.
+
+03:07.000 --> 03:11.000
+And each of us is engaged in what he does best.
+
+03:11.000 --> 03:13.000
+It seems to be a completely logical concept.
+
+03:13.000 --> 03:23.000
+Indeed, why do you, specialists, well, let's say, in logistics, still engage in marketing, strategies, and the description of business processes?
+
+03:23.000 --> 03:29.000
+And IT, and translations, and phone calls, and coffee trays, and so on.
+
+03:29.000 --> 03:31.000
+Absolutely unnecessary.
+
+03:31.000 --> 03:35.000
+That is why Adam Smith proposed the concept of functional division.
+
+03:35.000 --> 03:40.000
+That is, from there, functional-oriented companies were born, which, unfortunately, are now the majority.
+
+03:40.000 --> 03:49.000
+This means that each specialist is engaged in his own narrow area of ​​activity, in which he, in which he has no equal.
+
+03:50.000 --> 03:55.000
+For example, there is a specialist like you, in logistics, or finance, or marketing.
+
+03:55.000 --> 03:58.000
+But this does not mean that you are engaged in all marketing.
+
+03:58.000 --> 04:00.000
+You are engaged in some small part of it.
+
+04:00.000 --> 04:04.000
+For example, in cooperation with large clients in the field of PR.
+
+04:04.000 --> 04:09.000
+Over time, this has taken on some ugly forms.
+
+04:09.000 --> 04:13.000
+Because there were too many narrow specialists.
+
+04:13.000 --> 04:17.000
+Everyone was engaged in a very, very narrow part of the activity.
+
+04:17.000 --> 04:21.000
+And as a result, no one was responsible for the whole business process.
+
+04:21.000 --> 04:26.000
+That is, as a result, the company began to turn into a group of small specialists,
+
+04:26.000 --> 04:30.000
+each of whom did not know what his neighbor was doing in the room.
+
+04:30.000 --> 04:37.000
+And so, sooner or later, we had to come to the point that we partially returned to the times of craft production.
+
+04:37.000 --> 04:39.000
+What is it?
+
+04:39.000 --> 04:44.000
+We finally have these small, scattered pieces of functions, and unified processes began to take shape.
+
+04:44.000 --> 04:50.000
+But, unlike the very first time, when all production was considered as a single process,
+
+04:50.000 --> 04:53.000
+now we have processes that are different.
+
+04:53.000 --> 04:57.000
+On the main, on the business processes of management.
+
+04:57.000 --> 05:01.000
+And each of each process has its owner.
+
+05:01.000 --> 05:04.000
+Narrow specialists participate in the processes.
+
+05:04.000 --> 05:07.000
+Please, nothing changes here for health.
+
+05:07.000 --> 05:09.000
+The most important thing is that there is responsibility,
+
+05:09.000 --> 05:11.000
+and you can ask, what is wrong in the process?
+
+05:11.000 --> 05:14.000
+What is the result? What is the input? What is the output?
+
+05:14.000 --> 05:16.000
+What are the participants? Who is responsible for what?
+
+05:16.000 --> 05:19.000
+And finally, it becomes easier to manage the company.
+
+05:19.000 --> 05:24.000
+Probably because of this, the process management system now has more and more adherents,
+
+05:24.000 --> 05:26.000
+and many, many companies.
+
+05:26.000 --> 05:32.000
+And if before the process management system was the prerogative of only the most advanced Western companies,
+
+05:32.000 --> 05:38.000
+now the process management is implemented by small and medium companies of the Russian Federation.
+
+05:39.000 --> 05:46.000
+Let's consider the differences between the functional system and the process management system.
+
+05:46.000 --> 05:53.000
+If we take a factory for the production of some products,
+
+05:53.000 --> 05:57.000
+let's say, there are three workers working there.
+
+05:57.000 --> 06:02.000
+If we have a factory built according to the principle of functional division, what happens?
+
+06:02.000 --> 06:06.000
+The first worker only buys.
+
+06:06.000 --> 06:08.000
+He does not care what happens next.
+
+06:08.000 --> 06:10.000
+His task is to buy.
+
+06:10.000 --> 06:14.000
+He buys at the most attractive price,
+
+06:14.000 --> 06:16.000
+from the best suppliers, everything is great.
+
+06:16.000 --> 06:18.000
+He bought everything he needed.
+
+06:18.000 --> 06:20.000
+What to do next is not his problem.
+
+06:20.000 --> 06:23.000
+He does not care. He does not care at all.
+
+06:23.000 --> 06:26.000
+He did his job well, got a salary and went home happily.
+
+06:26.000 --> 06:28.000
+The second worker.
+
+06:28.000 --> 06:32.000
+The second worker gets this material and makes something out of it.
+
+06:33.000 --> 06:37.000
+The second worker does not care whether the consumer needs it or not.
+
+06:37.000 --> 06:41.000
+Maybe the consumer has completely different requirements for this product.
+
+06:41.000 --> 06:43.000
+He does not care either.
+
+06:43.000 --> 06:48.000
+His task is to get the material to the warehouse and then to transfer it to the sales manager.
+
+06:48.000 --> 06:50.000
+He is not interested in anything else.
+
+06:50.000 --> 06:54.000
+He did his job from A to B and then his function is over.
+
+06:54.000 --> 06:56.000
+The next worker.
+
+06:56.000 --> 06:58.000
+He took what was made and sells it.
+
+06:58.000 --> 07:02.000
+It is not important to tell the manufacturer that he needs a different product.
+
+07:02.000 --> 07:04.000
+The main thing is to sell it.
+
+07:04.000 --> 07:06.000
+What does it lead to?
+
+07:06.000 --> 07:09.000
+The organization is not inclined to make changes quickly,
+
+07:09.000 --> 07:11.000
+efficiently and smoothly.
+
+07:11.000 --> 07:15.000
+It reacts very slowly to changes in the environment
+
+07:15.000 --> 07:18.000
+and, in the end, it spends its competitive advantages.
+
+07:18.000 --> 07:22.000
+If this factory worked on the principle of a process control system,
+
+07:22.000 --> 07:24.000
+what would change?
+
+07:24.000 --> 07:26.000
+The first worker.
+
+07:26.000 --> 07:30.000
+He would be responsible for the purchase, production and sale of one product.
+
+07:30.000 --> 07:32.000
+Let's say, chairs.
+
+07:32.000 --> 07:38.000
+The second worker would be responsible for the purchase, production and sale of the third product.
+
+07:38.000 --> 07:40.000
+Let's say, refrigerators.
+
+07:40.000 --> 07:43.000
+The second product would be computers.
+
+07:43.000 --> 07:46.000
+The second or third worker would be responsible for this.
+
+07:46.000 --> 07:51.000
+Thus, each worker is fully responsible for the entire business process.
+
+07:51.000 --> 07:56.000
+The purchase, sale and production of one product.
+
+07:56.000 --> 07:58.000
+What does it lead to?
+
+07:58.000 --> 08:00.000
+The worker is aware of the consumer's requirements.
+
+08:00.000 --> 08:02.000
+He knows the needs of suppliers.
+
+08:02.000 --> 08:04.000
+He knows the features of the company's production.
+
+08:04.000 --> 08:09.000
+He can react quickly, efficiently and smoothly to changes in the environment.
+
+08:09.000 --> 08:11.000
+Suppliers may have changed something.
+
+08:11.000 --> 08:14.000
+They began to produce a more suitable material.
+
+08:14.000 --> 08:17.000
+Or the consumer may have new requirements for the product.
+
+08:17.000 --> 08:21.000
+This means that the consumer can quickly change the production process,
+
+08:21.000 --> 08:24.000
+purchase or sale of a product.
+
+08:24.000 --> 08:26.000
+The process changes quickly.
+
+08:26.000 --> 08:30.000
+Unlike the first case, when everyone is aware of the business process,
+
+08:30.000 --> 08:33.000
+although most of them do not know what the neighbor is doing.
+
+08:33.000 --> 08:38.000
+Let's consider the functional approach and the process approach.
+
+08:38.000 --> 08:41.000
+Let's compare what is good and what is bad.
+
+08:41.000 --> 08:47.000
+Based on what I just said, you may think that the functional approach is not suitable for anyone.
+
+08:47.000 --> 08:49.000
+It is a rudiment.
+
+08:49.000 --> 08:51.000
+It is not needed by anyone.
+
+08:51.000 --> 08:53.000
+It is wrong.
+
+08:53.000 --> 08:56.000
+Both approaches have their pros and cons.
+
+08:56.000 --> 09:00.000
+I want to note that the process approach is not suitable for all companies.
+
+09:00.000 --> 09:03.000
+Let's look at the pros and cons in more detail.
+
+09:03.000 --> 09:07.000
+If we talk about the functional approach, what are its pros?
+
+09:07.000 --> 09:09.000
+The pros are obvious.
+
+09:09.000 --> 09:11.000
+The first one is less expensive.
+
+09:11.000 --> 09:17.000
+Most likely, you know that a universal specialist who understands many issues
+
+09:17.000 --> 09:21.000
+is more expensive than a specialist who understands issues from A to B.
+
+09:21.000 --> 09:24.000
+But he understands this issue well.
+
+09:24.000 --> 09:29.000
+Therefore, if there are no such specialists in your company,
+
+09:29.000 --> 09:38.000
+the transition to the process approach means a sharp increase in the salary of such new universal specialists.
+
+09:39.000 --> 09:42.000
+As for the pros of the process approach,
+
+09:42.000 --> 09:46.000
+it is responsible for the overall result.
+
+09:46.000 --> 09:51.000
+If in the case of the first functional option,
+
+09:51.000 --> 09:57.000
+no one at this factory was responsible for what the factory produces,
+
+09:57.000 --> 10:03.000
+then in the second case, one manager who was responsible for the purchase, production and sale of a particular product,
+
+10:03.000 --> 10:05.000
+was responsible for the whole process.
+
+10:05.000 --> 10:10.000
+And we could be sure as the managers of such a factory that both the supplier and the consumer are satisfied.
+
+10:10.000 --> 10:13.000
+And if they are not satisfied, then the manager will fix everything.
+
+10:13.000 --> 10:19.000
+The pros are flexibility, speed, efficiency of decision-making.
+
+10:19.000 --> 10:22.000
+As for the cons, there is no place without them.
+
+10:22.000 --> 10:25.000
+Everything cannot be wonderful and chocolate.
+
+10:25.000 --> 10:27.000
+The functional approach.
+
+10:27.000 --> 10:29.000
+What are the cons?
+
+10:29.000 --> 10:33.000
+The cons are opposite to the pros of the process approach.
+
+10:33.000 --> 10:38.000
+If the process approach is flexible, then the functional approach is not flexible.
+
+10:38.000 --> 10:44.000
+This is the lack of speed in decision-making on the change of the process.
+
+10:44.000 --> 10:49.000
+This is the lack of responsibility for the overall result of the process.
+
+10:49.000 --> 10:54.000
+This is the lack of efficiency of the whole process.
+
+10:54.000 --> 10:57.000
+Yes, your divisions can work perfectly.
+
+10:57.000 --> 10:59.000
+The buyer buys everything quickly.
+
+10:59.000 --> 11:02.000
+The manufacturer produces everything very quickly.
+
+11:02.000 --> 11:08.000
+The seller sells everything quickly and you don't have anything in the warehouse for a long time.
+
+11:08.000 --> 11:13.000
+But for some reason your suppliers are not optimal over time,
+
+11:13.000 --> 11:16.000
+with higher prices than on the market.
+
+11:16.000 --> 11:19.000
+And your customers refuse you for some reason,
+
+11:19.000 --> 11:22.000
+because you need to sell differently.
+
+11:22.000 --> 11:24.000
+Further.
+
+11:24.000 --> 11:30.000
+The functional approach cannot be without problems at the junction between divisions.
+
+11:30.000 --> 11:34.000
+If you have a lot of specialists involved in the process,
+
+11:34.000 --> 11:37.000
+who understand their narrow problems,
+
+11:37.000 --> 11:40.000
+then the transition from one specialist to another,
+
+11:40.000 --> 11:44.000
+each work in the business process leads to problems.
+
+11:44.000 --> 11:47.000
+One transition is one problem, another transition is another problem,
+
+11:47.000 --> 11:48.000
+more and more.
+
+11:48.000 --> 11:50.000
+The more specialists in your network,
+
+11:50.000 --> 11:52.000
+who are involved in your business process,
+
+11:52.000 --> 11:54.000
+the more problems there will be.
+
+11:54.000 --> 11:57.000
+And be sure that it will be very difficult to change such a process.
+
+11:57.000 --> 11:59.000
+It is easier to do it from scratch.
+
+11:59.000 --> 12:05.000
+And finally, this leads to conflicts between divisions,
+
+12:05.000 --> 12:08.000
+or between specialists, people, groups, and so on.
+
+12:08.000 --> 12:11.000
+The disadvantages of the process approach.
+
+12:11.000 --> 12:12.000
+He also has disadvantages.
+
+12:12.000 --> 12:13.000
+He is not perfect.
+
+12:13.000 --> 12:15.000
+First, he is more expensive.
+
+12:15.000 --> 12:17.000
+And there is duplication of work.
+
+12:17.000 --> 12:19.000
+Let's go back to the example of the factory.
+
+12:19.000 --> 12:22.000
+In the first case, one manager was engaged in the purchase.
+
+12:22.000 --> 12:28.000
+In the second case, the manager was engaged in the purchase and production of sales.
+
+12:28.000 --> 12:30.000
+The second manager was engaged in the purchase and production of sales.
+
+12:30.000 --> 12:33.000
+The third manager was engaged in the purchase and production of sales.
+
+12:33.000 --> 12:34.000
+And so on.
+
+12:34.000 --> 12:36.000
+In fact, the purchase was done by three people.
+
+12:36.000 --> 12:38.000
+This is duplication.
+
+12:38.000 --> 12:39.000
+This is a complication.
+
+12:39.000 --> 12:42.000
+But let's remember the advantages.
+
+12:42.000 --> 12:43.000
+It is the responsibility for the result.
+
+12:43.000 --> 12:45.000
+It is a better product.
+
+12:45.000 --> 12:47.000
+Further.
+
+12:47.000 --> 12:53.000
+Let's say that we have a few such managers in our company.
+
+12:53.000 --> 12:58.000
+And we need a person in each of the processes who will help.
+
+12:58.000 --> 13:01.000
+From the point of view of marketing, for example.
+
+13:01.000 --> 13:03.000
+But such a specialist is the only one.
+
+13:03.000 --> 13:05.000
+How to break him between three processes?
+
+13:05.000 --> 13:07.000
+Let's say that we have three managers.
+
+13:07.000 --> 13:10.000
+Responsible for the chair, for the computer, and for something else.
+
+13:10.000 --> 13:12.000
+But we have only one marketing specialist.
+
+13:12.000 --> 13:14.000
+Which business process should you include?
+
+13:14.000 --> 13:15.000
+This is unknown.
+
+13:15.000 --> 13:16.000
+This is a conflict of resources.
+
+13:16.000 --> 13:17.000
+This is not clear.
+
+13:17.000 --> 13:19.000
+This is also a minus of the process approach.
+
+13:19.000 --> 13:25.000
+Especially if you have very few narrowly specialized workers.
+
+13:25.000 --> 13:30.000
+Accordingly, if we have few specialists in our company, who understand everything.
+
+13:30.000 --> 13:32.000
+Then we have a conflict of resources.
+
+13:32.000 --> 13:36.000
+And we can not equally divide them into different business processes.
+
+13:36.000 --> 13:42.000
+You have to sit with the same specialist in this process, and in this, and in this, and in this.
+
+13:42.000 --> 13:43.000
+That is, a conflict of resources.
+
+13:43.000 --> 13:48.000
+And the third drawback of the process approach is that we have high requirements for specialists.
+
+13:48.000 --> 13:51.000
+In a company where a process approach is implemented,
+
+13:51.000 --> 13:57.000
+one person can not sit alone to hand over a piece of paper from department A to department B.
+
+13:57.000 --> 13:58.000
+That's it.
+
+13:58.000 --> 14:02.000
+This means that the specialist must perform the maximum functions.
+
+14:02.000 --> 14:06.000
+Otherwise, why do you need such a narrowly specialized person in the company?
+
+14:06.000 --> 14:09.000
+Not in all organizations this is possible.
+
+14:09.000 --> 14:17.000
+Therefore, if in your company you have a lot of specialists, who do some very small, small, small work.
+
+14:17.000 --> 14:22.000
+This means that the process approach is temporary for you.
+
+14:22.000 --> 14:31.000
+Until there are more, more universal specialists, who understand a large number of functions and work.
+
+14:31.000 --> 14:38.000
+Now we have come to the most important point, which in our course will probably be without it.
+
+14:38.000 --> 14:40.000
+It makes no sense to continue.
+
+14:40.000 --> 14:43.000
+This is the difference between a business process and a function.
+
+14:43.000 --> 14:46.000
+Now we talked about the process approach and the functional approach.
+
+14:46.000 --> 14:51.000
+I think you already roughly understand the difference between a process and a function.
+
+14:51.000 --> 14:58.000
+If you formulated the definition of a business process in your own way, how do you think, how would you formulate it?
+
+14:58.000 --> 15:04.000
+Well, probably you would say that this is a connection of several works or functions,
+
+15:04.000 --> 15:10.000
+which are designed to transform something at the input into something that will be at the output.
+
+15:10.000 --> 15:14.000
+Otherwise, any process happens.
+
+15:14.000 --> 15:16.000
+A business process is not an exception.
+
+15:16.000 --> 15:21.000
+And it is very important here that there is something at the input and something at the output.
+
+15:21.000 --> 15:25.000
+And to the fact that at the output and to the fact that at the input certain requirements are presented.
+
+15:25.000 --> 15:30.000
+If the process has no result, then it is not a business process, it is not clear what.
+
+15:31.000 --> 15:35.000
+If we talk about a function, then it is a component of a business process.
+
+15:35.000 --> 15:40.000
+This is a certain work, repetitive, which can be included in several business processes.
+
+15:40.000 --> 15:44.000
+But the main thing is just a repetitive periodic action.
+
+15:44.000 --> 15:50.000
+There is no emphasis on the fact that it is designed to transform something at the input into something at the output.
+
+15:50.000 --> 15:54.000
+That is why if we compare a business process and a function,
+
+15:54.000 --> 15:58.000
+then we can give the following characteristics to a function and a business process.
+
+15:58.000 --> 16:02.000
+Let's start with a function as a component of a business process.
+
+16:02.000 --> 16:06.000
+A function is a set of homogeneous activities.
+
+16:06.000 --> 16:10.000
+Homogeneous means that they are identical, similar.
+
+16:10.000 --> 16:13.000
+For example, a purchase.
+
+16:13.000 --> 16:15.000
+In general, this is a function.
+
+16:15.000 --> 16:21.000
+Next, this is a set of narrowly specialized activities.
+
+16:21.000 --> 16:25.000
+For example, PR, cooperation with the media.
+
+16:26.000 --> 16:30.000
+These are all functions that are included in a business process marketing.
+
+16:30.000 --> 16:33.000
+And then, the most important, I emphasize again,
+
+16:33.000 --> 16:36.000
+that a function is a component of a business process.
+
+16:36.000 --> 16:39.000
+A brick from which a whole wall is made.
+
+16:39.000 --> 16:43.000
+If we move on to a business process, then it is a set of various types of activities.
+
+16:43.000 --> 16:46.000
+We remember that in the example of a factory we talked about a business process,
+
+16:46.000 --> 16:49.000
+which is called from purchase to sale.
+
+16:49.000 --> 16:54.000
+That is, there are functions of purchase, sale and production.
+
+16:54.000 --> 16:57.000
+If we talk about a business process,
+
+16:57.000 --> 17:02.000
+we also take into account that business processes are interconnected.
+
+17:02.000 --> 17:08.000
+That is, they are not separate functions that exist in nature and in your company.
+
+17:08.000 --> 17:10.000
+They are connected to each other.
+
+17:10.000 --> 17:14.000
+The entrance of one business process is the exit of another business process, and so on.
+
+17:14.000 --> 17:17.000
+If the process is not connected to anything, it is not needed.
+
+17:17.000 --> 17:21.000
+Or this is a sign of inoptimism, it needs to be tied to something.
+
+17:22.000 --> 17:25.000
+This is the presence of entrances and exits.
+
+17:25.000 --> 17:29.000
+A business process is another important feature of it.
+
+17:29.000 --> 17:33.000
+We remember that a business process is designed to transform something into something.
+
+17:33.000 --> 17:37.000
+If the transformation does not take place, then it is not a business process.
+
+17:37.000 --> 17:39.000
+Next, the presence of results.
+
+17:39.000 --> 17:42.000
+And if there is no result, and this is some kind of partiality,
+
+17:42.000 --> 17:46.000
+or it is not clear what, then this is an improvement.
+
+17:46.000 --> 17:50.000
+A business process is either wrongly allocated, or it functions incorrectly.
+
+17:50.000 --> 17:52.000
+That is, something needs to be done with it.
+
+17:52.000 --> 17:55.000
+And most importantly, it consists of functions.
+
+17:55.000 --> 17:58.000
+Thus, we have compared a function and a business process.
+
+17:58.000 --> 18:01.000
+And now, when we talk about a business process,
+
+18:01.000 --> 18:07.000
+we mean the whole function, which is designed to transform an input into a result.
+
+18:07.000 --> 18:09.000
+And now the most interesting thing.
+
+18:09.000 --> 18:13.000
+How does the process management system in an organization work?
+
+18:13.000 --> 18:16.000
+What do you think it starts with?
+
+18:16.000 --> 18:19.000
+For example, someone will tell you that you need to describe a process,
+
+18:19.000 --> 18:21.000
+or you need to allocate processes,
+
+18:21.000 --> 18:26.000
+or you need to quickly follow the structure of the company and start allocating something from it.
+
+18:26.000 --> 18:30.000
+I do not want to upset you, but both answers will be wrong.
+
+18:30.000 --> 18:34.000
+Because you need to start with the most important thing, with the strategy of the company's development.
+
+18:34.000 --> 18:39.000
+Without understanding where your company is going, you will not be able to allocate business processes,
+
+18:39.000 --> 18:44.000
+because you will not be able to understand which business directions are key to your activities.
+
+18:44.000 --> 18:48.000
+And this means that you will not be able to allocate processes to the main and providing ones.
+
+18:48.000 --> 18:51.000
+If you do not know the strategy of the company's development,
+
+18:51.000 --> 18:53.000
+you will not be able to analyze business processes,
+
+18:53.000 --> 18:55.000
+which are important, which are less important,
+
+18:55.000 --> 18:59.000
+which are problematic, which are less problematic, and so on.
+
+18:59.000 --> 19:02.000
+If you do not know the strategy of your company,
+
+19:02.000 --> 19:05.000
+you will not know the needs of your clients,
+
+19:05.000 --> 19:10.000
+and you will not be able to form the right requirements for the result of all your business processes.
+
+19:10.000 --> 19:14.000
+Without the strategy, it is not possible to implement the process management system.
+
+19:14.000 --> 19:18.000
+The strategy is not a piece of paper that is taken from the company,
+
+19:18.000 --> 19:20.000
+and then it is not shown to anyone,
+
+19:20.000 --> 19:23.000
+and it is put on the shelves along with the regulations.
+
+19:23.000 --> 19:27.000
+The strategy is a real concept that everyone in the organization knows.
+
+19:27.000 --> 19:30.000
+One way or another, but they should know it.
+
+19:30.000 --> 19:35.000
+When there is a strategy, we can safely move on to allocating business processes.
+
+19:36.000 --> 19:39.000
+The first point is that we have developed a strategy of the company
+
+19:39.000 --> 19:42.000
+and brought it to each unit, to each employee.
+
+19:42.000 --> 19:45.000
+The balance score card is used for this,
+
+19:45.000 --> 19:47.000
+that is, the BSC system.
+
+19:47.000 --> 19:50.000
+I think you will be told about it in another course.
+
+19:50.000 --> 19:53.000
+Next, when we already have a strategy,
+
+19:53.000 --> 19:55.000
+we allocate business processes to the company,
+
+19:55.000 --> 19:59.000
+then we describe them, go further, look at the processes,
+
+19:59.000 --> 20:02.000
+and describe it all again to each employee.
+
+20:02.000 --> 20:04.000
+Now, when we have described it all,
+
+20:04.000 --> 20:08.000
+we analyze it all according to the strategy that we have developed before.
+
+20:08.000 --> 20:13.000
+And then, when we have described it all, analyzed it, optimized it,
+
+20:13.000 --> 20:16.000
+we have regulated the processes that have already been optimized,
+
+20:16.000 --> 20:21.000
+and after that, we will have specific positions in the organization.
+
+20:21.000 --> 20:24.000
+After everything is optimized,
+
+20:24.000 --> 20:27.000
+we will be able to develop our ideal organization.
+
+20:27.000 --> 20:32.000
+In most companies, the organization is created almost from the beginning,
+
+20:32.000 --> 20:36.000
+without understanding the basic and providing business processes.
+
+20:36.000 --> 20:38.000
+Therefore, it is often not optimal,
+
+20:38.000 --> 20:40.000
+it does not collide with the processes.
+
+20:40.000 --> 20:42.000
+In the process management system, the process is the primary,
+
+20:42.000 --> 20:44.000
+and not the structure.
+
+20:44.000 --> 20:47.000
+In the functional approach, everything is vice versa.
+
+20:47.000 --> 20:51.000
+The structure is more important, and the processes are not so important.
+
+20:51.000 --> 20:56.000
+Let's consider, for example, some companies,
+
+20:56.000 --> 20:58.000
+let's call them Evrica,
+
+20:58.000 --> 21:03.000
+how the organizational structure of the company can look like,
+
+21:03.000 --> 21:05.000
+where the process approach is implemented,
+
+21:05.000 --> 21:07.000
+and where the functional approach is implemented.
+
+21:07.000 --> 21:10.000
+Let's say we have a company,
+
+21:10.000 --> 21:13.000
+it is engaged in the purchase of tea, clothes, and furniture.
+
+21:13.000 --> 21:15.000
+Well, an absurd example, but nevertheless.
+
+21:15.000 --> 21:18.000
+If we implement a functional approach there,
+
+21:18.000 --> 21:21.000
+we will have a department of purchase,
+
+21:21.000 --> 21:24.000
+a department of storage, and a department of sale.
+
+21:24.000 --> 21:28.000
+It does not matter that it deals with three absolutely incompatible types of activities,
+
+21:28.000 --> 21:30.000
+tea, clothes, and furniture.
+
+21:30.000 --> 21:32.000
+It does not matter at all, there will be three departments.
+
+21:32.000 --> 21:35.000
+If the process approach was implemented in this company,
+
+21:35.000 --> 21:38.000
+its organizational structure would be completely different.
+
+21:38.000 --> 21:41.000
+There would be a department of tea, clothes, and furniture.
+
+21:41.000 --> 21:45.000
+Thus, we understand that in the second case,
+
+21:45.000 --> 21:48.000
+in the department of tea, there would be departments of purchase,
+
+21:48.000 --> 21:52.000
+tea, storage, tea, and sale of tea.
+
+21:52.000 --> 21:55.000
+The same would apply to furniture and clothes.
+
+21:55.000 --> 21:59.000
+In the case of a functional approach in the company,
+
+21:59.000 --> 22:01.000
+in the department of purchases,
+
+22:01.000 --> 22:05.000
+there would be managers of tea, clothes, and furniture.
+
+22:05.000 --> 22:08.000
+Storage, sales, everything is the same.
+
+22:08.000 --> 22:13.000
+I want to say right away that I have never seen a company
+
+22:13.000 --> 22:16.000
+where the process approach was implemented to such an extent.
+
+22:16.000 --> 22:18.000
+In principle, this is not always necessary,
+
+22:18.000 --> 22:20.000
+because the creative organizational structure,
+
+22:20.000 --> 22:24.000
+which has existed for many years and is not always absolutely harmful,
+
+22:24.000 --> 22:26.000
+does not make sense.
+
+22:26.000 --> 22:29.000
+You can make an intermediate compromise option,
+
+22:29.000 --> 22:31.000
+which is called the matrix.
+
+22:31.000 --> 22:35.000
+Let's say, in the case of the same company,
+
+22:35.000 --> 22:38.000
+the matrix option would look like this,
+
+22:38.000 --> 22:43.000
+that it would have at the same time a department of purchases, storage, and sales,
+
+22:43.000 --> 22:49.000
+but there would also be a manager of tea, furniture, and clothes.
+
+22:50.000 --> 22:56.000
+In principle, this would allow each manager to examine the entire business process
+
+22:56.000 --> 23:03.000
+and to see its problems, inputs, outputs, results, satisfaction of customers,
+
+23:03.000 --> 23:06.000
+interaction with suppliers, and so on, to observe all participants.
+
+23:06.000 --> 23:11.000
+But this would lead to a very serious minus.
+
+23:11.000 --> 23:16.000
+This main minus is that all participants in the business process
+
+23:16.000 --> 23:23.000
+of tea, furniture, and clothes would be two bosses.
+
+23:23.000 --> 23:26.000
+The first is the head of the department of purchases,
+
+23:26.000 --> 23:28.000
+and the second is the project manager.
+
+23:28.000 --> 23:31.000
+If their wishes were conflicted,
+
+23:31.000 --> 23:34.000
+then the performer would not know whom to submit to.
+
+23:34.000 --> 23:38.000
+The principle of double submission is the main minus of such a compromise option.
+
+23:38.000 --> 23:41.000
+Therefore, if you do not have a compromise option,
+
+23:41.000 --> 23:43.000
+then you will have to decide what the structure will be,
+
+23:43.000 --> 23:45.000
+whether it will be a process or a matrix one,
+
+23:45.000 --> 23:48.000
+or maybe you will choose a functional one.
+
+23:48.000 --> 23:52.000
+So, we have already talked a lot about business processes,
+
+23:52.000 --> 23:54.000
+that everything is great,
+
+23:54.000 --> 23:56.000
+but do business processes really exist?
+
+23:56.000 --> 23:58.000
+Our clients often ask us questions.
+
+23:58.000 --> 24:00.000
+You have described all these business processes,
+
+24:00.000 --> 24:02.000
+but it seems to us that they do not exist.
+
+24:02.000 --> 24:06.000
+They exist, but in fact, they are very fragmented.
+
+24:06.000 --> 24:10.000
+As I said, the fact is that in most companies there is a functional approach,
+
+24:11.000 --> 24:15.000
+so it is very difficult to collect a bunch of small functions,
+
+24:15.000 --> 24:17.000
+narrow-specialized functions,
+
+24:17.000 --> 24:19.000
+and it is also very difficult to see it as a whole.
+
+24:19.000 --> 24:24.000
+Secondly, they are not formalized and not described.
+
+24:24.000 --> 24:26.000
+In fact, in most companies we worked with,
+
+24:26.000 --> 24:28.000
+how is the business process described?
+
+24:28.000 --> 24:30.000
+It's an amazing spectacle.
+
+24:30.000 --> 24:34.000
+Separately, there is some instruction from some manager for some reason,
+
+24:34.000 --> 24:37.000
+separately, there is an instruction from some department,
+
+24:37.000 --> 24:39.000
+separately, there is a position of the departments.
+
+24:39.000 --> 24:41.000
+They do not clash with each other in principle,
+
+24:41.000 --> 24:43.000
+or they are absolute copies,
+
+24:43.000 --> 24:45.000
+only the cap is different.
+
+24:45.000 --> 24:47.000
+This is not a description of business processes,
+
+24:47.000 --> 24:51.000
+it is just a list of functions that came to the head of the person who wrote it,
+
+24:51.000 --> 24:55.000
+when he was given this task, and he was told that this task should have been done yesterday.
+
+24:55.000 --> 24:56.000
+Next.
+
+24:56.000 --> 24:58.000
+Business processes exist.
+
+24:58.000 --> 25:00.000
+They cannot be not exist,
+
+25:00.000 --> 25:04.000
+because otherwise the company would have collapsed.
+
+25:04.000 --> 25:06.000
+But in most companies,
+
+25:06.000 --> 25:08.000
+even taking into account the fact that they exist,
+
+25:08.000 --> 25:10.000
+no one is responsible for the result.
+
+25:10.000 --> 25:14.000
+Or it happens only in a number of business processes, not in all.
+
+25:14.000 --> 25:16.000
+Therefore, if no one is responsible for the result,
+
+25:16.000 --> 25:18.000
+no one sees the situation as a whole,
+
+25:18.000 --> 25:20.000
+again, the business process is not visible to anyone at all,
+
+25:20.000 --> 25:24.000
+and it can be considered that it does not exist.
+
+25:24.000 --> 25:25.000
+Next.
+
+25:25.000 --> 25:30.000
+Very often business processes are very fragmented.
+
+25:30.000 --> 25:34.000
+That is, many specialists participate in this business process,
+
+25:34.000 --> 25:37.000
+no one knows what it is all about.
+
+25:37.000 --> 25:41.000
+Therefore, they can be considered to be part of something,
+
+25:41.000 --> 25:42.000
+of one big company,
+
+25:42.000 --> 25:45.000
+but it is not clear what their activity leads to.
+
+25:46.000 --> 25:51.000
+Very often there is additional control in organizations for each transfer.
+
+25:51.000 --> 25:55.000
+That is, if one manager transfers the result of his work to another manager,
+
+25:55.000 --> 25:57.000
+then to the third, fourth, fifth,
+
+25:57.000 --> 26:00.000
+there is a conflict at every crossroads,
+
+26:00.000 --> 26:03.000
+there is a check, a checkpoint,
+
+26:03.000 --> 26:10.000
+and this control leads to the fact that all the connection with what should be at the output is lost.
+
+26:10.000 --> 26:13.000
+It is not clear at all, but everything is controlled.
+
+26:14.000 --> 26:18.000
+And most importantly, very often there is no relevant IT support
+
+26:18.000 --> 26:21.000
+to describe and optimize business processes.
+
+26:21.000 --> 26:25.000
+Believe me, describing business processes in RDA is not the most wonderful thing.
+
+26:26.000 --> 26:32.000
+So, if you, as a manager of an organization,
+
+26:32.000 --> 26:38.000
+decided that your organization should have a process management system,
+
+26:38.000 --> 26:42.000
+how to build it step by step?
+
+26:42.000 --> 26:43.000
+Step number one.
+
+26:43.000 --> 26:45.000
+Select business processes.
+
+26:45.000 --> 26:47.000
+Until we talk about their description,
+
+26:47.000 --> 26:49.000
+until we just select them.
+
+26:49.000 --> 26:53.000
+That is, the main business processes that provide business management processes.
+
+26:53.000 --> 26:54.000
+Great.
+
+26:54.000 --> 26:56.000
+There should be about 20 of them, no more.
+
+26:57.000 --> 26:58.000
+Next.
+
+26:58.000 --> 26:59.000
+We describe them.
+
+26:59.000 --> 27:01.000
+We describe only the boundaries,
+
+27:01.000 --> 27:03.000
+that is, at the input and at the output.
+
+27:03.000 --> 27:05.000
+In order to make sure that we have selected them correctly,
+
+27:05.000 --> 27:08.000
+each business process has its own clear and definite result.
+
+27:08.000 --> 27:11.000
+Maybe at this stage we will correct the selection.
+
+27:11.000 --> 27:12.000
+Next.
+
+27:12.000 --> 27:13.000
+We describe them.
+
+27:14.000 --> 27:17.000
+Namely, the composition of the functions that each of them includes.
+
+27:17.000 --> 27:21.000
+And we describe the executors for each and every function.
+
+27:21.000 --> 27:22.000
+Next.
+
+27:22.000 --> 27:24.000
+When we have described all of this,
+
+27:24.000 --> 27:26.000
+we assign the owners for each business process.
+
+27:26.000 --> 27:29.000
+For the first process, for the second, for the third, for the fourth, for the fifth.
+
+27:30.000 --> 27:32.000
+And when we have highlighted all of this,
+
+27:32.000 --> 27:36.000
+finally, we can regulate this business process,
+
+27:36.000 --> 27:39.000
+create a system of accounting for the business process,
+
+27:39.000 --> 27:42.000
+and put it all on the owners of this business process,
+
+27:42.000 --> 27:44.000
+who will observe this system
+
+27:44.000 --> 27:50.000
+and regularly report to their boss about how things are going in their business process.
+
+27:51.000 --> 27:56.000
+Usually, there are many business process reports.
+
+27:56.000 --> 27:58.000
+They are different in each organization.
+
+27:58.000 --> 28:04.000
+In principle, there is a plan-fact report on indicators for each project, that is, KPI.
+
+28:04.000 --> 28:07.000
+It can be a card of some contract,
+
+28:07.000 --> 28:10.000
+if we take the business process at the lowest level.
+
+28:10.000 --> 28:13.000
+In principle, the accounting system can be any.
+
+28:13.000 --> 28:16.000
+It can be in Wardia, it can be in Excel,
+
+28:16.000 --> 28:19.000
+it can be in your corporate information system.
+
+28:19.000 --> 28:21.000
+The main thing is that it is there,
+
+28:21.000 --> 28:24.000
+otherwise no one will need the business process description.
+
+28:24.000 --> 28:27.000
+And all this accounting system for business processes
+
+28:27.000 --> 28:32.000
+must be combined with your operating accounting system and management accounting system.
+
+28:32.000 --> 28:37.000
+That is, all these accounting systems must be bound together.
+
+28:37.000 --> 28:40.000
+Otherwise, you have one accounting system for processes,
+
+28:40.000 --> 28:43.000
+management accounting is another, financial accounting is something else,
+
+28:43.000 --> 28:45.000
+operational accounting is generally something else,
+
+28:45.000 --> 28:48.000
+strategic accounting is nothing at all.
+
+28:48.000 --> 28:51.000
+Everything should be a single accounting system.
+
+28:51.000 --> 29:01.000
+Accordingly, what can you implement the business process management system in your company for?
+
+29:01.000 --> 29:06.000
+The answer to this question you must ask yourself, your management,
+
+29:06.000 --> 29:11.000
+before you dive into the process approach of your company.
+
+29:11.000 --> 29:15.000
+Because, as with absolutely any innovation, you need to set a goal.
+
+29:15.000 --> 29:16.000
+Why are you doing this?
+
+29:16.000 --> 29:22.000
+The answer like, it's fashionable, everyone does it, I think it will help us, is not accepted.
+
+29:22.000 --> 29:24.000
+It should be a real, justified answer.
+
+29:24.000 --> 29:29.000
+For example, you need to increase the controllability and transparency of your company, of your business.
+
+29:29.000 --> 29:33.000
+Or you need to optimize business processes, you have too high costs.
+
+29:33.000 --> 29:36.000
+Or you need to build an effective infrastructure,
+
+29:36.000 --> 29:38.000
+because you have a high flow of personnel,
+
+29:38.000 --> 29:41.000
+changes are happening very slowly, it is not clear what is happening.
+
+29:41.000 --> 29:46.000
+Or you have some new business direction,
+
+29:46.000 --> 29:49.000
+you need to understand how it will deal with the already existing,
+
+29:49.000 --> 29:52.000
+what processes will change and how to implement it correctly.
+
+29:52.000 --> 29:56.000
+Or you want to publish business, for example, to introduce a franchise.
+
+29:56.000 --> 30:00.000
+Or you want to introduce an automated accounting system.
+
+30:00.000 --> 30:06.000
+Or you want to conduct, for example, audit of personnel and select completely new frames,
+
+30:06.000 --> 30:08.000
+because the current ones will not suit you.
+
+30:08.000 --> 30:12.000
+Or it is a financial accounting, or it is a merger and absorption,
+
+30:12.000 --> 30:15.000
+it can be an increase in market value, in general, it can be anything.
+
+30:15.000 --> 30:18.000
+But the main thing is that the goal is clearly described and understood by everyone.
+
+30:18.000 --> 30:22.000
+Because without a goal, it is not clear why you are doing this.
+
+30:22.000 --> 30:27.000
+Without a goal, you will not be motivated to implement this system,
+
+30:27.000 --> 30:30.000
+so that it is not from under the stick.
+
+30:30.000 --> 30:36.000
+If your boss told you that we are introducing a process system,
+
+30:36.000 --> 30:40.000
+do not be afraid, come to him, ask why, let him tell you,
+
+30:40.000 --> 30:44.000
+let him hold a single seminar on business processes of your company.
+
+30:44.000 --> 30:49.000
+For example, in a company where I once worked as an internal business analyst,
+
+30:49.000 --> 30:55.000
+its director, the owner, decided that we would introduce a process management system.
+
+30:55.000 --> 30:57.000
+What did it lead to?
+
+30:57.000 --> 31:00.000
+I came, I was told that everyone was already aware,
+
+31:00.000 --> 31:04.000
+everyone would participate in the description of business processes and their optimization.
+
+31:04.000 --> 31:08.000
+I believed, and began to go, respectively, to people, to ask.
+
+31:08.000 --> 31:12.000
+Are business processes high-level? We'll talk about it a little later.
+
+31:12.000 --> 31:16.000
+Or are business processes of lower level?
+
+31:16.000 --> 31:18.000
+Described in what environment? And so on and so forth.
+
+31:18.000 --> 31:21.000
+But no one could answer all my questions, because they did not understand what it was about.
+
+31:21.000 --> 31:24.000
+As a result, it turned out that someone had heard about it.
+
+31:24.000 --> 31:29.000
+But in fact, no one could imagine what it was, why it was necessary.
+
+31:29.000 --> 31:34.000
+As a result, we held a general seminar for the heads of departments,
+
+31:34.000 --> 31:37.000
+where it was told what a process management system is,
+
+31:37.000 --> 31:40.000
+why it is introduced in a company, what are its pros and cons,
+
+31:40.000 --> 31:43.000
+what will be introduced in this particular company, where we will work,
+
+31:43.000 --> 31:46.000
+how it will happen, who is responsible, and so on.
+
+31:46.000 --> 31:48.000
+After this seminar, everything was very clear.
+
+31:48.000 --> 31:53.000
+And after this seminar, managers immediately began to come to us in the business processes department
+
+31:53.000 --> 31:56.000
+and say, I want to participate, I would like to optimize this process,
+
+31:56.000 --> 31:58.000
+I have such and such wishes for it.
+
+31:58.000 --> 32:02.000
+Without such an introductory seminar, everyone was tuned to some one wave.
+
+32:02.000 --> 32:05.000
+It is impossible to introduce a process management system.
+
+32:07.000 --> 32:12.000
+So, how does the system function?
+
+32:12.000 --> 32:16.000
+First, we develop a process model of your company as it is.
+
+32:16.000 --> 32:17.000
+This is very important.
+
+32:17.000 --> 32:23.000
+That is, you do not need to immediately describe and generate options on the topic of how you want it to work.
+
+32:23.000 --> 32:25.000
+First, we describe the situation as it is.
+
+32:25.000 --> 32:28.000
+Without having an idea of ​​what we have today,
+
+32:28.000 --> 32:33.000
+we will not be able to understand all the cons, all the interactions,
+
+32:33.000 --> 32:39.000
+and we will not be able to analyze and develop a high-quality system of process management of the organization.
+
+32:39.000 --> 32:41.000
+So, first, the model as it is.
+
+32:41.000 --> 32:43.000
+Then, the analysis of the model as it is.
+
+32:43.000 --> 32:45.000
+Then, the development of the model as it should be.
+
+32:45.000 --> 32:47.000
+Then, the development of the regulations as it should be.
+
+32:47.000 --> 32:49.000
+And only then, the optimization of the organizational structure.
+
+32:49.000 --> 32:51.000
+Only in such a sequence.
+
+32:53.000 --> 32:55.000
+So, what's next?
+
+32:57.000 --> 33:05.000
+If we talk about how we analyze business processes as it is,
+
+33:05.000 --> 33:07.000
+analyze our model as it is,
+
+33:07.000 --> 33:11.000
+then we must refer to the following tools.
+
+33:11.000 --> 33:15.000
+We look at the strategy document of your organization.
+
+33:15.000 --> 33:17.000
+We look at the strategic maps of your company.
+
+33:17.000 --> 33:20.000
+We look at the accounting maps of your company.
+
+33:20.000 --> 33:22.000
+That is, this must be taken into account.
+
+33:22.000 --> 33:27.000
+And we look at the marketing results of the external environment.
+
+33:27.000 --> 33:31.000
+These additional tools will help us analyze the situation as it is.
+
+33:41.000 --> 33:51.000
+Now, let's move on to the most important point.
+
+33:51.000 --> 33:56.000
+Now we will talk about the identification of business processes.
+
+33:56.000 --> 34:00.000
+So, where does it all start?
+
+34:00.000 --> 34:04.000
+We start with the allocation of business processes of the very highest level.
+
+34:05.000 --> 34:11.000
+In other words, we roughly divide the activities of your company into several main blocks.
+
+34:11.000 --> 34:13.000
+There will be about 20 of them.
+
+34:13.000 --> 34:15.000
+There will be 30, 40, 50.
+
+34:15.000 --> 34:17.000
+Cut it out.
+
+34:17.000 --> 34:19.000
+This means that you have highlighted too much detail.
+
+34:19.000 --> 34:27.000
+Second, we divide your organizational structure as it is now into departments, groups, units, etc.
+
+34:27.000 --> 34:29.000
+While we describe everything as it is.
+
+34:29.000 --> 34:32.000
+That is, we describe the business processes at the top level as it is,
+
+34:32.000 --> 34:35.000
+the organizational structure as it is, and then the distribution of responsibilities as it is.
+
+34:35.000 --> 34:37.000
+This is all as it is.
+
+34:37.000 --> 34:40.000
+How are business processes of the top level identified?
+
+34:40.000 --> 34:46.000
+So, we are now recalling what your organization was created for.
+
+34:46.000 --> 34:50.000
+What are the main business directions of its activities?
+
+34:50.000 --> 34:56.000
+Based on these business directions, we can identify what are the main business processes of your business.
+
+34:57.000 --> 35:04.000
+For example, your company was created to develop marketing concepts of other companies.
+
+35:04.000 --> 35:08.000
+For example, you are a consulting agency for the development of marketing strategies.
+
+35:08.000 --> 35:16.000
+This means that you can have business directions for the development of marketing concepts for small companies, for large companies, and, for example, for medium-sized companies.
+
+35:16.000 --> 35:18.000
+Because, in principle, these are different things.
+
+35:18.000 --> 35:25.000
+Or, if you are a dairy factory, then you can have business directions for dairy and dairy products.
+
+35:26.000 --> 35:33.000
+If you are a clothing agency, then it can be business directions for leather and fur, for example.
+
+35:33.000 --> 35:41.000
+That is, when we identify business processes at the top level, we start with business directions of your activities.
+
+35:41.000 --> 35:42.000
+So, we have identified it.
+
+35:42.000 --> 35:44.000
+The most basic.
+
+35:44.000 --> 35:51.000
+I want to say right away that you do not need to confuse what is called business direction and business options.
+
+35:52.000 --> 36:01.000
+That is, you do not need to select business directions from the series of products for jackets, leather, fur, and, for example, boots.
+
+36:01.000 --> 36:04.000
+This means that you have selected business directions incorrectly.
+
+36:04.000 --> 36:07.000
+You should have a single criterion for selecting business directions.
+
+36:07.000 --> 36:08.000
+This is A.
+
+36:08.000 --> 36:10.000
+Either the material, that is, leather or fur.
+
+36:10.000 --> 36:13.000
+Or it will be the type of product, clothes or shoes.
+
+36:13.000 --> 36:18.000
+Or it will be according to the consumer, physical or legal.
+
+36:18.000 --> 36:20.000
+That is, you do not need to mix everything into one pile.
+
+36:20.000 --> 36:23.000
+You select business directions according to some criteria.
+
+36:23.000 --> 36:30.000
+Then you can further divide, for example, leather products into clothes, shoes, and so on.
+
+36:30.000 --> 36:33.000
+We have selected business directions for your activities.
+
+36:33.000 --> 36:42.000
+For example, you are a company that deals with the construction and technological support of these built objects.
+
+36:42.000 --> 36:43.000
+Well, for example.
+
+36:44.000 --> 36:57.000
+Let's say that we have now determined that your main business processes will be related to construction and technological support.
+
+36:57.000 --> 37:00.000
+All other business processes are our providers.
+
+37:00.000 --> 37:03.000
+They have nothing to do with the main business process.
+
+37:03.000 --> 37:08.000
+To what level do you need to describe business directions?
+
+37:09.000 --> 37:11.000
+In principle, it can be at this level.
+
+37:11.000 --> 37:14.000
+For example, construction and technology.
+
+37:14.000 --> 37:16.000
+You can go down to a lower level.
+
+37:16.000 --> 37:28.000
+For example, construction of shopping centers, car centers, warehouse facilities, and so on.
+
+37:28.000 --> 37:31.000
+Technological support of these three objects.
+
+37:32.000 --> 37:39.000
+The criteria for decomposition, that is, the criteria for how detailed you will describe your business direction,
+
+37:39.000 --> 37:44.000
+depend on the fact that you yourself understand and are comfortable using these criteria.
+
+37:44.000 --> 37:47.000
+You do not need to break it down into very small details.
+
+37:47.000 --> 37:49.000
+You select the most important thing.
+
+37:49.000 --> 37:56.000
+Because business direction is what you will use to select the main business processes.
+
+37:57.000 --> 38:06.000
+Now we can determine for ourselves that the business direction of the upper level corresponds to the main business processes of the upper level.
+
+38:06.000 --> 38:09.000
+Construction, technology.
+
+38:09.000 --> 38:18.000
+The next level is construction of shopping centers, car centers, warehouse facilities.
+
+38:18.000 --> 38:24.000
+These are three business processes related to the large business process of construction.
+
+38:24.000 --> 38:31.000
+And technological support of shopping centers, car centers, and warehouse facilities.
+
+38:31.000 --> 38:37.000
+These are three business processes that will belong to the large business process of the upper level,
+
+38:37.000 --> 38:40.000
+which is called technological support or technology.
+
+38:42.000 --> 38:47.000
+Now that we have described the business processes of the upper level, we can move on to the main ones.
+
+38:47.000 --> 38:53.000
+After all, your organization is not only engaged in construction and technology.
+
+38:53.000 --> 39:00.000
+You also have accounting, marketing, strategy development, personnel department, and so on.
+
+39:00.000 --> 39:04.000
+This means that you have many other business processes.
+
+39:04.000 --> 39:07.000
+We also divide them into large blocks.
+
+39:07.000 --> 39:16.000
+In our case, this can be management of personnel, management of marketing, management of strategy, management of finance,
+
+39:17.000 --> 39:21.000
+economic support, legal support, and so on.
+
+39:21.000 --> 39:23.000
+In other words, we allocate blocks.
+
+39:23.000 --> 39:30.000
+When we have allocated all the blocks, we turn to your organizational structure as it is.
+
+39:30.000 --> 39:35.000
+And we look at who is responsible for which department or unit or department for each of the blocks.
+
+39:35.000 --> 39:40.000
+For example, for construction, you are responsible for the construction department, for technology, for the technology department,
+
+39:40.000 --> 39:45.000
+for financial management, you have two departments, accounting and finance.
+
+39:45.000 --> 39:49.000
+For management of personnel, management of personnel, and so on.
+
+39:49.000 --> 39:53.000
+For strategy, for example, the general director, the development council, and someone else.
+
+39:53.000 --> 39:55.000
+All this was described as it is.
+
+39:57.000 --> 40:02.000
+Then we do not adjust the business processes to the organizational structure.
+
+40:02.000 --> 40:06.000
+If you have several participants, write that there are several of them.
+
+40:06.000 --> 40:08.000
+But the main thing is to put the responsible one.
+
+40:08.000 --> 40:10.000
+If there is no responsible one, put the general director.
+
+40:11.000 --> 40:16.000
+In other words, now we have allocated the business processes of the highest level.
+
+40:16.000 --> 40:18.000
+We can make a kind of a table.
+
+40:18.000 --> 40:23.000
+For example, write down all the business processes that we have allocated,
+
+40:23.000 --> 40:28.000
+write all the names of the units of the highest level that you have in your company.
+
+40:29.000 --> 40:35.000
+And at the junction in the cells you can write which unit is responsible,
+
+40:35.000 --> 40:38.000
+which unit is a participant of a particular business process.
+
+40:38.000 --> 40:41.000
+For example, we have a business process of construction.
+
+40:41.000 --> 40:48.000
+We will put the responsible one opposite, at the intersection of the business process of construction and the construction department.
+
+40:48.000 --> 40:50.000
+The same goes for technology.
+
+40:50.000 --> 40:54.000
+Intersection of the technology department and the business process of technology.
+
+40:54.000 --> 40:55.000
+Strategy.
+
+40:55.000 --> 40:58.000
+For example, you do not know who is responsible for the strategy,
+
+40:58.000 --> 41:00.000
+and no one in the company can answer you.
+
+41:00.000 --> 41:02.000
+This means that the general director is responsible.
+
+41:02.000 --> 41:04.000
+If no one in the company is responsible for anything,
+
+41:04.000 --> 41:06.000
+the general director is responsible for all this.
+
+41:06.000 --> 41:08.000
+Or the company manager.
+
+41:08.000 --> 41:10.000
+But this position is called differently.
+
+41:11.000 --> 41:14.000
+Then, when you get such a big table,
+
+41:14.000 --> 41:18.000
+where all the business processes of the highest level are written down by participants and responsible,
+
+41:18.000 --> 41:24.000
+you can proceed to the second stage, which is called analysis and optimization of business processes.
+
+41:25.000 --> 41:32.000
+But first I want to dwell on a more detailed description of what the main business processes are
+
+41:32.000 --> 41:35.000
+and what types of business processes can be identified.
+
+41:35.000 --> 41:38.000
+I have already said that there are main business processes.
+
+41:38.000 --> 41:40.000
+I think that the name is already clear.
+
+41:40.000 --> 41:41.000
+What are these processes?
+
+41:41.000 --> 41:44.000
+These are processes that are related to the main activity of your company.
+
+41:44.000 --> 41:48.000
+If you have doubts about which business processes to refer to,
+
+41:48.000 --> 41:52.000
+forget that you are a manager of a company,
+
+41:52.000 --> 41:54.000
+forget about your position, forget about all this.
+
+41:54.000 --> 41:59.000
+And imagine that only one person represents your company.
+
+41:59.000 --> 42:03.000
+What work will he do first of all?
+
+42:03.000 --> 42:06.000
+So that the company continues to exist.
+
+42:07.000 --> 42:10.000
+This is the work that will come to your mind first,
+
+42:10.000 --> 42:14.000
+and will be your main business process.
+
+42:14.000 --> 42:17.000
+Or your non-main business processes, if there are several of them.
+
+42:18.000 --> 42:21.000
+Accordingly, business processes are basic.
+
+42:21.000 --> 42:22.000
+What are their characteristics?
+
+42:22.000 --> 42:25.000
+First, they create an added value for your company.
+
+42:25.000 --> 42:27.000
+No other, only these.
+
+42:28.000 --> 42:34.000
+They create a product or service or work that your company provides on the market.
+
+42:34.000 --> 42:36.000
+You must be a specialist in these processes.
+
+42:36.000 --> 42:38.000
+This is your key competence.
+
+42:38.000 --> 42:43.000
+If you were not sure about this, you would not have them.
+
+42:44.000 --> 42:47.000
+Next, these are business processes that represent the value for your external client.
+
+42:47.000 --> 42:50.000
+Externally, that is, not any unit within your company,
+
+42:50.000 --> 42:52.000
+but for an external client.
+
+42:52.000 --> 42:55.000
+If this value exists, then this is the main business process.
+
+42:56.000 --> 43:02.000
+Next, these are business processes for which the client is ready to pay you money.
+
+43:03.000 --> 43:06.000
+And finally, another important characteristic.
+
+43:07.000 --> 43:13.000
+These business processes are what bring profit to your organization.
+
+43:14.000 --> 43:19.000
+Yes, the providing business processes can also bring you profit.
+
+43:19.000 --> 43:21.000
+For example, you sold a completely unnecessary computer,
+
+43:21.000 --> 43:25.000
+or sold a completely unnecessary furniture, and so on.
+
+43:25.000 --> 43:27.000
+This brought you a certain profit.
+
+43:27.000 --> 43:31.000
+But there must be a certain constant profit.
+
+43:31.000 --> 43:34.000
+And this constant profit is formed by the main business processes.
+
+43:36.000 --> 43:39.000
+What about the providing business processes?
+
+43:40.000 --> 43:45.000
+Providing business processes help the main business processes to live and develop.
+
+43:46.000 --> 43:49.000
+They provide them with the necessary resources.
+
+43:50.000 --> 43:53.000
+They create an atmosphere, external conditions,
+
+43:53.000 --> 43:56.000
+so that they can function freely and normally,
+
+43:56.000 --> 43:58.000
+and bring profit to the company.
+
+43:58.000 --> 44:01.000
+Can the providing business processes become the main business processes?
+
+44:01.000 --> 44:02.000
+Of course, it can.
+
+44:02.000 --> 44:05.000
+But what if your company is re-profiled,
+
+44:05.000 --> 44:08.000
+and the legal process is not provided?
+
+44:08.000 --> 44:13.000
+What if you want to outsource it,
+
+44:13.000 --> 44:17.000
+and create a separate legal consulting department?
+
+44:17.000 --> 44:20.000
+Plus, you can build technologies.
+
+44:20.000 --> 44:23.000
+Legal consulting in the field of construction is very relevant.
+
+44:24.000 --> 44:28.000
+And this will become the main business process.
+
+44:29.000 --> 44:34.000
+There are two more types of business processes in many types of business processes description.
+
+44:34.000 --> 44:37.000
+These are management processes and development processes.
+
+44:38.000 --> 44:42.000
+In most cases, it is enough to highlight the main business processes,
+
+44:42.000 --> 44:46.000
+and the providing or auxiliary business processes, as they are also called.
+
+44:46.000 --> 44:51.000
+But if you want to list the management or management business processes separately,
+
+44:51.000 --> 44:53.000
+here are their characteristics.
+
+44:53.000 --> 44:57.000
+First, they provide a long-term development of the organization.
+
+44:58.000 --> 45:02.000
+They provide control and management of your company's activities
+
+45:02.000 --> 45:05.000
+for all the main business processes.
+
+45:06.000 --> 45:08.000
+In principle, they provide,
+
+45:08.000 --> 45:12.000
+but they also have control.
+
+45:12.000 --> 45:14.000
+Therefore, they can be distinguished separately.
+
+45:14.000 --> 45:17.000
+They usually have a standard scheme.
+
+45:17.000 --> 45:19.000
+They look about the same,
+
+45:19.000 --> 45:21.000
+and then they make a plan,
+
+45:21.000 --> 45:23.000
+then they execute it,
+
+45:23.000 --> 45:25.000
+then they make a plan-fact ratio,
+
+45:25.000 --> 45:27.000
+then they make some adjustments,
+
+45:27.000 --> 45:29.000
+and then they execute it.
+
+45:29.000 --> 45:33.000
+Examples of such processes are strategy, marketing.
+
+45:33.000 --> 45:35.000
+If you have a well-developed staff department,
+
+45:35.000 --> 45:37.000
+it can be management of staff.
+
+45:37.000 --> 45:41.000
+Not only sets and registration of salaries are carried out,
+
+45:41.000 --> 45:45.000
+but also development, training, coaching, and so on.
+
+45:45.000 --> 45:49.000
+It can be a business process of financial management,
+
+45:49.000 --> 45:51.000
+if it is developed in your company.
+
+45:51.000 --> 45:55.000
+It can be a business process of management accounting.
+
+45:55.000 --> 45:57.000
+It can be a business process of IT management,
+
+45:57.000 --> 46:01.000
+if you have a complex IT system in your company.
+
+46:01.000 --> 46:02.000
+There are a lot of them.
+
+46:02.000 --> 46:05.000
+If you want, you can not list them as business processes.
+
+46:05.000 --> 46:07.000
+You can attach them to the providing.
+
+46:08.000 --> 46:11.000
+Another beast is business development processes.
+
+46:11.000 --> 46:13.000
+These are business processes,
+
+46:13.000 --> 46:16.000
+which are separate projects of your company's development.
+
+46:16.000 --> 46:19.000
+For example, you have decided to implement ERP system.
+
+46:20.000 --> 46:22.000
+The process that will provide this implementation
+
+46:22.000 --> 46:24.000
+will be a business process of development.
+
+46:25.000 --> 46:27.000
+They can be compared to projects,
+
+46:27.000 --> 46:29.000
+which are introduced into your company,
+
+46:29.000 --> 46:32.000
+and they have a characteristic,
+
+46:33.000 --> 46:37.000
+they contribute to the long-term development of your company,
+
+46:38.000 --> 46:43.000
+but they are not constant.
+
+46:43.000 --> 46:45.000
+They can change.
+
+46:45.000 --> 46:50.000
+They can depend on the external environment
+
+46:50.000 --> 46:54.000
+and constantly change in the composition.
+
+46:54.000 --> 46:56.000
+For example, the business process of ERP implementation
+
+46:56.000 --> 46:59.000
+can become a business process of CRM implementation next year.
+
+46:59.000 --> 47:01.000
+Then there will be a separate additional system.
+
+47:01.000 --> 47:07.000
+Maybe, the business process of optimizing personnel's frequency
+
+47:07.000 --> 47:11.000
+will be transformed into a business process of optimizing personnel's training system.
+
+47:12.000 --> 47:14.000
+This is a business process,
+
+47:14.000 --> 47:17.000
+which allows you to quickly switch from the current state to the right one.
+
+47:20.000 --> 47:26.000
+Now, when we have highlighted the main business processes of management,
+
+47:26.000 --> 47:30.000
+we can look at a specific example.
+
+47:30.000 --> 47:36.000
+You may ask, how can we look at an example of such business processes?
+
+47:36.000 --> 47:39.000
+Here we have a company,
+
+47:39.000 --> 47:41.000
+a real company,
+
+47:41.000 --> 47:45.000
+where we participated in the project of ERP implementation.
+
+47:45.000 --> 47:49.000
+We have highlighted three types of business processes in this company.
+
+47:49.000 --> 47:51.000
+The main business processes,
+
+47:51.000 --> 47:53.000
+the supporting business processes,
+
+47:53.000 --> 47:55.000
+and the management business processes.
+
+47:55.000 --> 47:58.000
+The business processes can be divided into
+
+47:58.000 --> 48:01.000
+retail video production,
+
+48:01.000 --> 48:04.000
+wholesale video production,
+
+48:04.000 --> 48:08.000
+and video production and sales.
+
+48:08.000 --> 48:10.000
+As for the supporting business processes,
+
+48:10.000 --> 48:14.000
+they were classified as security,
+
+48:14.000 --> 48:17.000
+economic and legal.
+
+48:17.000 --> 48:19.000
+As for the management business processes,
+
+48:19.000 --> 48:22.000
+they were classified as strategic management,
+
+48:22.000 --> 48:24.000
+financial management,
+
+48:24.000 --> 48:26.000
+personnel, marketing,
+
+48:26.000 --> 48:28.000
+and stock management.
+
+48:28.000 --> 48:32.000
+In fact, there is no typical list of business processes in the company.
+
+48:32.000 --> 48:34.000
+You need to look at each company separately.
+
+48:34.000 --> 48:36.000
+And at your company as well.
+
+48:36.000 --> 48:38.000
+This is an example of a tree of business processes,
+
+48:38.000 --> 48:40.000
+that is, a list of business processes,
+
+48:40.000 --> 48:42.000
+which is suitable for a specific organization.
+
+48:42.000 --> 48:45.000
+You can focus on it, but you don't need to copy it.
+
+48:46.000 --> 48:51.000
+Now, if we consider your company,
+
+48:51.000 --> 48:57.000
+you can also write down the main business processes,
+
+48:57.000 --> 48:59.000
+which your company has,
+
+48:59.000 --> 49:01.000
+and compare them with the supporting and management processes.
+
+49:01.000 --> 49:04.000
+Then you can show them to your company's managers.
+
+49:04.000 --> 49:06.000
+You can start voting,
+
+49:06.000 --> 49:08.000
+show them to your management.
+
+49:08.000 --> 49:10.000
+And from these steps you can start doing something.
+
+49:10.000 --> 49:15.000
+How to correctly identify the business processes of the highest level?
+
+49:15.000 --> 49:16.000
+It's very simple.
+
+49:16.000 --> 49:18.000
+Just remember the four basic rules.
+
+49:18.000 --> 49:19.000
+First.
+
+49:19.000 --> 49:21.000
+We remember what a business process is.
+
+49:21.000 --> 49:23.000
+It is a list of functions,
+
+49:23.000 --> 49:25.000
+a sequence of functions,
+
+49:25.000 --> 49:27.000
+which is assigned something at the beginning,
+
+49:27.000 --> 49:29.000
+and then transformed into something at the end.
+
+49:29.000 --> 49:31.000
+If the business process you have identified
+
+49:31.000 --> 49:33.000
+has something at the beginning,
+
+49:33.000 --> 49:35.000
+has a specific result,
+
+49:35.000 --> 49:37.000
+then you can assign it to the business processes.
+
+49:37.000 --> 49:39.000
+If not, then you don't need to.
+
+49:39.000 --> 49:41.000
+This does not apply to the business process.
+
+49:41.000 --> 49:43.000
+It can be a part of it, or it can be a function in general.
+
+49:43.000 --> 49:44.000
+Next.
+
+49:44.000 --> 49:47.000
+Business processes must be equal to the great ones.
+
+49:47.000 --> 49:49.000
+If you assign a business process to the highest level,
+
+49:49.000 --> 49:51.000
+then you should not have an option
+
+49:51.000 --> 49:53.000
+to assign a strategic support,
+
+49:53.000 --> 49:56.000
+and next to it there is a process of management
+
+49:56.000 --> 50:00.000
+of the application for the supply of goods to the supplier.
+
+50:00.000 --> 50:03.000
+These are completely different business processes,
+
+50:03.000 --> 50:05.000
+and this should not be allowed.
+
+50:05.000 --> 50:06.000
+Third.
+
+50:06.000 --> 50:11.000
+The degree of detail of the processes must be observed.
+
+50:11.000 --> 50:13.000
+In other words,
+
+50:13.000 --> 50:22.000
+you should not assign your business process to 50, 100 or 120.
+
+50:22.000 --> 50:24.000
+You should not do this.
+
+50:24.000 --> 50:27.000
+There are not so many business processes of the highest level.
+
+50:27.000 --> 50:29.000
+Remember that the business process of the highest level
+
+50:29.000 --> 50:32.000
+is a block of your company's activity.
+
+50:32.000 --> 50:34.000
+50 blocks?
+
+50:34.000 --> 50:35.000
+It is impossible.
+
+50:35.000 --> 50:36.000
+There are about 20 of them,
+
+50:36.000 --> 50:38.000
+check if there are many more.
+
+50:38.000 --> 50:41.000
+This means that something can be combined with something.
+
+50:41.000 --> 50:43.000
+You have gone too deep.
+
+50:43.000 --> 50:47.000
+And finally, the last rule, which you should remember.
+
+50:47.000 --> 50:50.000
+This is, as I said, a coordination.
+
+50:50.000 --> 50:52.000
+You cannot just as a manager
+
+50:52.000 --> 50:54.000
+assign business processes
+
+50:54.000 --> 50:56.000
+and then go and describe them.
+
+50:56.000 --> 50:58.000
+You should show them to the people
+
+50:58.000 --> 51:00.000
+responsible for the business processes,
+
+51:00.000 --> 51:02.000
+coordinate with them,
+
+51:02.000 --> 51:05.000
+agree or disagree that they participate or are responsible,
+
+51:05.000 --> 51:07.000
+show them to the management,
+
+51:07.000 --> 51:09.000
+agree or disagree,
+
+51:09.000 --> 51:11.000
+hold a seminar
+
+51:11.000 --> 51:14.000
+where you can state your vision and concept
+
+51:14.000 --> 51:16.000
+of the business process of the highest level.
+
+51:16.000 --> 51:18.000
+This should suit absolutely everyone.
+
+51:18.000 --> 51:21.000
+Otherwise, it will be just your thoughts on this topic,
+
+51:21.000 --> 51:24.000
+but in fact, it will not clash with the real picture
+
+51:24.000 --> 51:27.000
+for your company, for your enterprise.
+
+51:29.000 --> 51:31.000
+As I said,
+
+51:31.000 --> 51:33.000
+we would use
+
+51:33.000 --> 51:36.000
+some other system of business process description,
+
+51:36.000 --> 51:39.000
+if we did not focus on the main business processes
+
+51:39.000 --> 51:41.000
+of management and development,
+
+51:41.000 --> 51:43.000
+we could use other models
+
+51:43.000 --> 51:45.000
+used by other companies.
+
+51:45.000 --> 51:47.000
+In your concept,
+
+51:47.000 --> 51:49.000
+you can see
+
+51:49.000 --> 51:52.000
+that there are other ways of description.
+
+51:52.000 --> 51:54.000
+For example, the BAN model,
+
+51:54.000 --> 51:56.000
+the Oracle model,
+
+51:56.000 --> 51:58.000
+the 13-process model,
+
+51:58.000 --> 52:00.000
+the Share model, etc.
+
+52:00.000 --> 52:02.000
+But in fact,
+
+52:02.000 --> 52:04.000
+they all refer to the fact
+
+52:04.000 --> 52:06.000
+that the business processes
+
+52:06.000 --> 52:08.000
+can be added by other processes.
+
+52:08.000 --> 52:11.000
+The main thing is to break these two types of activities.
+
+52:27.000 --> 52:30.000
+Now let's move on to how business processes are described.
+
+52:30.000 --> 52:32.000
+There are two options
+
+52:32.000 --> 52:34.000
+for describing business processes.
+
+52:34.000 --> 52:37.000
+The first one is vertical and the second one is horizontal.
+
+52:37.000 --> 52:39.000
+Vertical is when you just write
+
+52:39.000 --> 52:42.000
+that some work consists of such and such work, etc.
+
+52:42.000 --> 52:44.000
+You do not write what is at the entrance,
+
+52:44.000 --> 52:46.000
+what is at the exit, etc.
+
+52:46.000 --> 52:49.000
+If you take a business process of the highest level
+
+52:49.000 --> 52:52.000
+and then describe which processes are included in it,
+
+52:52.000 --> 52:55.000
+then which functions are included in each process, etc.
+
+52:55.000 --> 52:57.000
+You just write the structure,
+
+52:57.000 --> 52:59.000
+but you do not write,
+
+52:59.000 --> 53:01.000
+you do not specify any documents,
+
+53:01.000 --> 53:03.000
+any products that are included,
+
+53:03.000 --> 53:05.000
+anything that is not included.
+
+53:05.000 --> 53:07.000
+In the second case,
+
+53:07.000 --> 53:10.000
+horizontal description is more detailed description,
+
+53:10.000 --> 53:12.000
+when you write what is at the entrance,
+
+53:12.000 --> 53:14.000
+what is at the exit of each business process.
+
+53:14.000 --> 53:16.000
+This is more complicated,
+
+53:16.000 --> 53:18.000
+and in the description it takes more time
+
+53:18.000 --> 53:20.000
+both physically and then for the agreement.
+
+53:20.000 --> 53:22.000
+You can see more details
+
+53:22.000 --> 53:25.000
+in the slide Vertical and Horizontal Description of Activity.
+
+53:25.000 --> 53:27.000
+Now let's see
+
+53:27.000 --> 53:29.000
+how you can describe business processes.
+
+53:29.000 --> 53:31.000
+They can be described in different ways.
+
+53:31.000 --> 53:33.000
+The first option is text.
+
+53:33.000 --> 53:35.000
+This is what you are all used to.
+
+53:35.000 --> 53:37.000
+This is a regular regulation.
+
+53:37.000 --> 53:41.000
+For example, a department moves a document somewhere.
+
+53:41.000 --> 53:43.000
+Table.
+
+53:43.000 --> 53:45.000
+This is when you see a table,
+
+53:45.000 --> 53:47.000
+you write what is at the entrance,
+
+53:47.000 --> 53:49.000
+what is at the exit of the business process,
+
+53:49.000 --> 53:51.000
+who is responsible,
+
+53:51.000 --> 53:53.000
+to whom it is transmitted,
+
+53:53.000 --> 53:55.000
+what is obtained from whom.
+
+53:55.000 --> 53:57.000
+This is a scheme.
+
+53:57.000 --> 53:59.000
+Now I will show how it looks in detail.
+
+53:59.000 --> 54:01.000
+In practice, I want to say that
+
+54:01.000 --> 54:03.000
+the easiest way to describe business processes
+
+54:03.000 --> 54:05.000
+is a graphical way of writing.
+
+54:05.000 --> 54:07.000
+Because it is clear.
+
+54:07.000 --> 54:09.000
+A lot of text is perceived very poorly.
+
+54:09.000 --> 54:11.000
+Let's see how the description of business processes happens.
+
+54:11.000 --> 54:13.000
+Let's say we have highlighted
+
+54:13.000 --> 54:15.000
+the business process of the upper level.
+
+54:15.000 --> 54:17.000
+Let's say this is a business process
+
+54:17.000 --> 54:19.000
+of, for example,
+
+54:19.000 --> 54:21.000
+trading,
+
+54:21.000 --> 54:23.000
+as we looked at the example of companies,
+
+54:23.000 --> 54:25.000
+tea trading.
+
+54:25.000 --> 54:27.000
+Here is a business process of tea trading.
+
+54:27.000 --> 54:29.000
+Tea trading.
+
+54:29.000 --> 54:31.000
+Of course, there are many other business processes
+
+54:31.000 --> 54:33.000
+here and here and here.
+
+54:33.000 --> 54:35.000
+Then we will describe
+
+54:35.000 --> 54:37.000
+these business processes
+
+54:37.000 --> 54:39.000
+in more detail.
+
+54:39.000 --> 54:41.000
+That is, tea trading in this case
+
+54:41.000 --> 54:45.000
+will consist of several sub-processes.
+
+54:45.000 --> 54:47.000
+We remember that tea trading
+
+54:47.000 --> 54:49.000
+includes
+
+54:49.000 --> 54:51.000
+purchasing,
+
+54:53.000 --> 54:55.000
+then it includes
+
+54:55.000 --> 54:57.000
+storage,
+
+54:57.000 --> 54:59.000
+then the letter H,
+
+54:59.000 --> 55:01.000
+and then
+
+55:01.000 --> 55:03.000
+selling, the letter P.
+
+55:05.000 --> 55:07.000
+Accordingly, this is a business process
+
+55:07.000 --> 55:09.000
+of the highest level.
+
+55:09.000 --> 55:11.000
+This is a model
+
+55:11.000 --> 55:13.000
+when we write what is at the entrance,
+
+55:13.000 --> 55:15.000
+what is at the exit,
+
+55:15.000 --> 55:17.000
+what documents,
+
+55:17.000 --> 55:19.000
+products, services, and so on
+
+55:19.000 --> 55:21.000
+at the entrance and at the exit.
+
+55:21.000 --> 55:23.000
+We call this model
+
+55:23.000 --> 55:25.000
+BPA, Business Process Allocation.
+
+55:25.000 --> 55:27.000
+When we go down
+
+55:27.000 --> 55:29.000
+and describe
+
+55:29.000 --> 55:31.000
+what sub-processes,
+
+55:31.000 --> 55:33.000
+what functions are included
+
+55:33.000 --> 55:35.000
+in this business process of the upper level,
+
+55:35.000 --> 55:37.000
+we call it DFD.
+
+55:37.000 --> 55:39.000
+The description is called DFD.
+
+55:39.000 --> 55:41.000
+It is called Data Flow Diagram.
+
+55:43.000 --> 55:45.000
+Then, when we
+
+55:45.000 --> 55:47.000
+describe each of these functions
+
+55:47.000 --> 55:49.000
+in more detail,
+
+55:49.000 --> 55:51.000
+that is, up to the point that
+
+55:51.000 --> 55:53.000
+the purchase, for example, the product is ordered,
+
+55:53.000 --> 55:55.000
+then we placed it,
+
+55:55.000 --> 55:57.000
+here it is placed the order,
+
+55:57.000 --> 55:59.000
+then if the order, for example,
+
+55:59.000 --> 56:01.000
+passed the supplier,
+
+56:01.000 --> 56:03.000
+then it is placed,
+
+56:03.000 --> 56:05.000
+if it did not pass, then it is placed before the order,
+
+56:05.000 --> 56:07.000
+and so on and so forth.
+
+56:07.000 --> 56:09.000
+This is called the DFD scheme,
+
+56:09.000 --> 56:11.000
+Workflow Diagram.
+
+56:11.000 --> 56:13.000
+That is, it is already an analogue
+
+56:13.000 --> 56:15.000
+of the algorithm.
+
+56:15.000 --> 56:17.000
+This is the lowest level of the business process description.
+
+56:17.000 --> 56:19.000
+That is, in principle,
+
+56:19.000 --> 56:21.000
+we can say that
+
+56:21.000 --> 56:23.000
+when you have a company,
+
+56:23.000 --> 56:25.000
+the business process description takes place,
+
+56:25.000 --> 56:27.000
+here all the processes of the upper level are located,
+
+56:27.000 --> 56:29.000
+here they are described,
+
+56:29.000 --> 56:31.000
+all the works that are included in them,
+
+56:31.000 --> 56:33.000
+and then, if you want to write
+
+56:33.000 --> 56:35.000
+each work in more detail,
+
+56:35.000 --> 56:37.000
+then we move on to the VFD model.
+
+56:37.000 --> 56:39.000
+That is, remember again,
+
+56:39.000 --> 56:41.000
+BPA, DFD,
+
+56:41.000 --> 56:43.000
+or DFD in English,
+
+56:43.000 --> 56:45.000
+and VFD.
+
+56:45.000 --> 56:47.000
+Everything is very simple.
+
+56:47.000 --> 56:49.000
+You may ask,
+
+56:49.000 --> 56:51.000
+why describe all the processes
+
+56:51.000 --> 56:53.000
+as they are so deeply?
+
+56:53.000 --> 56:55.000
+Maybe they are already at this level, not optimal.
+
+56:55.000 --> 56:57.000
+Why is this done?
+
+56:57.000 --> 56:59.000
+Everything is very simple.
+
+56:59.000 --> 57:01.000
+You do not need to describe absolutely all the processes
+
+57:01.000 --> 57:03.000
+to this level, you do not need to describe
+
+57:03.000 --> 57:05.000
+to the very application, to the level
+
+57:05.000 --> 57:07.000
+that the secretary should bring tea to someone,
+
+57:07.000 --> 57:09.000
+it is absolutely not necessary.
+
+57:09.000 --> 57:11.000
+The idea is to describe these processes
+
+57:11.000 --> 57:13.000
+and describe this one.
+
+57:13.000 --> 57:15.000
+At this level, you will,
+
+57:15.000 --> 57:17.000
+let's say, a little like scanning
+
+57:17.000 --> 57:19.000
+this process.
+
+57:19.000 --> 57:21.000
+That is, you go down from top to bottom
+
+57:21.000 --> 57:23.000
+until you find an error at some level.
+
+57:23.000 --> 57:25.000
+If the errors are highlighted at this level,
+
+57:25.000 --> 57:27.000
+you can stop and start the analysis.
+
+57:27.000 --> 57:29.000
+If the errors are not highlighted at this level,
+
+57:29.000 --> 57:31.000
+you can go further, further, further,
+
+57:31.000 --> 57:33.000
+until you reach the description
+
+57:33.000 --> 57:35.000
+of business processes at the level of an employee.
+
+57:35.000 --> 57:37.000
+What do we have here?
+
+57:37.000 --> 57:39.000
+What do we have next?
+
+57:39.000 --> 57:41.000
+If, for example,
+
+57:41.000 --> 57:43.000
+we stop to describe in more detail
+
+57:43.000 --> 57:45.000
+the business process
+
+57:45.000 --> 57:47.000
+at the highest level,
+
+57:47.000 --> 57:49.000
+we can describe who is the supplier
+
+57:49.000 --> 57:51.000
+of the very resource,
+
+57:51.000 --> 57:53.000
+or information,
+
+57:53.000 --> 57:55.000
+or product,
+
+57:55.000 --> 57:57.000
+or service that is being
+
+57:57.000 --> 57:59.000
+poured at the entrance.
+
+57:59.000 --> 58:01.000
+That is, we have a supplier
+
+58:01.000 --> 58:03.000
+and some resource.
+
+58:03.000 --> 58:05.000
+Then we have the process itself,
+
+58:05.000 --> 58:07.000
+and then we have a client,
+
+58:07.000 --> 58:09.000
+who needs all this,
+
+58:09.000 --> 58:11.000
+and the result of the process.
+
+58:11.000 --> 58:13.000
+For each business process
+
+58:13.000 --> 58:15.000
+at the highest level,
+
+58:15.000 --> 58:17.000
+it is important to develop such a scheme
+
+58:17.000 --> 58:19.000
+just to test yourself.
+
+58:19.000 --> 58:21.000
+Maybe you highlighted the business process
+
+58:21.000 --> 58:23.000
+at the highest level incorrectly,
+
+58:23.000 --> 58:25.000
+maybe you highlighted it insufficiently,
+
+58:25.000 --> 58:27.000
+maybe you cut off a part of the business process
+
+58:27.000 --> 58:29.000
+and cannot highlight its client.
+
+58:29.000 --> 58:31.000
+If you cannot find a client of a business process,
+
+58:31.000 --> 58:33.000
+if you cannot understand what the result of the process is,
+
+58:33.000 --> 58:35.000
+maybe you highlighted it incorrectly.
+
+58:35.000 --> 58:37.000
+This means that you need to re-examine
+
+58:37.000 --> 58:39.000
+the business process highlighting
+
+58:39.000 --> 58:41.000
+at the highest level.
+
+58:41.000 --> 58:43.000
+Then, when we go down to the level of DFD,
+
+58:43.000 --> 58:45.000
+we do the following thing.
+
+58:45.000 --> 58:47.000
+We write what kind of work
+
+58:47.000 --> 58:49.000
+should be done,
+
+58:49.000 --> 58:51.000
+what are the entrances and exits
+
+58:51.000 --> 58:53.000
+of each of the jobs,
+
+58:53.000 --> 58:55.000
+what are the resources
+
+58:55.000 --> 58:57.000
+at the entrance and at the exit,
+
+58:57.000 --> 58:59.000
+what are the executors
+
+58:59.000 --> 59:01.000
+of each job,
+
+59:01.000 --> 59:03.000
+what are the employees of each job.
+
+59:03.000 --> 59:05.000
+It is also very important to do this,
+
+59:05.000 --> 59:07.000
+because at this stage
+
+59:07.000 --> 59:09.000
+you can make a mistake
+
+59:09.000 --> 59:11.000
+and highlight the business process incorrectly.
+
+59:11.000 --> 59:13.000
+At the same stage,
+
+59:13.000 --> 59:15.000
+you can make a wrong description of the functions.
+
+59:15.000 --> 59:17.000
+It is important to understand
+
+59:17.000 --> 59:19.000
+that the results are absolutely
+
+59:19.000 --> 59:21.000
+in every function.
+
+59:21.000 --> 59:23.000
+Next, when we describe the lowest level,
+
+59:23.000 --> 59:25.000
+we write, again,
+
+59:25.000 --> 59:27.000
+who is responsible
+
+59:27.000 --> 59:29.000
+for each of these small functions,
+
+59:29.000 --> 59:31.000
+what is the entrance,
+
+59:31.000 --> 59:33.000
+what is the exit,
+
+59:33.000 --> 59:35.000
+and what are the algorithms,
+
+59:35.000 --> 59:37.000
+what if this,
+
+59:37.000 --> 59:39.000
+what actions should be taken,
+
+59:39.000 --> 59:41.000
+what if there is no action,
+
+59:41.000 --> 59:43.000
+what actions should be taken.
+
+59:43.000 --> 59:45.000
+All this should be described
+
+59:45.000 --> 59:47.000
+to the smallest detail,
+
+59:47.000 --> 59:49.000
+so that the executor at the lowest level
+
+59:49.000 --> 59:51.000
+would understand what to do in each case.
+
+59:51.000 --> 59:53.000
+Only then this algorithm
+
+59:53.000 --> 59:55.000
+can be considered, optimized
+
+59:55.000 --> 59:57.000
+and turned into a regulation
+
+59:57.000 --> 59:59.000
+for the employees.
+
+59:59.000 --> 01:00:01.000
+It is important to remember
+
+01:00:01.000 --> 01:00:03.000
+that the entrance at this level
+
+01:00:03.000 --> 01:00:05.000
+is the entrance at this level.
+
+01:00:05.000 --> 01:00:07.000
+If, for example,
+
+01:00:07.000 --> 01:00:09.000
+you have a need for a product
+
+01:00:09.000 --> 01:00:11.000
+at the entrance,
+
+01:00:11.000 --> 01:00:13.000
+then you should have a need for a product
+
+01:00:13.000 --> 01:00:15.000
+at the entrance.
+
+01:00:15.000 --> 01:00:17.000
+If you have a product at the entrance,
+
+01:00:17.000 --> 01:00:19.000
+then you are already buying,
+
+01:00:19.000 --> 01:00:21.000
+this is illogical.
+
+01:00:21.000 --> 01:00:23.000
+This process at the level of DFD
+
+01:00:23.000 --> 01:00:25.000
+is revealed in more detail.
+
+01:00:25.000 --> 01:00:27.000
+The entrance of this process
+
+01:00:27.000 --> 01:00:29.000
+goes here,
+
+01:00:29.000 --> 01:00:31.000
+the exit of this process goes here.
+
+01:00:31.000 --> 01:00:33.000
+Thus, we have a more detailed
+
+01:00:33.000 --> 01:00:35.000
+structured of this process.
+
+01:00:35.000 --> 01:00:37.000
+When we describe in more detail
+
+01:00:37.000 --> 01:00:39.000
+some process here,
+
+01:00:39.000 --> 01:00:41.000
+we transfer the entrance here.
+
+01:00:41.000 --> 01:00:43.000
+When we talk about the exit,
+
+01:00:43.000 --> 01:00:45.000
+we transfer it here.
+
+01:00:45.000 --> 01:00:47.000
+Everything should be described
+
+01:00:47.000 --> 01:00:49.000
+very clearly.
+
+01:00:49.000 --> 01:00:51.000
+It should not be like
+
+01:00:51.000 --> 01:00:53.000
+here is one entrance,
+
+01:00:53.000 --> 01:00:55.000
+here is another one,
+
+01:00:55.000 --> 01:00:57.000
+and so on.
+
+01:00:57.000 --> 01:00:59.000
+There is more detail
+
+01:00:59.000 --> 01:01:01.000
+in the description.
+
+01:01:01.000 --> 01:01:03.000
+What options
+
+01:01:03.000 --> 01:01:05.000
+can we use
+
+01:01:05.000 --> 01:01:07.000
+to find information
+
+01:01:07.000 --> 01:01:09.000
+for this description?
+
+01:01:09.000 --> 01:01:11.000
+I think you know
+
+01:01:11.000 --> 01:01:13.000
+that there are many ways.
+
+01:01:13.000 --> 01:01:15.000
+The first one,
+
+01:01:15.000 --> 01:01:17.000
+which I said several times today,
+
+01:01:17.000 --> 01:01:19.000
+is a working seminar.
+
+01:01:19.000 --> 01:01:21.000
+It means that you
+
+01:01:21.000 --> 01:01:23.000
+discuss the description
+
+01:01:23.000 --> 01:01:25.000
+of this process,
+
+01:01:25.000 --> 01:01:27.000
+its suppliers,
+
+01:01:27.000 --> 01:01:29.000
+its clients,
+
+01:01:29.000 --> 01:01:31.000
+and you discuss
+
+01:01:31.000 --> 01:01:33.000
+this description
+
+01:01:33.000 --> 01:01:35.000
+with them.
+
+01:01:35.000 --> 01:01:37.000
+After it is approved,
+
+01:01:37.000 --> 01:01:39.000
+you can let go
+
+01:01:39.000 --> 01:01:41.000
+some of the employees
+
+01:01:41.000 --> 01:01:43.000
+and talk only with those
+
+01:01:43.000 --> 01:01:45.000
+who, for example,
+
+01:01:45.000 --> 01:01:47.000
+are responsible for this process
+
+01:01:47.000 --> 01:01:49.000
+and approve the regulation
+
+01:01:49.000 --> 01:01:51.000
+and discuss it.
+
+01:01:51.000 --> 01:01:53.000
+The disadvantages are that
+
+01:01:53.000 --> 01:01:55.000
+it can turn into a mess
+
+01:01:55.000 --> 01:01:57.000
+if you do not prepare for it in advance.
+
+01:01:57.000 --> 01:01:59.000
+The second option is an interview.
+
+01:01:59.000 --> 01:02:01.000
+It means that you,
+
+01:02:01.000 --> 01:02:03.000
+as a business analyst
+
+01:02:03.000 --> 01:02:05.000
+or a methodologist
+
+01:02:05.000 --> 01:02:07.000
+of the Business Process Analysis Department,
+
+01:02:07.000 --> 01:02:09.000
+make an appointment
+
+01:02:09.000 --> 01:02:11.000
+with a particular person,
+
+01:02:11.000 --> 01:02:13.000
+a participant or a person
+
+01:02:13.000 --> 01:02:15.000
+responsible for a particular
+
+01:02:15.000 --> 01:02:17.000
+business process or process.
+
+01:02:17.000 --> 01:02:19.000
+It means that the meeting will be
+
+01:02:19.000 --> 01:02:21.000
+one-on-one.
+
+01:02:21.000 --> 01:02:23.000
+Or you can take an assistant
+
+01:02:23.000 --> 01:02:25.000
+who will record if you do not have time
+
+01:02:25.000 --> 01:02:27.000
+to ask or record something.
+
+01:02:27.000 --> 01:02:29.000
+Thus,
+
+01:02:29.000 --> 01:02:31.000
+it is a tete-a-tete conversation.
+
+01:02:31.000 --> 01:02:33.000
+You can, in fact,
+
+01:02:33.000 --> 01:02:35.000
+devote more time
+
+01:02:35.000 --> 01:02:37.000
+to the specific performer
+
+01:02:37.000 --> 01:02:39.000
+and to find out how this business
+
+01:02:39.000 --> 01:02:41.000
+process is going on now.
+
+01:02:41.000 --> 01:02:43.000
+But
+
+01:02:43.000 --> 01:02:45.000
+there is a point here.
+
+01:02:45.000 --> 01:02:47.000
+We are all people
+
+01:02:47.000 --> 01:02:49.000
+and we are all inclined to lie,
+
+01:02:49.000 --> 01:02:51.000
+to cheat a little,
+
+01:02:51.000 --> 01:02:53.000
+to make a little deal,
+
+01:02:53.000 --> 01:02:55.000
+to fantasize a little.
+
+01:02:55.000 --> 01:02:57.000
+And very often people,
+
+01:02:57.000 --> 01:02:59.000
+when you talk to them
+
+01:02:59.000 --> 01:03:01.000
+about how the business process
+
+01:03:01.000 --> 01:03:03.000
+is going on now,
+
+01:03:03.000 --> 01:03:05.000
+start to cheat and add
+
+01:03:05.000 --> 01:03:07.000
+something from the area
+
+01:03:07.000 --> 01:03:09.000
+as it should be,
+
+01:03:09.000 --> 01:03:11.000
+as I see it,
+
+01:03:11.000 --> 01:03:13.000
+and so on.
+
+01:03:13.000 --> 01:03:15.000
+After the work seminar
+
+01:03:15.000 --> 01:03:17.000
+or before the work seminar,
+
+01:03:17.000 --> 01:03:19.000
+what is better,
+
+01:03:19.000 --> 01:03:21.000
+make a list.
+
+01:03:21.000 --> 01:03:23.000
+A list of all people
+
+01:03:23.000 --> 01:03:25.000
+you would like to talk to.
+
+01:03:25.000 --> 01:03:27.000
+It will be the process owner,
+
+01:03:27.000 --> 01:03:29.000
+supplier, client
+
+01:03:29.000 --> 01:03:31.000
+and a couple of key participants.
+
+01:03:31.000 --> 01:03:33.000
+Make a list,
+
+01:03:33.000 --> 01:03:35.000
+meet with everyone,
+
+01:03:35.000 --> 01:03:37.000
+make a special questionnaire
+
+01:03:37.000 --> 01:03:39.000
+and tell everyone
+
+01:03:39.000 --> 01:03:41.000
+how this business process is going on.
+
+01:03:41.000 --> 01:03:43.000
+Everyone will be cheating,
+
+01:03:43.000 --> 01:03:45.000
+but in the end, when you compare
+
+01:03:45.000 --> 01:03:47.000
+the answers of everyone,
+
+01:03:47.000 --> 01:03:49.000
+you will be able to form your opinion
+
+01:03:49.000 --> 01:03:51.000
+about how it is going on now.
+
+01:03:51.000 --> 01:03:53.000
+Meet with other participants
+
+01:03:53.000 --> 01:03:55.000
+of similar processes,
+
+01:03:55.000 --> 01:03:57.000
+for example, client processes
+
+01:03:57.000 --> 01:03:59.000
+or supplier processes.
+
+01:03:59.000 --> 01:04:01.000
+Make it clear.
+
+01:04:01.000 --> 01:04:03.000
+The more you make it clear,
+
+01:04:03.000 --> 01:04:05.000
+the more accurate your situation
+
+01:04:05.000 --> 01:04:07.000
+will be.
+
+01:04:07.000 --> 01:04:09.000
+There is an option
+
+01:04:09.000 --> 01:04:11.000
+to ask a lot of people
+
+01:04:11.000 --> 01:04:13.000
+for one or two questions.
+
+01:04:13.000 --> 01:04:15.000
+You can use
+
+01:04:15.000 --> 01:04:17.000
+questionnaire
+
+01:04:17.000 --> 01:04:19.000
+and questionnaire.
+
+01:04:19.000 --> 01:04:21.000
+You can either give it to your employees
+
+01:04:21.000 --> 01:04:23.000
+or send it on the Internet,
+
+01:04:23.000 --> 01:04:25.000
+by e-mail,
+
+01:04:25.000 --> 01:04:27.000
+post it on the server,
+
+01:04:27.000 --> 01:04:29.000
+and so on.
+
+01:04:29.000 --> 01:04:31.000
+In other words,
+
+01:04:31.000 --> 01:04:33.000
+you have a questionnaire
+
+01:04:33.000 --> 01:04:35.000
+and you ask certain employees
+
+01:04:35.000 --> 01:04:37.000
+to fill it in.
+
+01:04:37.000 --> 01:04:39.000
+You can use it
+
+01:04:39.000 --> 01:04:41.000
+if you need to clarify some detail.
+
+01:04:41.000 --> 01:04:43.000
+It is impossible to ask a person
+
+01:04:43.000 --> 01:04:45.000
+to describe the business process
+
+01:04:45.000 --> 01:04:47.000
+in a questionnaire.
+
+01:04:47.000 --> 01:04:49.000
+He will describe it in a nutshell
+
+01:04:49.000 --> 01:04:51.000
+or he will describe the main points.
+
+01:04:51.000 --> 01:04:53.000
+In short, it will not bring any useful value
+
+01:04:53.000 --> 01:04:55.000
+to you.
+
+01:04:55.000 --> 01:04:57.000
+So, the easiest way is
+
+01:04:57.000 --> 01:04:59.000
+to use a questionnaire or questionnaire.
+
+01:04:59.000 --> 01:05:01.000
+Next.
+
+01:05:01.000 --> 01:05:03.000
+You can use
+
+01:05:03.000 --> 01:05:05.000
+your existing documents and regulations
+
+01:05:05.000 --> 01:05:07.000
+to ask a person
+
+01:05:07.000 --> 01:05:09.000
+for a specific question.
+
+01:05:09.000 --> 01:05:11.000
+But this is the last tool
+
+01:05:11.000 --> 01:05:13.000
+you need to use.
+
+01:05:13.000 --> 01:05:15.000
+Why?
+
+01:05:15.000 --> 01:05:17.000
+As we said,
+
+01:05:17.000 --> 01:05:19.000
+all documents are written
+
+01:05:19.000 --> 01:05:21.000
+in a way
+
+01:05:21.000 --> 01:05:23.000
+that is convenient for you.
+
+01:05:23.000 --> 01:05:25.000
+No one uses them.
+
+01:05:25.000 --> 01:05:27.000
+They are stored on shelves
+
+01:05:27.000 --> 01:05:29.000
+and no one uses them.
+
+01:05:29.000 --> 01:05:31.000
+When you show your document
+
+01:05:31.000 --> 01:05:33.000
+to the person,
+
+01:05:33.000 --> 01:05:35.000
+he will be surprised and ask
+
+01:05:35.000 --> 01:05:37.000
+if he should do it.
+
+01:05:37.000 --> 01:05:39.000
+So, documents are
+
+01:05:39.000 --> 01:05:41.000
+just additional sources of information
+
+01:05:41.000 --> 01:05:43.000
+to check if you forgot something.
+
+01:05:43.000 --> 01:05:45.000
+So,
+
+01:05:45.000 --> 01:05:47.000
+once again,
+
+01:05:47.000 --> 01:05:49.000
+work seminars, interviews,
+
+01:05:49.000 --> 01:05:51.000
+questionnaires and documents.
+
+01:05:51.000 --> 01:05:53.000
+Regulations.
+
+01:05:53.000 --> 01:05:55.000
+Using this list,
+
+01:05:55.000 --> 01:05:57.000
+you can describe all business processes
+
+01:05:57.000 --> 01:05:59.000
+up to the lowest level.
+
+01:05:59.000 --> 01:06:01.000
+How to conduct
+
+01:06:01.000 --> 01:06:03.000
+an interview with a person?
+
+01:06:03.000 --> 01:06:05.000
+How to conduct a work seminar?
+
+01:06:05.000 --> 01:06:07.000
+This is a question
+
+01:06:07.000 --> 01:06:09.000
+of psychology.
+
+01:06:09.000 --> 01:06:11.000
+But I can say
+
+01:06:11.000 --> 01:06:13.000
+that you should
+
+01:06:13.000 --> 01:06:15.000
+have a conversation like a conversation with yourself.
+
+01:06:15.000 --> 01:06:17.000
+I can say from my experience
+
+01:06:17.000 --> 01:06:19.000
+that when a person
+
+01:06:19.000 --> 01:06:21.000
+is called for an interview,
+
+01:06:21.000 --> 01:06:23.000
+it doesn't matter if it is a manager
+
+01:06:23.000 --> 01:06:25.000
+or a manager,
+
+01:06:25.000 --> 01:06:27.000
+he is afraid
+
+01:06:27.000 --> 01:06:29.000
+that he will be fired
+
+01:06:29.000 --> 01:06:31.000
+for this interview.
+
+01:06:31.000 --> 01:06:33.000
+He will be fired,
+
+01:06:33.000 --> 01:06:35.000
+his salary will be reduced,
+
+01:06:35.000 --> 01:06:37.000
+he will be reprimanded.
+
+01:06:37.000 --> 01:06:39.000
+Maybe he doesn't know
+
+01:06:39.000 --> 01:06:41.000
+what he is afraid of,
+
+01:06:41.000 --> 01:06:43.000
+but he is afraid.
+
+01:06:43.000 --> 01:06:45.000
+So, it is important to put him to yourself.
+
+01:06:45.000 --> 01:06:47.000
+It means that you should ask
+
+01:06:47.000 --> 01:06:49.000
+open questions.
+
+01:06:49.000 --> 01:06:51.000
+You should ask questions
+
+01:06:51.000 --> 01:06:53.000
+like how to do it,
+
+01:06:53.000 --> 01:06:55.000
+why you do it
+
+01:06:55.000 --> 01:06:57.000
+and what you do here.
+
+01:06:57.000 --> 01:06:59.000
+It should be a
+
+01:06:59.000 --> 01:07:01.000
+pleasant environment
+
+01:07:01.000 --> 01:07:03.000
+in which you can
+
+01:07:03.000 --> 01:07:05.000
+get enough information
+
+01:07:05.000 --> 01:07:07.000
+about your business process.
+
+01:07:07.000 --> 01:07:09.000
+It is important
+
+01:07:09.000 --> 01:07:11.000
+to give your interviewer
+
+01:07:11.000 --> 01:07:13.000
+a space,
+
+01:07:13.000 --> 01:07:15.000
+a field for action.
+
+01:07:15.000 --> 01:07:17.000
+If you limit him
+
+01:07:17.000 --> 01:07:19.000
+to specific questions,
+
+01:07:19.000 --> 01:07:21.000
+you may not get
+
+01:07:21.000 --> 01:07:23.000
+any additional information
+
+01:07:23.000 --> 01:07:25.000
+about your business process
+
+01:07:25.000 --> 01:07:27.000
+or about the business process
+
+01:07:27.000 --> 01:07:29.000
+of a client or a supplier.
+
+01:07:29.000 --> 01:07:31.000
+You should describe all business processes.
+
+01:07:31.000 --> 01:07:33.000
+So, there is no unnecessary information.
+
+01:07:33.000 --> 01:07:35.000
+All interviews are very important
+
+01:07:35.000 --> 01:07:37.000
+and all seminars are very important.
+
+01:07:37.000 --> 01:07:39.000
+So, you should write down
+
+01:07:39.000 --> 01:07:41.000
+information on a dictaphone
+
+01:07:41.000 --> 01:07:43.000
+or on a stenograph
+
+01:07:43.000 --> 01:07:45.000
+or something else.
+
+01:07:45.000 --> 01:07:47.000
+Then it is collected in a file
+
+01:07:47.000 --> 01:07:49.000
+and processed.
+
+01:07:49.000 --> 01:07:51.000
+Because in one interview
+
+01:07:51.000 --> 01:07:53.000
+you can write down
+
+01:07:53.000 --> 01:07:55.000
+all the information
+
+01:07:55.000 --> 01:07:57.000
+about your business process
+
+01:07:57.000 --> 01:07:59.000
+and about other processes.
+
+01:07:59.000 --> 01:08:01.000
+It is clear that
+
+01:08:01.000 --> 01:08:03.000
+you should speak
+
+01:08:03.000 --> 01:08:05.000
+in a pleasant way,
+
+01:08:05.000 --> 01:08:07.000
+ask questions,
+
+01:08:07.000 --> 01:08:09.000
+look good and behave well.
+
+01:08:09.000 --> 01:08:11.000
+But the most important thing
+
+01:08:11.000 --> 01:08:13.000
+is to give your interviewer
+
+01:08:13.000 --> 01:08:15.000
+a space for imagination
+
+01:08:15.000 --> 01:08:17.000
+and to express himself
+
+01:08:17.000 --> 01:08:19.000
+to the maximum.
+
+01:08:19.000 --> 01:08:21.000
+The form of the form
+
+01:08:21.000 --> 01:08:23.000
+is quite standard.
+
+01:08:23.000 --> 01:08:25.000
+You can see it
+
+01:08:25.000 --> 01:08:27.000
+on the following slide.
+
+01:08:27.000 --> 01:08:29.000
+In fact,
+
+01:08:29.000 --> 01:08:31.000
+there is nothing complicated.
+
+01:08:31.000 --> 01:08:33.000
+You just need to write down
+
+01:08:33.000 --> 01:08:35.000
+what business process is
+
+01:08:35.000 --> 01:08:37.000
+and then give an opportunity
+
+01:08:37.000 --> 01:08:39.000
+to send it to the person
+
+01:08:39.000 --> 01:08:41.000
+you are going to show
+
+01:08:41.000 --> 01:08:43.000
+the application to.
+
+01:08:43.000 --> 01:08:45.000
+You just need to write down
+
+01:08:45.000 --> 01:08:47.000
+what operations are included,
+
+01:08:47.000 --> 01:08:49.000
+what are the requirements
+
+01:08:49.000 --> 01:08:51.000
+and what are the requirements
+
+01:08:51.000 --> 01:08:53.000
+for the application.
+
+01:08:53.000 --> 01:08:55.000
+There is nothing complicated.
+
+01:08:55.000 --> 01:08:57.000
+But I repeat that
+
+01:08:57.000 --> 01:08:59.000
+the application is more like
+
+01:08:59.000 --> 01:09:01.000
+an additional thing.
+
+01:09:01.000 --> 01:09:03.000
+You don't need to start
+
+01:09:03.000 --> 01:09:05.000
+with the application right away.
+
+01:09:05.000 --> 01:09:07.000
+People still don't know
+
+01:09:07.000 --> 01:09:09.000
+how to do it.
+
+01:09:09.000 --> 01:09:11.000
+So they get confused
+
+01:09:11.000 --> 01:09:13.000
+and ask questions.
+
+01:09:13.000 --> 01:09:15.000
+It is easier to start
+
+01:09:15.000 --> 01:09:17.000
+with the application
+
+01:09:17.000 --> 01:09:19.000
+and then go on with the process.
+
+01:09:19.000 --> 01:09:21.000
+There are several rules
+
+01:09:21.000 --> 01:09:23.000
+about business modeling.
+
+01:09:23.000 --> 01:09:25.000
+The first one is
+
+01:09:25.000 --> 01:09:27.000
+to confirm and clarify
+
+01:09:27.000 --> 01:09:29.000
+what you wrote
+
+01:09:29.000 --> 01:09:31.000
+or created.
+
+01:09:31.000 --> 01:09:33.000
+Because it is great to be creative
+
+01:09:33.000 --> 01:09:35.000
+but you need to create a scheme
+
+01:09:35.000 --> 01:09:37.000
+as we remember.
+
+01:09:37.000 --> 01:09:39.000
+So you need to clarify
+
+01:09:39.000 --> 01:09:41.000
+all the schemes and descriptions
+
+01:09:41.000 --> 01:09:43.000
+you created
+
+01:09:43.000 --> 01:09:45.000
+and you can't accept it
+
+01:09:45.000 --> 01:09:47.000
+as a given.
+
+01:09:47.000 --> 01:09:49.000
+The second one is
+
+01:09:49.000 --> 01:09:51.000
+to use a dictaphone
+
+01:09:51.000 --> 01:09:53.000
+when you are conducting
+
+01:09:53.000 --> 01:09:55.000
+an interview
+
+01:09:55.000 --> 01:09:57.000
+or a survey
+
+01:09:57.000 --> 01:09:59.000
+or a seminar.
+
+01:09:59.000 --> 01:10:01.000
+You need to use a dictaphone,
+
+01:10:01.000 --> 01:10:03.000
+a notebook, a pen and so on.
+
+01:10:03.000 --> 01:10:05.000
+You don't need to rely on
+
+01:10:05.000 --> 01:10:07.000
+memorizing everything.
+
+01:10:07.000 --> 01:10:09.000
+You need to record everything.
+
+01:10:09.000 --> 01:10:11.000
+And there are a lot of things
+
+01:10:11.000 --> 01:10:13.000
+you can do with a dictaphone.
+
+01:10:13.000 --> 01:10:15.000
+If you are shy,
+
+01:10:15.000 --> 01:10:17.000
+record everything by hand.
+
+01:10:17.000 --> 01:10:19.000
+You can use your colleagues
+
+01:10:19.000 --> 01:10:21.000
+and conduct an interview
+
+01:10:21.000 --> 01:10:23.000
+or a seminar.
+
+01:10:23.000 --> 01:10:25.000
+You can use
+
+01:10:25.000 --> 01:10:27.000
+a simplified language
+
+01:10:27.000 --> 01:10:29.000
+to conduct an interview.
+
+01:10:29.000 --> 01:10:31.000
+If you come to an unprepared person
+
+01:10:31.000 --> 01:10:33.000
+and ask him
+
+01:10:33.000 --> 01:10:35.000
+to describe the business process
+
+01:10:35.000 --> 01:10:37.000
+of your company,
+
+01:10:37.000 --> 01:10:39.000
+what do you think
+
+01:10:39.000 --> 01:10:41.000
+he will say?
+
+01:10:41.000 --> 01:10:43.000
+I think he won't say anything good.
+
+01:10:43.000 --> 01:10:45.000
+So use something he understands.
+
+01:10:45.000 --> 01:10:47.000
+Put yourself in his shoes.
+
+01:10:47.000 --> 01:10:49.000
+How would you react
+
+01:10:49.000 --> 01:10:51.000
+if you were told
+
+01:10:51.000 --> 01:10:53.000
+and you didn't attend any seminars
+
+01:10:53.000 --> 01:10:55.000
+or conduct any training?
+
+01:10:55.000 --> 01:10:57.000
+You probably didn't understand
+
+01:10:57.000 --> 01:10:59.000
+what I was talking about.
+
+01:10:59.000 --> 01:11:01.000
+So use a simple,
+
+01:11:01.000 --> 01:11:03.000
+understandable and accessible language.
+
+01:11:03.000 --> 01:11:05.000
+Don't be distracted
+
+01:11:05.000 --> 01:11:07.000
+by the current organizational structures
+
+01:11:07.000 --> 01:11:09.000
+and who obeys whom.
+
+01:11:09.000 --> 01:11:11.000
+Remember that processes
+
+01:11:11.000 --> 01:11:13.000
+and structures are secondary.
+
+01:11:13.000 --> 01:11:15.000
+Remember the goal
+
+01:11:15.000 --> 01:11:17.000
+of the process management
+
+01:11:17.000 --> 01:11:19.000
+of your company
+
+01:11:19.000 --> 01:11:21.000
+when you make a description.
+
+01:11:21.000 --> 01:11:23.000
+It shouldn't be a description.
+
+01:11:23.000 --> 01:11:25.000
+Let everyone like it.
+
+01:11:25.000 --> 01:11:27.000
+We had one client.
+
+01:11:27.000 --> 01:11:29.000
+They made a lot of great business processes
+
+01:11:29.000 --> 01:11:31.000
+up to the lowest level.
+
+01:11:31.000 --> 01:11:33.000
+They were like
+
+01:11:33.000 --> 01:11:35.000
+a secretary or a cleaner.
+
+01:11:35.000 --> 01:11:37.000
+We asked them
+
+01:11:37.000 --> 01:11:39.000
+what was the goal
+
+01:11:39.000 --> 01:11:41.000
+of their description.
+
+01:11:41.000 --> 01:11:43.000
+They didn't answer.
+
+01:11:43.000 --> 01:11:45.000
+They said
+
+01:11:45.000 --> 01:11:47.000
+it was great
+
+01:11:47.000 --> 01:11:49.000
+and they understood
+
+01:11:49.000 --> 01:11:51.000
+who obeys whom.
+
+01:11:51.000 --> 01:11:53.000
+We described the scheme
+
+01:11:53.000 --> 01:11:55.000
+and what's next.
+
+01:11:55.000 --> 01:11:57.000
+I think it's nothing special.
+
+01:11:57.000 --> 01:11:59.000
+So if you don't remember the goal
+
+01:11:59.000 --> 01:12:01.000
+and don't know why you do it,
+
+01:12:01.000 --> 01:12:03.000
+it's better not to do it.
+
+01:12:03.000 --> 01:12:05.000
+So always remember
+
+01:12:05.000 --> 01:12:07.000
+the goal,
+
+01:12:07.000 --> 01:12:09.000
+why you do it,
+
+01:12:09.000 --> 01:12:11.000
+your role in it
+
+01:12:11.000 --> 01:12:13.000
+and the current status
+
+01:12:13.000 --> 01:12:15.000
+of the process management.
+
+01:12:15.000 --> 01:12:17.000
+And one more important thing.
+
+01:12:17.000 --> 01:12:19.000
+Always remember
+
+01:12:19.000 --> 01:12:21.000
+that there are situations
+
+01:12:21.000 --> 01:12:23.000
+when you do it right,
+
+01:12:23.000 --> 01:12:25.000
+when you do it wrong,
+
+01:12:25.000 --> 01:12:27.000
+when you do it wrong,
+
+01:12:27.000 --> 01:12:29.000
+when you do it right,
+
+01:12:29.000 --> 01:12:31.000
+when you do it wrong,
+
+01:12:31.000 --> 01:12:33.000
+when you do it right.
+
+01:12:33.000 --> 01:12:35.000
+There are situations
+
+01:12:35.000 --> 01:12:37.000
+when you want to do it right.
+
+01:12:37.000 --> 01:12:39.000
+You don't need to confuse
+
+01:12:39.000 --> 01:12:41.000
+all three options.
+
+01:12:41.000 --> 01:12:43.000
+You need to do it right.
+
+01:12:43.000 --> 01:12:45.000
+That's why you need
+
+01:12:45.000 --> 01:12:47.000
+so many details
+
+01:12:47.000 --> 01:12:49.000
+and so many ways
+
+01:12:49.000 --> 01:12:51.000
+to get information
+
+01:12:51.000 --> 01:12:53.000
+like seminars, interviews,
+
+01:12:53.000 --> 01:12:55.000
+surveys, documents, etc.

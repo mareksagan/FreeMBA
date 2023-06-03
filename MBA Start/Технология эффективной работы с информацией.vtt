@@ -1,0 +1,4264 @@
+﻿WEBVTT
+
+00:00.000 --> 00:03.000
+You are stuck in the sea of unnecessary information.
+
+00:03.000 --> 00:08.000
+Huge flows of information prevent you from making effective management decisions.
+
+00:08.000 --> 00:11.000
+Then our course, Information Technology for You,
+
+00:11.000 --> 00:15.000
+we focus on nuances of effective work with information,
+
+00:15.000 --> 00:20.000
+which will allow you to make the right decisions quickly, efficiently and in time.
+
+00:20.000 --> 00:23.000
+I'm Elena Burikova, a teacher of the Moscow Business School.
+
+00:23.000 --> 00:28.000
+So, today's topic is the technology of effective work with information.
+
+00:28.000 --> 00:29.000
+Slide number two.
+
+00:29.000 --> 00:36.000
+In order to consider this program, we must clarify the importance of information for the manager,
+
+00:36.000 --> 00:39.000
+discuss who the consumers of information are,
+
+00:39.000 --> 00:41.000
+formulate an idea of the types of information,
+
+00:41.000 --> 00:45.000
+and consider the information problems and ways of their solution.
+
+00:45.000 --> 00:46.000
+Slide number three.
+
+00:46.000 --> 00:52.000
+Why did the topic of the technology of work with information arise?
+
+00:52.000 --> 00:58.000
+Because information processes are now greatly affecting the human community.
+
+00:58.000 --> 01:04.000
+Humanity has felt a huge influence of information processes on the history of its development.
+
+01:04.000 --> 01:09.000
+And the most important thing is that the information is becoming more and more.
+
+01:09.000 --> 01:13.000
+And we cannot even predict the consequences of this,
+
+01:13.000 --> 01:17.000
+that this information is becoming more and more.
+
+01:17.000 --> 01:19.000
+How does it all affect a person?
+
+01:19.000 --> 01:20.000
+Slide number four.
+
+01:21.000 --> 01:24.000
+We will now deal with the concept of information.
+
+01:24.000 --> 01:30.000
+In fact, it is so familiar to us, we use this term so often,
+
+01:30.000 --> 01:35.000
+that we often do not think about what it means.
+
+01:35.000 --> 01:38.000
+The term information comes from the Latin word,
+
+01:38.000 --> 01:41.000
+which means exposition, exposition and awareness.
+
+01:41.000 --> 01:43.000
+What is information in general?
+
+01:43.000 --> 01:46.000
+There are several definitions in the literature.
+
+01:46.000 --> 01:53.000
+In particular, information is information about objects, events, facts, processes and phenomena of the world around us.
+
+01:53.000 --> 01:55.000
+That is, it is information.
+
+01:55.000 --> 01:57.000
+The next definition.
+
+02:01.000 --> 02:06.000
+The next definition is already taken from the course of computer science.
+
+02:06.000 --> 02:07.000
+Slide number six.
+
+02:07.000 --> 02:12.000
+In order to give a scientific definition of what information is,
+
+02:12.000 --> 02:15.000
+we need to introduce three more concepts.
+
+02:15.000 --> 02:18.000
+The object, the environment and the interaction.
+
+02:18.000 --> 02:24.000
+The object is something whole that exists in space and time and is finished.
+
+02:24.000 --> 02:27.000
+That is, the object is something holistic.
+
+02:27.000 --> 02:30.000
+The environment is a multitude of other potential objects
+
+02:30.000 --> 02:37.000
+that interest us in terms of their influence on the state of the selected object that we are considering.
+
+02:37.000 --> 02:43.000
+And the interaction is a process of mutual change of these objects over time,
+
+02:43.000 --> 02:46.000
+when they influence each other.
+
+02:46.000 --> 02:47.000
+Slide number seven.
+
+02:47.000 --> 02:50.000
+In nature there are two functional types of interaction.
+
+02:50.000 --> 02:52.000
+This is the exchange of matter and energy.
+
+02:52.000 --> 02:55.000
+These are fundamental types.
+
+02:55.000 --> 02:56.000
+Why?
+
+02:56.000 --> 03:03.000
+Because all other interactions are based on the exchange of matter or energy.
+
+03:03.000 --> 03:09.000
+And here is the question, of course, the law of conservation of work.
+
+03:10.000 --> 03:14.000
+That is, the energy that is exchanged by objects does not disappear anywhere.
+
+03:14.000 --> 03:18.000
+When objects interact, a certain limited environment arises.
+
+03:18.000 --> 03:23.000
+And in this environment, neither matter nor energy is lost.
+
+03:23.000 --> 03:30.000
+If one object gave the matter and energy, then the other one changed, because it accepted.
+
+03:30.000 --> 03:35.000
+And any interaction between objects, in the process of which one acquires,
+
+03:35.000 --> 03:40.000
+and the other loses some substance, is called an informational interaction.
+
+03:40.000 --> 03:44.000
+And this most transmitted substance is called information.
+
+03:44.000 --> 03:50.000
+This is such a scientific definition of information from the science of informatics.
+
+03:50.000 --> 03:54.000
+Two of the most common properties of information follow from this definition.
+
+03:54.000 --> 03:57.000
+Information cannot exist outside the interaction of objects.
+
+03:57.000 --> 04:03.000
+And information is not lost by any of the objects in the interaction process.
+
+04:04.000 --> 04:05.000
+Slide number 9.
+
+04:05.000 --> 04:09.000
+A number of terms that we will use in our course.
+
+04:09.000 --> 04:11.000
+Information generalization.
+
+04:11.000 --> 04:20.000
+This is the transformation of information from a small multitude of simple private events into information of a higher level.
+
+04:20.000 --> 04:24.000
+In which these private events are included as elements.
+
+04:24.000 --> 04:29.000
+Information exchange is carried out between people, objects, living nature, and technical devices.
+
+04:29.000 --> 04:34.000
+And information processes are the processes of transmission, storage, processing and search of information.
+
+04:34.000 --> 04:41.000
+So, based on this definition, information can be coordinated with our senses.
+
+04:41.000 --> 04:50.000
+It can be visual, auditory, tactile, perceptual and kinesthetic.
+
+04:50.000 --> 04:58.000
+This is when our movements, we move, and information is transmitted to the brain about how we move.
+
+04:59.000 --> 05:03.000
+This is a general classification of information.
+
+05:03.000 --> 05:07.000
+But we are interested in business information.
+
+05:07.000 --> 05:14.000
+Business information is classified in the following ways.
+
+05:14.000 --> 05:18.000
+This is verbal, non-verbal information.
+
+05:18.000 --> 05:23.000
+Mimics, gestures, poses, distances are related to non-verbal.
+
+05:23.000 --> 05:31.000
+Business information in this classification is all verbal.
+
+05:31.000 --> 05:35.000
+Therefore, we will talk about business information only.
+
+05:37.000 --> 05:39.000
+Slide number 10.
+
+05:39.000 --> 05:41.000
+So, what is business information?
+
+05:41.000 --> 05:47.000
+Business information is information about objects, events, facts, processes, and phenomena.
+
+05:47.000 --> 05:50.000
+Which relates to the sphere of economic activity.
+
+05:50.000 --> 05:54.000
+And is used to make decisions in the business system.
+
+05:54.000 --> 05:57.000
+It is very important why we need this information.
+
+05:57.000 --> 05:59.000
+We need information only for one thing.
+
+05:59.000 --> 06:01.000
+In order to make decisions correctly.
+
+06:01.000 --> 06:10.000
+So that the company can work effectively and achieve its goals.
+
+06:10.000 --> 06:13.000
+What is business information?
+
+06:13.000 --> 06:19.000
+Business information is professional knowledge that entrepreneurs and employees have.
+
+06:19.000 --> 06:21.000
+Technological knowledge of the specialist.
+
+06:21.000 --> 06:26.000
+Assumptions with a certain degree of probability about the subjects of interest.
+
+06:26.000 --> 06:35.000
+And about the position that the company and its competitors occupy in the market and in the world.
+
+06:35.000 --> 06:39.000
+All the information that relates to this area is business.
+
+06:43.000 --> 06:45.000
+Slide number 12.
+
+06:45.000 --> 06:49.000
+I will just comment on this and remind you.
+
+06:49.000 --> 06:53.000
+That there are several types of resources in the organization.
+
+06:53.000 --> 06:57.000
+These are information, time, financial, material, human and power.
+
+06:57.000 --> 07:04.000
+And it is not in vain that information resources are put on the forefront.
+
+07:04.000 --> 07:08.000
+Because they are really now moving forward.
+
+07:08.000 --> 07:11.000
+And who owns information, he owns the world.
+
+07:11.000 --> 07:16.000
+In order to be a leader, you must produce some new information.
+
+07:16.000 --> 07:21.000
+You must be able to use the information that already exists.
+
+07:21.000 --> 07:27.000
+Because only when you know what already exists, you can come up with something new.
+
+07:27.000 --> 07:32.000
+And market leaders, they just lead in information.
+
+07:32.000 --> 07:34.000
+What do they lead in?
+
+07:34.000 --> 07:36.000
+Slide number 13.
+
+07:37.000 --> 07:42.000
+Information today has become an economic resource and a commodity of primary necessity.
+
+07:42.000 --> 07:48.000
+We have come to such a state that when information has become a commodity,
+
+07:48.000 --> 07:52.000
+and a commodity of primary necessity, it is bought and sold.
+
+07:52.000 --> 07:55.000
+And who buys the most effective information,
+
+07:55.000 --> 07:59.000
+he can make the most effective decisions and, accordingly, be more effective.
+
+07:59.000 --> 08:03.000
+Accordingly, all this is poured out into the financial component.
+
+08:03.000 --> 08:05.000
+And it is all given to us by choice.
+
+08:05.000 --> 08:09.000
+That is, having bought the necessary and effective information,
+
+08:09.000 --> 08:14.000
+we thereby make investments in order to get the profit
+
+08:14.000 --> 08:17.000
+exactly in the size we would like.
+
+08:17.000 --> 08:21.000
+The most relevant information provision, in increasing degree,
+
+08:21.000 --> 08:25.000
+will determine the effectiveness of the use of all the production potential.
+
+08:25.000 --> 08:32.000
+So, we have already said about what an important place information takes.
+
+08:32.000 --> 08:36.000
+And what does it take in terms of the company's profit?
+
+08:36.000 --> 08:40.000
+And that is why we have such a term as competitive information advantage.
+
+08:40.000 --> 08:42.000
+What is it?
+
+08:42.000 --> 08:51.000
+In that, who manages to build a professional team with knowledge,
+
+08:51.000 --> 08:56.000
+information of our employees is our competitive advantage.
+
+08:56.000 --> 08:58.000
+And the more qualified your employees are,
+
+08:58.000 --> 09:02.000
+the better they know, the better they know how to work with information,
+
+09:02.000 --> 09:04.000
+the more effectively your company works.
+
+09:04.000 --> 09:06.000
+This is the first.
+
+09:06.000 --> 09:09.000
+The second competitive advantage, which can be,
+
+09:09.000 --> 09:15.000
+it can be knowledge of geopolitical, foreign economic information,
+
+09:15.000 --> 09:19.000
+which affects the success of your business.
+
+09:19.000 --> 09:23.000
+I will give such an example, that is completely real.
+
+09:23.000 --> 09:28.000
+The company that traded with the mineral water from Georgia,
+
+09:28.000 --> 09:35.000
+in fact, after the event of such a foreign economic,
+
+09:35.000 --> 09:37.000
+as a break in relations between Russia and Georgia,
+
+09:37.000 --> 09:42.000
+this foreign economic event influenced the fact that the company
+
+09:42.000 --> 09:45.000
+practically ceased to exist.
+
+09:45.000 --> 09:49.000
+In principle, if the company's managers knew the information
+
+09:49.000 --> 09:53.000
+that such a break could happen,
+
+09:53.000 --> 09:56.000
+they could take some measures, rebuild their business,
+
+09:56.000 --> 09:59.000
+expand the assortment line,
+
+09:59.000 --> 10:04.000
+well, take some more actions to save the business.
+
+10:04.000 --> 10:08.000
+And the lack of such information led to the fact that
+
+10:08.000 --> 10:13.000
+a tangible share of the business was lost.
+
+10:13.000 --> 10:16.000
+And there is another competitive advantage,
+
+10:16.000 --> 10:19.000
+this is the ability to better, faster than others,
+
+10:19.000 --> 10:23.000
+to understand, find, understand, evaluate,
+
+10:23.000 --> 10:27.000
+rework and put into practice this publicly available information.
+
+10:27.000 --> 10:31.000
+That is, we can, in principle, get additional profit
+
+10:31.000 --> 10:34.000
+for better use of information.
+
+10:34.000 --> 10:35.000
+Slide number 15.
+
+10:35.000 --> 10:38.000
+Business information can be classified into the primary,
+
+10:38.000 --> 10:44.000
+which we receive during the so-called field research marketing,
+
+10:44.000 --> 10:49.000
+and the secondary is the data that we receive from internal and external sources
+
+10:49.000 --> 10:52.000
+for the purposes of different research marketing.
+
+10:52.000 --> 10:55.000
+That is, first we conduct research,
+
+10:55.000 --> 10:59.000
+we get information, and all the rest of the information we get for,
+
+10:59.000 --> 11:04.000
+well, again, it doesn't matter what we do it for,
+
+11:04.000 --> 11:06.000
+what we work with information for,
+
+11:06.000 --> 11:09.000
+this is the acceptance of effective management decisions.
+
+11:09.000 --> 11:12.000
+We have another term that, so to speak,
+
+11:12.000 --> 11:20.000
+has emerged recently in connection with the increased volume of information
+
+11:20.000 --> 11:24.000
+that, so to speak, is boiling in the world community,
+
+11:24.000 --> 11:26.000
+it is spinning, boiling, boiling over.
+
+11:26.000 --> 11:28.000
+Information flows.
+
+11:28.000 --> 11:34.000
+Indeed, when the information has already gained a large enough volume,
+
+11:34.000 --> 11:37.000
+it has already begun to pour out on us.
+
+11:37.000 --> 11:42.000
+Information flows are the means of transmitting information
+
+11:42.000 --> 11:45.000
+that ensure the existence of the social system,
+
+11:45.000 --> 11:47.000
+enterprises, institutions,
+
+11:47.000 --> 11:52.000
+and within which the processes of transmission are moving.
+
+11:52.000 --> 11:55.000
+This is information for the communication,
+
+11:55.000 --> 11:58.000
+for the ensuring of communication of all links in the social system.
+
+11:58.000 --> 12:01.000
+But if we take the corporate one,
+
+12:01.000 --> 12:06.000
+then this is the ensuring of coordinated interaction of all the companies' units.
+
+12:06.000 --> 12:08.000
+Slide number 17.
+
+12:08.000 --> 12:13.000
+So, the result of the developed economic, legal, and organizational relations
+
+12:13.000 --> 12:18.000
+that are formed within the company and the company with other companies,
+
+12:18.000 --> 12:20.000
+with other structures,
+
+12:20.000 --> 12:25.000
+is the informational support of organizations.
+
+12:25.000 --> 12:28.000
+This is also a very important concept,
+
+12:28.000 --> 12:33.000
+which, the more accurate, more effective the informational support of organizations,
+
+12:33.000 --> 12:38.000
+I did not say more, but it should be enough,
+
+12:38.000 --> 12:40.000
+necessary and enough,
+
+12:40.000 --> 12:43.000
+that is, not much, not little, but exactly as much as necessary.
+
+12:43.000 --> 12:45.000
+This is the informational support of organizations.
+
+12:45.000 --> 12:50.000
+Then the company can really act effectively.
+
+12:50.000 --> 12:52.000
+Slide number 17.
+
+12:52.000 --> 12:55.000
+So, the informational support of organizations includes
+
+12:55.000 --> 12:57.000
+informational resources of the company,
+
+12:57.000 --> 12:59.000
+information service,
+
+13:00.000 --> 13:05.000
+and the means of orientation in the market structure of business information.
+
+13:05.000 --> 13:07.000
+Slide number 19.
+
+13:07.000 --> 13:14.000
+Informational support is a combination of all the resources that provide the solution of the task.
+
+13:14.000 --> 13:18.000
+This is monitoring, collection, processing of information, analysis,
+
+13:18.000 --> 13:21.000
+moderation, forecasting, and so on.
+
+13:21.000 --> 13:26.000
+That is, everything that we, all the resources, all the methods that we use,
+
+13:26.000 --> 13:30.000
+in the aggregate of all this, this is the informational support.
+
+13:30.000 --> 13:32.000
+Slide number 20.
+
+13:32.000 --> 13:35.000
+Here are also statistical data,
+
+13:35.000 --> 13:37.000
+normative and reference information,
+
+13:37.000 --> 13:40.000
+all kinds of classification,
+
+13:40.000 --> 13:44.000
+technical and economic information.
+
+13:44.000 --> 13:53.000
+And the informational support is also a process of satisfying the needs of specific users in the information.
+
+13:54.000 --> 13:57.000
+That is, if we take it in general,
+
+13:57.000 --> 14:03.000
+the informational support is a complex of measures for the creation and functioning of the information system.
+
+14:03.000 --> 14:08.000
+Here, in the informational support, there is business documentation,
+
+14:08.000 --> 14:14.000
+its system of design, storage, search, encoding.
+
+14:14.000 --> 14:21.000
+All this process, on the basis of which the managers make decisions,
+
+14:21.000 --> 14:26.000
+which, as a result, turn into some ready-made documents.
+
+14:31.000 --> 14:34.000
+And the informational support has two functions.
+
+14:34.000 --> 14:37.000
+On the one hand, it is an economic resource of activity,
+
+14:37.000 --> 14:40.000
+and on the other hand, it is the result of the functioning of the market,
+
+14:40.000 --> 14:43.000
+business information at different levels of management.
+
+14:43.000 --> 14:45.000
+That is, both the resource and the result.
+
+14:45.000 --> 14:47.000
+On the one hand, the resource, on the other hand, the result.
+
+14:51.000 --> 14:55.000
+What is the role of the informational support?
+
+14:55.000 --> 15:00.000
+So, we have more or less figured out all these terms,
+
+15:00.000 --> 15:04.000
+informational flows, informational support of the organization.
+
+15:04.000 --> 15:11.000
+Let's deal with the tasks that the information performs.
+
+15:11.000 --> 15:14.000
+The information helps us to navigate in space,
+
+15:14.000 --> 15:17.000
+make decisions, perform various tasks,
+
+15:18.000 --> 15:21.000
+enjoy interesting and fascinating information,
+
+15:21.000 --> 15:29.000
+maintain a cooperative relationship between partners, users, clients,
+
+15:29.000 --> 15:31.000
+produce high-quality informational products
+
+15:31.000 --> 15:35.000
+that meet the needs of users,
+
+15:35.000 --> 15:43.000
+and effectively integrate our information into the world community.
+
+15:43.000 --> 15:50.000
+Or, on the contrary, to use the world experience in our own activities.
+
+15:50.000 --> 15:55.000
+If we define who is a user, a consumer of information,
+
+15:55.000 --> 16:00.000
+then we can refer to the legal references,
+
+16:00.000 --> 16:02.000
+everything is clearly described there.
+
+16:02.000 --> 16:07.000
+There is such a definition that a user of information is a subject
+
+16:08.000 --> 16:13.000
+who refers to the information system for obtaining some necessary information.
+
+16:13.000 --> 16:17.000
+In principle, he can not only refer to the information system, but also to the intermediary.
+
+16:17.000 --> 16:20.000
+We can select the types of users.
+
+16:20.000 --> 16:23.000
+In fact, they are clearly distinguished.
+
+16:23.000 --> 16:26.000
+The user of information is, let's say,
+
+16:26.000 --> 16:30.000
+we can take different levels, the global level.
+
+16:31.000 --> 16:36.000
+The information is used by the global community,
+
+16:36.000 --> 16:40.000
+it can be used at the level of internal political issues,
+
+16:40.000 --> 16:43.000
+it can be used at the level of the corporation,
+
+16:43.000 --> 16:47.000
+and it can be used by a physical person.
+
+16:47.000 --> 16:58.000
+In general, it is divided into legal and private users.
+
+16:59.000 --> 17:07.000
+In any case, these gradations can be classified.
+
+17:10.000 --> 17:13.000
+When we talk about information exchange,
+
+17:13.000 --> 17:17.000
+we have four basic elements.
+
+17:17.000 --> 17:26.000
+The first is the sender, who collects and generates this information and transmits it.
+
+17:26.000 --> 17:32.000
+The second is the message, this is the information coded with the help of some symbols.
+
+17:32.000 --> 17:37.000
+The information transmission channels are the means used for its transmission.
+
+17:37.000 --> 17:42.000
+And the receiver is the person for whom all this information is intended,
+
+17:42.000 --> 17:45.000
+who receives it and then interprets it.
+
+17:45.000 --> 17:50.000
+And here the stages of the process of information transmission are highlighted.
+
+17:50.000 --> 17:54.000
+The first process is the birth of an idea,
+
+17:54.000 --> 17:57.000
+how this information appears to me,
+
+17:57.000 --> 18:02.000
+maybe I have a new idea that I want to convey,
+
+18:02.000 --> 18:06.000
+or some message that I need to convey.
+
+18:06.000 --> 18:11.000
+Then the second stage is the process of the transfer of information.
+
+18:12.000 --> 18:17.000
+In general, the word is a very common method of encoding.
+
+18:17.000 --> 18:20.000
+But if we take some technical means,
+
+18:20.000 --> 18:23.000
+there are signs and symbols, and so on.
+
+18:23.000 --> 18:27.000
+There are certain laws by which information is coded,
+
+18:27.000 --> 18:30.000
+and it is transmitted in this way.
+
+18:30.000 --> 18:34.000
+That is, it is coded for each communication channel.
+
+18:34.000 --> 18:37.000
+Then the choice of communication channel, transmission.
+
+18:37.000 --> 18:39.000
+Then there is decoding,
+
+18:39.000 --> 18:45.000
+that is, when the receiver receives this information and begins to interpret it.
+
+18:45.000 --> 18:48.000
+And the last stage is feedback.
+
+18:48.000 --> 18:52.000
+Here you can see in more detail, slide number 28.
+
+18:52.000 --> 18:55.000
+The feedback is a process of decoding.
+
+18:55.000 --> 18:58.000
+The receiver receives the information,
+
+18:58.000 --> 19:01.000
+and then the receiver interprets it.
+
+19:01.000 --> 19:05.000
+Here you can see in more detail, slide number 28.
+
+19:05.000 --> 19:09.000
+The receiver must imagine exactly
+
+19:09.000 --> 19:13.000
+why he wants to convey this information,
+
+19:13.000 --> 19:15.000
+in what form.
+
+19:15.000 --> 19:19.000
+Encoding is the transformation of an idea into a message.
+
+19:19.000 --> 19:23.000
+That is, the third stage is the transfer of information.
+
+19:23.000 --> 19:26.000
+This is the most important thing here,
+
+19:26.000 --> 19:28.000
+the choice of the channel.
+
+19:28.000 --> 19:34.000
+As I said, each channel has its own coding rules.
+
+19:34.000 --> 19:41.000
+Therefore, the encoding will depend on which channel we are going to transmit this information.
+
+19:41.000 --> 19:45.000
+Decoding is exactly what the receiver received,
+
+19:45.000 --> 19:52.000
+and he must decode all these symbols in his thoughts.
+
+19:52.000 --> 19:57.000
+That is, he should, in theory, receive the information that we sent him.
+
+19:57.000 --> 20:05.000
+And the more accurate, the more primary information coincides with the information received,
+
+20:05.000 --> 20:08.000
+the more efficiently the communication channel was chosen,
+
+20:08.000 --> 20:11.000
+the more efficiently the encoding was carried out.
+
+20:11.000 --> 20:14.000
+And, accordingly, the last stage is feedback.
+
+20:14.000 --> 20:20.000
+Because, as this information is lost while it is transmitted through communication channels,
+
+20:20.000 --> 20:24.000
+our language is very multidimensional,
+
+20:24.000 --> 20:28.000
+and the same word can have many meanings.
+
+20:28.000 --> 20:31.000
+Therefore, it is very important how the receiver perceived this information,
+
+20:31.000 --> 20:34.000
+how much of what he had in his mind
+
+20:34.000 --> 20:38.000
+corresponds to what was sent to him initially.
+
+20:38.000 --> 20:46.000
+What are the sources of information?
+
+20:46.000 --> 20:52.000
+The sources of information that I will list now are, of course, only business information.
+
+20:52.000 --> 20:54.000
+And, of course, they are not all.
+
+20:54.000 --> 20:59.000
+These are some of the main sources of information that we are quite common.
+
+20:59.000 --> 21:05.000
+Because, again, if we return to the first definition of information that we have analyzed,
+
+21:05.000 --> 21:10.000
+that we have five senses, and, accordingly, we receive all this information with these senses,
+
+21:10.000 --> 21:15.000
+then, of course, we are constantly in this information field,
+
+21:15.000 --> 21:20.000
+and we continuously receive this information, filter it, analyze it,
+
+21:20.000 --> 21:24.000
+starting from the information of what is happening to us inside,
+
+21:24.000 --> 21:27.000
+ending with some lunar and solar eclipses,
+
+21:27.000 --> 21:32.000
+which we think we do not feel in any way,
+
+21:32.000 --> 21:35.000
+but in fact, it also affects us.
+
+21:35.000 --> 21:41.000
+But if we cut off all possible other channels and take only business information,
+
+21:41.000 --> 21:46.000
+then, accordingly, the most common sources of information are our media,
+
+21:46.000 --> 21:49.000
+newspapers, magazines, books, radio, television.
+
+21:49.000 --> 21:55.000
+We also get a lot of information from communication with other people,
+
+21:55.000 --> 21:59.000
+so these are conferences, trainings, exhibitions, various professional communities.
+
+21:59.000 --> 22:07.000
+In fact, there are just an infinite number of sources of information,
+
+22:07.000 --> 22:10.000
+it is simply impossible to list them all.
+
+22:10.000 --> 22:14.000
+In fact, it is surprising how much information is happening in things.
+
+22:14.000 --> 22:17.000
+Sometimes a word that is said by chance,
+
+22:17.000 --> 22:20.000
+gives you a push to update.
+
+22:20.000 --> 22:25.000
+By the way, information, if we analyze it this way,
+
+22:25.000 --> 22:28.000
+can also be divided into conscious and unconscious.
+
+22:28.000 --> 22:32.000
+We have what we perceive as relevant and not relevant,
+
+22:32.000 --> 22:34.000
+not updated information.
+
+22:34.000 --> 22:39.000
+What we perceive, what we use all the time, actively,
+
+22:39.000 --> 22:42.000
+is information at the level of consciousness.
+
+22:42.000 --> 22:47.000
+And we also have a huge layer of information that is in the unconscious.
+
+22:47.000 --> 22:50.000
+It is there, it is stored there.
+
+22:50.000 --> 22:54.000
+Everything that we have ever heard, read somewhere, learned something,
+
+22:54.000 --> 22:56.000
+it is always there.
+
+22:56.000 --> 22:59.000
+But it is in such an unupdated state.
+
+22:59.000 --> 23:03.000
+And there is literally one word that caught you,
+
+23:03.000 --> 23:06.000
+and suddenly you have a huge layer of information.
+
+23:06.000 --> 23:10.000
+Maybe it's the smell, you have another layer of information.
+
+23:10.000 --> 23:17.000
+Therefore, in this regard, it is simply impossible to list the sources of information,
+
+23:17.000 --> 23:22.000
+because almost all, I don't even know how it is,
+
+23:23.000 --> 23:27.000
+but there are really a huge number of sources of information.
+
+23:27.000 --> 23:29.000
+We have already talked about business.
+
+23:29.000 --> 23:32.000
+Naturally, we cannot forget about the Internet.
+
+23:32.000 --> 23:33.000
+Where can we go without it?
+
+23:33.000 --> 23:34.000
+The 34th slide.
+
+23:34.000 --> 23:39.000
+Naturally, now the Internet has become the most powerful resource for obtaining information.
+
+23:39.000 --> 23:41.000
+What can you find there?
+
+23:41.000 --> 23:45.000
+What information is contained there?
+
+23:45.000 --> 23:49.000
+And the resources are completely limitless,
+
+23:49.000 --> 23:54.000
+and the question is how to use it effectively.
+
+23:54.000 --> 23:59.000
+And the sources of business information on the Internet are rating agencies,
+
+23:59.000 --> 24:02.000
+websites of various investment companies,
+
+24:02.000 --> 24:06.000
+websites of companies, market analysts, electronic libraries,
+
+24:06.000 --> 24:09.000
+websites of universities, websites of state agencies,
+
+24:09.000 --> 24:14.000
+Internet shops, websites of business literature publishers,
+
+24:14.000 --> 24:16.000
+websites of periodic publications.
+
+24:16.000 --> 24:21.000
+And the most interesting source of information is spam.
+
+24:21.000 --> 24:24.000
+We cannot stand it at all, we do not like it, we clean it all the time.
+
+24:24.000 --> 24:29.000
+In fact, it is such an unstructured, but sometimes very important information.
+
+24:29.000 --> 24:34.000
+Sometimes you get some things as spam that you would never look for yourself.
+
+24:34.000 --> 24:38.000
+But here it came and suddenly it became relevant to you.
+
+24:39.000 --> 24:47.000
+So, those who use spam are basically guided by it.
+
+24:47.000 --> 24:48.000
+The 35th slide.
+
+24:48.000 --> 24:53.000
+We have clearly highlighted three categories.
+
+24:53.000 --> 24:58.000
+State organizations, commercial structures and individuals.
+
+24:58.000 --> 25:04.000
+These are the categories that consumers use information.
+
+25:04.000 --> 25:06.000
+Slide number 36.
+
+25:06.000 --> 25:09.000
+So, if we analyze the types of information,
+
+25:09.000 --> 25:15.000
+we will go from the most general to the most private.
+
+25:15.000 --> 25:19.000
+The most important information is the global one,
+
+25:19.000 --> 25:24.000
+which is the property of all people in this world.
+
+25:24.000 --> 25:29.000
+But, of course, it is quite dosed for each person.
+
+25:29.000 --> 25:33.000
+Next, the internal political information.
+
+25:33.000 --> 25:36.000
+This is information that concerns the life of our country.
+
+25:36.000 --> 25:44.000
+Here we have a huge number of news that are constantly reported to us on the radio and TV.
+
+25:44.000 --> 25:48.000
+There is also market information.
+
+25:48.000 --> 25:57.000
+This is information that concerns the market in which a particular company interacts.
+
+25:57.000 --> 25:59.000
+For example, the black metal market.
+
+25:59.000 --> 26:02.000
+If a company deals in metals.
+
+26:02.000 --> 26:04.000
+Or the household appliances market.
+
+26:04.000 --> 26:07.000
+If a company deals in household appliances, and so on.
+
+26:07.000 --> 26:15.000
+This is a specialized market where the company is an active subject.
+
+26:15.000 --> 26:19.000
+Next, corporate information.
+
+26:19.000 --> 26:21.000
+This is information within the company.
+
+26:21.000 --> 26:27.000
+This is internal information for the company.
+
+26:27.000 --> 26:29.000
+And the colloquial information.
+
+26:29.000 --> 26:31.000
+It can be called personal.
+
+26:31.000 --> 26:34.000
+This is the unofficial information.
+
+26:34.000 --> 26:39.000
+It is the information that is used to spread rumors and gossip.
+
+26:39.000 --> 26:43.000
+These are the types that are important.
+
+26:43.000 --> 26:47.000
+You can also add personal information that each of us has about himself.
+
+26:47.000 --> 26:53.000
+But we will not talk about personal information, because it is not business.
+
+26:54.000 --> 26:56.000
+But colloquial information is business.
+
+26:56.000 --> 27:00.000
+Why? Because it affects the efficiency of the company.
+
+27:00.000 --> 27:02.000
+Therefore, we will consider it.
+
+27:02.000 --> 27:04.000
+Inside the corporate information streams.
+
+27:04.000 --> 27:07.000
+They can be horizontal.
+
+27:07.000 --> 27:13.000
+This is the colloquial information that we talked about.
+
+27:13.000 --> 27:14.000
+And we will return to it.
+
+27:14.000 --> 27:15.000
+And vertical.
+
+27:15.000 --> 27:18.000
+Which can be descending from the management to the employees.
+
+27:18.000 --> 27:22.000
+And ascending from the employees to the management.
+
+27:23.000 --> 27:30.000
+What is the difference between colloquial and horizontal information?
+
+27:30.000 --> 27:39.000
+The corporate information streams are more effective in the course of communication.
+
+27:39.000 --> 27:42.000
+Therefore, we will not touch them today.
+
+27:42.000 --> 27:47.000
+And we will touch the colloquial information.
+
+27:47.000 --> 27:53.000
+Because this is the information that is horizontal.
+
+27:53.000 --> 27:57.000
+It must exist in any company.
+
+27:57.000 --> 27:58.000
+Whether we want it or not.
+
+27:58.000 --> 28:04.000
+And on the other hand, it can play a big role in the efficiency of the company.
+
+28:04.000 --> 28:06.000
+What is this information?
+
+28:06.000 --> 28:09.000
+This is information about all kinds of incidents.
+
+28:09.000 --> 28:12.000
+About all kinds of misuse, violations, disciplinary actions.
+
+28:13.000 --> 28:15.000
+Stealing in extreme manifestations.
+
+28:15.000 --> 28:18.000
+About some personal serious problems of employees.
+
+28:18.000 --> 28:21.000
+Which prevent them from effectively performing their work.
+
+28:21.000 --> 28:23.000
+About some unethical actions.
+
+28:23.000 --> 28:25.000
+About conflicts, intrigues.
+
+28:25.000 --> 28:28.000
+About the level of information from employees.
+
+28:28.000 --> 28:30.000
+This is also very important information.
+
+28:30.000 --> 28:33.000
+Because the question is.
+
+28:33.000 --> 28:36.000
+If a person does not have official information.
+
+28:36.000 --> 28:41.000
+Then he will definitely fill this gap with some unofficial information.
+
+28:41.000 --> 28:45.000
+Moreover, this unofficial information will be emotionally offensive.
+
+28:45.000 --> 28:48.000
+And will grow like a snowflake.
+
+28:48.000 --> 28:50.000
+Therefore, nature does not tolerate emptiness.
+
+28:50.000 --> 28:54.000
+Everything that concerns information is also applicable to this law.
+
+28:54.000 --> 28:57.000
+Where there is no official information, a colloquial one appears.
+
+28:57.000 --> 29:00.000
+About the presence of informal leaders.
+
+29:00.000 --> 29:04.000
+Whose goals are in line with the company's goals.
+
+29:04.000 --> 29:06.000
+About the dissatisfaction of the staff.
+
+29:06.000 --> 29:09.000
+If the dissatisfaction is still small.
+
+29:09.000 --> 29:11.000
+We can work with him.
+
+29:11.000 --> 29:13.000
+Take psychological measures.
+
+29:13.000 --> 29:16.000
+But if we do not collect this information.
+
+29:16.000 --> 29:19.000
+Then this process may be irreversible.
+
+29:19.000 --> 29:22.000
+In the sense that we cannot guide them.
+
+29:22.000 --> 29:25.000
+And about the true attitude of the employees.
+
+29:25.000 --> 29:28.000
+To one or another phenomenon in the company.
+
+29:28.000 --> 29:31.000
+All this information needs to be collected.
+
+29:31.000 --> 29:33.000
+But generally speaking.
+
+29:33.000 --> 29:39.000
+This is the responsibility zone of the staff management.
+
+29:39.000 --> 29:44.000
+They must collect this information.
+
+29:44.000 --> 29:46.000
+Analyze, sift it.
+
+29:46.000 --> 29:52.000
+And issue ready-made recommendations.
+
+29:52.000 --> 29:56.000
+Because if...
+
+29:56.000 --> 29:59.000
+For example, keep your hand on your pulse.
+
+29:59.000 --> 30:02.000
+If there are some displeasures.
+
+30:02.000 --> 30:05.000
+It is always easier to lead the process.
+
+30:05.000 --> 30:08.000
+And to lead it in the right direction.
+
+30:08.000 --> 30:11.000
+Than to deal with the consequences.
+
+30:11.000 --> 30:14.000
+With conflicts, with some incidents.
+
+30:14.000 --> 30:16.000
+With some violations.
+
+30:16.000 --> 30:21.000
+The tasks that solve the collection of such information.
+
+30:21.000 --> 30:23.000
+Slide number 39.
+
+30:23.000 --> 30:27.000
+These are the tasks that are solved by the method of collecting colloquial information.
+
+30:27.000 --> 30:33.000
+This is a reduction of risks of adverse situations.
+
+30:33.000 --> 30:36.000
+This is a forecast of the behavior of the employees in the team.
+
+30:36.000 --> 30:39.000
+This is monitoring of some resistance.
+
+30:39.000 --> 30:42.000
+To the changes that are made.
+
+30:42.000 --> 30:44.000
+This is loyalty management.
+
+30:44.000 --> 30:46.000
+This is preventing conflicts.
+
+30:46.000 --> 30:49.000
+This is a reduction of risks of intentional damage.
+
+30:49.000 --> 30:54.000
+It is also very important here that this is the destruction of the circle of failure.
+
+30:54.000 --> 31:00.000
+Because it often undermines the efficiency of the organization.
+
+31:00.000 --> 31:04.000
+Preventing all kinds of criminal agreements.
+
+31:04.000 --> 31:09.000
+With clients, with partners.
+
+31:09.000 --> 31:11.000
+In order to obtain personal benefits.
+
+31:11.000 --> 31:16.000
+Accordingly, this is a declaration of openness of the company itself.
+
+31:16.000 --> 31:19.000
+This is the creation and promotion of legends.
+
+31:19.000 --> 31:23.000
+Which we need to create a corporate spirit.
+
+31:24.000 --> 31:26.000
+These are the tasks we solve.
+
+31:26.000 --> 31:28.000
+Slide number 40.
+
+31:28.000 --> 31:34.000
+When we collect this information, we must clearly maintain the principle of receiving feedback.
+
+31:34.000 --> 31:36.000
+This is necessarily anonymity.
+
+31:36.000 --> 31:40.000
+If we collect information, we collect it in principle.
+
+31:40.000 --> 31:42.000
+We do not need authors.
+
+31:42.000 --> 31:43.000
+Who said that?
+
+31:43.000 --> 31:46.000
+It is important for us to collect this array and analyze it.
+
+31:46.000 --> 31:49.000
+It is not important for us to punish for this information.
+
+31:49.000 --> 31:51.000
+For example, Petya, Vasya or someone else.
+
+31:51.000 --> 31:55.000
+And in order for you to be given real feedback.
+
+31:55.000 --> 31:58.000
+You need to clearly maintain the principle of anonymity.
+
+32:00.000 --> 32:03.000
+Only those people need to pass on the received information.
+
+32:03.000 --> 32:07.000
+Who need it for decisions.
+
+32:08.000 --> 32:11.000
+And strictly adhere to the principle of confidentiality of information.
+
+32:11.000 --> 32:15.000
+Information can be collected only in live communication.
+
+32:16.000 --> 32:18.000
+The survey is conducted, of course.
+
+32:18.000 --> 32:22.000
+But again, the percentage of truthfulness of this information.
+
+32:22.000 --> 32:25.000
+When we do it by survey.
+
+32:25.000 --> 32:27.000
+It is always questioned.
+
+32:27.000 --> 32:29.000
+But if we communicate.
+
+32:29.000 --> 32:32.000
+Then here, of course, you can already get more reliable information.
+
+32:34.000 --> 32:36.000
+Employees who collect this information.
+
+32:36.000 --> 32:39.000
+They must have a good level of professionalism.
+
+32:39.000 --> 32:41.000
+In order to be able to talk to a person.
+
+32:42.000 --> 32:46.000
+And you really get reliable information from him.
+
+32:46.000 --> 32:48.000
+Not the one you want.
+
+32:48.000 --> 32:50.000
+And the last thing.
+
+32:50.000 --> 32:53.000
+That there must be a competent processing of the information.
+
+32:53.000 --> 32:56.000
+And, accordingly, to evaluate its objectivity competently.
+
+33:00.000 --> 33:01.000
+Slide number 41.
+
+33:01.000 --> 33:04.000
+Now we move on to the types of information.
+
+33:04.000 --> 33:07.000
+This classification by type is very conditional.
+
+33:07.000 --> 33:09.000
+But in order not to get confused with you.
+
+33:09.000 --> 33:12.000
+I introduce different classifications of information.
+
+33:12.000 --> 33:19.000
+And so we have to introduce such a term as a type of information.
+
+33:22.000 --> 33:28.000
+It can be divided, again, by the level of importance for the organization.
+
+33:30.000 --> 33:32.000
+Purposefully distributed information.
+
+33:32.000 --> 33:37.000
+This is the information that any organization distributes about itself.
+
+33:37.000 --> 33:41.000
+With the help of PR, marketing, advertising.
+
+33:43.000 --> 33:47.000
+This is the information that we purposefully let into the world.
+
+33:49.000 --> 33:51.000
+And what we want it to know.
+
+33:52.000 --> 33:54.000
+The next information is generally accessible.
+
+33:55.000 --> 33:57.000
+This is the information that...
+
+33:59.000 --> 34:04.000
+By the way, purposefully distributed is all the information that our company contains on the Internet.
+
+34:07.000 --> 34:09.000
+That is, all kinds of sites.
+
+34:09.000 --> 34:12.000
+The next level of information is generally accessible.
+
+34:12.000 --> 34:17.000
+This is the information that we, on the one hand, seem to adhere to it.
+
+34:17.000 --> 34:21.000
+And we don't want to spread it purposefully.
+
+34:21.000 --> 34:27.000
+But we know for sure that people who are interested in our company know it for sure.
+
+34:27.000 --> 34:33.000
+For example, any company knows a lot about its competitors.
+
+34:34.000 --> 34:46.000
+This is the information that is distributed on the market among your competitors, partners, clients, and so on.
+
+34:47.000 --> 34:51.000
+This is the information that we would like to hide, on the one hand.
+
+34:51.000 --> 34:57.000
+But it still seeps into those people who are interested in its collection.
+
+34:57.000 --> 34:59.000
+This is the generally accessible information.
+
+35:01.000 --> 35:04.000
+And, accordingly, there is also confidential information.
+
+35:08.000 --> 35:11.000
+This information is mutually acute.
+
+35:11.000 --> 35:14.000
+On the one hand, it is an effective weapon.
+
+35:14.000 --> 35:16.000
+On the other hand, it is our weak spot.
+
+35:16.000 --> 35:20.000
+When we receive some information, we arm ourselves.
+
+35:20.000 --> 35:25.000
+And when someone receives some information about us, he weakens our position.
+
+35:25.000 --> 35:28.000
+Because this is our weak spot, our confidential information.
+
+35:28.000 --> 35:32.000
+This is the information that we will carefully hide.
+
+35:32.000 --> 35:39.000
+The information that we will take care of.
+
+35:39.000 --> 35:47.000
+This is a very expensive task to keep confidential information.
+
+35:48.000 --> 35:51.000
+What kind of information can be confidential?
+
+35:51.000 --> 35:52.000
+Slide 42.
+
+35:52.000 --> 35:55.000
+We will talk only about the confidential information.
+
+35:55.000 --> 36:03.000
+Because everything is clear about the generally accessible and purposeful information.
+
+36:03.000 --> 36:06.000
+But let's talk about the confidential information in more detail.
+
+36:07.000 --> 36:10.000
+What kind of information is confidential?
+
+36:10.000 --> 36:12.000
+This is all commercial information.
+
+36:12.000 --> 36:15.000
+This is all production information.
+
+36:15.000 --> 36:19.000
+Some know-how that allows you to earn money.
+
+36:19.000 --> 36:23.000
+Which allows you to trade in the market or in some segment of the market.
+
+36:23.000 --> 36:25.000
+Or in some product in a separate one.
+
+36:25.000 --> 36:28.000
+And organizational and management information.
+
+36:28.000 --> 36:35.000
+Confidential information can be divided into three large blocks.
+
+36:35.000 --> 36:40.000
+Commercial information is the most production information.
+
+36:40.000 --> 36:42.000
+It is clear that this is know-how of production.
+
+36:42.000 --> 36:47.000
+Organizational and management information is also very clear.
+
+36:47.000 --> 36:51.000
+This is all that concerns our business processes, our organization.
+
+36:51.000 --> 36:53.000
+Therefore, let's talk about commercial information.
+
+36:53.000 --> 37:00.000
+But here I want to make a philosophical digression.
+
+37:00.000 --> 37:02.000
+Very often this happens in companies.
+
+37:03.000 --> 37:05.000
+I have encountered this more than once.
+
+37:05.000 --> 37:09.000
+And it always makes me smile.
+
+37:09.000 --> 37:19.000
+When a company starts to present a large amount of information as confidential information,
+
+37:19.000 --> 37:21.000
+you have no right to…
+
+37:21.000 --> 37:24.000
+And it is especially funny when you call someone and ask,
+
+37:24.000 --> 37:26.000
+what is the name of the head of the department?
+
+37:26.000 --> 37:28.000
+And he says, this is confidential information.
+
+37:29.000 --> 37:31.000
+But this is actually very funny.
+
+37:31.000 --> 37:36.000
+Because then you open the website and everything is told there.
+
+37:36.000 --> 37:39.000
+This is always a mismatch.
+
+37:39.000 --> 37:46.000
+When you tell your employees that all the information they receive at work is confidential,
+
+37:46.000 --> 37:48.000
+and they, God forbid, say something to someone,
+
+37:48.000 --> 37:53.000
+and they also sign a document that they have no right to disseminate this information.
+
+37:53.000 --> 37:56.000
+And when we open the company's website, everything is written there.
+
+37:56.000 --> 38:01.000
+Everything, starting from the employees and owners of this company,
+
+38:01.000 --> 38:06.000
+ending with the company's turnover and the planned turnover for the next year.
+
+38:06.000 --> 38:09.000
+So, there are two questions here.
+
+38:09.000 --> 38:13.000
+Either the information you have on the website is not reliable,
+
+38:13.000 --> 38:21.000
+and then it is clear why it exists there.
+
+38:21.000 --> 38:25.000
+Or, in general, there should be a ratio.
+
+38:25.000 --> 38:29.000
+All the information on the website is already purposefully distributed.
+
+38:29.000 --> 38:33.000
+And making it confidential is at least funny.
+
+38:33.000 --> 38:36.000
+And at most, it is stupid.
+
+38:36.000 --> 38:40.000
+Especially when the employees receive signatures.
+
+38:40.000 --> 38:43.000
+It is clear that the confidential information should be preserved.
+
+38:43.000 --> 38:48.000
+This is not yours, but a weak point of any company.
+
+38:48.000 --> 38:53.000
+But we must clearly approach what kind of information is confidential.
+
+38:53.000 --> 38:55.000
+Because we will hide it.
+
+38:55.000 --> 38:58.000
+We will spend money and resources on it.
+
+38:58.000 --> 39:04.000
+Therefore, it makes sense to clearly determine for yourself what kind of information is confidential.
+
+39:04.000 --> 39:06.000
+Let's figure it out.
+
+39:06.000 --> 39:10.000
+What kind of commercial information can be confidential?
+
+39:10.000 --> 39:15.000
+In fact, not all of the listed information here will be confidential for each company.
+
+39:15.000 --> 39:17.000
+Each company chooses for itself.
+
+39:18.000 --> 39:22.000
+You can choose some of the listed information,
+
+39:22.000 --> 39:25.000
+which will be really confidential for you.
+
+39:25.000 --> 39:28.000
+And you will need to keep it a secret.
+
+39:28.000 --> 39:32.000
+But this is knowledge and experience in the field of product and service implementation.
+
+39:32.000 --> 39:35.000
+Our employees are the carriers of this information.
+
+39:35.000 --> 39:42.000
+That's why we come back to the fact that there are no irreplaceable people,
+
+39:42.000 --> 39:45.000
+but each employee is valuable.
+
+39:45.000 --> 39:48.000
+Because when leaving, he takes away some of the information,
+
+39:48.000 --> 39:53.000
+which is really confidential to some extent,
+
+39:53.000 --> 39:57.000
+and in some cases is completely confidential.
+
+39:57.000 --> 40:01.000
+Information and market conjecture, marketing research,
+
+40:01.000 --> 40:04.000
+analysis of competitiveness of products and services,
+
+40:04.000 --> 40:07.000
+information about consumers, customers, intermediaries,
+
+40:07.000 --> 40:12.000
+banking and all kinds of relations, loans, debts, and so on.
+
+40:12.000 --> 40:15.000
+This information is, of course, confidential.
+
+40:15.000 --> 40:19.000
+Because it is clear that if a company has a lot of debts,
+
+40:19.000 --> 40:22.000
+the degree of trust for it will sharply decrease.
+
+40:22.000 --> 40:24.000
+And so on.
+
+40:24.000 --> 40:28.000
+We need clients who trust us.
+
+40:28.000 --> 40:33.000
+Knowledge of the most profitable forms of using securities,
+
+40:33.000 --> 40:36.000
+all kinds of capital investments.
+
+40:36.000 --> 40:40.000
+It is also clear that this is confidential information.
+
+40:40.000 --> 40:43.000
+Accounting financial reports, salary information.
+
+40:43.000 --> 40:47.000
+The salary information is also a subtle point.
+
+40:47.000 --> 40:52.000
+It was especially relevant several years ago,
+
+40:52.000 --> 40:56.000
+when all our salaries were in envelopes.
+
+40:56.000 --> 41:00.000
+Companies tried to make sure that employees did not know each other's salaries.
+
+41:00.000 --> 41:04.000
+In fact, this is almost impossible, because there is always a leak.
+
+41:05.000 --> 41:10.000
+And we do not have the means to stop this leak.
+
+41:10.000 --> 41:13.000
+Still, employees will know each other's salaries.
+
+41:13.000 --> 41:15.000
+One way or another.
+
+41:15.000 --> 41:18.000
+Assumed volumes of commercial activity,
+
+41:18.000 --> 41:20.000
+materials of contracts,
+
+41:20.000 --> 41:22.000
+list of clients and business correspondence.
+
+41:22.000 --> 41:26.000
+Prices, estimates, forms and types of payments.
+
+41:26.000 --> 41:33.000
+It is clear that this information is very difficult to keep as confidential.
+
+41:33.000 --> 41:39.000
+It is more likely to be publicly available.
+
+41:47.000 --> 41:49.000
+We also have one classification of information,
+
+41:49.000 --> 41:51.000
+which we can also introduce.
+
+41:51.000 --> 41:55.000
+I called it the information design.
+
+41:55.000 --> 41:58.000
+The information can be structured or systematized,
+
+41:58.000 --> 42:01.000
+and unstructured or unsystematized.
+
+42:02.000 --> 42:04.000
+Let's see.
+
+42:04.000 --> 42:08.000
+I showed you some ways to structure information.
+
+42:08.000 --> 42:10.000
+There are many more.
+
+42:10.000 --> 42:15.000
+The main ones are diagrams, models, graphs, tables, slides, statistics,
+
+42:15.000 --> 42:20.000
+technical characteristics, list of rights, analytical notes, expertise.
+
+42:20.000 --> 42:22.000
+This list can be continued.
+
+42:22.000 --> 42:25.000
+Why?
+
+42:25.000 --> 42:31.000
+Because when we want to make a decision based on information,
+
+42:31.000 --> 42:33.000
+we must structure it.
+
+42:33.000 --> 42:35.000
+It is clear.
+
+42:35.000 --> 42:39.000
+Until we structure the information,
+
+42:39.000 --> 42:41.000
+we will not be able to work with it.
+
+42:41.000 --> 42:45.000
+It will become functional only when it is assigned, structured,
+
+42:45.000 --> 42:47.000
+and then it becomes a tool.
+
+42:47.000 --> 42:50.000
+But unstructured information.
+
+42:50.000 --> 42:53.000
+These are all kinds of texts, discussions, chats, news.
+
+42:53.000 --> 42:55.000
+It can be continued.
+
+42:55.000 --> 43:00.000
+When we start to gather information,
+
+43:00.000 --> 43:06.000
+it is unstructured information that requires reworking
+
+43:06.000 --> 43:09.000
+and creating a structure.
+
+43:09.000 --> 43:17.000
+What is the process of creation of information?
+
+43:17.000 --> 43:21.000
+Since information is a formal knowledge,
+
+43:21.000 --> 43:23.000
+another definition,
+
+43:23.000 --> 43:25.000
+I liked it,
+
+43:25.000 --> 43:30.000
+the process of creation of information is
+
+43:30.000 --> 43:34.000
+the transformation of a single unproven knowledge
+
+43:34.000 --> 43:36.000
+into a manifested knowledge,
+
+43:36.000 --> 43:40.000
+into something that we can somehow fix.
+
+43:40.000 --> 43:42.000
+And where do we fix this information?
+
+43:42.000 --> 43:47.000
+Most often we fix any information in documents.
+
+43:47.000 --> 43:52.000
+A document is a legal document
+
+43:52.000 --> 43:56.000
+that serves as a written proof of a phenomenon.
+
+43:56.000 --> 44:01.000
+Any object that fixes information,
+
+44:01.000 --> 44:03.000
+any knowledge,
+
+44:03.000 --> 44:06.000
+can be preserved.
+
+44:06.000 --> 44:08.000
+This is a very important function of a document,
+
+44:08.000 --> 44:12.000
+that it is preserved and can be referred to again.
+
+44:12.000 --> 44:17.000
+Basically, information can be fixed
+
+44:17.000 --> 44:20.000
+both verbally and inverbally,
+
+44:20.000 --> 44:24.000
+with some icons, tables, symbols, and so on.
+
+44:24.000 --> 44:32.000
+It is clear that now all ideas are the carriers of this information,
+
+44:32.000 --> 44:35.000
+discs, cassettes,
+
+44:35.000 --> 44:37.000
+all kinds of things,
+
+44:37.000 --> 44:40.000
+no matter how we write it down now.
+
+44:40.000 --> 44:46.000
+All technical means are developing rapidly
+
+44:46.000 --> 44:50.000
+precisely because there is a lot of information,
+
+44:50.000 --> 44:52.000
+and we need carriers of information
+
+44:52.000 --> 44:56.000
+that can be less and less in volume,
+
+44:56.000 --> 44:59.000
+but more and more information is being recorded.
+
+44:59.000 --> 45:02.000
+In fact, this is the trend,
+
+45:02.000 --> 45:04.000
+the development of all technical means.
+
+45:04.000 --> 45:08.000
+Less volume, more information.
+
+45:08.000 --> 45:11.000
+I think that to some extent
+
+45:11.000 --> 45:13.000
+all this will develop
+
+45:13.000 --> 45:16.000
+and in the end we will get a pill
+
+45:16.000 --> 45:20.000
+that will record all the information from the Internet.
+
+45:20.000 --> 45:26.000
+By the way, this is also a recent trend,
+
+45:26.000 --> 45:31.000
+that in addition to the fact that we need more and more information
+
+45:31.000 --> 45:34.000
+on a smaller carrier,
+
+45:34.000 --> 45:36.000
+we also need access to information.
+
+45:36.000 --> 45:39.000
+The faster, the more effective.
+
+45:39.000 --> 45:45.000
+These services will develop
+
+45:45.000 --> 45:47.000
+and will be in high demand.
+
+45:47.000 --> 45:51.000
+To get information quickly and effectively,
+
+45:51.000 --> 46:00.000
+and to transfer it with the smallest physical volume.
+
+46:00.000 --> 46:02.000
+Slide 48.
+
+46:02.000 --> 46:04.000
+Forms of documents.
+
+46:04.000 --> 46:07.000
+Documents can be designed as text,
+
+46:07.000 --> 46:09.000
+for example, books, magazines, manuscripts,
+
+46:09.000 --> 46:12.000
+as graphic and illustrative drawings,
+
+46:12.000 --> 46:14.000
+diagrams, plans, diagrams,
+
+46:14.000 --> 46:18.000
+audiovisual recordings,
+
+46:18.000 --> 46:21.000
+movies, diapositives.
+
+46:21.000 --> 46:24.000
+I have already said that
+
+46:24.000 --> 46:27.000
+technical means of recording information
+
+46:27.000 --> 46:30.000
+are developing and will continue to develop.
+
+46:30.000 --> 46:34.000
+Let's move on to the information problems
+
+46:34.000 --> 46:36.000
+and ways of solving them.
+
+46:36.000 --> 46:37.000
+Slide 49.
+
+46:37.000 --> 46:39.000
+So, we talked about interference.
+
+46:39.000 --> 46:45.000
+I said that at each stage of information transfer
+
+46:45.000 --> 46:48.000
+we have a loss of credibility.
+
+46:48.000 --> 46:51.000
+We started with the fact that when we encode information,
+
+46:51.000 --> 46:54.000
+we lose a piece of it,
+
+46:54.000 --> 46:56.000
+because we need to cover the information
+
+46:56.000 --> 46:59.000
+in some words, symbols or something else.
+
+46:59.000 --> 47:01.000
+And we don't always do it effectively,
+
+47:01.000 --> 47:02.000
+that is, to the full extent.
+
+47:02.000 --> 47:03.000
+What we want to convey,
+
+47:03.000 --> 47:06.000
+we can convey to a certain extent of credibility.
+
+47:06.000 --> 47:08.000
+Someone better, for example,
+
+47:08.000 --> 47:11.000
+uses the word cat, more vocabulary,
+
+47:11.000 --> 47:13.000
+those are more credible in transferring information.
+
+47:13.000 --> 47:17.000
+If a person does not have a very large vocabulary,
+
+47:17.000 --> 47:19.000
+or does not know some terms,
+
+47:19.000 --> 47:21.000
+naturally, he will do worse.
+
+47:21.000 --> 47:24.000
+Next, there is a transfer of information
+
+47:24.000 --> 47:26.000
+through communication channels.
+
+47:26.000 --> 47:28.000
+Each communication channel has its own rules
+
+47:28.000 --> 47:31.000
+by which we can encode this information.
+
+47:31.000 --> 47:33.000
+And again, there is a moment
+
+47:33.000 --> 47:35.000
+that if I know these rules well,
+
+47:35.000 --> 47:39.000
+I know well, I will lose less credibility of information.
+
+47:39.000 --> 47:41.000
+If I don't know the rules very well,
+
+47:41.000 --> 47:45.000
+I can lose this information at this stage.
+
+47:45.000 --> 47:47.000
+Next, there is decoding of information.
+
+47:47.000 --> 47:53.000
+Again, a person begins to decode information
+
+47:53.000 --> 47:56.000
+by passing it through his own filters.
+
+47:56.000 --> 47:59.000
+And the filters start from the settings
+
+47:59.000 --> 48:02.000
+and end with some purely physical effects on him.
+
+48:02.000 --> 48:05.000
+If, for example, he does it in a calm environment,
+
+48:05.000 --> 48:08.000
+then he perceives the information more reliably.
+
+48:09.000 --> 48:12.000
+If his emotional level is higher,
+
+48:12.000 --> 48:14.000
+then it is also a filter.
+
+48:14.000 --> 48:17.000
+There are a lot of filters here,
+
+48:17.000 --> 48:20.000
+but they are mostly understood in the course of communication,
+
+48:20.000 --> 48:22.000
+effective communication.
+
+48:22.000 --> 48:25.000
+There is more information about filters.
+
+48:25.000 --> 48:29.000
+The thing is that there is a difference between noise and interference.
+
+48:29.000 --> 48:33.000
+It is present at every stage of information processing.
+
+48:33.000 --> 48:39.000
+Since we are talking about the topic of information processing technology,
+
+48:39.000 --> 48:44.000
+we will be the addressees.
+
+48:44.000 --> 48:47.000
+We are the ones who receive information.
+
+48:47.000 --> 48:51.000
+How to make our work with information more effective?
+
+48:51.000 --> 48:53.000
+Slide 50.
+
+48:53.000 --> 48:58.000
+So, we will not talk about the single information we receive
+
+48:58.000 --> 49:01.000
+and its effectiveness.
+
+49:01.000 --> 49:04.000
+We can talk about information flows.
+
+49:04.000 --> 49:05.000
+Why?
+
+49:05.000 --> 49:10.000
+Because the big problem of modernity
+
+49:10.000 --> 49:13.000
+is the huge amount of information.
+
+49:13.000 --> 49:16.000
+A huge amount of information is being thrown at us.
+
+49:16.000 --> 49:20.000
+I want to make a lyrical digression.
+
+49:20.000 --> 49:26.000
+We can classify information in this way.
+
+49:26.000 --> 49:31.000
+We can classify it in a negative and positive way.
+
+49:31.000 --> 49:35.000
+This is very clearly highlighted in modern society.
+
+49:35.000 --> 49:37.000
+It becomes a big problem.
+
+49:37.000 --> 49:38.000
+Why?
+
+49:38.000 --> 49:42.000
+Because a person has a threshold of sensitivity.
+
+49:42.000 --> 49:44.000
+Any of us has it.
+
+49:44.000 --> 49:48.000
+When too much negative information comes through this threshold,
+
+49:48.000 --> 49:51.000
+we cannot cope with it psychologically.
+
+49:51.000 --> 50:00.000
+This negative information starts to affect us negatively.
+
+50:00.000 --> 50:03.000
+We get a lot of stress from it.
+
+50:03.000 --> 50:08.000
+In modern society, when there are big disadvantages,
+
+50:08.000 --> 50:10.000
+there are big advantages.
+
+50:10.000 --> 50:11.000
+And vice versa.
+
+50:11.000 --> 50:15.000
+When there are big advantages, there are always big limitations.
+
+50:15.000 --> 50:19.000
+I have already said that information is a powerful weapon.
+
+50:20.000 --> 50:23.000
+On the other hand, it is a weak point of any person.
+
+50:23.000 --> 50:25.000
+If there is a lot of information about me,
+
+50:25.000 --> 50:27.000
+I do not know how to control it.
+
+50:27.000 --> 50:29.000
+How to control this process?
+
+50:29.000 --> 50:33.000
+The same is true of the amount of information we receive from outside.
+
+50:33.000 --> 50:36.000
+On the one hand, this is a great benefit,
+
+50:36.000 --> 50:39.000
+because it allows us to navigate in time and space,
+
+50:39.000 --> 50:42.000
+to make effective decisions,
+
+50:42.000 --> 50:45.000
+because we receive the right amount of information.
+
+50:45.000 --> 50:47.000
+On the other hand, information affects us.
+
+50:48.000 --> 50:50.000
+If we receive negative information,
+
+50:50.000 --> 50:54.000
+it affects us in a destructive way.
+
+50:54.000 --> 51:01.000
+It drives us into stress.
+
+51:01.000 --> 51:05.000
+The amount of information that we receive is very stressful.
+
+51:05.000 --> 51:14.000
+The human brain has the ultimate ability to digest information.
+
+51:14.000 --> 51:19.000
+Psychologists recommend one thing.
+
+51:19.000 --> 51:21.000
+To protect yourself from negative information.
+
+51:21.000 --> 51:25.000
+Do not listen to the radio, do not watch TV,
+
+51:25.000 --> 51:27.000
+do not read the newspaper before lunch.
+
+51:27.000 --> 51:30.000
+Do you remember the story of the dog's heart?
+
+51:30.000 --> 51:32.000
+Do not read the Soviet newspapers before lunch.
+
+51:32.000 --> 51:33.000
+And there are no other newspapers.
+
+51:33.000 --> 51:35.000
+So, do not read the newspaper at all.
+
+51:36.000 --> 51:45.000
+Studies have shown that students in England
+
+51:45.000 --> 51:47.000
+were affected by the amount of negative information
+
+51:47.000 --> 51:50.000
+that we receive every day from the news.
+
+51:50.000 --> 51:54.000
+They really got sick from this information.
+
+51:54.000 --> 52:00.000
+Therefore, the importance of information is now very...
+
+52:00.000 --> 52:02.000
+By the way, we do not notice this.
+
+52:02.000 --> 52:07.000
+The biggest drawback is that we do not notice it.
+
+52:07.000 --> 52:09.000
+For us, this huge flow of information,
+
+52:09.000 --> 52:11.000
+which we pass through ourselves all the time,
+
+52:11.000 --> 52:14.000
+is a norm.
+
+52:14.000 --> 52:17.000
+We work with it.
+
+52:17.000 --> 52:19.000
+We are forced to receive a lot of information
+
+52:19.000 --> 52:21.000
+in order to make effective decisions.
+
+52:21.000 --> 52:24.000
+But we do not realize that this is a really stress-generating factor.
+
+52:24.000 --> 52:27.000
+And if there is an opportunity,
+
+52:27.000 --> 52:31.000
+it is better to dose the flow of information
+
+52:31.000 --> 52:34.000
+that comes to you from the outside
+
+52:34.000 --> 52:36.000
+and which you have to process.
+
+52:36.000 --> 52:38.000
+But this is a lyrical retreat.
+
+52:38.000 --> 52:43.000
+Unfortunately, we will not get rid of negative information at all.
+
+52:43.000 --> 52:47.000
+But we must understand that positive information
+
+52:47.000 --> 52:53.000
+is much more important for us than negative.
+
+52:53.000 --> 52:59.000
+We must try to compensate for the negative with positive.
+
+52:59.000 --> 53:02.000
+So, let's get back to our business life,
+
+53:02.000 --> 53:05.000
+to our modern information flows.
+
+53:05.000 --> 53:11.000
+There are several phenomena of modern information flows.
+
+53:11.000 --> 53:14.000
+In particular, progress in the field of information production
+
+53:14.000 --> 53:17.000
+leads to a decrease in the general level of information.
+
+53:17.000 --> 53:20.000
+And it generates new types of network services.
+
+53:20.000 --> 53:22.000
+What does this mean?
+
+53:22.000 --> 53:25.000
+Look, there is a lot of information.
+
+53:25.000 --> 53:28.000
+The growth is rapid and sharp.
+
+53:28.000 --> 53:31.000
+But we have less information.
+
+53:31.000 --> 53:33.000
+Why?
+
+53:33.000 --> 53:36.000
+Because our body is protected.
+
+53:36.000 --> 53:39.000
+We have more filters.
+
+53:39.000 --> 53:42.000
+We just let some information pass by our ears
+
+53:42.000 --> 53:44.000
+and do not react to it in any way.
+
+53:44.000 --> 53:50.000
+And by the way, at this moment we can miss some very important information.
+
+53:51.000 --> 53:54.000
+Such an disproportionate growth of unstructured information
+
+53:54.000 --> 53:57.000
+leads to its poor structuring.
+
+53:57.000 --> 53:59.000
+What is unstructured information?
+
+53:59.000 --> 54:03.000
+This is information that cannot be a tool.
+
+54:03.000 --> 54:04.000
+It cannot be.
+
+54:04.000 --> 54:06.000
+It needs to be structured.
+
+54:06.000 --> 54:08.000
+It is necessary to spend a large amount of effort
+
+54:08.000 --> 54:11.000
+to structure this unstructured information.
+
+54:11.000 --> 54:16.000
+A lot of parasite information appears.
+
+54:16.000 --> 54:19.000
+We do not need it at all.
+
+54:19.000 --> 54:23.000
+But we let it in and process it.
+
+54:23.000 --> 54:28.000
+And it is an obstacle for us.
+
+54:28.000 --> 54:31.000
+Next.
+
+54:31.000 --> 54:36.000
+Disagreement with the formal information is a real necessity.
+
+54:36.000 --> 54:40.000
+But to choose what we really need from this sea of information
+
+54:40.000 --> 54:45.000
+is also a separate job that requires resources.
+
+54:45.000 --> 54:48.000
+And there is also duplication of information.
+
+54:48.000 --> 54:51.000
+The same message is published in different places.
+
+54:51.000 --> 54:54.000
+But we need to open it and see.
+
+54:54.000 --> 54:55.000
+I have already read it.
+
+54:55.000 --> 54:59.000
+It is also a waste of time and resources.
+
+54:59.000 --> 55:01.000
+This is the first phenomenon.
+
+55:01.000 --> 55:02.000
+Slide number 51.
+
+55:02.000 --> 55:04.000
+The second phenomenon.
+
+55:04.000 --> 55:09.000
+New network services, sometimes with a thousand times less sources,
+
+55:09.000 --> 55:12.000
+solve the problem of consumers much more effectively.
+
+55:12.000 --> 55:13.000
+Why?
+
+55:14.000 --> 55:23.000
+Large network search systems have come to the conclusion
+
+55:23.000 --> 55:30.000
+that network integration of news is necessary.
+
+55:30.000 --> 55:34.000
+They have concluded agreements with the largest information agencies
+
+55:34.000 --> 55:41.000
+and began to provide news information to these agencies online.
+
+55:41.000 --> 55:43.000
+You do not need to buy newspapers.
+
+55:43.000 --> 55:47.000
+You can open the Internet and read all the news.
+
+55:47.000 --> 55:50.000
+But what happens here?
+
+55:50.000 --> 55:53.000
+On the one hand, it seems to be a plus.
+
+55:53.000 --> 55:57.000
+And on the other hand, it turns out to be a one-sided coverage of news.
+
+55:57.000 --> 55:59.000
+And here you need to choose all the time
+
+55:59.000 --> 56:03.000
+between the reliability of the information,
+
+56:03.000 --> 56:08.000
+its objectivity and its volume.
+
+56:08.000 --> 56:10.000
+It is proportional.
+
+56:10.000 --> 56:15.000
+The less we cover the sources, the more subjectivity increases.
+
+56:15.000 --> 56:17.000
+The next phenomenon.
+
+56:17.000 --> 56:19.000
+Slide number 52.
+
+56:19.000 --> 56:22.000
+The existing today mechanism of news integration
+
+56:22.000 --> 56:27.000
+is effective only when there is an information service within the company.
+
+56:27.000 --> 56:29.000
+What is this phenomenon?
+
+56:29.000 --> 56:31.000
+This is a phenomenon that there is a lot of information.
+
+56:32.000 --> 56:37.000
+In order to get reliable, verified,
+
+56:37.000 --> 56:40.000
+analytically structured information,
+
+56:40.000 --> 56:45.000
+we need a service in the company that will do this.
+
+56:45.000 --> 56:48.000
+We need employees who will sit and
+
+56:48.000 --> 56:52.000
+from this huge stream of information
+
+56:52.000 --> 56:56.000
+to make the necessary decision for us.
+
+56:56.000 --> 56:58.000
+Because here, again,
+
+56:58.000 --> 57:02.000
+we have this ratio of volume of information
+
+57:02.000 --> 57:04.000
+and level of reliability.
+
+57:04.000 --> 57:08.000
+When we talk about unstructured information,
+
+57:08.000 --> 57:14.000
+if we reduce the volume,
+
+57:14.000 --> 57:16.000
+we will suffer from unreliability.
+
+57:16.000 --> 57:21.000
+Again, like any way out of any situation,
+
+57:21.000 --> 57:27.000
+here the way out is only in the optimal combination of volume and reliability.
+
+57:27.000 --> 57:33.000
+It makes sense not to read the sources nearby,
+
+57:33.000 --> 57:39.000
+but to read the sources that take the opposite positions.
+
+57:39.000 --> 57:43.000
+Then this picture may be more objective.
+
+57:43.000 --> 57:45.000
+The next phenomenon.
+
+57:45.000 --> 57:50.000
+The popular content analysis today does not have a definite interpretation.
+
+57:50.000 --> 57:53.000
+What does this mean for us?
+
+57:53.000 --> 57:57.000
+The concept of content analysis came from psychology.
+
+57:57.000 --> 58:01.000
+And sociology still does not have a definite definition,
+
+58:01.000 --> 58:03.000
+it is not formalized.
+
+58:03.000 --> 58:06.000
+Therefore, everyone talks about their own content analysis.
+
+58:06.000 --> 58:12.000
+Someone in this concept invests completely different mechanisms, different methods.
+
+58:13.000 --> 58:21.000
+Accordingly, one content analysis will not be connected with another.
+
+58:21.000 --> 58:26.000
+Every time we will have to invent a bicycle.
+
+58:26.000 --> 58:31.000
+Because there is still no single understanding of what a single mechanism is.
+
+58:31.000 --> 58:34.000
+So, what can we do?
+
+58:34.000 --> 58:38.000
+What are the effective technologies of work
+
+58:38.000 --> 58:42.000
+with a growing flow of unstructured text information?
+
+58:42.000 --> 58:46.000
+When we talk about searching for information on the Internet
+
+58:46.000 --> 58:48.000
+with large information arrays,
+
+58:48.000 --> 58:50.000
+we have two criteria.
+
+58:50.000 --> 58:52.000
+The first criterion is the size of the database,
+
+58:52.000 --> 58:55.000
+the number of sites it attracted.
+
+58:55.000 --> 59:00.000
+And, accordingly, the larger the database,
+
+59:00.000 --> 59:04.000
+the more sites the search engine knows.
+
+59:04.000 --> 59:06.000
+And the more accurate the search.
+
+59:06.000 --> 59:09.000
+And the second criterion is the information of the given links.
+
+59:09.000 --> 59:13.000
+That is, not only to attract many sites,
+
+59:13.000 --> 59:19.000
+but also the information contained in these links should be useful to you.
+
+59:19.000 --> 59:22.000
+So, what are the main criteria we should consider
+
+59:22.000 --> 59:25.000
+when we search and sort documents from sites?
+
+59:25.000 --> 59:28.000
+First, the number of searchable words in the text,
+
+59:28.000 --> 59:30.000
+the distance between these words in the text,
+
+59:30.000 --> 59:35.000
+the place in the text where these words are found in the title, in the text itself,
+
+59:35.000 --> 59:38.000
+the appearance of the font used,
+
+59:38.000 --> 59:41.000
+and the number of links from the Internet to this document.
+
+59:41.000 --> 59:45.000
+These are the criteria that will help us sort documents.
+
+59:53.000 --> 59:59.000
+When we talk about who needs information in the company,
+
+59:59.000 --> 01:00:04.000
+it is difficult to select an employee
+
+01:00:04.000 --> 01:00:10.000
+who would never use some external, unstructured information.
+
+01:00:10.000 --> 01:00:12.000
+I think that every employee,
+
+01:00:12.000 --> 01:00:17.000
+well, we will not take such service staff as a cleaner,
+
+01:00:17.000 --> 01:00:21.000
+we take the manager's position and higher,
+
+01:00:21.000 --> 01:00:27.000
+then, of course, all these positions use unstructured information from the Internet
+
+01:00:27.000 --> 01:00:30.000
+for their goals, for making their decisions,
+
+01:00:30.000 --> 01:00:33.000
+for analyzing the existing situation, and so on.
+
+01:00:33.000 --> 01:00:39.000
+But here are some examples of such specialists.
+
+01:00:39.000 --> 01:00:43.000
+For security services, it is especially relevant
+
+01:00:43.000 --> 01:00:46.000
+to analyze the reliability of new partners and the environment,
+
+01:00:46.000 --> 01:00:49.000
+monitoring the state of permanent partners and their projects,
+
+01:00:49.000 --> 01:00:53.000
+assessment and forecast of the company's development,
+
+01:00:53.000 --> 01:00:55.000
+risk assessment and forecast.
+
+01:00:55.000 --> 01:00:58.000
+Here is a very important remark.
+
+01:00:58.000 --> 01:01:06.000
+Why is it important for security services to be able to use all this unstructured information?
+
+01:01:06.000 --> 01:01:12.000
+Because, as you know, about 30% of confidential and about 10% of very confidential,
+
+01:01:12.000 --> 01:01:15.000
+completely secret information is contained in open sources.
+
+01:01:15.000 --> 01:01:19.000
+As an example, we can cite the book by Viktor Suvorov,
+
+01:01:19.000 --> 01:01:24.000
+which described the peculiarities of Stalin's policy,
+
+01:01:24.000 --> 01:01:27.000
+based only on newspaper sources.
+
+01:01:27.000 --> 01:01:32.000
+He specifically wrote in the preface that he did not use any secret document,
+
+01:01:32.000 --> 01:01:39.000
+he used only the information that was written in Soviet newspapers.
+
+01:01:39.000 --> 01:01:43.000
+And based on this, he made his conclusions.
+
+01:01:43.000 --> 01:01:47.000
+Here you can argue about the legitimacy of these conclusions or not,
+
+01:01:47.000 --> 01:01:54.000
+but the fact is that this book is a very good illustration,
+
+01:01:54.000 --> 01:02:01.000
+a confirmation that completely secret information is also contained in open sources.
+
+01:02:01.000 --> 01:02:07.000
+Therefore, it is very important for your security service to be able to work with information,
+
+01:02:07.000 --> 01:02:13.000
+to be able to predict, analyze, to identify the main thing
+
+01:02:14.000 --> 01:02:23.000
+and pay attention to the nuances that will help to predict events with the greatest probability.
+
+01:02:27.000 --> 01:02:29.000
+Who else is it important for?
+
+01:02:29.000 --> 01:02:32.000
+I will repeat that it is important for everyone to work with information.
+
+01:02:32.000 --> 01:02:36.000
+Here is an example for the department of strategic planning and management.
+
+01:02:36.000 --> 01:02:42.000
+It is important to analyze the activities of the enterprise, macroeconomic analysis,
+
+01:02:42.000 --> 01:02:45.000
+and the predicted state of the country.
+
+01:02:45.000 --> 01:02:50.000
+It is very important here, because, as we did not want,
+
+01:02:50.000 --> 01:02:54.000
+but all internal political events, even external political events,
+
+01:02:54.000 --> 01:02:58.000
+they sometimes have a great impact on the life of the company,
+
+01:02:58.000 --> 01:03:02.000
+and its survivability in certain conditions.
+
+01:03:03.000 --> 01:03:09.000
+And since competent analysts who deal with strategic management,
+
+01:03:09.000 --> 01:03:13.000
+they must, based on the information they receive, build forecasts,
+
+01:03:13.000 --> 01:03:15.000
+this is their main function,
+
+01:03:15.000 --> 01:03:24.000
+then they must understand the tendencies of development in the geopolitical situation,
+
+01:03:25.000 --> 01:03:32.000
+and how it can affect the life of a particular company.
+
+01:03:33.000 --> 01:03:39.000
+Next, analysis of the market segment, monitoring of competitors is an important tool.
+
+01:03:39.000 --> 01:03:44.000
+Expansion and diversification of business influence,
+
+01:03:44.000 --> 01:03:48.000
+development of optimal marketing and business strategies.
+
+01:03:49.000 --> 01:03:56.000
+This is the information, unstructured stream of information,
+
+01:03:56.000 --> 01:04:02.000
+which they receive from all sorts of sources, will allow them to solve such tasks.
+
+01:04:02.000 --> 01:04:07.000
+So, now we have come to the topic of the main information problems
+
+01:04:07.000 --> 01:04:11.000
+that are facing the heads of Russian enterprises today.
+
+01:04:12.000 --> 01:04:19.000
+Of course, now there is such a stage in the development of our Russian business,
+
+01:04:19.000 --> 01:04:25.000
+when the companies that have survived are forced to pay attention to themselves,
+
+01:04:25.000 --> 01:04:28.000
+and are forced to establish their business processes.
+
+01:04:28.000 --> 01:04:30.000
+And when we talk about business processes,
+
+01:04:30.000 --> 01:04:34.000
+there is also an effective work with information.
+
+01:04:34.000 --> 01:04:36.000
+What is a business process?
+
+01:04:36.000 --> 01:04:40.000
+It is just the building of channels, effective transmission of information,
+
+01:04:40.000 --> 01:04:45.000
+and, accordingly, obtaining and processing of external information.
+
+01:04:45.000 --> 01:04:49.000
+This is also very important, because such a stage has come,
+
+01:04:49.000 --> 01:04:55.000
+that companies have grown up, enlarged, and it is necessary to postpone all these processes.
+
+01:04:55.000 --> 01:04:58.000
+Unpostponability and coordination of business processes
+
+01:04:58.000 --> 01:05:03.000
+greatly affects the efficiency of management.
+
+01:05:03.000 --> 01:05:10.000
+Now, in companies, in many companies,
+
+01:05:10.000 --> 01:05:15.000
+these business processes are formed spontaneously,
+
+01:05:15.000 --> 01:05:18.000
+unconsciously and uncontrollably.
+
+01:05:18.000 --> 01:05:21.000
+And now, for many companies, the moment has come
+
+01:05:21.000 --> 01:05:24.000
+when all this needs to be organized, structured,
+
+01:05:24.000 --> 01:05:30.000
+so that the management can really manage the information flows
+
+01:05:30.000 --> 01:05:32.000
+both inside and outside the company.
+
+01:05:32.000 --> 01:05:36.000
+Therefore, the lack of coordination and coordination of business processes
+
+01:05:36.000 --> 01:05:40.000
+are big informational problems for enterprises.
+
+01:05:40.000 --> 01:05:44.000
+The second problem is the inability to obtain timely,
+
+01:05:44.000 --> 01:05:48.000
+sufficiently argumented information to make a management decision.
+
+01:05:48.000 --> 01:05:52.000
+This problem has been and will be.
+
+01:05:52.000 --> 01:05:57.000
+Because, of course, we have three criteria.
+
+01:05:57.000 --> 01:06:00.000
+The first is timeliness, quality and completeness.
+
+01:06:00.000 --> 01:06:03.000
+This also applies to information.
+
+01:06:03.000 --> 01:06:06.000
+We need to get quality information, that is, reliable.
+
+01:06:06.000 --> 01:06:10.000
+The quality of information is determined by reliability.
+
+01:06:10.000 --> 01:06:12.000
+We need volume.
+
+01:06:12.000 --> 01:06:16.000
+Remember, I said that the volume of information should be sufficient.
+
+01:06:16.000 --> 01:06:19.000
+There should be neither more nor less information,
+
+01:06:19.000 --> 01:06:21.000
+but exactly enough.
+
+01:06:21.000 --> 01:06:23.000
+And, accordingly, timeliness.
+
+01:06:23.000 --> 01:06:26.000
+That is, the information is needed at the moment when it is needed,
+
+01:06:26.000 --> 01:06:28.000
+not a minute later.
+
+01:06:28.000 --> 01:06:32.000
+Because you need to make the appropriate decision.
+
+01:06:32.000 --> 01:06:37.000
+And therefore, this problem is actually being fought over.
+
+01:06:37.000 --> 01:06:40.000
+How to organize this whole process,
+
+01:06:40.000 --> 01:06:42.000
+all these information flows,
+
+01:06:42.000 --> 01:06:46.000
+so that they are really of the right quality,
+
+01:06:46.000 --> 01:06:49.000
+in the right volume and at the right time.
+
+01:06:49.000 --> 01:06:53.000
+The next problem is the lack or insufficient effectiveness
+
+01:06:53.000 --> 01:06:55.000
+of horizontal connections between units,
+
+01:06:55.000 --> 01:06:58.000
+subsidiary structures and branches.
+
+01:06:58.000 --> 01:07:00.000
+This is also understandable.
+
+01:07:00.000 --> 01:07:04.000
+This is also a problem when we have,
+
+01:07:04.000 --> 01:07:08.000
+as soon as we have these information flows
+
+01:07:08.000 --> 01:07:12.000
+between units, branches, subsidiary structures,
+
+01:07:12.000 --> 01:07:16.000
+the coordination of their work is immediately violated,
+
+01:07:17.000 --> 01:07:20.000
+and, accordingly, the effectiveness of making and implementing
+
+01:07:20.000 --> 01:07:22.000
+management decisions.
+
+01:07:22.000 --> 01:07:24.000
+Fourth.
+
+01:07:24.000 --> 01:07:28.000
+The lack of a single monitoring system of the enterprise's activities.
+
+01:07:28.000 --> 01:07:30.000
+This is a problem for many enterprises.
+
+01:07:30.000 --> 01:07:33.000
+Even when there is a marketing department,
+
+01:07:33.000 --> 01:07:35.000
+it seems to monitor the enterprise's activities.
+
+01:07:35.000 --> 01:07:39.000
+But here it is very important to have a single system
+
+01:07:39.000 --> 01:07:42.000
+and to have very well-developed criteria.
+
+01:07:42.000 --> 01:07:45.000
+But for many enterprises this is a problem.
+
+01:07:45.000 --> 01:07:48.000
+And the ineffectiveness of using the received information,
+
+01:07:48.000 --> 01:07:54.000
+the mass of this information that is accumulated in all companies.
+
+01:07:54.000 --> 01:07:57.000
+The difficulty of access to archives, for example,
+
+01:07:57.000 --> 01:08:01.000
+is also a big problem for many enterprises,
+
+01:08:01.000 --> 01:08:06.000
+when there is no way to quickly, effectively and quickly
+
+01:08:06.000 --> 01:08:12.000
+get the necessary information about past actions.
+
+01:08:12.000 --> 01:08:17.000
+This is also a big problem for many enterprises.
+
+01:08:17.000 --> 01:08:18.000
+Slide 60.
+
+01:08:18.000 --> 01:08:21.000
+The lack of reliability and compliance with business processes
+
+01:08:21.000 --> 01:08:24.000
+and the related management problems.
+
+01:08:24.000 --> 01:08:27.000
+Competition has grown on one side,
+
+01:08:27.000 --> 01:08:30.000
+there are not enough coercive personnel on the other side,
+
+01:08:30.000 --> 01:08:35.000
+and the company solved its problems as they were.
+
+01:08:35.000 --> 01:08:38.000
+As business developed, they solved it as best they could,
+
+01:08:38.000 --> 01:08:42.000
+without paying attention to the correctness of business processes.
+
+01:08:42.000 --> 01:08:48.000
+And now it is time to use the information resource as it should be.
+
+01:08:48.000 --> 01:08:53.000
+And this is very often the reorganization of the company's business.
+
+01:08:53.000 --> 01:08:58.000
+For many companies this is a stumbling block
+
+01:08:58.000 --> 01:09:02.000
+and a narrow place that slows down the further development of the business.
+
+01:09:03.000 --> 01:09:07.000
+The inability to get sufficient argumentative information
+
+01:09:07.000 --> 01:09:10.000
+for making financial decisions.
+
+01:09:10.000 --> 01:09:18.000
+It is a very difficult task to solve without using any information systems.
+
+01:09:18.000 --> 01:09:21.000
+But if this is introduced,
+
+01:09:21.000 --> 01:09:26.000
+full control over all business processes in the company,
+
+01:09:26.000 --> 01:09:29.000
+over all information processes in the company,
+
+01:09:29.000 --> 01:09:35.000
+then this will also play a role in increasing efficiency.
+
+01:09:35.000 --> 01:09:37.000
+But what is important here?
+
+01:09:37.000 --> 01:09:43.000
+The lack of horizontal connections between subsidiaries, subsidiary companies and branches.
+
+01:09:43.000 --> 01:09:48.000
+It is very important that the information does not lose its reliability.
+
+01:09:48.000 --> 01:09:54.000
+Because when information from different sources or from one source
+
+01:09:54.000 --> 01:09:57.000
+comes to the other, excluding each other,
+
+01:09:57.000 --> 01:10:00.000
+it is very difficult to navigate in this flow.
+
+01:10:00.000 --> 01:10:03.000
+The information should be well-established here.
+
+01:10:03.000 --> 01:10:06.000
+The channel of information should be very well established.
+
+01:10:06.000 --> 01:10:11.000
+Both direct information and feedback.
+
+01:10:11.000 --> 01:10:15.000
+And the less reliability is lost here,
+
+01:10:15.000 --> 01:10:18.000
+the more effective the whole company will work.
+
+01:10:18.000 --> 01:10:22.000
+The lack of a single system of constant monitoring.
+
+01:10:22.000 --> 01:10:24.000
+What is here?
+
+01:10:24.000 --> 01:10:28.000
+The object of monitoring should be such moments as finances,
+
+01:10:28.000 --> 01:10:31.000
+our financial flow should be constantly monitored,
+
+01:10:31.000 --> 01:10:34.000
+where the money comes from,
+
+01:10:34.000 --> 01:10:38.000
+what resources and who is in charge.
+
+01:10:38.000 --> 01:10:41.000
+Further, the system of purchases and sales, production,
+
+01:10:41.000 --> 01:10:45.000
+the results of the activities of individual employees or branches.
+
+01:10:45.000 --> 01:10:50.000
+Those companies that control these processes,
+
+01:10:50.000 --> 01:10:52.000
+they have their advantages.
+
+01:10:52.000 --> 01:10:57.000
+First, budgeting is more competently arranged,
+
+01:10:57.000 --> 01:11:00.000
+production volumes are regulated,
+
+01:11:00.000 --> 01:11:02.000
+there is no overproduction,
+
+01:11:02.000 --> 01:11:05.000
+warehouses are more effectively used, and so on.
+
+01:11:05.000 --> 01:11:11.000
+The system of constant monitoring is also one of the resources
+
+01:11:11.000 --> 01:11:15.000
+for increasing the efficiency of the enterprise.
+
+01:11:15.000 --> 01:11:18.000
+Inefficiency is used on accumulated information.
+
+01:11:18.000 --> 01:11:21.000
+This is often found in situations
+
+01:11:21.000 --> 01:11:28.000
+when information comes either not in time or not reliably.
+
+01:11:28.000 --> 01:11:32.000
+And very often there is also that in companies,
+
+01:11:32.000 --> 01:11:36.000
+that there is no single client base.
+
+01:11:36.000 --> 01:11:42.000
+Now there are fewer and fewer such companies.
+
+01:11:42.000 --> 01:11:47.000
+But it is very important when we have an archive of our relations with clients.
+
+01:11:47.000 --> 01:11:50.000
+And we can track the whole history of relations.
+
+01:11:50.000 --> 01:11:53.000
+When we do not have such information,
+
+01:11:53.000 --> 01:11:57.000
+it also affects the efficiency of the business.
+
+01:11:57.000 --> 01:12:03.000
+What methods do we have to somehow deal with
+
+01:12:03.000 --> 01:12:08.000
+this huge volume of unstructured information?
+
+01:12:08.000 --> 01:12:12.000
+Slide number 65 is the content analysis method.
+
+01:12:12.000 --> 01:12:15.000
+This is exactly the method that allows us
+
+01:12:15.000 --> 01:12:19.000
+to work most effectively with our information flows,
+
+01:12:19.000 --> 01:12:22.000
+and unstructured information.
+
+01:12:22.000 --> 01:12:25.000
+I have already said that when we talked about the phenomenon
+
+01:12:25.000 --> 01:12:28.000
+of modern states,
+
+01:12:28.000 --> 01:12:31.000
+I said that the content analysis method is not yet formalized,
+
+01:12:31.000 --> 01:12:35.000
+not yet defined, so it has a lot of definitions.
+
+01:12:35.000 --> 01:12:38.000
+On the one hand, this is a method of objective,
+
+01:12:38.000 --> 01:12:41.000
+qualitative systematic study of the content of the means of communication.
+
+01:12:41.000 --> 01:12:45.000
+On the other hand, this is a systematic numerical processing,
+
+01:12:45.000 --> 01:12:49.000
+assessment and interpretation of the form and content of the information source.
+
+01:12:49.000 --> 01:12:54.000
+On the third hand, this is a qualitative number of methods of working with documents
+
+01:12:54.000 --> 01:12:58.000
+that are characterized by the effectiveness of conclusions and the strictness of the procedure.
+
+01:12:58.000 --> 01:13:04.000
+And the next thing is that this is a research technique
+
+01:13:04.000 --> 01:13:08.000
+for obtaining results by analyzing the content of the text,
+
+01:13:08.000 --> 01:13:11.000
+and the state and properties of social reality.
+
+01:13:11.000 --> 01:13:14.000
+That is, there are a lot of definitions.
+
+01:13:14.000 --> 01:13:17.000
+But in any case, the content analysis method
+
+01:13:17.000 --> 01:13:22.000
+consists of finding certain substantive concepts in the text,
+
+01:13:22.000 --> 01:13:25.000
+which are the units of analysis,
+
+01:13:25.000 --> 01:13:28.000
+and identifying the frequency of meeting
+
+01:13:28.000 --> 01:13:32.000
+in accordance with the content of the entire document.
+
+01:13:32.000 --> 01:13:38.000
+That is, we look for how many times a particular word is found in this text
+
+01:13:38.000 --> 01:13:43.000
+and compare it with the content of the entire document.
+
+01:13:43.000 --> 01:13:47.000
+The content analysis method can be quantitative and qualitative.
+
+01:13:47.000 --> 01:13:51.000
+The quantity of content analysis is the frequency of appearance in documents
+
+01:13:51.000 --> 01:13:54.000
+of certain characteristics of content.
+
+01:13:54.000 --> 01:13:59.000
+Three stages of this content analysis are highlighted.
+
+01:13:59.000 --> 01:14:02.000
+First, the units of analysis are highlighted
+
+01:14:02.000 --> 01:14:05.000
+and translated into the type acceptable for processing.
+
+01:14:05.000 --> 01:14:08.000
+Of course, now it's all done electronically.
+
+01:14:08.000 --> 01:14:12.000
+That is, it is very important for us to highlight the criteria for the units of analysis.
+
+01:14:12.000 --> 01:14:16.000
+What will we have, on what basis will we analyze the document.
+
+01:14:16.000 --> 01:14:21.000
+Next, the second stage is the calculation of the frequency of the units of analysis
+
+01:14:21.000 --> 01:14:23.000
+using various mathematical devices
+
+01:14:23.000 --> 01:14:26.000
+to identify the interconnection between them.
+
+01:14:26.000 --> 01:14:27.000
+What do we do?
+
+01:14:27.000 --> 01:14:31.000
+Here we already apply mathematical formulas and process them mathematically.
+
+01:14:31.000 --> 01:14:34.000
+Now it's all done on computers.
+
+01:14:34.000 --> 01:14:38.000
+We process and get certain quantitative conclusions.
+
+01:14:38.000 --> 01:14:41.000
+The third stage is the interpretation of the results.
+
+01:14:41.000 --> 01:14:45.000
+That is, this is what we will work with.
+
+01:14:45.000 --> 01:14:48.000
+So, the stages of qualitative content analysis.
+
+01:14:48.000 --> 01:14:51.000
+They are about the same as quantitative.
+
+01:14:51.000 --> 01:14:57.000
+We are not looking at statistical data, but at the content.
+
+01:14:57.000 --> 01:15:00.000
+The first stage is the combination of a large amount of text information
+
+01:15:00.000 --> 01:15:03.000
+with the final number of integrated blocks of text units,
+
+01:15:03.000 --> 01:15:07.000
+which will be processed in the future.
+
+01:15:07.000 --> 01:15:10.000
+That is, we also highlight this very unit of analysis.
+
+01:15:10.000 --> 01:15:15.000
+Then we also look at the interconnection between these units in the text.
+
+01:15:16.000 --> 01:15:20.000
+Then we form conclusions in communication, compare.
+
+01:15:20.000 --> 01:15:25.000
+This is also the third stage of the interpretation of information.
+
+01:15:28.000 --> 01:15:32.000
+Now, in addition to content analysis, the next step,
+
+01:15:32.000 --> 01:15:37.000
+the next stage of content analysis is the content monitoring of information flows.
+
+01:15:37.000 --> 01:15:42.000
+Here they try to combine both qualitative and quantitative.
+
+01:15:43.000 --> 01:15:48.000
+It turns out that content monitoring is a substantive analysis of information flows
+
+01:15:48.000 --> 01:15:52.000
+in order to obtain the necessary qualitative and quantitative segments,
+
+01:15:52.000 --> 01:15:58.000
+which are constantly produced over a certain and finite period of time.
+
+01:16:00.000 --> 01:16:02.000
+Monitoring is clear.
+
+01:16:02.000 --> 01:16:06.000
+We do content analysis more than once, but we do it constantly.
+
+01:16:06.000 --> 01:16:09.000
+We monitor, compare with previous results
+
+01:16:09.000 --> 01:16:12.000
+and thus build some trends.
+
+01:16:14.000 --> 01:16:20.000
+What else can we see in the modern stage of our business development
+
+01:16:20.000 --> 01:16:24.000
+and information applied to business?
+
+01:16:25.000 --> 01:16:29.000
+The situation of rapid growth in the pace of information production has caused a number of problems.
+
+01:16:31.000 --> 01:16:34.000
+The first problem is the disproportionate growth of information noise
+
+01:16:34.000 --> 01:16:37.000
+due to the weak structure of information.
+
+01:16:39.000 --> 01:16:45.000
+This has caused a lot of unnecessary information,
+
+01:16:45.000 --> 01:16:48.000
+a lot of interference.
+
+01:16:53.000 --> 01:16:56.000
+When we look for the right information,
+
+01:16:56.000 --> 01:17:01.000
+we are like a person who washes gold.
+
+01:17:01.000 --> 01:17:04.000
+We start to wash the empty rock
+
+01:17:04.000 --> 01:17:08.000
+and look for the grains of this gold information for ourselves.
+
+01:17:10.000 --> 01:17:13.000
+There is a lot of noise that we have to overcome.
+
+01:17:13.000 --> 01:17:17.000
+The second difficulty is the emergence of parasitic information.
+
+01:17:18.000 --> 01:17:23.000
+The third difficulty is the lack of formal information
+
+01:17:23.000 --> 01:17:27.000
+that is really in demand from consumers.
+
+01:17:28.000 --> 01:17:30.000
+There is information,
+
+01:17:30.000 --> 01:17:33.000
+we have typed the word that interests us,
+
+01:17:34.000 --> 01:17:38.000
+and we get a lot of formal information,
+
+01:17:38.000 --> 01:17:41.000
+which is not formally useful.
+
+01:17:41.000 --> 01:17:44.000
+And, accordingly, the duplication of information.
+
+01:17:44.000 --> 01:17:49.000
+It is a reprint of the same information in different publications.
+
+01:17:50.000 --> 01:17:53.000
+In order to deal with this phenomenon,
+
+01:17:53.000 --> 01:18:00.000
+people who provide information streams
+
+01:18:00.000 --> 01:18:03.000
+have invented thematic navigators.
+
+01:18:03.000 --> 01:18:07.000
+They allow you to move around related thematic categories,
+
+01:18:07.000 --> 01:18:10.000
+and each of them can include a large number of documents
+
+01:18:10.000 --> 01:18:12.000
+close to the content.
+
+01:18:12.000 --> 01:18:17.000
+The best of these navigators allows you to find a whole range of topics
+
+01:18:17.000 --> 01:18:20.000
+that are relevant to the documents you are interested in,
+
+01:18:20.000 --> 01:18:24.000
+and then move around the topics.
+
+01:18:24.000 --> 01:18:27.000
+That is, the navigators are not only looking for one topic,
+
+01:18:27.000 --> 01:18:31.000
+but they are looking for the words you have stated in different topics,
+
+01:18:31.000 --> 01:18:33.000
+in different thematic blocks.
+
+01:18:34.000 --> 01:18:38.000
+That is, the machine thinks practically for a person.
+
+01:18:38.000 --> 01:18:42.000
+It thinks about what topics can be close,
+
+01:18:42.000 --> 01:18:47.000
+nearby, where we can also find the information we need.
+
+01:18:49.000 --> 01:18:53.000
+So far, there are two categories of thematic navigators.
+
+01:18:53.000 --> 01:18:56.000
+The first category has a rigid structure.
+
+01:18:56.000 --> 01:18:59.000
+And here the hierarchy of categories is used,
+
+01:18:59.000 --> 01:19:03.000
+which reflects the general system of existing knowledge of the reeds.
+
+01:19:03.000 --> 01:19:05.000
+Here it is very rigid.
+
+01:19:05.000 --> 01:19:09.000
+We have introduced one word, a very rigid hierarchical structure,
+
+01:19:09.000 --> 01:19:13.000
+which gives us information.
+
+01:19:13.000 --> 01:19:17.000
+The second category of navigators is created specifically,
+
+01:19:17.000 --> 01:19:21.000
+it is very flexible, but at the same time it is very expensive,
+
+01:19:21.000 --> 01:19:23.000
+because it is created exclusively
+
+01:19:23.000 --> 01:19:28.000
+for a certain subject area.
+
+01:19:28.000 --> 01:19:29.000
+This is number 73.
+
+01:19:29.000 --> 01:19:33.000
+So, we talked about the ways
+
+01:19:33.000 --> 01:19:37.000
+of detecting this information,
+
+01:19:37.000 --> 01:19:39.000
+unstructured,
+
+01:19:39.000 --> 01:19:44.000
+how we can, where we can find it,
+
+01:19:44.000 --> 01:19:46.000
+that is, how we can provide for ourselves
+
+01:19:46.000 --> 01:19:48.000
+this incoming stream of information
+
+01:19:48.000 --> 01:19:52.000
+in order to further structure it.
+
+01:19:52.000 --> 01:19:55.000
+And the last topic we will discuss today
+
+01:19:55.000 --> 01:19:58.000
+is how an analytical note is prepared.
+
+01:19:58.000 --> 01:20:02.000
+It turns out that we found where to get this information,
+
+01:20:02.000 --> 01:20:04.000
+we provided ourselves with this stream,
+
+01:20:04.000 --> 01:20:07.000
+and then, in the end, we need this information
+
+01:20:07.000 --> 01:20:10.000
+not just to have it,
+
+01:20:10.000 --> 01:20:14.000
+we need it for purely practical purposes,
+
+01:20:14.000 --> 01:20:17.000
+so that we can use this information
+
+01:20:17.000 --> 01:20:19.000
+to make decisions.
+
+01:20:19.000 --> 01:20:21.000
+Therefore, as a rule,
+
+01:20:21.000 --> 01:20:25.000
+if we are really engaged in some kind of
+
+01:20:25.000 --> 01:20:28.000
+systematization of information,
+
+01:20:28.000 --> 01:20:30.000
+in the search for some information we need,
+
+01:20:30.000 --> 01:20:33.000
+then all this is poured into an analytical note.
+
+01:20:33.000 --> 01:20:35.000
+Otherwise, it is pointless.
+
+01:20:35.000 --> 01:20:37.000
+If we do not do this,
+
+01:20:37.000 --> 01:20:39.000
+if we do not record this information,
+
+01:20:39.000 --> 01:20:41.000
+our work that we have done,
+
+01:20:41.000 --> 01:20:44.000
+if we do not record it on paper in the form of documents,
+
+01:20:44.000 --> 01:20:47.000
+then this work turns out to be pointless.
+
+01:20:47.000 --> 01:20:51.000
+As a rule, such a search ends up with a certain review,
+
+01:20:51.000 --> 01:20:55.000
+for example, an analytical note.
+
+01:20:55.000 --> 01:20:58.000
+There are stages of work
+
+01:20:58.000 --> 01:21:03.000
+that allow us to do this effectively.
+
+01:21:03.000 --> 01:21:05.000
+The first is the search.
+
+01:21:05.000 --> 01:21:09.000
+We must, conditionally speaking,
+
+01:21:09.000 --> 01:21:12.000
+collect this amount of information,
+
+01:21:12.000 --> 01:21:15.000
+which we will then systematize and structure.
+
+01:21:15.000 --> 01:21:18.000
+I must say, to be honest,
+
+01:21:18.000 --> 01:21:21.000
+any topics, any training,
+
+01:21:21.000 --> 01:21:24.000
+they are prepared according to this scheme.
+
+01:21:24.000 --> 01:21:27.000
+We do not get an analytical note,
+
+01:21:27.000 --> 01:21:30.000
+but we get some kind of training program.
+
+01:21:30.000 --> 01:21:32.000
+But the scheme is the same,
+
+01:21:32.000 --> 01:21:35.000
+because it is very similar to
+
+01:21:35.000 --> 01:21:39.000
+some scientific research.
+
+01:21:39.000 --> 01:21:41.000
+On the other hand,
+
+01:21:41.000 --> 01:21:44.000
+if we use an analytical device,
+
+01:21:44.000 --> 01:21:46.000
+any analytical note,
+
+01:21:46.000 --> 01:21:50.000
+in terms of structure, content and labor costs,
+
+01:21:50.000 --> 01:21:53.000
+is very similar to some scientific work.
+
+01:21:53.000 --> 01:21:56.000
+The only thing is that there is no practical part,
+
+01:21:56.000 --> 01:21:59.000
+because it is a theoretical information analysis.
+
+01:21:59.000 --> 01:22:01.000
+So, what are the stages?
+
+01:22:01.000 --> 01:22:03.000
+The first stage is the search.
+
+01:22:03.000 --> 01:22:05.000
+Naturally, we first look for it,
+
+01:22:05.000 --> 01:22:07.000
+then we select it,
+
+01:22:07.000 --> 01:22:09.000
+then we analyze what we found and collected,
+
+01:22:09.000 --> 01:22:11.000
+then we systematize it,
+
+01:22:11.000 --> 01:22:15.000
+and then we get the structure,
+
+01:22:15.000 --> 01:22:19.000
+more or less logical structure,
+
+01:22:19.000 --> 01:22:24.000
+and after that we prepare the reference.
+
+01:22:24.000 --> 01:22:26.000
+At the search stage, what do we do?
+
+01:22:26.000 --> 01:22:29.000
+Our task is to correctly identify the sources of information.
+
+01:22:29.000 --> 01:22:31.000
+This is a very important point,
+
+01:22:31.000 --> 01:22:33.000
+where we will get the information.
+
+01:22:33.000 --> 01:22:35.000
+Next, we select the invoice.
+
+01:22:35.000 --> 01:22:37.000
+What is an invoice?
+
+01:22:37.000 --> 01:22:39.000
+An invoice is a fact.
+
+01:22:40.000 --> 01:22:42.000
+What is very important here?
+
+01:22:42.000 --> 01:22:45.000
+It is important that we rely on facts,
+
+01:22:45.000 --> 01:22:48.000
+and facts are called the objective reality,
+
+01:22:48.000 --> 01:22:50.000
+which already exists,
+
+01:22:50.000 --> 01:22:52.000
+which cannot be refuted.
+
+01:22:54.000 --> 01:22:56.000
+Why?
+
+01:22:56.000 --> 01:22:59.000
+Because there is a assumption in opposition to facts.
+
+01:22:59.000 --> 01:23:01.000
+We have assumptions and facts.
+
+01:23:01.000 --> 01:23:05.000
+We assume that an event can occur in one way or another.
+
+01:23:05.000 --> 01:23:08.000
+And the fact is already a real action,
+
+01:23:08.000 --> 01:23:11.000
+an event that has already happened.
+
+01:23:11.000 --> 01:23:14.000
+Therefore, we can only rely on facts.
+
+01:23:14.000 --> 01:23:17.000
+Assumptions require verification by facts.
+
+01:23:17.000 --> 01:23:19.000
+Facts are divided into empirical,
+
+01:23:19.000 --> 01:23:23.000
+which are extracted directly from the experiment,
+
+01:23:23.000 --> 01:23:25.000
+into scientific,
+
+01:23:25.000 --> 01:23:29.000
+which are obtained by means of objective data,
+
+01:23:29.000 --> 01:23:31.000
+into departmental,
+
+01:23:31.000 --> 01:23:34.000
+which are composed of various institutions and institutions.
+
+01:23:34.000 --> 01:23:37.000
+There are also statistical facts.
+
+01:23:37.000 --> 01:23:40.000
+These are the ones that describe,
+
+01:23:40.000 --> 01:23:42.000
+or rather summarize,
+
+01:23:42.000 --> 01:23:47.000
+many, many, many different events that have already happened.
+
+01:23:47.000 --> 01:23:50.000
+And, of course, from this category of facts,
+
+01:23:50.000 --> 01:23:53.000
+the most reliable are statistical facts.
+
+01:23:53.000 --> 01:23:55.000
+Because they are...
+
+01:23:55.000 --> 01:23:59.000
+Although, if we take into account what statistics we have,
+
+01:23:59.000 --> 01:24:03.000
+in theory, the most reliable should be statistical data.
+
+01:24:03.000 --> 01:24:05.000
+Or empirical data, too.
+
+01:24:05.000 --> 01:24:10.000
+Why? Because empirical data is something that is extracted directly from the experiment.
+
+01:24:10.000 --> 01:24:14.000
+But we should understand that any scientific facts,
+
+01:24:14.000 --> 01:24:16.000
+all of them have...
+
+01:24:16.000 --> 01:24:18.000
+When someone exposes them,
+
+01:24:18.000 --> 01:24:22.000
+he still brings his subjective opinion,
+
+01:24:22.000 --> 01:24:25.000
+subjective perspective.
+
+01:24:25.000 --> 01:24:28.000
+He looks at these facts from his point of view,
+
+01:24:28.000 --> 01:24:31.000
+and he exposes them from his position,
+
+01:24:31.000 --> 01:24:34.000
+based on his system of values.
+
+01:24:34.000 --> 01:24:36.000
+It is clear that
+
+01:24:36.000 --> 01:24:39.000
+we have a multifaceted phenomenon,
+
+01:24:39.000 --> 01:24:44.000
+and we can describe the same phenomenon in a completely different way.
+
+01:24:44.000 --> 01:24:46.000
+And from different points of view,
+
+01:24:46.000 --> 01:24:52.000
+and from different emotional components.
+
+01:24:52.000 --> 01:24:55.000
+But here comes to mind the anecdote about the elephant.
+
+01:24:55.000 --> 01:24:59.000
+When three blind people were led to the elephant,
+
+01:24:59.000 --> 01:25:01.000
+one touched the leg,
+
+01:25:01.000 --> 01:25:03.000
+the other the tail,
+
+01:25:03.000 --> 01:25:06.000
+and when they started to discuss what an elephant is,
+
+01:25:06.000 --> 01:25:09.000
+one said that an elephant is a big pole,
+
+01:25:09.000 --> 01:25:12.000
+the third said that it is a small cord,
+
+01:25:12.000 --> 01:25:15.000
+and the fourth said that it is a...
+
+01:25:15.000 --> 01:25:17.000
+well, a rump, right?
+
+01:25:17.000 --> 01:25:19.000
+And they were all right on the one hand,
+
+01:25:19.000 --> 01:25:21.000
+and wrong on the other,
+
+01:25:21.000 --> 01:25:23.000
+because an elephant is something more holistic.
+
+01:25:23.000 --> 01:25:25.000
+The same thing happens with our facts.
+
+01:25:25.000 --> 01:25:27.000
+In any case,
+
+01:25:28.000 --> 01:25:32.000
+we need to understand that
+
+01:25:32.000 --> 01:25:34.000
+we need to make corrections to subjectivity
+
+01:25:34.000 --> 01:25:36.000
+when we work with facts.
+
+01:25:36.000 --> 01:25:41.000
+In any case, facts are an objective reality for us.
+
+01:25:42.000 --> 01:25:44.000
+The next one is selection.
+
+01:25:46.000 --> 01:25:48.000
+When we talk about selection,
+
+01:25:48.000 --> 01:25:53.000
+we should keep the framework of our task.
+
+01:25:53.000 --> 01:26:00.000
+The information we receive should correspond to the interests and levels of preparation of the user.
+
+01:26:00.000 --> 01:26:02.000
+What does it mean?
+
+01:26:02.000 --> 01:26:04.000
+It means that each of us,
+
+01:26:04.000 --> 01:26:06.000
+due to our preparation,
+
+01:26:06.000 --> 01:26:10.000
+can perceive or not perceive a particular piece of information.
+
+01:26:10.000 --> 01:26:14.000
+In general, if a person has never been engaged in programming,
+
+01:26:14.000 --> 01:26:16.000
+then everything that concerns the computer,
+
+01:26:16.000 --> 01:26:19.000
+he will perceive at the same level.
+
+01:26:19.000 --> 01:26:25.000
+And if he starts reporting something at the professional level,
+
+01:26:25.000 --> 01:26:27.000
+he will not understand anything
+
+01:26:27.000 --> 01:26:33.000
+and will not be able to make any decisions based on this information.
+
+01:26:34.000 --> 01:26:37.000
+Therefore, when we say that
+
+01:26:37.000 --> 01:26:42.000
+a certain category of consumers will read this analytical note,
+
+01:26:42.000 --> 01:26:46.000
+we should focus on how they will be able to understand it.
+
+01:26:46.000 --> 01:26:48.000
+It is very important, of course,
+
+01:26:48.000 --> 01:26:50.000
+when we talk about selection,
+
+01:26:50.000 --> 01:26:52.000
+to set priorities.
+
+01:26:52.000 --> 01:26:55.000
+It is very important to select the main thing,
+
+01:26:55.000 --> 01:27:00.000
+what will really affect the decision-making.
+
+01:27:00.000 --> 01:27:02.000
+And the facts are thrown out gradually.
+
+01:27:03.000 --> 01:27:10.000
+Facts are filtered by a selective method.
+
+01:27:10.000 --> 01:27:13.000
+The unnecessary is thrown away, and the useful is left.
+
+01:27:13.000 --> 01:27:18.000
+Only the information that contributes to the solution of the tasks is valuable.
+
+01:27:18.000 --> 01:27:22.000
+Then the filtered material is grouped and systematized.
+
+01:27:22.000 --> 01:27:24.000
+This is where the selection stage ends.
+
+01:27:24.000 --> 01:27:27.000
+We come to the understanding of the material.
+
+01:27:30.000 --> 01:27:33.000
+The first thing we do is to make a draft version.
+
+01:27:33.000 --> 01:27:35.000
+We write, write, write, write,
+
+01:27:35.000 --> 01:27:38.000
+until we can do nothing, we do not question anything.
+
+01:27:38.000 --> 01:27:40.000
+We just put it out.
+
+01:27:40.000 --> 01:27:42.000
+We put out a stream of consciousness,
+
+01:27:42.000 --> 01:27:46.000
+so as not to interfere with our associative series.
+
+01:27:50.000 --> 01:27:56.000
+Because this associative series can lead us to some original, non-standard solution.
+
+01:27:57.000 --> 01:28:02.000
+Then the next stage is the preliminary version of the final document,
+
+01:28:02.000 --> 01:28:07.000
+already with compliance with all the requirements
+
+01:28:07.000 --> 01:28:09.000
+that are defined for such a type of document.
+
+01:28:10.000 --> 01:28:14.000
+Then, at the stage of systematization of the original information,
+
+01:28:14.000 --> 01:28:17.000
+we must have a clearly formulated goal.
+
+01:28:17.000 --> 01:28:19.000
+Why are we doing this at all?
+
+01:28:19.000 --> 01:28:21.000
+And to compare it with this goal.
+
+01:28:21.000 --> 01:28:27.000
+To compare all the illustrations, all the examples,
+
+01:28:27.000 --> 01:28:30.000
+and use arguments.
+
+01:28:30.000 --> 01:28:33.000
+Arguments can be based only on facts.
+
+01:28:34.000 --> 01:28:39.000
+We provide arguments and illustrations when we systematize our information.
+
+01:28:39.000 --> 01:28:45.000
+We provide arguments based on facts, which are already generally recognized.
+
+01:28:45.000 --> 01:28:49.000
+And here it is very important not to overdo it with arguments.
+
+01:28:49.000 --> 01:28:52.000
+That is, to use them exactly to prove your idea.
+
+01:28:52.000 --> 01:28:53.000
+Slide 78.
+
+01:28:53.000 --> 01:28:55.000
+And then we develop a behavior algorithm.
+
+01:28:55.000 --> 01:29:00.000
+Here we just draw up our document,
+
+01:29:00.000 --> 01:29:05.000
+because direct dependence on the adoption of a timely and qualitative solution
+
+01:29:05.000 --> 01:29:10.000
+depends on the clarity and readability of our document.
+
+01:29:10.000 --> 01:29:12.000
+How the information is presented.
+
+01:29:13.000 --> 01:29:16.000
+The information must be presented in a business style.
+
+01:29:16.000 --> 01:29:22.000
+A business style is a logical, linguistic structure.
+
+01:29:22.000 --> 01:29:28.000
+It is an external, devoid of emotional, expressive color.
+
+01:29:28.000 --> 01:29:34.000
+That is, the basis of a business style is a book-and-letter vocabulary,
+
+01:29:34.000 --> 01:29:39.000
+which is widely used in ready-made language formulas and terms.
+
+01:29:39.000 --> 01:29:40.000
+Why?
+
+01:29:40.000 --> 01:29:46.000
+Because the use of terms, when they are designed for a prepared reader,
+
+01:29:46.000 --> 01:29:51.000
+greatly reduces the time, because we know the terms in the formulation,
+
+01:29:51.000 --> 01:29:55.000
+and we can talk about everything in one language.
+
+01:29:55.000 --> 01:30:01.000
+Next, after the document is compiled, we must edit it
+
+01:30:01.000 --> 01:30:04.000
+so that it is really a ready-made document.
+
+01:30:04.000 --> 01:30:10.000
+Since we put a signature under it, we must know what we sign for,
+
+01:30:10.000 --> 01:30:13.000
+we must first edit it.
+
+01:30:13.000 --> 01:30:18.000
+First, we read the text in one breath from A to Z
+
+01:30:18.000 --> 01:30:21.000
+in order to understand the overall impression of the document.
+
+01:30:22.000 --> 01:30:27.000
+Then we read and see how the linguistic and stylistic structure
+
+01:30:27.000 --> 01:30:30.000
+corresponds to the business style.
+
+01:30:30.000 --> 01:30:35.000
+Then we begin to shorten, eliminate general places, lengths,
+
+01:30:35.000 --> 01:30:39.000
+not very successful examples, unnecessary arguments.

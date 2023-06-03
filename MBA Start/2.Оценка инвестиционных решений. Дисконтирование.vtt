@@ -1,0 +1,2653 @@
+WEBVTT
+
+00:00.000 --> 00:13.200
+In order to make an investment decision, we will need to familiarize ourselves with the four basic rules that are applied in this process
+
+00:13.200 --> 00:19.600
+The first rule is related to the pure given value, abbreviated as NPV
+
+00:19.600 --> 00:24.800
+Next, the Internal Revenue Rate, IRR
+
+00:24.800 --> 00:28.600
+Next, the profitability index and the period of purchase
+
+00:29.200 --> 00:37.000
+The last two parameters are familiar to us from the standard procedures of the economic analysis of the enterprise
+
+00:37.000 --> 00:42.600
+But they are used with an amendment to the discount
+
+00:42.600 --> 00:52.800
+The first two, NPV and IRR, are entirely and completely built on the model of assessing the value of a financial asset
+
+00:53.400 --> 00:58.800
+We will also consider a couple of points in this section, but more on that later
+
+00:58.800 --> 01:17.200
+So, the pure given value, abbreviated as NPV, is the difference between the discounted investments in the project and the discounted cash flows from the project
+
+01:17.600 --> 01:32.400
+Remember, when we work in the standard economy, when we operate with accounting, we take the expenses per nominal and the income per nominal, and find the difference
+
+01:32.400 --> 01:40.800
+In our case, we use the expenses and income in the same way, but only after the discount
+
+01:41.400 --> 01:50.400
+So, if you discount, returning to the example of determining your value
+
+01:50.400 --> 02:03.400
+If you discount all your expenses that you will have to make in the next year, and all your income that you will have to get in the next year
+
+02:04.000 --> 02:16.200
+You will get two numbers, then subtract the expenses from the income, you will get a difference, either positive or negative
+
+02:16.200 --> 02:26.200
+And this will be evidence that you have income for this year, or vice versa, you do not have it and you will fall into some debts to someone
+
+02:27.000 --> 02:32.400
+Returning to our slide, the rule of using NPV
+
+02:32.400 --> 02:40.600
+You can accept a project for execution, for financing, if the NPV is greater than zero
+
+02:40.600 --> 02:47.000
+You can, if you have several projects, accept a project for execution, whose NPV is the largest
+
+02:47.000 --> 02:49.000
+These are simple rules
+
+02:49.800 --> 02:58.600
+But I would like to ask you a question, if the NPV project is zero, should you accept such a project for execution, if there are no others?
+
+02:58.600 --> 03:04.000
+There are situations when such a project can be accepted for execution, why?
+
+03:04.000 --> 03:10.200
+Because thanks to such a project, you can save your capital
+
+03:11.200 --> 03:18.200
+Your capital will not decrease, but it will not grow, it will remain at the previous level, and this is already an achievement
+
+03:18.200 --> 03:22.200
+You were able to save it over the past year, not lose it
+
+03:22.200 --> 03:27.200
+So in some cases, a project with a zero NPV can be accepted
+
+03:27.200 --> 03:37.200
+At the same time, I will draw your attention to the fact that a project with a zero NPV will certainly have an accounting profit
+
+03:37.200 --> 03:40.200
+Let's look at a more detailed example
+
+03:40.200 --> 03:44.200
+The next slide shows the calculations
+
+03:44.200 --> 03:50.200
+So, the investment in the project is 100 units
+
+03:50.200 --> 03:57.200
+Let's assume that these investments are made at once, at the current time, they do not need to be discounted
+
+03:57.200 --> 04:02.200
+At the current time, we do this to make the example easier
+
+04:02.200 --> 04:14.200
+The project is designed for 5 years, and its cash flows are 20, 20, 20, 30, and 30 units
+
+04:14.200 --> 04:23.200
+If we add them up by the nominal, we get a profit of 120 minus 100, the income is certainly higher than the expenses
+
+04:23.200 --> 04:30.200
+The discount rate is 10%, in other words, the market value of resources is 10%
+
+04:31.200 --> 04:35.200
+Then we substitute everything in the formula
+
+04:35.200 --> 04:43.200
+NPV, we take the investment in the project with a minus sign, because it is the cash flow
+
+04:43.200 --> 04:49.200
+Everything else we take with a plus sign, because it is the inflow of cash
+
+04:49.200 --> 04:57.200
+Please note that the discount rate is not in percents, but in dollars
+
+04:57.200 --> 05:06.200
+So, if we calculate by this formula, for example, a computer or Excel can do it very quickly
+
+05:06.200 --> 05:12.200
+Then we get that NPV is equal to, look, the second line
+
+05:12.200 --> 05:19.200
+20 units of income received in a year today cost us 18 kopecks
+
+05:19.200 --> 05:26.200
+20 units of income received in two years today cost us 16 kopecks
+
+05:26.200 --> 05:38.200
+Then 15 and income of 30 units per year we turn into today's 20 and 18
+
+05:38.200 --> 05:45.200
+If we add them all up, we get only 88, almost 89 units
+
+05:45.200 --> 05:50.200
+This is not enough to get to zero NPV
+
+05:50.200 --> 05:53.200
+We get a negative NPV
+
+05:53.200 --> 06:04.200
+In fact, if we take up the implementation of this project, and even if we successfully implement it, we will incur a financial loss of 11 units
+
+06:04.200 --> 06:06.200
+This is an absolute value
+
+06:06.200 --> 06:18.200
+In the absence of other information, we can say that this project should be rejected
+
+06:19.200 --> 06:25.200
+The next rule is related to the so-called period of payback
+
+06:25.200 --> 06:34.200
+This is a period that is required to reimburse the investment, but taking into account the discounting procedure
+
+06:34.200 --> 06:38.200
+Let's look at an example, it is shown on the slide
+
+06:38.200 --> 06:45.200
+The same initial 100 units of investment, the same 5 years for which the project is designed
+
+06:46.200 --> 06:56.200
+If we take the already discounted cash flows, let them be equal to 25, 25, 25, 25 and 30
+
+06:56.200 --> 07:00.200
+4 times 25, the last year 30 units
+
+07:00.200 --> 07:05.200
+And check the NPV, yes, there are 30 units
+
+07:05.200 --> 07:07.200
+Now about the period of payback
+
+07:07.200 --> 07:14.200
+Our initial 100 units will pay off exactly in the first 4 years
+
+07:14.200 --> 07:17.200
+There is no formula, everything is quite obvious
+
+07:17.200 --> 07:23.200
+You add up the cash flows until the amount does not exceed the initial investment
+
+07:23.200 --> 07:34.200
+If our investment amount was not 100 units, but 110, what would be the period of payback?
+
+07:35.200 --> 07:37.200
+Now the answer
+
+07:37.200 --> 07:45.200
+In order to get the necessary amount of 110 units, we will have to wait 4 years
+
+07:45.200 --> 07:50.200
+25, 25, 25, 25, 100, and we need 110
+
+07:50.200 --> 07:58.200
+4 years with the last 5 years will bring us 30 units of income
+
+07:59.200 --> 08:05.200
+We need to get 10 more units for the return of investment
+
+08:05.200 --> 08:08.200
+Therefore, it is 1 third of the amount
+
+08:08.200 --> 08:18.200
+Thus, we can say that the period of payback in this case will be 4.1 years
+
+08:18.200 --> 08:24.200
+The next rule is the use of the profitability index
+
+08:24.200 --> 08:30.200
+The profitability index is almost the same as the NPV, but expressed in percents
+
+08:30.200 --> 08:42.200
+If we found a difference between the investment in the project and the income from the project
+
+08:43.200 --> 08:53.200
+In this case, we need to find the relationship between the two amounts
+
+08:53.200 --> 08:56.200
+You can see an example here
+
+08:56.200 --> 09:07.200
+If the income from the project is 130 units, our investment in the project is 100 units
+
+09:07.200 --> 09:11.200
+The profitability index gives us 130%
+
+09:12.200 --> 09:16.200
+The rule of application is very simple
+
+09:16.200 --> 09:21.200
+If the index is greater than 1, we accept the project, if it is less, we reject it
+
+09:21.200 --> 09:26.200
+If it is greater than 1, it means that the NPV is greater than 0
+
+09:26.200 --> 09:29.200
+If it is less than 1, it means that the NPV is less than 0
+
+09:29.200 --> 09:36.200
+There are situations when you compare different projects, but with different amounts
+
+09:37.200 --> 09:42.200
+The profitability index allows you to move away from absolute numbers and move to relative numbers
+
+09:42.200 --> 09:48.200
+Now about the internal profitability rate
+
+09:48.200 --> 09:50.200
+This is the next slide
+
+09:50.200 --> 09:56.200
+It is quite interesting and the moment when many people start to get confused
+
+09:56.200 --> 09:59.200
+Although there is nothing complicated there
+
+10:00.200 --> 10:05.200
+The internal profitability rate is a percentage rate
+
+10:05.200 --> 10:08.200
+In which the NPV of the project is 0
+
+10:08.200 --> 10:13.200
+Of course, it should be a project with a positive NPV
+
+10:13.200 --> 10:19.200
+Then the internal profitability rate will be positive
+
+10:19.200 --> 10:24.200
+The internal profitability rate cannot be negative
+
+10:24.200 --> 10:30.200
+Any percentage rate cannot be negative
+
+10:30.200 --> 10:34.200
+Look at the slide
+
+10:34.200 --> 10:37.200
+At the formula that is written there
+
+10:37.200 --> 10:41.200
+You see that the example with an investment project
+
+10:41.200 --> 10:44.200
+Where we have 100 units of investments
+
+10:44.200 --> 10:48.200
+And for the first 4 years and the last 30 years
+
+10:48.200 --> 10:50.200
+Our cash flows
+
+10:50.200 --> 10:53.200
+What about the indicators?
+
+10:53.200 --> 10:56.200
+The indicators have the same value
+
+10:56.200 --> 10:57.200
+IRR
+
+10:57.200 --> 11:05.200
+Unfortunately, there is no mathematical formula to calculate IRR
+
+11:05.200 --> 11:12.200
+The easiest way is to find this rate in the computer
+
+11:12.200 --> 11:18.200
+For example, IRR is 9.0%
+
+11:18.200 --> 11:23.200
+This means that at the cost of resources on the market
+
+11:23.200 --> 11:25.200
+At the cost of money
+
+11:25.200 --> 11:28.200
+9.0%
+
+11:28.200 --> 11:30.200
+9.18%
+
+11:30.200 --> 11:33.200
+Your project will have a zero NPV
+
+11:33.200 --> 11:40.200
+But if you have a rate that you can discount
+
+11:40.200 --> 11:42.200
+A rate at which you attract money
+
+11:42.200 --> 11:46.200
+Or a rate at which you must work
+
+11:46.200 --> 11:51.200
+Less than 6%
+
+11:51.200 --> 11:52.200
+7%
+
+11:52.200 --> 11:56.200
+Then you will definitely have a positive NPV
+
+11:56.200 --> 12:00.200
+So, if IRR
+
+12:00.200 --> 12:02.200
+Internal profitability rate
+
+12:02.200 --> 12:03.200
+This is the rule
+
+12:03.200 --> 12:06.200
+If IRR is more profitable
+
+12:06.200 --> 12:07.200
+More market profitability
+
+12:07.200 --> 12:08.200
+Or required profitability
+
+12:08.200 --> 12:11.200
+The project can be accepted
+
+12:12.200 --> 12:23.200
+We can also say that IRR is a kind of indicator of the project's strength, reliability, and stability
+
+12:23.200 --> 12:26.200
+It is a kind of a reserve of the project's strength
+
+12:26.200 --> 12:30.200
+The greater the difference between IRR and market profitability
+
+12:30.200 --> 12:35.200
+The more stable your project will be in the future
+
+12:35.200 --> 12:37.200
+The more reliable your project will be in the future
+
+12:38.200 --> 12:41.200
+We make investment decisions
+
+12:41.200 --> 12:45.200
+We are forced to predict the future, which is not determined
+
+12:45.200 --> 12:53.200
+Therefore, the more stable the project is in relation to the risk of changing the interest rate in the future
+
+12:53.200 --> 12:55.200
+The better
+
+12:55.200 --> 12:59.200
+Therefore, when making a decision, you must focus
+
+12:59.200 --> 13:02.200
+When making a decision, when choosing investment projects
+
+13:02.200 --> 13:06.200
+You must focus on the NPV, its absolute value
+
+13:06.200 --> 13:08.200
+The period of profitability
+
+13:08.200 --> 13:09.200
+The profitability index
+
+13:09.200 --> 13:11.200
+And IRR
+
+13:11.200 --> 13:13.200
+All these parameters together
+
+13:13.200 --> 13:15.200
+Will give you information
+
+13:15.200 --> 13:18.200
+About how profitable this project is
+
+13:18.200 --> 13:20.200
+How much it will increase capital
+
+13:20.200 --> 13:23.200
+How fast it will pay off
+
+13:23.200 --> 13:26.200
+And how stable it will be in the future
+
+13:27.200 --> 13:32.200
+Each of these parameters should not be used separately
+
+13:32.200 --> 13:33.200
+Only together
+
+13:33.200 --> 13:36.200
+Another question arises
+
+13:36.200 --> 13:40.200
+Since IRR and NPV intersect in something
+
+13:40.200 --> 13:43.200
+Which of these two parameters is better?
+
+13:43.200 --> 13:49.200
+Can't we use one parameter to assess the investment project?
+
+13:49.200 --> 13:51.200
+Why use a lot?
+
+13:51.200 --> 13:54.200
+There are such situations, such questions
+
+13:54.200 --> 13:56.200
+What is better?
+
+13:56.200 --> 14:00.200
+The absolute value of NPV or the relative value of IRR?
+
+14:02.200 --> 14:06.200
+The question is controversial, there is no definite answer
+
+14:06.200 --> 14:08.200
+But here we need to clarify
+
+14:08.200 --> 14:12.200
+That IRR, unlike NPV, is a capricious lady
+
+14:12.200 --> 14:14.200
+And has its nuances
+
+14:14.200 --> 14:17.200
+Before we talk about these nuances
+
+14:17.200 --> 14:21.200
+It should be clarified that there are different types of money flows
+
+14:21.200 --> 14:25.200
+And depending on the type, there can be nuances related to IRR
+
+14:25.200 --> 14:29.200
+There are three main types of money flows
+
+14:29.200 --> 14:32.200
+Traditional money flow
+
+14:32.200 --> 14:36.200
+This is a traditional money flow
+
+14:36.200 --> 14:38.200
+A borrowed money flow
+
+14:38.200 --> 14:43.200
+And several types of non-traditional money flows
+
+14:43.200 --> 14:45.200
+Let's start with the traditional
+
+14:45.200 --> 14:47.200
+Traditional money flow
+
+14:47.200 --> 14:51.200
+It means that you spent money at first
+
+14:51.200 --> 14:53.200
+That is, you have a flow at first
+
+14:53.200 --> 14:56.200
+And then every period you have a flow of money
+
+14:56.200 --> 15:00.200
+A borrowed type of money flows
+
+15:00.200 --> 15:04.200
+It assumes that you have attracted resources from somewhere
+
+15:04.200 --> 15:09.200
+And then you spend them gradually every period
+
+15:09.200 --> 15:14.200
+Finally, non-traditional is a combination of the first two
+
+15:14.200 --> 15:17.200
+But in a situation where over time
+
+15:17.200 --> 15:20.200
+Your money flows change signs
+
+15:20.200 --> 15:25.200
+That is, today you invested money, it is a flow
+
+15:25.200 --> 15:28.200
+Then you had inflows for three years in a row
+
+15:28.200 --> 15:33.200
+And then, for example, in 2004 you had some problems
+
+15:33.200 --> 15:35.200
+You have a flow of money resources
+
+15:35.200 --> 15:37.200
+And then again an inflow
+
+15:37.200 --> 15:39.200
+This will be a non-traditional money flow
+
+15:39.200 --> 15:45.200
+And it leads to the fact that you have not one IRR, but two
+
+15:45.200 --> 15:47.200
+Oddly enough
+
+15:47.200 --> 15:50.200
+So, what do money flows look like?
+
+15:50.200 --> 15:55.200
+The following slide shows us what a traditional money flow looks like
+
+15:55.200 --> 15:56.200
+Pay attention
+
+15:56.200 --> 16:00.200
+With the growth of profitability, the NPV is reduced
+
+16:00.200 --> 16:02.200
+This is quite natural
+
+16:02.200 --> 16:05.200
+With the growth of profitability, the NPV is reduced
+
+16:05.200 --> 16:16.200
+And IRR is the point where the line of our project intersects the horizontal axis
+
+16:16.200 --> 16:20.200
+A borrowed type of money flow is a reverse line
+
+16:20.200 --> 16:23.200
+By the way, the lines may not necessarily be curved
+
+16:23.200 --> 16:25.200
+The project line can be straight
+
+16:25.200 --> 16:27.200
+So it's just a drawing
+
+16:27.200 --> 16:33.200
+NPV on this drawing, you see, grows with the growth of profitability
+
+16:33.200 --> 16:36.200
+This is a borrowed type of money flow
+
+16:36.200 --> 16:39.200
+Finally, a non-traditional money flow
+
+16:39.200 --> 16:41.200
+One of its varieties
+
+16:41.200 --> 16:44.200
+In this case, it is a borrowed money flow
+
+16:44.200 --> 16:49.200
+You see that with the growth of profitability, the NPV grows
+
+16:49.200 --> 16:53.200
+Then there is a moment, a point of X-interruption
+
+16:53.200 --> 17:01.200
+After which, with the growth of profitability, the NPV begins to fall
+
+17:02.200 --> 17:06.200
+In this case, we will have two IRRs in the project
+
+17:09.200 --> 17:18.200
+In principle, the maximum number of IRRs is the number of times that money flows change the sign from positive to negative or vice versa
+
+17:18.200 --> 17:26.200
+It is obvious that with the multiplicity of IRRs in the project, its use is not purposeful
+
+17:26.200 --> 17:28.200
+There is nothing to talk about
+
+17:28.200 --> 17:32.200
+But if for some reason you want to have this parameter
+
+17:32.200 --> 17:38.200
+You can do a recalculation and get rid of negative money flows
+
+17:38.200 --> 17:45.200
+And thus bring your project to a traditional or borrowed type
+
+17:45.200 --> 17:47.200
+How can this be done?
+
+17:47.200 --> 17:52.200
+Let's look at the next two slides
+
+17:52.200 --> 17:56.200
+So, this will be an example of recalculation
+
+17:56.200 --> 18:04.200
+We have a project in which we spend 100 units in the first year
+
+18:04.200 --> 18:09.200
+Then in the second year we get 60 units of income
+
+18:09.200 --> 18:12.200
+Then we get 70 units of income
+
+18:12.200 --> 18:19.200
+And in the last year, for some reason, we have a flow of money in the amount of 10 units
+
+18:19.200 --> 18:21.200
+In other words, some additional investment
+
+18:21.200 --> 18:25.200
+What does this mean?
+
+18:25.200 --> 18:27.200
+This means that we will have two IRRs
+
+18:27.200 --> 18:29.200
+But not very good
+
+18:29.200 --> 18:32.200
+How can we get rid of this?
+
+18:32.200 --> 18:38.200
+To do this, you need to get rid of minus 10 units
+
+18:38.200 --> 18:42.200
+From the sum where we have minus 10 units
+
+18:42.200 --> 18:52.200
+To do this, you need to bring minus 10 units of the money flow of the fourth year
+
+18:52.200 --> 18:58.200
+To a type comparable to the money flows of the third year
+
+18:58.200 --> 19:02.200
+And in the next slide you will see how we do it
+
+19:02.200 --> 19:04.200
+Please note
+
+19:04.200 --> 19:08.200
+Minus 10 units is money from the fourth year
+
+19:09.200 --> 19:15.200
+You can get rid of them if you bring them to a comparable type with the third year
+
+19:15.200 --> 19:17.200
+The next year, the fourth
+
+19:17.200 --> 19:19.200
+So, what are we doing for this?
+
+19:19.200 --> 19:23.200
+We must discount minus 10 units for one year
+
+19:23.200 --> 19:28.200
+We discounted minus 10 units, we got, for example, minus 8 units
+
+19:28.200 --> 19:31.200
+This is not a principal value, but for example, minus 8
+
+19:31.200 --> 19:39.200
+Then our formula for determining NPV will look like this
+
+19:39.200 --> 19:44.200
+Two last sums, 70 remains unchanged
+
+19:44.200 --> 19:46.200
+1 plus R to the third degree
+
+19:46.200 --> 19:49.200
+But the fourth sum has already changed its appearance
+
+19:49.200 --> 19:53.200
+This is minus 8, 1 plus R to the third degree
+
+19:53.200 --> 19:56.200
+The third and fourth sums are comparable
+
+19:56.200 --> 19:58.200
+They can be reduced
+
+19:58.200 --> 20:04.200
+As a result of the reduction, 70 minus 8 remains 62
+
+20:04.200 --> 20:07.200
+Thus, please note
+
+20:07.200 --> 20:13.200
+We got a formula, we got a new money flow, so to speak
+
+20:13.200 --> 20:19.200
+In which there are minus 100 units of spending at the moment
+
+20:19.200 --> 20:21.200
+During the current year
+
+20:21.200 --> 20:26.200
+And two positive money flows for the next two years
+
+20:26.200 --> 20:37.200
+This is the equivalent of the money flow we considered at the beginning
+
+20:37.200 --> 20:42.200
+Namely, 60 after 2 years, 70 after 3, minus 10 after 4
+
+20:42.200 --> 20:51.200
+Thus, we got rid of the minus and brought our calculation to the traditional money flow
+
+20:51.200 --> 20:53.200
+Now we will have one NPV
+
+20:53.200 --> 20:55.200
+It can be used
+
+20:55.200 --> 20:57.200
+One nuance
+
+20:57.200 --> 21:02.200
+To discuss it, we will return to the CIPM and VACC model
+
+21:02.200 --> 21:04.200
+It would seem
+
+21:04.200 --> 21:06.200
+If we know the profitability of our project
+
+21:06.200 --> 21:08.200
+10%
+
+21:08.200 --> 21:11.200
+Then we can calculate VACC
+
+21:11.200 --> 21:15.200
+And depending on the capital expenditure
+
+21:15.200 --> 21:17.200
+Say
+
+21:17.200 --> 21:20.200
+Does this income suit us or not?
+
+21:20.200 --> 21:27.200
+For example, our capital expenditures are 12%
+
+21:27.200 --> 21:30.200
+12% is our capital expenditure
+
+21:30.200 --> 21:33.200
+Our project's profitability is 10%
+
+21:33.200 --> 21:37.200
+In theory, it seems that we should refuse it
+
+21:37.200 --> 21:39.200
+But this is not the right approach
+
+21:39.200 --> 21:41.200
+We can't say it without an operation
+
+21:41.200 --> 21:48.200
+First of all, because, let's repeat, VACC does not take into account the risk factor
+
+21:48.200 --> 21:51.200
+There are no discounting elements
+
+21:51.200 --> 21:54.200
+Pay attention to the next slide
+
+21:54.200 --> 22:00.200
+It shows two lines
+
+22:00.200 --> 22:05.200
+The first horizontal line shows the VACC rate
+
+22:05.200 --> 22:10.200
+It does not change depending on the project's risk
+
+22:10.200 --> 22:16.200
+In this case, the risk of the financial asset is expressed in the beta coefficient
+
+22:16.200 --> 22:21.200
+No matter how the risk changes, VACC remains unchanged
+
+22:21.200 --> 22:27.200
+At the same time, the calculation of the CIPM model
+
+22:27.200 --> 22:32.200
+This is the second horizontal line, it is called SML
+
+22:32.200 --> 22:42.200
+The CIPM model shows how the risk and profitability of the financial asset are related
+
+22:42.200 --> 22:48.200
+Now, pay attention to the gray field on the right
+
+22:48.200 --> 22:50.200
+It says, a non-profitable project
+
+22:50.200 --> 22:55.200
+If there is a dot with the word non-profitable project
+
+22:55.200 --> 22:59.200
+If there is the profitability and risk of our project
+
+22:59.200 --> 23:02.200
+It turns out to be an interesting picture
+
+23:02.200 --> 23:06.200
+The profitability of our project is higher than the VACC value
+
+23:06.200 --> 23:09.200
+It would seem that we should accept it
+
+23:09.200 --> 23:13.200
+But no, such a project should not be accepted
+
+23:13.200 --> 23:15.200
+Only because it is higher than VACC
+
+23:15.200 --> 23:19.200
+The fact is that it is less than the CIPM
+
+23:19.200 --> 23:23.200
+Which takes into account the ratio of risk and profit
+
+23:23.200 --> 23:30.200
+In other words, with this value of risk, which is marked with a dot
+
+23:30.200 --> 23:32.200
+Under the name of a non-profitable project
+
+23:32.200 --> 23:36.200
+With this value of risk, the profitability should be much higher
+
+23:36.200 --> 23:43.200
+Having passed this project, we take on a high risk of non-profitability
+
+23:43.200 --> 23:50.200
+The other field is on the left, also a gray field
+
+23:50.200 --> 23:53.200
+It is marked with the inscription, a profitable project
+
+23:53.200 --> 23:57.200
+If we take a project located in this area
+
+23:57.200 --> 24:01.200
+It certainly gives less profitability than VACC
+
+24:01.200 --> 24:03.200
+It would seem that we should refuse it
+
+24:03.200 --> 24:05.200
+But this is not true
+
+24:05.200 --> 24:11.200
+The fact is that this project, with the level of risk it has
+
+24:11.200 --> 24:17.200
+Has much more profitability than it should be, according to the logic of things
+
+24:17.200 --> 24:22.200
+This is a profitable project, and such a project should be accepted
+
+24:22.200 --> 24:28.200
+We have disassembled the basic rules of assessing investment projects
+
+24:29.200 --> 24:33.200
+I remind you that the assessment of investment projects is mainly a decision
+
+24:33.200 --> 24:36.200
+To accept the project for investment or not to accept it
+
+24:36.200 --> 24:38.200
+There are four main parameters
+
+24:38.200 --> 24:41.200
+This is NPV, the net value
+
+24:41.200 --> 24:44.200
+IRR, the internal income rate
+
+24:44.200 --> 24:49.200
+And also two parameters that also use the element of discounting
+
+24:49.200 --> 24:53.200
+This is the term of the purchase and the profitability index
+
+24:53.200 --> 24:56.200
+These are the basic parameters
+
+24:56.200 --> 25:02.200
+We also considered the situation related to the multiplicity of the internal income rate
+
+25:02.200 --> 25:07.200
+And the interaction of the CAPM and VACC models
+
+25:07.200 --> 25:11.200
+I hope you remember what we talked about
+
+25:11.200 --> 25:16.200
+I would ask you to get distracted from the video course
+
+25:16.200 --> 25:20.200
+And solve the tasks that are presented in the work conspect
+
+25:20.200 --> 25:23.200
+And then we will move on to the next topic
+
+25:23.200 --> 25:28.200
+Which is related to some nuances of decision-making
+
+25:44.200 --> 25:46.200
+We continue
+
+25:46.200 --> 25:50.200
+Now I am addressing people who are in the topic
+
+25:51.200 --> 25:58.200
+We move on to study how our basic rules, our basic logic
+
+25:58.200 --> 26:01.200
+Can affect the adoption of certain current decisions
+
+26:01.200 --> 26:06.200
+For example, decisions in the part of the financial, in the part of the borrowing policy
+
+26:06.200 --> 26:10.200
+For example, in the part of the policy of balance sheets
+
+26:10.200 --> 26:14.200
+For example, in the part of the selection of sales volumes
+
+26:14.200 --> 26:19.200
+You can also talk about the credit policy
+
+26:19.200 --> 26:26.200
+Whether to provide or not to provide commercial credit to your partner
+
+26:26.200 --> 26:31.200
+You can also talk about the choice of the device
+
+26:31.200 --> 26:36.200
+Most suitable from a financial point of view for this project
+
+26:36.200 --> 26:46.200
+So, we will start this section with a question that sounds like this
+
+26:46.200 --> 26:50.200
+Which borrowing policy within the horizon of planning is better?
+
+26:50.200 --> 26:52.200
+There are two options
+
+26:52.200 --> 26:58.200
+The first option means that you attract long-term borrowing funds
+
+26:58.200 --> 27:02.200
+In the maximum volume
+
+27:02.200 --> 27:08.200
+That is, in such a maximum volume that covers all your needs with a surplus
+
+27:08.200 --> 27:15.200
+In this case, when you have free funds, and they will be most of the time
+
+27:15.200 --> 27:24.200
+In this case, you are temporarily free resources, invest in high-liquid financial assets
+
+27:24.200 --> 27:26.200
+Maybe the second option
+
+27:26.200 --> 27:31.200
+When you attract long-term investments at a minimum
+
+27:31.200 --> 27:40.200
+And at the time when you have a need for borrowing funds
+
+27:40.200 --> 27:44.200
+And it will almost always arise, that is, there will be a certain shortage
+
+27:44.200 --> 27:51.200
+In this case, you will attract short-term borrowing resources from the market
+
+27:51.200 --> 27:55.200
+Both of these policies are reflected in the following two slides
+
+27:55.200 --> 27:58.200
+Pay attention, the policy of maximum
+
+27:58.200 --> 28:02.200
+That is, when you attract resources in the maximum volume
+
+28:02.200 --> 28:08.200
+So, the amount and time are reflected in this graph
+
+28:08.200 --> 28:12.200
+I mean the need for investment
+
+28:12.200 --> 28:14.200
+It is more or less, more or less
+
+28:14.200 --> 28:20.200
+There is a certain peak, you can attract long-term financing at this peak
+
+28:20.200 --> 28:25.200
+All that is less than this peak, but higher than the needs of your project
+
+28:25.200 --> 28:28.200
+These are temporarily free funds that you need to do something with
+
+28:28.200 --> 28:31.200
+They need to be invested in high-liquid resources
+
+28:31.200 --> 28:37.200
+The following graph shows us the policy of the minimum
+
+28:37.200 --> 28:44.200
+It means that you choose a minimum limit from your investment needs
+
+28:44.200 --> 28:49.200
+And on this minimum limit you attract long-term borrowing funds
+
+28:49.200 --> 28:53.200
+But all that will be higher, pay attention
+
+28:53.200 --> 28:57.200
+Except for one case, in all other cases on the graph
+
+28:57.200 --> 29:01.200
+You will need to attract additional borrowing funds
+
+29:01.200 --> 29:05.200
+These will be short-term, for example, bank loans
+
+29:06.200 --> 29:10.200
+The choice of two policies, which one to choose
+
+29:10.200 --> 29:13.200
+The policy of the maximum or the policy of the minimum
+
+29:13.200 --> 29:17.200
+Depends on the cost of these resources
+
+29:17.200 --> 29:19.200
+On your costs for these resources
+
+29:19.200 --> 29:23.200
+Here the recommendation can only be in words
+
+29:23.200 --> 29:30.200
+You need to calculate the costs for one policy, the costs for the second policy
+
+29:30.200 --> 29:33.200
+Keep in mind that in the first case, the policy of the maximum
+
+29:33.200 --> 29:38.200
+You will also have a profit from reinvesting in temporary funds
+
+29:38.200 --> 29:42.200
+Somewhere between these two policies will be the golden mean
+
+29:42.200 --> 29:45.200
+Where you need to choose by the method of selection
+
+29:45.200 --> 29:50.200
+How, taking into account your costs for borrowing funds and repayment from them
+
+29:50.200 --> 29:58.200
+I draw your attention to the fact that you will have a certain gap in interest rates
+
+29:58.200 --> 30:09.200
+Namely, the interest rates on which you will invest will differ from the interest rates on which you will attract, even short-term resources
+
+30:09.200 --> 30:11.200
+And the last thing on this topic
+
+30:11.200 --> 30:16.200
+Why do we generally divide long-term investment and short-term?
+
+30:16.200 --> 30:18.200
+Why do we highlight two policies?
+
+30:18.200 --> 30:21.200
+The fact is that, I think it should also be obvious to you
+
+30:21.200 --> 30:29.200
+That the interest rates on long-term resources and short-term resources are different from each other
+
+30:29.200 --> 30:35.200
+Due to the fact that there is less risk in short-term loans
+
+30:35.200 --> 30:40.200
+Therefore, the interest rate there should theoretically be lower than in the long-term
+
+30:40.200 --> 30:45.200
+The next point is related to the management of balance sheets
+
+30:45.200 --> 30:49.200
+The basic question that sounds here is the following
+
+30:49.200 --> 30:53.200
+What should be the desired level of money on the accounts?
+
+30:53.200 --> 31:02.200
+This intersects with the previous question regarding the choice of financing policy for the project
+
+31:02.200 --> 31:14.200
+There are a number of models that suggest you calculate the recommended balance on the accounts
+
+31:14.200 --> 31:28.200
+Please note that there is a set of formulas in the work conspectus that you can use in your work
+
+31:28.200 --> 31:35.200
+I will only add one point, I will not comment on the formula, it is quite obvious
+
+31:35.200 --> 31:37.200
+I will add only the following
+
+31:37.200 --> 31:49.200
+It makes sense to determine the time when you have a profit or a deficit of funds on the account
+
+31:49.200 --> 31:56.200
+After you determine this, discount them all, calculate their given value
+
+31:56.200 --> 32:03.200
+Determine the NPV, the NPV analog for the deficit and profit of funds on the account
+
+32:03.200 --> 32:12.200
+Then you will find out if you have excess or a shortage of resources on the horizon of planning
+
+32:12.200 --> 32:22.200
+Further, if you break this whole period into separate parts, you will see when you need to create a reserve
+
+32:22.200 --> 32:35.200
+If you have a deficit ahead, or an opportunity to invest resources if you have a profit ahead
+
+32:35.200 --> 32:39.200
+In any case, the general approach is the same as in the previous item
+
+32:39.200 --> 32:46.200
+You discount the deficit and profit and try to find the NPV analog
+
+32:47.200 --> 32:54.200
+If you consider these two points preparatory, then now it's more interesting
+
+32:54.200 --> 33:01.200
+More interesting is called providing or not providing a loan to a client
+
+33:01.200 --> 33:07.200
+A topic that concerns all enterprises, without exception
+
+33:07.200 --> 33:18.200
+Many times enterprises face the fact that the client asks for a loan for some reason
+
+33:18.200 --> 33:22.200
+And sometimes the client leaves without receiving a loan
+
+33:22.200 --> 33:31.200
+Sometimes, having received a loan, the client is so happy that he buys more or becomes a regular client
+
+33:32.200 --> 33:39.200
+Let's consider two situations related to credit policy
+
+33:39.200 --> 33:44.200
+For both situations, we will have some general parameters
+
+33:44.200 --> 33:50.200
+Please pay attention to the slide related to credit policy
+
+33:50.200 --> 33:53.200
+We will have several variables
+
+33:53.200 --> 33:55.200
+The first is the price of the product
+
+33:55.200 --> 33:59.200
+We will take the figure of 35 units for the calculation
+
+33:59.200 --> 34:01.200
+The price of the product is the digit P
+
+34:01.200 --> 34:03.200
+V is the variable costs
+
+34:03.200 --> 34:08.200
+The letter P is the probability that the client will not pay it after receiving the loan
+
+34:08.200 --> 34:14.200
+I repeat, this is the probability that the client will not pay it after receiving the loan
+
+34:14.200 --> 34:19.200
+And finally, R is the profitability of the debitor's debt
+
+34:19.200 --> 34:22.200
+So, the first situation
+
+34:22.200 --> 34:27.200
+The client will make a purchase only if he is provided with a loan
+
+34:27.200 --> 34:30.200
+This is a rather tough situation
+
+34:30.200 --> 34:34.200
+The client will make a purchase only if he is provided with a loan
+
+34:34.200 --> 34:36.200
+Otherwise, he will refuse
+
+34:36.200 --> 34:39.200
+What does the company have in this case?
+
+34:39.200 --> 34:42.200
+It has two situations
+
+34:42.200 --> 34:46.200
+In the first situation, it has two options for the development of the event
+
+34:46.200 --> 34:53.200
+The first is that the company refuses to provide a loan to this stubborn client
+
+34:53.200 --> 34:57.200
+who only wants a loan, otherwise he will refuse
+
+34:57.200 --> 34:59.200
+The first situation is that the company refuses
+
+34:59.200 --> 35:03.200
+In this case, it has no increase in cash flows
+
+35:03.200 --> 35:05.200
+Everything is zero
+
+35:05.200 --> 35:11.200
+The second situation is when the company goes to meet this client and gives him a loan
+
+35:11.200 --> 35:18.200
+In this case, the company spends only variable costs
+
+35:19.200 --> 35:26.200
+but plans to get a certain amount of cash flow in return
+
+35:26.200 --> 35:28.200
+Pay attention to the slide
+
+35:28.200 --> 35:38.200
+The cash flow is 1-pi multiplied by the price of the product
+
+35:38.200 --> 35:42.200
+Again, 1-pi multiplied by the price of the product
+
+35:42.200 --> 35:50.200
+This is the calculated amount of cash flow that the company will receive from the client
+
+35:50.200 --> 35:52.200
+given that the client may not pay
+
+35:52.200 --> 35:56.200
+We have a probability that the client will not pay in the amount of pi
+
+35:56.200 --> 35:58.200
+I repeat again
+
+35:58.200 --> 36:03.200
+If the company gives a loan, it risks its variable costs
+
+36:03.200 --> 36:08.200
+but in return receives a price of the product multiplied by 1-pi
+
+36:08.200 --> 36:13.200
+This is the calculated amount of cash flow that the client will receive
+
+36:13.200 --> 36:19.200
+Now, if we put all these numbers together, we can build a formula
+
+36:19.200 --> 36:21.200
+Pay attention to the slide
+
+36:21.200 --> 36:26.200
+The logic is the same as everywhere
+
+36:26.200 --> 36:30.200
+NPV is the difference between income and expenses
+
+36:30.200 --> 36:33.200
+Our expenses are today's variable costs
+
+36:33.200 --> 36:36.200
+They go with a minus sign
+
+36:36.200 --> 36:38.200
+Minus V
+
+36:38.200 --> 36:40.200
+Plus
+
+36:40.200 --> 36:43.200
+Discounted payment
+
+36:43.200 --> 36:45.200
+I repeat again
+
+36:45.200 --> 36:49.200
+This is a variable client who will refuse to buy if he is not given a loan
+
+36:49.200 --> 36:51.200
+but may not pay
+
+36:51.200 --> 36:57.200
+So, a variable client, after a period of money payment
+
+36:58.200 --> 37:03.200
+In the end, the NPV of this decision
+
+37:03.200 --> 37:07.200
+whether to give him a loan or not, looks like this
+
+37:07.200 --> 37:11.200
+If we use the numbers we had
+
+37:11.200 --> 37:17.200
+we get the line that says NPV is equal to minus 15 and so on
+
+37:17.200 --> 37:22.200
+If, for example, we take a certain figure of 30%
+
+37:22.200 --> 37:28.200
+Suppose 30% of clients do not pay even after receiving a loan
+
+37:28.200 --> 37:36.200
+30% of clients are not reliable
+
+37:36.200 --> 37:40.200
+Even in this case, the NPV of this decision will be greater than 0
+
+37:40.200 --> 37:45.200
+Accordingly, it turns out that if you give a loan
+
+37:45.200 --> 37:52.200
+quite often, so that it can be considered a statistically significant action
+
+37:52.200 --> 37:57.200
+then even with 30% of refugees
+
+37:57.200 --> 38:00.200
+you will still have a positive inflow of resources
+
+38:00.200 --> 38:03.200
+This decision will be correct
+
+38:03.200 --> 38:11.200
+By the way, to fix this moment for you
+
+38:12.200 --> 38:17.200
+you can pause now and calculate these numbers
+
+38:17.200 --> 38:22.200
+Try to determine at what value of Pi, that is, the number of refugees
+
+38:22.200 --> 38:26.200
+at what value of Pi the NPV will be zero
+
+38:26.200 --> 38:32.200
+That is, above what value of Pi, you cannot give a loan
+
+38:32.200 --> 38:34.200
+Please calculate
+
+38:34.200 --> 38:36.200
+Now we move on to the next question
+
+38:36.200 --> 38:39.200
+The next question is the second situation
+
+38:39.200 --> 38:42.200
+The first situation was a one-time process
+
+38:42.200 --> 38:45.200
+You give me a loan, and I buy you
+
+38:45.200 --> 38:47.200
+Now the second situation
+
+38:47.200 --> 38:51.200
+The client who made a purchase once becomes a regular buyer
+
+38:51.200 --> 38:56.200
+The client who made a purchase once becomes a regular buyer
+
+38:56.200 --> 38:58.200
+and in the future does not refuse to buy
+
+38:58.200 --> 39:01.200
+Quite a realistic assumption
+
+39:01.200 --> 39:04.200
+There is no doubt about it
+
+39:04.200 --> 39:06.200
+It happens quite often
+
+39:06.200 --> 39:08.200
+Let's consider
+
+39:08.200 --> 39:13.200
+If the company does not provide a loan, then nothing will happen to it
+
+39:13.200 --> 39:16.200
+If the company provides a loan, then
+
+39:16.200 --> 39:21.200
+On the one hand, it risks its variable costs
+
+39:21.200 --> 39:23.200
+Their volume is V
+
+39:23.200 --> 39:32.200
+But then it can get a value of P
+
+39:32.200 --> 39:34.200
+if the client pays
+
+39:35.200 --> 39:42.200
+It turns out that in the next period
+
+39:42.200 --> 39:46.200
+the company either does not receive anything
+
+39:46.200 --> 39:48.200
+because the client does not pay
+
+39:48.200 --> 39:53.200
+or receives a full payment if the client pays
+
+39:53.200 --> 39:57.200
+But since we assumed that he pays regularly
+
+39:57.200 --> 40:04.200
+then there will be a constant difference between P and V
+
+40:04.200 --> 40:12.200
+The cash flow over a period will be the difference between the cost of the product and the variable costs
+
+40:12.200 --> 40:16.200
+Please pay attention to the slide on which the second situation is described
+
+40:19.200 --> 40:21.200
+Let's move on to the next slide
+
+40:21.200 --> 40:31.200
+The cost of each new client will be estimated as the revenue minus the cost of the company divided by R
+
+40:31.200 --> 40:34.200
+Please remember the formula for the current cost
+
+40:34.200 --> 40:41.200
+Please remember the formula for the valuation of the share price with a constant dividend
+
+40:41.200 --> 40:43.200
+Don't you think this formula is similar?
+
+40:43.200 --> 40:45.200
+Absolutely right!
+
+40:45.200 --> 40:47.200
+It is the same formula
+
+40:48.200 --> 40:55.200
+But instead of the dividend, we have a difference of P minus V
+
+40:55.200 --> 40:59.200
+Now, about the effectiveness of lending
+
+40:59.200 --> 41:02.200
+We must calculate the NPV of this solution
+
+41:02.200 --> 41:06.200
+I repeat that we spend the variable costs
+
+41:06.200 --> 41:12.200
+But on the other hand, we get a certain flow of money
+
+41:12.200 --> 41:15.200
+This flow is constant
+
+41:16.200 --> 41:18.200
+What does it mean?
+
+41:18.200 --> 41:24.200
+It means that on the one hand, the amount is the difference between P and V
+
+41:24.200 --> 41:31.200
+and on the other hand, there should be a correction for the risk of not fulfilling their obligations
+
+41:31.200 --> 41:33.200
+The risk of the client not paying
+
+41:33.200 --> 41:36.200
+This risk remains, it has not been canceled
+
+41:36.200 --> 41:40.200
+As a result, our formula will look like this
+
+41:40.200 --> 41:50.200
+We must adjust the cost of each new client to the percentage of non-return money
+
+41:50.200 --> 41:58.200
+and compare it with our costs for this solution
+
+41:58.200 --> 42:05.200
+As a result, we get the difference between the variable costs and the cost of each new client
+
+42:05.200 --> 42:08.200
+with a correction for the risk of not fulfilling their obligations
+
+42:08.200 --> 42:13.200
+Let's see what happens with this formula, which is reflected in our slide
+
+42:13.200 --> 42:22.200
+It turns out that to find out the client's payment ability costs only 15 units
+
+42:22.200 --> 42:24.200
+These are our variable costs
+
+42:24.200 --> 42:29.200
+The cost of the client is an incredibly large amount
+
+42:29.200 --> 42:32.200
+451 units
+
+42:32.200 --> 42:35.200
+We calculated this according to the first formula
+
+42:35.200 --> 42:41.200
+If we now calculate the NPV of our decision to provide a loan under such conditions
+
+42:41.200 --> 42:50.200
+If we take even 30% of the non-return money, it turns out that the NPV is still positive
+
+42:50.200 --> 42:54.200
+The cost of our client is more than 400
+
+42:54.200 --> 42:59.200
+The costs to find out this case are only 15
+
+42:59.200 --> 43:06.200
+If we take a look, the share of non-return money can be 70-80%
+
+43:06.200 --> 43:09.200
+Please count the rest of the non-return money
+
+43:09.200 --> 43:19.200
+This situation emphasizes once again that the provision of commercial loans is a very profitable business
+
+43:19.200 --> 43:27.200
+Of course, it is risky, because no one canceled a 100% refusal of a loan
+
+43:27.200 --> 43:31.200
+Nevertheless, according to our calculations, it is very profitable
+
+43:31.200 --> 43:38.200
+It is not surprising that many companies are activating their activities in terms of providing such loans
+
+43:38.200 --> 43:40.200
+Let's move on
+
+43:40.200 --> 43:48.200
+Now we will consider the topic of NPV and sales volume interconnection
+
+43:48.200 --> 43:53.200
+Interconnection of decision-making in the field of sales volume and NPV
+
+43:54.200 --> 44:02.200
+Of course, we can consider other topics, such as the connection of NPV with amortization, with taxes
+
+44:02.200 --> 44:04.200
+But the logic is the same everywhere
+
+44:04.200 --> 44:06.200
+We will consider it in this example
+
+44:06.200 --> 44:09.200
+So, the basic question
+
+44:09.200 --> 44:19.200
+At what level of sales will the company be provided with financial profitability?
+
+44:19.200 --> 44:22.200
+We will consider three levels of profitability
+
+44:22.200 --> 44:26.200
+Minimum, calculated and financial
+
+44:26.200 --> 44:35.200
+As you understand, the financial profitability level is the level at which the NPV of the project, the NPV of the business is zero
+
+44:35.200 --> 44:38.200
+These are very high requirements for the project
+
+44:38.200 --> 44:52.200
+Calculated profitability level is the level at which the company can cover its permanent costs and amortization
+
+44:52.200 --> 44:54.200
+Permanent costs and amortization
+
+44:54.200 --> 45:03.200
+Finally, there is the simplest level, the first level, the so-called minimum profitability level
+
+45:03.200 --> 45:08.200
+This is the level of sales at which the NPV covers only the permanent costs
+
+45:08.200 --> 45:14.200
+Of course, there can be no profit, no amortization
+
+45:14.200 --> 45:17.200
+This is just the covering of the permanent costs
+
+45:17.200 --> 45:22.200
+We will operate the term Operational cash flow
+
+45:22.200 --> 45:24.200
+OSF
+
+45:24.200 --> 45:30.200
+This is one of the options for direct calculation of cash flows
+
+45:30.200 --> 45:36.200
+It includes the company's income up to the deduction of interest and taxes
+
+45:36.200 --> 45:40.200
+Plus amortization and minus taxes
+
+45:40.200 --> 45:50.200
+At the minimum profitability level, the operational cash flow should be zero
+
+45:51.200 --> 46:12.200
+At the calculated profitability level, the company's cash flows should cover the permanent costs and cover amortization
+
+46:12.200 --> 46:20.200
+Finally, at the financial profitability level, we should get the operational cash flows in full
+
+46:20.200 --> 46:25.200
+But with such calculations to achieve zero NPV
+
+46:25.200 --> 46:29.200
+Please refer to our slides
+
+46:29.200 --> 46:38.200
+You can see that there is a dependence between the operational cash flows and the volume of sales
+
+46:38.200 --> 46:42.200
+The formula of this dependence is presented on the slide
+
+46:42.200 --> 46:47.200
+Where Q is the volume of sales and F is the permanent costs
+
+46:47.200 --> 46:54.200
+P-V is the price of the product minus the variable costs
+
+46:54.200 --> 46:56.200
+We are already familiar with the terms
+
+46:56.200 --> 47:05.200
+The formula of the minimum profitability level is presented on the same slide
+
+47:05.200 --> 47:13.200
+The difference between all three formulas will be in the volume of numbers
+
+47:13.200 --> 47:16.200
+Please note
+
+47:16.200 --> 47:21.200
+The minimum profitability level is Q
+
+47:21.200 --> 47:25.200
+We substitute the value formula
+
+47:25.200 --> 47:28.200
+Let's start with the denominator
+
+47:28.200 --> 47:30.200
+41 minus 21
+
+47:30.200 --> 47:34.200
+The difference between the price of the product and the variable costs
+
+47:34.200 --> 47:38.200
+Now let's go up to the denominator
+
+47:38.200 --> 47:42.200
+The denominator has a number 600 on the left
+
+47:42.200 --> 47:45.200
+These are the permanent costs
+
+47:45.200 --> 47:47.200
+On the right we have zero
+
+47:47.200 --> 47:51.200
+This means that the operational cash flow is zero
+
+47:51.200 --> 47:55.200
+There is no amortization, no profit, etc.
+
+47:55.200 --> 48:05.200
+In order to ensure the minimum profitability level, this company must sell 30 units of its product
+
+48:05.200 --> 48:13.200
+With this volume of sales, this company can cover its permanent costs
+
+48:13.200 --> 48:16.200
+Now let's move on to the next slide
+
+48:16.200 --> 48:25.200
+Here, unlike the previous formula, the difference is only in the number above the line on the right
+
+48:25.200 --> 48:33.200
+Please note that the same 600 permanent costs, the same price of the product 41 minus 21
+
+48:33.200 --> 48:42.200
+But only now we have 640 units of amortization in the structure of the operational cash flow
+
+48:43.200 --> 48:55.200
+In order for the company to cover amortization and cover permanent costs, it must produce 62 units of its product
+
+48:55.200 --> 48:59.200
+Produce and sell
+
+48:59.200 --> 49:02.200
+Let's make an addition
+
+49:02.200 --> 49:04.200
+Produce and sell
+
+49:04.200 --> 49:07.200
+This was the calculated profit-free sales level
+
+49:07.200 --> 49:20.200
+Now we need to determine the financial profit-free sales level, with which this project is provided by zero NPV
+
+49:20.200 --> 49:30.200
+To do this, we need to determine the cost, the annual size of the operational cash flow
+
+49:30.200 --> 49:36.200
+Which will include the amortization of those 40-640 units we talked about
+
+49:37.200 --> 49:47.200
+Please pay attention to our slide, everything is described there
+
+49:47.200 --> 49:57.200
+I will only say that the total investment of the project is 3.2 million
+
+49:57.200 --> 50:00.200
+The annual income is 20%
+
+50:00.200 --> 50:07.200
+We need to determine the annual cash flow
+
+50:07.200 --> 50:10.200
+Since the project is designed for 5 years
+
+50:10.200 --> 50:14.200
+What should be the annual cash flow
+
+50:14.200 --> 50:20.200
+Please remember that we went through the model of the cost of annuity
+
+50:20.200 --> 50:33.200
+This model assumes that you can calculate the cost of a set, a series, annual payments of the same amount
+
+50:33.200 --> 50:38.200
+If you know this amount, the number of years or periods and the interest rate
+
+50:38.200 --> 50:46.200
+In this case, the interest rate is 20, the number of years is 5, and the total amount is known
+
+50:46.200 --> 50:51.200
+We know the cost of annuity, but we don't know the amount
+
+50:51.200 --> 50:55.200
+In the formula, it was the size of the coupon
+
+50:55.200 --> 51:03.200
+In this formula, we talk about the parameters of operational cash flow
+
+51:03.200 --> 51:08.200
+We use the capitalization coefficient
+
+51:08.200 --> 51:19.200
+As a result, we get that the annual nominal cost of the company's cash flows is 1070 units
+
+51:19.200 --> 51:26.200
+Every year, 1070 units should be generated by this project
+
+51:27.200 --> 51:36.200
+In order to ensure the financial profitability of our project
+
+51:36.200 --> 51:47.200
+You probably noticed that we took 3,200, the cost of our investments
+
+51:47.200 --> 51:56.200
+We could say that we have the cost of investments, we have the cash flow from these investments
+
+51:56.200 --> 52:02.200
+But their cost, I repeat,
+
+52:02.200 --> 52:07.200
+If we took a different number, not 3,200
+
+52:07.200 --> 52:12.200
+For example, we would say that we have the cash flow from our project of 3,300
+
+52:12.200 --> 52:17.200
+Then we would calculate for our cash flow OSF
+
+52:17.200 --> 52:22.200
+Based on the fact that the NPV is greater than 0
+
+52:22.200 --> 52:27.200
+In this case, we take 3,200
+
+52:27.200 --> 52:34.200
+This number corresponds to both the investment and the cash flow from our project
+
+52:34.200 --> 52:38.200
+Since the two numbers are the same, the NPV is 0
+
+52:38.200 --> 52:48.200
+When we set the value of the operational cash flow, we get 83.5
+
+52:48.200 --> 52:56.200
+This means that the company must sell 84 units of goods annually
+
+52:56.200 --> 53:05.200
+To ensure the financial profitability level, that is, to ensure the NPV of its project
+
+53:05.200 --> 53:14.200
+We note that 85 units of goods should be produced under the conditions of this project
+
+53:14.200 --> 53:18.200
+Our financial profitability level is 84
+
+53:18.200 --> 53:24.200
+The difference is very small, this is a dangerous situation
+
+53:24.200 --> 53:28.200
+Because the project has no reserve
+
+53:28.200 --> 53:36.200
+Without a reserve, it can become a victim of any negative change in the interest rate on the market
+
+53:36.200 --> 53:42.200
+In any case, we have seen three situations
+
+53:42.200 --> 53:50.200
+The most important is the last point, namely the financial profitability level
+
+53:50.200 --> 53:55.200
+Now we will consider the same, but on a graph
+
+53:55.200 --> 53:57.200
+Please refer to the slide
+
+53:57.200 --> 54:06.200
+Here you see a line that reflects the dependence between the cash flows and the volume of sales
+
+54:06.200 --> 54:08.200
+You see three points here
+
+54:08.200 --> 54:15.200
+Minimum level, calculated level and financial profitability level
+
+54:16.200 --> 54:25.200
+This is just an illustration, I hope it will help you better remember this point
+
+54:25.200 --> 54:33.200
+Of course, the company can work for a while at a minimum level of profitability
+
+54:33.200 --> 54:39.200
+Of course, the company can work for a long time at a calculated level of profitability
+
+54:39.200 --> 54:49.200
+But in order for the company to count on capital growth, it must exceed the financial profitability level of sales
+
+54:49.200 --> 54:55.200
+If the company is counting on the stock market, on the growth of the stock market,
+
+54:55.200 --> 55:06.200
+it must operate on the cash flows and strive for the cash flows to exceed the calculated value
+
+55:07.200 --> 55:17.200
+The next point is the choice of several devices with the same functions
+
+55:17.200 --> 55:22.200
+of the device that is the least financially expensive
+
+55:22.200 --> 55:25.200
+Again, I ask you to refer to the slide
+
+55:25.200 --> 55:32.200
+The basic question is how to choose a device with the same functions, but with different service terms,
+
+55:32.200 --> 55:36.200
+the most profitable from a financial point of view
+
+55:36.200 --> 55:38.200
+We will have an example
+
+55:38.200 --> 55:45.200
+The logic is very simple, it is based on discounting
+
+55:45.200 --> 55:46.200
+Let's look at an example
+
+55:46.200 --> 55:48.200
+We have two devices
+
+55:48.200 --> 55:53.200
+The first one costs 100 units, it will last for two years
+
+55:53.200 --> 55:57.200
+Annual expense for this device is 10 units
+
+55:58.200 --> 56:05.200
+The second device costs 140 units, it will last for three years
+
+56:05.200 --> 56:10.200
+Annual expense for this device is 8 units
+
+56:10.200 --> 56:13.200
+How do we compare these two devices?
+
+56:13.200 --> 56:17.200
+We must calculate their cost
+
+56:17.200 --> 56:21.200
+The cost of these devices
+
+56:21.200 --> 56:29.200
+If it was a finished object that would give a profit,
+
+56:29.200 --> 56:34.200
+we would consider it a profit from the project
+
+56:34.200 --> 56:38.200
+But in this case, it is a mechanism, a part of the whole
+
+56:38.200 --> 56:45.200
+We can evaluate its financial efficiency only from the point of view of the costs for this project
+
+56:45.200 --> 56:46.200
+The rule is simple
+
+56:46.200 --> 56:50.200
+The lower the costs, the better this device
+
+56:50.200 --> 56:55.200
+With the same technical characteristics
+
+56:55.200 --> 56:59.200
+Please, look at the slide
+
+56:59.200 --> 57:11.200
+We calculate the PV, the cost, and the expense for both devices
+
+57:11.200 --> 57:16.200
+The first device is the price of its purchase
+
+57:16.200 --> 57:20.200
+Plus the discounted costs for the first year, plus the discounted costs for the second year
+
+57:20.200 --> 57:22.200
+It turns out 117 kopecks
+
+57:22.200 --> 57:25.200
+The second device is more expensive, 140 kopecks
+
+57:25.200 --> 57:30.200
+Plus the costs for the first year, the discounted costs for the second year, and the costs for the third year
+
+57:30.200 --> 57:32.200
+All the same discounted
+
+57:32.200 --> 57:35.200
+As a result, it turns out 159 units
+
+57:35.200 --> 57:40.200
+What is better, 159 or 117?
+
+57:40.200 --> 57:43.200
+We can not answer this question
+
+57:43.200 --> 57:49.200
+Because these two numbers have different periods, different deadlines
+
+57:49.200 --> 57:53.200
+The first number 117 is calculated for 2 years
+
+57:53.200 --> 57:57.200
+The second number 159 is calculated for 3 years
+
+57:57.200 --> 58:00.200
+It would seem to divide the first one by 2, the second by 3
+
+58:00.200 --> 58:02.200
+And here is the solution to the problem
+
+58:02.200 --> 58:04.200
+No, this is not the right solution to the problem
+
+58:04.200 --> 58:09.200
+This is a solution for accounting, for the nominal economy
+
+58:09.200 --> 58:13.200
+We are talking about an economy where there is a discounting procedure
+
+58:13.200 --> 58:20.200
+Therefore, we must use, again, we return to the model of evaluating the cost of annuity
+
+58:20.200 --> 58:30.200
+In this case, these 117 and 159 are the cost of an annuity
+
+58:30.200 --> 58:36.200
+The cost of annuity, which in one case is two years, in another case is three years
+
+58:36.200 --> 58:52.200
+Again, we look at our slide and see that the cost of annuity for the first device is 67 units
+
+58:52.200 --> 58:55.200
+For the second 64 units
+
+58:56.200 --> 59:05.200
+Again, we have two-year costs, they are 117 and three-year, 159
+
+59:05.200 --> 59:12.200
+The cost of the first device is 117 units
+
+59:12.200 --> 59:19.200
+This is equivalent to two payments, two equal payments, if we talk about annuity
+
+59:19.200 --> 59:21.200
+Two equal payments, the first year and the second year
+
+59:22.200 --> 59:25.200
+How do we calculate the sum of one of these payments?
+
+59:25.200 --> 59:28.200
+We must use the annuity formula
+
+59:28.200 --> 59:34.200
+1.74 is the capitalization coefficient obtained by the formula 14
+
+59:34.200 --> 59:38.200
+We need to use the capitalization coefficient for it
+
+59:38.200 --> 59:42.200
+The number of years is two years, the interest rate is 10%
+
+59:42.200 --> 59:44.200
+We got the capitalization coefficient
+
+59:44.200 --> 59:55.200
+We determined that if two times 67 is paid, we get 117
+
+59:55.200 --> 01:00:03.200
+The second device is 159, these are the total costs for it, and 2.49 is the capitalization coefficient
+
+01:00:03.200 --> 01:00:08.200
+For its calculation, we took the number of years 3 and the interest rate
+
+01:00:08.200 --> 01:00:25.200
+If 64 is paid three times in a row, the total cost of three 64 units is 159.9
+
+01:00:25.200 --> 01:00:31.200
+Now we need to compare the two numbers given for one year
+
+01:00:31.200 --> 01:00:39.200
+Remember, at first we determined the total costs for each device
+
+01:00:39.200 --> 01:00:44.200
+And then we brought these costs, which were different in time, to one year
+
+01:00:44.200 --> 01:00:48.200
+It turns out 67 with kopecks, 64 with kopecks
+
+01:00:48.200 --> 01:00:56.200
+We must choose the second device, because the costs for it in the annual measurement are less
+
+01:00:57.200 --> 01:01:01.200
+The costs for it in the annual measurement are less, they are only 64
+
+01:01:01.200 --> 01:01:11.200
+At this point, we begin to finish our course, which consists of the basic rules of the investment project assessment
+
+01:01:11.200 --> 01:01:15.200
+Some technical solutions that we have just disassembled
+
+01:01:15.200 --> 01:01:22.200
+The application of these basic rules, namely the application of NPV to the current analysis of economic activity
+
+01:01:23.200 --> 01:01:26.200
+In conclusion, we will analyze the last point
+
+01:01:26.200 --> 01:01:36.200
+The fact is that the company can consider many investment projects at the same time
+
+01:01:36.200 --> 01:01:47.200
+And it often happens that in the work of one company there are two or three projects
+
+01:01:47.200 --> 01:01:55.200
+As practice shows, projects can be independent, or they can be dependent
+
+01:01:55.200 --> 01:02:01.200
+If the projects are independent, then we have no problems
+
+01:02:01.200 --> 01:02:11.200
+We use the tool we talked about and try to choose the best project, taking into account the realities of the environment
+
+01:02:11.200 --> 01:02:14.200
+If they are independent, then the projects can be dependent
+
+01:02:18.200 --> 01:02:26.200
+In this case, we will name four types of dependence
+
+01:02:26.200 --> 01:02:34.200
+There is a dependency that replaces, excludes and replaces
+
+01:02:34.200 --> 01:02:39.200
+In our slide, they are listed
+
+01:02:39.200 --> 01:02:43.200
+Project A and B can be interrelated, dependent
+
+01:02:43.200 --> 01:02:52.200
+If the implementation of project A leads to the deterioration of project B parameters
+
+01:02:52.200 --> 01:02:59.200
+Maybe the implementation of project A leads to the improvement of project B parameters
+
+01:02:59.200 --> 01:03:07.200
+Maybe the implementation of project A leads to the fact that project B cannot be implemented at all
+
+01:03:07.200 --> 01:03:09.200
+These are mutually exclusive projects
+
+01:03:09.200 --> 01:03:13.200
+When the implementation of one makes the implementation of another impossible
+
+01:03:13.200 --> 01:03:16.200
+Or financially unprofitable
+
+01:03:16.200 --> 01:03:20.200
+Finally, projects A and B can be called statistically dependent
+
+01:03:20.200 --> 01:03:28.200
+If they depend on some external event that has a statistical or probability nature
+
+01:03:29.200 --> 01:03:33.200
+Please refer to the slides
+
+01:03:33.200 --> 01:03:40.200
+We will look at the graph with two mutually exclusive projects A and B
+
+01:03:40.200 --> 01:03:49.200
+Mutually exclusive is a vivid example of how to act when you have dependent projects
+
+01:03:49.200 --> 01:03:53.200
+First, let's look at two lines
+
+01:03:53.200 --> 01:03:59.200
+Here we have the vertical of NPV and the horizontal of profitability
+
+01:03:59.200 --> 01:04:07.200
+We consider the interrelation of NPV and profitability of two of our projects
+
+01:04:07.200 --> 01:04:09.200
+They are mutually exclusive
+
+01:04:09.200 --> 01:04:11.200
+Project A and B
+
+01:04:11.200 --> 01:04:15.200
+The intersection point of these projects is point X
+
+01:04:15.200 --> 01:04:22.200
+By the way, in the intersection point, as you can guess, the NPV of both projects must be zero
+
+01:04:23.200 --> 01:04:28.200
+Now, these projects have IRR
+
+01:04:28.200 --> 01:04:30.200
+Here it is marked on the graph
+
+01:04:30.200 --> 01:04:36.200
+What is interesting, before we move on to the topic
+
+01:04:36.200 --> 01:04:46.200
+Before the intersection point X, project B was more profitable than project A
+
+01:04:46.200 --> 01:04:51.200
+After the intersection point X, the profitability of the projects changes
+
+01:04:51.200 --> 01:04:56.200
+And project A becomes more profitable than project B
+
+01:04:56.200 --> 01:05:06.200
+Please note that on this graph, on the left of the internal profitability rates
+
+01:05:06.200 --> 01:05:10.200
+There are three dotted lines
+
+01:05:10.200 --> 01:05:16.200
+They intersect with two fat dots that indicate the points
+
+01:05:16.200 --> 01:05:25.200
+Please note that at one level of risk, project B has more profitability than project A
+
+01:05:25.200 --> 01:05:27.200
+At one level of risk
+
+01:05:27.200 --> 01:05:32.200
+This determines that this project is more profitable
+
+01:05:32.200 --> 01:05:34.200
+In this case
+
+01:05:34.200 --> 01:05:39.200
+If we do the same thing on the right of the intersection point
+
+01:05:39.200 --> 01:05:41.200
+We will see the opposite picture
+
+01:05:41.200 --> 01:05:46.200
+At the same level of risk, in this case, profitability
+
+01:05:46.200 --> 01:05:52.200
+Project A will be more profitable than project B
+
+01:05:52.200 --> 01:05:55.200
+Its line will be higher than project B
+
+01:05:55.200 --> 01:05:57.200
+This is for your information
+
+01:05:58.200 --> 01:06:07.200
+Now, as for the rules of analysis of dependent projects
+
+01:06:07.200 --> 01:06:15.200
+When you take project A and it affects project B
+
+01:06:15.200 --> 01:06:21.200
+You must keep in mind that the money flows that you generate
+
+01:06:21.200 --> 01:06:28.200
+After taking project A, you must include the changes that occur in project B
+
+01:06:28.200 --> 01:06:33.200
+In other words, if you have two mutually exclusive projects
+
+01:06:33.200 --> 01:06:36.200
+And you took project A from them
+
+01:06:36.200 --> 01:06:39.200
+You took project A
+
+01:06:39.200 --> 01:06:43.200
+You will calculate all the money flows
+
+01:06:43.200 --> 01:06:47.200
+You must take into account that you did not take project B
+
+01:06:48.200 --> 01:06:52.200
+If project B brought you some financial profit
+
+01:06:52.200 --> 01:06:56.200
+This means that you are carrying a financial loss
+
+01:06:56.200 --> 01:07:01.200
+You must reflect this state on the money flows of project A
+
+01:07:01.200 --> 01:07:03.200
+I will repeat it one more time
+
+01:07:03.200 --> 01:07:05.200
+You have two projects
+
+01:07:05.200 --> 01:07:08.200
+And you can choose only one
+
+01:07:08.200 --> 01:07:14.200
+After choosing one, you must take into account the consequences of the refusal of the second
+
+01:07:14.200 --> 01:07:17.200
+Financial consequences of the refusal of the second
+
+01:07:17.200 --> 01:07:21.200
+And add them to the money flows of the basic project
+
+01:07:21.200 --> 01:07:24.200
+After that, you make all the standard calculations that we talked about
+
+01:07:24.200 --> 01:07:26.200
+NPV, IRR, and everything else
+
+01:07:26.200 --> 01:07:31.200
+This was the last remark in this course
+
+01:07:31.200 --> 01:07:36.200
+Regarding the analysis of the financial flows of investment projects
+
+01:07:36.200 --> 01:07:39.200
+For making investment decisions
+
+01:07:40.200 --> 01:07:45.200
+Now we need to sum up our course
+
+01:07:45.200 --> 01:07:50.200
+We have considered the need for fundamentally new thinking
+
+01:07:50.200 --> 01:07:54.200
+Maybe at some point you lost the thread
+
+01:07:54.200 --> 01:07:58.200
+You stopped understanding what we are talking about
+
+01:07:58.200 --> 01:08:00.200
+Maybe this is the case
+
+01:08:00.200 --> 01:08:03.200
+Please, go back to the beginning
+
+01:08:03.200 --> 01:08:06.200
+And try to read the course outline again
+
+01:08:06.200 --> 01:08:10.200
+The need for examples of change of thinking
+
+01:08:10.200 --> 01:08:19.200
+Because this is the basis for understanding the logic of money flows
+
+01:08:19.200 --> 01:08:21.200
+Although there is nothing wrong with it
+
+01:08:21.200 --> 01:08:23.200
+You just need to understand the logic
+
+01:08:23.200 --> 01:08:26.200
+The first one is the need for change of thinking
+
+01:08:26.200 --> 01:08:32.200
+The fact that thinking changes leads to the fact that the price of education on financial assets changes
+
+01:08:32.200 --> 01:08:37.200
+This change of thinking on financial assets led us to the fact that
+
+01:08:37.200 --> 01:08:45.200
+After the course, we started to consider the topic of the valuation of financial assets
+
+01:08:45.200 --> 01:08:49.200
+We understood what discounting is
+
+01:08:49.200 --> 01:08:52.200
+Then we talked about the effective interest rate
+
+01:08:52.200 --> 01:08:57.200
+And asked you to go to the nearest bank to conduct a small study
+
+01:08:57.200 --> 01:09:01.200
+Finally, we analyzed three options for the valuation of the value of the asset
+
+01:09:01.200 --> 01:09:06.200
+The valuation of the value of the loan, the valuation of the value of the bonds, and the valuation of the value of the shares
+
+01:09:06.200 --> 01:09:12.200
+Although I repeat that the basis of each of these estimates is the same phenomenon
+
+01:09:12.200 --> 01:09:16.200
+Namely, the discounting of the money flows
+
+01:09:16.200 --> 01:09:21.200
+Only in the case of a loan, it is the return of the principal amount of the debt along with the interest
+
+01:09:21.200 --> 01:09:25.200
+In the case of bonds, it is the payment of coupons and the return of the principal amount of the debt
+
+01:09:25.200 --> 01:09:30.200
+And in the case of shares, it is the payment of dividends or another analogue
+
+01:09:30.200 --> 01:09:32.200
+Without the return of the principal amount of the debt
+
+01:09:32.200 --> 01:09:35.200
+Payment of dividends for an unlimited period
+
+01:09:35.200 --> 01:09:41.200
+So, we understood this logic, I hope
+
+01:09:41.200 --> 01:09:50.200
+And our next step was to understand how we will calculate the value of the investment project
+
+01:09:50.200 --> 01:09:55.200
+We need to know the discount rate, or rather, we need to be able to choose it
+
+01:09:55.200 --> 01:10:00.200
+And we need to be able to calculate the money flows of the investment project
+
+01:10:00.200 --> 01:10:06.200
+After all, money flows from the shares are mostly dividends
+
+01:10:06.200 --> 01:10:10.200
+And the money flows of the project are completely different
+
+01:10:10.200 --> 01:10:17.200
+We considered possible options, namely the choice of the market index
+
+01:10:17.200 --> 01:10:20.200
+The choice of the risk-free rate plus the bonus for the risk
+
+01:10:20.200 --> 01:10:22.200
+What else did we have?
+
+01:10:22.200 --> 01:10:26.200
+Alternative rates, which are available
+
+01:10:26.200 --> 01:10:32.200
+This was about the possibility of borrowing on the market or investing in alternative projects
+
+01:10:32.200 --> 01:10:36.200
+Finally, we have disassembled two models
+
+01:10:36.200 --> 01:10:40.200
+Average capital expenditure and the CAPM model
+
+01:10:40.200 --> 01:10:42.200
+Estimates of the cost of long-term assets
+
+01:10:42.200 --> 01:10:52.200
+The CAPM model shows us that the profitability of the share, the profitability of the financial asset, the profitability of the asset and the profitability of the market are interconnected
+
+01:10:52.200 --> 01:10:55.200
+And shows this interconnection in the quantitative measurement
+
+01:10:55.200 --> 01:11:07.200
+The VISCC, the average capital expenditure, shows us the maximum expenses of this company for the maintenance of its capital
+
+01:11:07.200 --> 01:11:10.200
+How much is it worth to maintain capital
+
+01:11:10.200 --> 01:11:12.200
+This is the main means
+
+01:11:12.200 --> 01:11:14.200
+How much is it worth to maintain the machine
+
+01:11:14.200 --> 01:11:16.200
+How much is it worth to maintain capital
+
+01:11:16.200 --> 01:11:21.200
+We also disassembled the money flows
+
+01:11:21.200 --> 01:11:29.200
+We talked about the method of calculation based on the application of money flows, which is called the indirect method
+
+01:11:30.200 --> 01:11:40.200
+We had to understand that there are three components of the money flow
+
+01:11:40.200 --> 01:11:46.200
+This is the money flow from the main activity, from the investment and from the financial
+
+01:11:46.200 --> 01:11:50.200
+Adding them together, we get the total amount of the money flow
+
+01:11:50.200 --> 01:11:57.200
+This amount of money flow must be equal to the difference of the balance in the accounts at the beginning and at the end of the period
+
+01:11:58.200 --> 01:12:08.200
+To calculate the income from the main activity, we must take the company's profit from the account of profits and losses
+
+01:12:08.200 --> 01:12:13.200
+Recover it by the volume of amortization, recover it by the volume of profits and losses
+
+01:12:13.200 --> 01:12:21.200
+Recover it by the volume of non-realized profits and non-realized losses
+
+01:12:21.200 --> 01:12:25.200
+If we take the non-realized profit, we take it with a minus sign
+
+01:12:25.200 --> 01:12:28.200
+If we take the loss, we take it with a plus sign
+
+01:12:28.200 --> 01:12:30.200
+Then we recover it on the balance sheet
+
+01:12:30.200 --> 01:12:38.200
+The investment activity is the purchase of securities, the purchase of equipment
+
+01:12:38.200 --> 01:12:51.200
+And finally, the money flow from the financial activity, namely, the issuance of shares, the issuance of bonds, repayment of debts, repayment of bonds, payment of dividends
+
+01:12:51.200 --> 01:13:00.200
+We have figured out how to find a discount rate, how to calculate the money flows of the project
+
+01:13:00.200 --> 01:13:08.200
+Now we have all the parameters necessary to calculate the cost of the investment project
+
+01:13:08.200 --> 01:13:11.200
+We calculate it
+
+01:13:11.200 --> 01:13:16.200
+After calculating, we can move on to the main actions
+
+01:13:16.200 --> 01:13:32.200
+The main actions are to calculate the NPV, the pure cost, the difference between the spent and the income
+
+01:13:33.200 --> 01:13:46.200
+To calculate the error, the internal income rate, it was about determining at what interest rate the NPV of the project will be equal to zero
+
+01:13:46.200 --> 01:13:51.200
+Then there was the profitability index and the period of purchase
+
+01:13:51.200 --> 01:13:54.200
+Both parameters in discounted terms
+
+01:13:54.200 --> 01:13:57.200
+Four main
+
+01:13:57.200 --> 01:14:09.200
+We have considered several examples of how to use the NPV ideology to analyze the volume of sales,
+
+01:14:09.200 --> 01:14:17.200
+to analyze the credit policy, to analyze the balance on the accounts,
+
+01:14:17.200 --> 01:14:26.200
+to analyze the choice of one type of financial policy
+
+01:14:26.200 --> 01:14:36.200
+Finally, the last thing we need to mention is that investment projects can be dependent
+
+01:14:36.200 --> 01:14:42.200
+In this case, they lead to a certain adjustment of the money flows
+
+01:14:42.200 --> 01:14:54.200
+Dependency means that you must take into account the consequences of the project you have chosen
+
+01:14:54.200 --> 01:14:57.200
+We can draw a line here
+
+01:14:57.200 --> 01:15:05.200
+I hope you will solve the tasks presented in the workbook,
+
+01:15:05.200 --> 01:15:08.200
+you will go through the topic based on these tasks,
+
+01:15:08.200 --> 01:15:10.200
+they are not difficult
+
+01:15:10.200 --> 01:15:17.200
+I would like to draw your attention to the fact that maybe it will be written differently,
+
+01:15:18.200 --> 01:15:26.200
+but in other words, so that you think about what this parameter means
+
+01:15:26.200 --> 01:15:30.200
+But in principle, all the tasks are not difficult
+
+01:15:30.200 --> 01:15:39.200
+Finally, the last two tasks in the workbook are a squeeze out of some real situations
+
+01:15:39.200 --> 01:15:43.200
+where such studies were conducted
+
+01:15:43.200 --> 01:15:45.200
+You solve them
+
+01:15:45.200 --> 01:15:50.200
+And the last one is a small case that is presented to you
+
+01:15:50.200 --> 01:15:55.200
+Your task is to recheck the investment project that is laid out there
+
+01:15:55.200 --> 01:16:01.200
+The project is not difficult, it is the construction of a dacha settlement in Moscow suburbs
+
+01:16:01.200 --> 01:16:03.200
+A very common business
+
+01:16:03.200 --> 01:16:09.200
+There is NPV, there is IRR, there is a lot of things
+
+01:16:09.200 --> 01:16:14.200
+Your task is to recheck these calculated data
+
+01:16:14.200 --> 01:16:17.200
+taking into account the objective realities that exist on the market today
+
+01:16:17.200 --> 01:16:23.200
+and to give your conclusion on how the project is calculated correctly
+
+01:16:23.200 --> 01:16:26.200
+And plus, should they be engaged or not
+
+01:16:26.200 --> 01:16:28.200
+That's all
+
+01:16:28.200 --> 01:16:30.200
+Thank you for your attention
+
+01:16:39.200 --> 01:16:41.200
+Thank you for watching
