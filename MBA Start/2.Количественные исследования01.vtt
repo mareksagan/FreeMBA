@@ -1,0 +1,613 @@
+WEBVTT
+
+00:00.000 --> 00:13.160
+At the moment, we will move on to the next topic of our course, namely, linear programming.
+
+00:13.160 --> 00:21.240
+Let's start a little bit from afar. Imagine that you need to solve an equation, a solution that you
+
+00:21.240 --> 00:27.040
+cannot imagine. Well, let's say that you forgot the math course, and you want to solve the equation,
+
+00:27.040 --> 00:34.440
+for example, the form of cosine x is equal to sine x. The solution is quite simple, there are two angles, 45
+
+00:34.440 --> 00:47.520
+plus 180 would be 225 degrees, or in terms of pi, it is pi by 4, and, accordingly, pi plus pi by 4. But let's say
+
+00:47.520 --> 00:55.880
+that you forgot the math course and want to solve this equation. Can modern tools help you,
+
+00:55.880 --> 01:01.480
+for example, the Excel program? Yes, they can. Excel has a function called parameter selection,
+
+01:01.480 --> 01:09.800
+or in English goal seek. With its help, you can select one variable so that your equation is solved.
+
+01:09.800 --> 01:15.320
+Goal seek or parameter selection allows you to solve almost all equations. Unfortunately,
+
+01:15.320 --> 01:22.200
+this equation is only one variable, and there can be any degree, any complexity, but, alas,
+
+01:22.320 --> 01:28.520
+as I said, only one variable. There are some subtleties when solving such problems, but nevertheless.
+
+01:28.520 --> 01:36.280
+As an example, we will now see how to solve the equation sine x is equal to cosine x with the help of goal seek.
+
+01:36.280 --> 01:45.160
+As I said, the solution of the simplest equations is possible in the search function. Let's try.
+
+01:45.880 --> 01:52.600
+We have a simple equation sine x is equal to cosine x.
+
+01:52.600 --> 01:59.000
+Well, of course, in order to solve it in Excel, you will need to write it a little differently.
+
+01:59.000 --> 02:14.460
+Okay, one of our cells we will call x, put the value one there for now, we will call it x,
+
+02:14.460 --> 02:24.520
+well, as you can see, since we have sine one minus cosine one is equal to 0.3. Now we will use the
+
+02:24.720 --> 02:37.400
+parameter selection function to find such a value x so that our equation is executed.
+
+02:37.400 --> 02:45.840
+Sine x is equal to cosine x. This is done in the new Excel in the part of working with data,
+
+02:45.960 --> 02:55.320
+in the part of the analysis of what if. The parameter selection function offers to set the value of the cell C5
+
+02:55.320 --> 03:06.200
+equal to 0 to execute our equation, change the value of the cell C4.
+
+03:06.320 --> 03:07.360
+Okay,
+
+03:07.360 --> 03:16.500
+well, as you can see, Excel has not reached 0, but these are two hundred thousandths,
+
+03:16.500 --> 03:25.760
+this is practically zero. If you want, you can change the accuracy and check the solution with a
+
+03:25.760 --> 03:31.480
+higher accuracy. Well, as we expected, the solution is approximately pi by half. Let's check,
+
+03:31.480 --> 03:38.200
+I will multiply this number by 4, sorry, pi by 4, of course, multiply it by 4 and see what it is. Yes,
+
+03:38.200 --> 03:49.960
+3, 3, 14, practically 1, 5, 9 should be in the real pi. Now pay attention, if we set another initial
+
+03:49.960 --> 03:59.280
+value, for example, the value 5, then we will get a completely different solution to this equation.
+
+03:59.280 --> 04:13.280
+Let's try. Data, analysis, what if, parameter selection, set cell C5, value equal to 0,
+
+04:13.280 --> 04:22.920
+change the value of cell C4. Okay, as you can see, we got a different value. And no matter what initial
+
+04:22.920 --> 04:29.000
+value we started with, or rather, not so, since equations have many solutions, there are two
+
+04:29.000 --> 04:38.520
+pi-periodic solutions, then starting with different initial values, we will get different solutions.
+
+04:38.520 --> 04:46.440
+Okay, let's move on to more serious tasks, tasks of the functions of several variables.
+
+04:46.600 --> 04:54.240
+Okay, we looked at how simple equations are solved using parameter selection, it's time to talk
+
+04:54.240 --> 04:58.200
+about more difficult tasks. Of course, tasks in life are much more difficult, most often,
+
+04:58.200 --> 05:08.280
+and another function of Excel will help us in this, namely, it is called a search for a solution or a
+
+05:08.400 --> 05:17.800
+solver in English. In fact, a solver, a search for a solution, is a program that allows you to
+
+05:17.800 --> 05:25.200
+implement linear programming on Excel. What is linear programming? Linear programming is
+
+05:25.200 --> 05:35.640
+the search for the optimal solution in a situation when some of your data is limited.
+
+05:35.640 --> 05:44.560
+It is not limited in the sense that you do not have enough data, but in the sense that you impose a limit,
+
+05:44.560 --> 05:49.600
+for example, you want to make the bathroom at home as large as possible, but at the same time its depth
+
+05:49.600 --> 05:58.120
+should not be more than one meter. This is an example of such a typical limitation. The previous function,
+
+05:58.120 --> 06:03.560
+which we discussed, goal seek, does not allow you to impose a limit. In addition, it allows you to
+
+06:03.560 --> 06:13.880
+solve problems with only one variable. A solver allows you to work with functions of many variables.
+
+06:13.880 --> 06:19.400
+Of course, we understand that, for example, the profit of the enterprise is always a function of many variables.
+
+06:19.400 --> 06:28.000
+This is a function of, I don't know, cost, a function of the cost of sale, a function of the number of sales
+
+06:28.000 --> 06:34.000
+in our nominal expression, a function of our constant costs, variable costs, and so on.
+
+06:34.000 --> 06:42.480
+A solver allows you to work with a large number of functions. To be fair, I must say that not always and not everywhere,
+
+06:42.480 --> 06:49.080
+but nevertheless, a solver is a much more advanced tool. In addition, a solver allows two-digit
+
+06:49.080 --> 06:58.360
+variables. You cannot sell 2.3 cars, for example. You sell either 2 or 3. In this regard, to be honest,
+
+06:58.360 --> 07:06.920
+whole variables in a solver work poorly, but this is better than nothing. In the end, this is the only
+
+07:06.920 --> 07:14.400
+actually available solution to the problem of linear programming. In addition, a solver offers
+
+07:15.120 --> 07:23.360
+things like analysis of solutions. We will now look at an example, but for now we can say that, for example,
+
+07:23.360 --> 07:36.320
+such a task. You produce a mixture of nuts, and one of the types of nuts is over. A person comes and asks,
+
+07:36.320 --> 07:41.800
+I know that you have run out of such nuts, for example, a hazelnut is over, but do you want to take it,
+
+07:41.960 --> 07:46.080
+but it is one and a half times more expensive than you usually take. And you need to understand whether it is beneficial
+
+07:46.080 --> 07:55.240
+or not. Can you afford to buy this nut so that you stay within your cost, so that your loss does not decrease,
+
+07:55.240 --> 08:08.120
+so that you do not get into losses. At the same time, a solver can be used in macros. If there is time,
+
+08:08.120 --> 08:15.560
+I can show you how macros work in Excel. A solver allows you to use various search methods.
+
+08:15.560 --> 08:26.160
+At the same time, what is the problem? Solver, imagine, I will show this with my hand,
+
+08:26.160 --> 08:32.480
+imagine this function, which has two minimums, the main minimum and the second minimum, smaller,
+
+08:32.480 --> 08:40.240
+on the contrary, larger. Having entered the second small minimum, which is not global, but a local minimum,
+
+08:40.240 --> 08:47.240
+a solver will not be able to get out of it, because it does not search like a cat, it does not go through the
+
+08:47.240 --> 08:55.280
+variable, it just looks for the derivative and looks where it should go next. If it gets into a hole,
+
+08:55.440 --> 09:05.120
+it will never get out of this hole. Since it cannot get out of it, it needs to be helped, the initial
+
+09:05.120 --> 09:10.240
+value of the variables must be shifted so that it is on the other side of the small hole.
+
+09:10.240 --> 09:14.800
+We will talk in more detail about the type of limitation, the existing type of limitation when we solve the problem,
+
+09:14.800 --> 09:24.240
+but in principle there are limitations on the budget. This is when you are preparing to spend money for the
+
+09:24.240 --> 09:32.920
+New Year and think about how much you have to buy, and at the same time you understand that your budget is
+
+09:32.920 --> 09:39.480
+limited, for example, by three or five thousand rubles. There are restrictions on non-negativity,
+
+09:39.480 --> 09:49.120
+for example, let's say you are a metallurgical company, you produce alloys, if you sell a
+
+09:49.120 --> 09:53.640
+negative amount of some alloy, it means that you buy this alloy, in principle, you disassemble it into
+
+09:53.640 --> 10:00.560
+a component and use it in others. This is probably not very correct. The limitation can be there for
+
+10:00.560 --> 10:05.920
+extreme risk, and as I said, there can be a limitation on the whole, non-whole, and so on,
+
+10:05.920 --> 10:10.360
+on the binary, non-binary, and so on. Let's talk about using silver right now.
+
+10:10.360 --> 10:19.760
+Let's consider the following task. You work, you own a company that produces a mixture of nuts.
+
+10:19.760 --> 10:28.840
+The nut mixture is called nut-nut plus premium-lux, and consists of the corresponding
+
+10:28.840 --> 10:38.800
+number of different types of nuts. Here, in this line, the number of nuts in the percentage of the
+
+10:38.800 --> 10:44.840
+components of this mixture is indicated, of course, in weight percentages. If you look,
+
+10:44.960 --> 10:53.240
+the amount of each line will be 100. Check it out, make sure you don't doubt it.
+
+10:53.240 --> 11:05.480
+The mixture is sold at different prices. You have a certain number of different types of nuts on the
+
+11:05.600 --> 11:15.960
+slide. You have a purchase price, and you want to maximize, let's call it a profit. It's not
+
+11:15.960 --> 11:22.640
+exactly a profit, of course, because you still have operating costs and so on. But in this case,
+
+11:22.640 --> 11:27.480
+let's call it an operating profit. For the sake of brevity, we will say profit. Once again,
+
+11:27.480 --> 11:33.000
+you buy peanuts for $2 per kilogram, hazelnuts for $3, Brazilian nuts for $2, and so on.
+
+11:33.200 --> 11:42.000
+The most expensive nut is cedar, the most expensive mixture is premium-lux. The number of nuts in our warehouse
+
+11:42.000 --> 11:50.520
+is completely different. What do we do next? We will change the production of our mixtures in this way.
+
+11:50.520 --> 11:59.400
+Look, if I now put another number here, then you will see how the number of nuts used in the line
+
+11:59.960 --> 12:09.240
+will change. For example, I put number 10 here, and we have a change in the growth of peanuts, of course,
+
+12:09.240 --> 12:17.240
+since we added 9 kilograms of nuts to the mixed mixture. Accordingly, 9 kilograms of new
+
+12:17.240 --> 12:26.680
+peanuts give us 4.2 additional. And for example, to demonstrate again, I will add another 10
+
+12:26.680 --> 12:36.760
+kilograms of luxury production mixture, and we will expect that now we will not need 300 grams of cedar nut,
+
+12:36.760 --> 12:46.240
+as it was before, but 200-300 grams. So it is. Now pay attention, here in these three cells
+
+12:46.240 --> 12:52.760
+our sales are counted. Sales are just the sum of paired products, the price of sales per production.
+
+12:53.080 --> 13:07.640
+Here the function XL is used, the sum of sales, or it has an English name. Accordingly, our costs
+
+13:07.640 --> 13:18.160
+are also considered, using the same function, the sum of sales, as the price per used
+
+13:18.600 --> 13:25.720
+quantity of the corresponding nut. And of course, our profit is considered as the difference between our
+
+13:25.720 --> 13:36.000
+sales and our costs. We want to use the function, or rather the XL overhaul, which is called the search
+
+13:36.000 --> 13:44.000
+for a solution. In order to use it, you need to install it first. You should probably turn to your
+
+13:44.000 --> 13:51.440
+manual, that is, to the reference system, because in different versions this happens in a slightly different way.
+
+13:51.440 --> 13:57.080
+Almost certainly, if you do not have this setting installed, and by default it is not installed,
+
+13:57.080 --> 14:03.200
+you will need to resort to the help of your system, not system, but distributive disk.
+
+14:04.200 --> 14:09.680
+Okay, we want to use the search for a solution setting.
+
+14:09.680 --> 14:26.160
+So, how is the conclusion of this function arranged? He asks what target function we want to see.
+
+14:26.160 --> 14:30.960
+First of all, we choose the target function, the target cell, and choose the profit. As we agreed,
+
+14:31.480 --> 14:38.520
+as we know, the purpose of any company is to get its profits by exploiting a person.
+
+14:38.520 --> 14:50.360
+We will maximize profits by changing production. We will have to impose certain restrictions,
+
+14:50.360 --> 14:55.800
+for example, on the consumption of our nuts, since we understand that we cannot spend
+
+14:56.160 --> 15:00.200
+peanuts more than 300 kilograms and, accordingly, walnuts, oh, sorry,
+
+15:00.200 --> 15:07.120
+cedar nuts more than 100 kilograms. These are the so-called budget restrictions.
+
+15:07.120 --> 15:18.560
+And besides, we will now see that other restrictions will be needed.
+
+15:18.560 --> 15:32.880
+We clicked the Execute button. At the same time, Excel gives us some kind of optimal solution.
+
+15:32.880 --> 15:44.200
+Okay, let's see what happened. We have a negative value in the production graph.
+
+15:44.800 --> 15:52.320
+What does this mean? From the point of view of Excel, from the point of view of its implementation of linear programming,
+
+15:52.320 --> 15:59.560
+we can buy a nut mixture, disassemble it into component parts and use it in practice.
+
+15:59.560 --> 16:09.920
+We probably won't like it very much, so I suggest adding another restriction.
+
+16:09.920 --> 16:16.480
+It is clear that our production should not be less than zero. Let's run the search again.
+
+16:16.480 --> 16:22.040
+You will see for yourself that the numbers of the new solution will differ significantly.
+
+16:22.040 --> 16:27.080
+We will add another restriction. See how it happens. Click the Add button.
+
+16:27.080 --> 16:37.600
+The reference to the cell. Here you can use block references. Not less than or equal to, but greater than or equal to.
+
+16:37.600 --> 16:44.200
+Greater than or equal to zero. Pay attention to the drop-down menu. Less than or equal to is equal,
+
+16:44.200 --> 16:51.440
+greater than or equal to is whole or double. It is best to use less than or equal to,
+
+16:51.440 --> 16:57.200
+less than or equal to or greater than or equal to. Whole values greatly increase the disarray of the task,
+
+16:57.200 --> 17:04.640
+the size of the task. Accordingly, Excel will take much longer to sort out its solution.
+
+17:04.640 --> 17:15.720
+The value is equal, a very tough value. Accordingly, it will be much more difficult for Excel to solve what you have set.
+
+17:15.720 --> 17:22.320
+We'll talk a little later about how to deal with this. For now, let's use the search function again.
+
+17:22.320 --> 17:36.520
+As you can see, Excel gave such a result. It is clear that it is zero. Nothing special will change.
+
+17:36.520 --> 17:53.200
+What happened? We ran out of hazelnuts, we ran out of cedar nuts. And that is why it turned out that the margin
+
+17:53.200 --> 18:02.840
+for the sale of the nut mixture Lux is quite high. All the rest. We ran out of cedar nuts at first,
+
+18:02.840 --> 18:12.160
+and at the same time we ran out of hazelnuts. After that, since the hazelnut is part of all the mixes,
+
+18:12.160 --> 18:20.960
+we cannot sell anything else. Let's try to start with a few other initial conditions in order to see
+
+18:20.960 --> 18:27.520
+what happens if we had more hazelnuts at first. Then we will simply come to the conclusion that
+
+18:27.600 --> 18:35.160
+some other nut will run out, and hazelnuts should not necessarily be the first to run out.
+
+18:35.160 --> 18:45.760
+Once again, we run the search for a solution. Sometimes it takes some time.
+
+18:46.080 --> 19:01.280
+Okay. Now pay attention. Now not all sales are related to cedar nuts. As you can see,
+
+19:01.280 --> 19:09.560
+cedar nuts are used completely. This is normal. We have used peanuts completely, hazelnuts, of course,
+
+19:09.560 --> 19:17.240
+not completely, and pecans are used completely. Cedar nuts are used completely. Then there is such a task.
+
+19:17.240 --> 19:23.560
+Imagine that you are in such a situation when you run out of peanuts, run out of pecans,
+
+19:23.560 --> 19:37.480
+and run out of cedar nuts. Someone comes to you and offers to buy, for example, 200 kilograms of cedar
+
+19:37.480 --> 19:43.280
+nuts, or let it be 200 kilograms of pecans, but not 4 dollars per kilogram, but 8 dollars per kilogram.
+
+19:43.280 --> 19:50.520
+Yes, the price is higher than your usual price, but on the other hand, while you do not have pecans,
+
+19:50.520 --> 19:55.600
+if you cannot get it anywhere on the market, then you cannot produce more than one nut mix.
+
+19:55.600 --> 20:04.960
+How to solve this problem? Is it worth buying twice as expensive? It turns out that Excel gives us
+
+20:04.960 --> 20:18.840
+such an answer. We will run the search again and ask Excel to choose
+
+20:18.840 --> 20:40.560
+as a type of report. Pay attention. I don't know why Microsoft chose the name for this
+
+20:40.560 --> 20:47.920
+graph, the Lagrange multiplier, in fact, the name is much more understandable and intuitive. This is a shadow price.
+
+20:48.080 --> 20:57.520
+In principle, before such an amount, you must be ready to pay for 1 kilogram of pecans.
+
+20:57.520 --> 21:09.920
+Let's say, having paid up to 22 dollars, you have not yet lost. This number shows the point where you
+
+21:10.000 --> 21:19.120
+will work at zero, having bought the corresponding nut at this price. You saw how Solver works,
+
+21:19.120 --> 21:29.760
+which is a search for solutions. As I promised, we will talk about how to use the restrictions that we can
+
+21:29.760 --> 21:37.200
+impose on solving our tasks. Of course, the best restrictions are the non-strict restrictions
+
+21:37.200 --> 21:46.840
+on the top and bottom, that is, less or equal. Restrictions such as equal, which sometimes
+
+21:46.840 --> 21:55.440
+want to be used, significantly complicate the work of this tool. Therefore, as a solution,
+
+21:55.440 --> 22:03.880
+in this case, you can probably suggest the following. Try not to give Solver strictly,
+
+22:03.880 --> 22:14.560
+let's say that the total production of nuts is 50 kilograms. Try to give him a chance to
+
+22:14.560 --> 22:25.600
+fluctuate within, for example, plus or minus 1 tenth of 50 kilograms, that is, from 49.9 to 50.1.
+
+22:25.760 --> 22:33.640
+At the same time, Solver will not experience significant jumps and will work much more
+
+22:33.640 --> 22:41.840
+stably. It will take much less time, and its solution will be much more accurate,
+
+22:41.840 --> 22:50.720
+much more acceptable for you. What does the solution to the task in space look like?
+
+22:51.440 --> 23:00.200
+Imagine that, for example, you have only two nuts. Then in space it looks like this. You have one axis,
+
+23:00.200 --> 23:08.560
+this is one nut, the second axis is another nut, and a certain plane, which is your profit,
+
+23:08.560 --> 23:16.800
+which depends on how much you have produced. Perhaps not so, perhaps one axis will be one
+
+23:16.920 --> 23:25.560
+nut, and the other will be another nut. Accordingly, the plane in space is your profit. The restrictions
+
+23:25.560 --> 23:39.040
+that we impose, they cut off certain parts of our plane in space, the plane of solutions.
+
+23:39.360 --> 23:49.760
+Accordingly, our plane from an infinite plane turns into a limited figure. If we
+
+23:49.760 --> 23:58.360
+start maximizing the function, then this function can take maximum value only
+
+23:58.360 --> 24:06.520
+either at the point where several solutions converge, or at the edge, and so on. In space,
+
+24:06.520 --> 24:13.840
+it looks like a certain limited figure, with several possible sides. It is difficult to imagine
+
+24:13.840 --> 24:20.280
+yourself in more than three-dimensional space, so it is quite possible to imagine it in three-dimensional
+
+24:20.280 --> 24:28.240
+space. Try to do it. What else is necessary to talk about? The solver, of
+
+24:28.240 --> 24:38.360
+course, works best on linear tasks, but this does not mean that it cannot be used for non-linear
+
+24:38.360 --> 24:45.240
+solutions. However, as I said, at the same time it can find a certain local minimum,
+
+24:45.240 --> 24:52.120
+or local maximum, respectively, without finding a global minimum or maximum. The only way to
+
+24:52.120 --> 25:00.760
+do this is to move to solutions from different sides, that is, from different starting points.
+
+25:00.760 --> 25:07.760
+Unfortunately, this is the only possible option in this case. As for the fairness of the solution,
+
+25:07.760 --> 25:18.240
+well, if we do not talk about the possibility of locking the solver in one of the existing
+
+25:18.240 --> 25:25.920
+minimums, then the solver solution is good enough. Nevertheless, if you have a lot of variables,
+
+25:25.920 --> 25:33.240
+try to get it out of balance. The solver should be applied many times already according to the finished solution,
+
+25:33.240 --> 25:39.480
+try to get it out of balance, changing the initial conditions a little, or perhaps even
+
+25:39.480 --> 25:48.120
+changing the initial conditions quite a lot. Okay, now we have talked with you about linear
+
+25:48.120 --> 25:58.880
+programming, and according to the existing tradition, I will ask you two simple tasks. The first of them,
+
+25:58.880 --> 26:05.840
+they are both approximately similar to logistics, in both of them you can apply a certain common
+
+26:05.840 --> 26:11.960
+operational principle. Imagine such a situation. At night, four people stand in front of a narrow bridge across the river.
+
+26:11.960 --> 26:18.840
+One of them is fast enough and can walk along the bridge in one minute, the other in two minutes, the third in five,
+
+26:18.840 --> 26:26.720
+and the fourth in ten. Well, such a grandmother, elderly at all. The bridge is quite old and does not withstand the weight of more
+
+26:26.720 --> 26:33.320
+than two people. In addition, there is no railing on the bridge, so since it is impossible to walk along it at night
+
+26:33.320 --> 26:39.080
+without a flashlight. There is a flashlight, but it is only one. That is, someone must pass this flashlight.
+
+26:39.080 --> 26:44.880
+Unfortunately, they cannot throw it over, because they risk dropping it. And the task is, of course,
+
+26:44.880 --> 26:52.880
+in what minimum time can we transfer all our people who approached this bridge to the other side of the
+
+26:52.880 --> 26:59.200
+river. As a hint, as I said, here, when solving this task, it is necessary to use a
+
+26:59.840 --> 27:05.840
+common operational principle. This was the first hint. If you don't want to wait for the second hint,
+
+27:05.840 --> 27:14.760
+then stop the lecture now, the second hint will be a little later. The second hint. The result should
+
+27:14.760 --> 27:23.960
+be less than 19 minutes. The solution is as it is given at the end of the lecture. Another task. It is called
+
+27:23.960 --> 27:31.680
+camel logistics. The task is this. There is a banana plantation on one edge of the desert, a thousand kilometers wide,
+
+27:31.680 --> 27:36.960
+and a store on the other. The yield of bananas this year was 3,000 pieces. We have one and only
+
+27:36.960 --> 27:43.640
+means of transport, namely a camel. This is a modern camel. It is equipped with a self-loading and
+
+27:43.640 --> 27:51.480
+self-unloading device, a cruise stability system, GPS navigation, and so on. The payload of this camel is
+
+27:51.480 --> 27:58.040
+1000 bananas. But in order for the camel not to starve, it must eat one banana per kilometer.
+
+27:58.040 --> 28:04.200
+It doesn't matter whether it carries 1000 bananas, 20 bananas, or nothing at all. It must eat anyway.
+
+28:04.200 --> 28:11.280
+The task is set as follows. What is the maximum number of bananas a camel can carry to the store?
+
+28:11.280 --> 28:15.880
+Once again. The width of the desert is 1000 kilometers. The payload of the camel is 1000 bananas,
+
+28:15.880 --> 28:22.480
+3,000 pieces of crop. It eats one banana per kilometer. What is the maximum number of bananas
+
+28:22.480 --> 28:32.040
+a camel can carry from the plantation to the store? And a hint that was mentioned in the previous task.
+
+28:32.040 --> 28:36.600
+When solving this task, one general operational principle should be used.

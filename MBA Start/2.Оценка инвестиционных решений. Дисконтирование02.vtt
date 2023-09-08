@@ -1,0 +1,2692 @@
+WEBVTT
+
+00:00.000 --> 00:03.360
+Now let's move on to the next question.
+
+00:03.360 --> 00:05.840
+The next question is the second situation.
+
+00:05.840 --> 00:08.880
+The first situation was a one-time process.
+
+00:08.880 --> 00:11.920
+You give me a loan, and I buy you.
+
+00:11.920 --> 00:13.120
+Now the second situation.
+
+00:13.120 --> 00:18.320
+The client who made a purchase once becomes a regular buyer.
+
+00:18.320 --> 00:23.040
+The client who made a purchase once becomes a regular buyer,
+
+00:23.040 --> 00:25.200
+but in the future does not refuse to buy.
+
+00:25.920 --> 00:28.240
+This is a realistic assumption.
+
+00:28.240 --> 00:31.120
+There is no doubt about it.
+
+00:31.120 --> 00:32.720
+It happens quite often.
+
+00:32.720 --> 00:34.480
+Let's take a look.
+
+00:34.480 --> 00:39.840
+Again, if the company does not provide a loan,
+
+00:39.840 --> 00:40.880
+then nothing will happen to it.
+
+00:40.880 --> 00:42.800
+If the company provides a loan,
+
+00:42.800 --> 00:48.720
+then on the one hand, it risks its variable costs.
+
+00:48.720 --> 00:50.640
+Their volume is V.
+
+00:51.520 --> 01:02.000
+But then it can get a value of P if the client pays.
+
+01:02.000 --> 01:09.200
+It turns out that in the next period,
+
+01:09.200 --> 01:13.440
+the company either does not receive anything,
+
+01:13.440 --> 01:15.280
+because the client does not pay,
+
+01:15.280 --> 01:20.400
+or receives a full-time payment if the client pays.
+
+01:21.120 --> 01:23.920
+But since we assumed that the client pays regularly,
+
+01:23.920 --> 01:31.120
+then there will be a constant difference between P and V variable costs.
+
+01:31.120 --> 01:35.120
+The cash flow over a period will be the difference
+
+01:35.120 --> 01:39.440
+between the cost of the product and the variable costs.
+
+01:39.440 --> 01:43.600
+Please pay attention to the slide on which the second situation is described.
+
+01:43.600 --> 01:48.640
+Let's move on to the next slide, if you have seen it.
+
+01:48.880 --> 01:52.000
+The cost of each new client in this case
+
+01:52.000 --> 01:58.400
+will be estimated as the profit minus the cost of the company divided by R.
+
+01:58.400 --> 02:01.760
+Please remember the formula for the current cost.
+
+02:01.760 --> 02:06.560
+Please remember the formula for the valuation of the share price
+
+02:06.560 --> 02:08.160
+with a constant dividend.
+
+02:08.160 --> 02:10.720
+Don't you think this formula is similar?
+
+02:10.720 --> 02:13.040
+Absolutely right, it is similar.
+
+02:13.040 --> 02:14.960
+This is the same formula,
+
+02:14.960 --> 02:22.400
+but instead of the dividend, we have a difference of P minus V.
+
+02:22.400 --> 02:26.000
+Now, about the effectiveness of lending a loan.
+
+02:26.000 --> 02:29.200
+We must calculate the NPV of this solution.
+
+02:29.200 --> 02:34.320
+I repeat that we spend our V variable costs,
+
+02:34.320 --> 02:39.120
+but on the other hand, we get a certain flow of money.
+
+02:39.120 --> 02:41.840
+This flow is constant.
+
+02:41.840 --> 02:44.640
+What is it?
+
+02:44.800 --> 02:47.200
+It is that on the one hand,
+
+02:47.200 --> 02:51.040
+the amount is the difference between P minus V,
+
+02:51.040 --> 02:53.200
+and on the other hand,
+
+02:53.200 --> 02:57.840
+there should be an amendment to the risk of not fulfilling its obligations.
+
+02:57.840 --> 03:00.320
+The risk of the client not paying.
+
+03:00.320 --> 03:03.360
+This risk remains, it has not been canceled.
+
+03:03.360 --> 03:07.520
+As a result, our formula will take the following form.
+
+03:07.520 --> 03:13.280
+We must correct the cost of each new client
+
+03:14.000 --> 03:17.760
+to the interest rate of non-return of money
+
+03:17.760 --> 03:25.440
+and compare it with our costs for this solution.
+
+03:25.440 --> 03:30.560
+As a result, we get the difference between the variable costs
+
+03:30.560 --> 03:35.360
+and the cost of each new client with an amendment to the risk of not fulfilling obligations.
+
+03:35.360 --> 03:38.000
+Let's see what happens with this formula,
+
+03:38.000 --> 03:40.480
+which is reflected in our slide.
+
+03:40.960 --> 03:49.680
+It turns out that it costs only 15 units to find out the client's payment ability.
+
+03:49.680 --> 03:51.440
+These are our variable costs.
+
+03:51.440 --> 03:59.200
+The cost of the client is an incredibly large amount of 451 units.
+
+03:59.200 --> 04:02.560
+We calculated this using the first formula.
+
+04:02.560 --> 04:08.240
+If we now calculate the NPV of our decision to provide a loan under such conditions,
+
+04:08.560 --> 04:14.160
+we will find that even if we take the same 30% of the non-returners,
+
+04:14.160 --> 04:17.200
+it will still be a positive NPV.
+
+04:17.200 --> 04:21.040
+The cost of our client is more than 400,
+
+04:21.040 --> 04:26.160
+and the cost of finding out this case is only 15.
+
+04:26.160 --> 04:33.280
+So, if we take a look, the share of non-returners can be 70% or 80%.
+
+04:33.280 --> 04:36.560
+Please count it yourself during the break.
+
+04:37.440 --> 04:43.600
+This situation once again emphasizes that providing commercial loans,
+
+04:43.600 --> 04:46.800
+production loans, is a very profitable business.
+
+04:46.800 --> 04:54.560
+Of course, it is risky, because no one has canceled a 100% refusal of a loan.
+
+04:54.560 --> 04:58.160
+Nevertheless, according to our calculations, it is very profitable.
+
+04:58.160 --> 05:02.000
+It is not surprising that many companies are activating their activities
+
+05:02.000 --> 05:05.200
+in terms of providing such loans.
+
+05:05.920 --> 05:07.440
+Let's move on.
+
+05:09.120 --> 05:15.760
+Now we will discuss the topic of the NPV and sales volume interconnection.
+
+05:15.760 --> 05:20.880
+The interconnection of decision-making in the sales volume and NPV.
+
+05:20.880 --> 05:24.240
+Of course, we can also consider other topics,
+
+05:24.240 --> 05:26.640
+such as the connection of NPV with amortization,
+
+05:26.640 --> 05:28.880
+the connection of NPV with taxes.
+
+05:28.880 --> 05:31.120
+But the logic is the same everywhere.
+
+05:31.120 --> 05:33.200
+We will consider it in this example.
+
+05:34.160 --> 05:36.160
+So, the basic question.
+
+05:36.160 --> 05:42.160
+At what level of sales will the company be provided with financial profitability?
+
+05:42.160 --> 05:46.400
+At what level of sales will the company be provided with financial profitability?
+
+05:46.400 --> 05:49.520
+We will consider three levels of profitability.
+
+05:49.520 --> 05:53.120
+Minimum, calculated and financial.
+
+05:53.120 --> 05:57.600
+As you understand, the financial profitability level is the level
+
+05:57.600 --> 06:01.840
+at which the NPV of the project, the NPV of the business is zero.
+
+06:02.560 --> 06:04.800
+These are very high requirements for the project.
+
+06:04.800 --> 06:09.360
+Calculated profitability level is the level of sales
+
+06:09.360 --> 06:15.840
+at which the company can cover its permanent costs
+
+06:15.840 --> 06:19.600
+and can cover its amortization.
+
+06:19.600 --> 06:21.840
+Permanent costs and amortization.
+
+06:21.840 --> 06:26.880
+Finally, there is the simplest level, the first level.
+
+06:26.880 --> 06:30.160
+This is the so-called minimum profitability level of sales.
+
+06:30.480 --> 06:35.440
+This is the level of sales at which the revenue covers only the permanent costs.
+
+06:35.440 --> 06:41.040
+At the same time, there can be no profit, no amortization.
+
+06:41.040 --> 06:44.480
+This is just the coverage of the permanent costs.
+
+06:44.480 --> 06:46.400
+We will operate with the term
+
+06:46.400 --> 06:49.120
+Operational cash flow.
+
+06:49.120 --> 06:50.640
+OASF.
+
+06:50.640 --> 06:57.520
+This is one of the options for direct calculation of cash flows.
+
+06:57.680 --> 07:01.680
+It includes the company's income
+
+07:01.680 --> 07:04.400
+up to the deduction of interest and taxes,
+
+07:04.400 --> 07:08.080
+plus amortization and minus taxes.
+
+07:08.080 --> 07:11.440
+At the minimum profitability level,
+
+07:11.440 --> 07:15.520
+the operational cash flow of the company
+
+07:15.520 --> 07:19.040
+must be equal to zero.
+
+07:19.040 --> 07:22.720
+Accordingly, at the calculated profitability level,
+
+07:22.720 --> 07:27.440
+I repeat, at the calculated profitability level,
+
+07:27.440 --> 07:30.480
+the company's cash flows must provide
+
+07:30.480 --> 07:33.600
+the coverage of the permanent costs
+
+07:33.600 --> 07:36.000
+and cover the amortization
+
+07:36.000 --> 07:39.680
+in the operational cash flow.
+
+07:39.680 --> 07:42.400
+Finally, at the financial profitability level,
+
+07:42.400 --> 07:47.520
+we must get the operational cash flows in full.
+
+07:47.520 --> 07:53.600
+But with such an estimate, to achieve zero NPV.
+
+07:53.600 --> 07:57.120
+Please refer to our slides.
+
+07:57.120 --> 08:00.880
+You can see that there is a dependence
+
+08:00.880 --> 08:03.440
+between the operational cash flows
+
+08:03.440 --> 08:06.080
+and the volume of sales.
+
+08:06.080 --> 08:09.760
+The formula for this dependence is presented on the slide,
+
+08:09.760 --> 08:11.680
+where Q is the volume of sales
+
+08:11.680 --> 08:14.720
+and F is the permanent costs.
+
+08:14.720 --> 08:19.440
+P minus V is the price of the product
+
+08:19.440 --> 08:21.440
+minus the variable costs.
+
+08:21.440 --> 08:23.760
+We are already familiar with this term.
+
+08:23.840 --> 08:27.440
+So, on the same slide,
+
+08:27.440 --> 08:30.480
+the formula for determining
+
+08:30.480 --> 08:32.560
+the minimum profitability level of sales is presented.
+
+08:32.560 --> 08:34.400
+I say the formula,
+
+08:34.400 --> 08:37.840
+the difference between all three formulas
+
+08:37.840 --> 08:39.920
+will be only in the volume of numbers.
+
+08:39.920 --> 08:42.560
+So, pay attention.
+
+08:42.560 --> 08:46.480
+The minimum profitability level of sales,
+
+08:46.480 --> 08:48.080
+Q is the level of sales.
+
+08:48.080 --> 08:52.000
+We substitute the formula for the value.
+
+08:52.160 --> 08:55.040
+Let's start with the indicator.
+
+08:55.040 --> 08:56.800
+41 minus 21.
+
+08:56.800 --> 08:59.680
+It is the difference between the price of the product
+
+08:59.680 --> 09:01.120
+and the variable costs.
+
+09:01.120 --> 09:02.320
+It is clear.
+
+09:02.320 --> 09:04.960
+Now let's go up to the indicator.
+
+09:04.960 --> 09:08.160
+On the left side of the indicator,
+
+09:08.160 --> 09:09.200
+we see the number 600.
+
+09:09.200 --> 09:11.680
+These are the permanent costs.
+
+09:11.680 --> 09:13.360
+On the right side, we see zero.
+
+09:13.360 --> 09:18.240
+This means that the operational cash flow is zero.
+
+09:18.240 --> 09:21.680
+There is no amortization, no profit, etc.
+
+09:22.400 --> 09:24.720
+In order to ensure
+
+09:24.720 --> 09:28.240
+the minimum profitability level of sales,
+
+09:28.240 --> 09:32.480
+this company must sell 30 units of its product.
+
+09:32.480 --> 09:35.120
+With this volume of sales,
+
+09:35.120 --> 09:39.840
+this company can cover its permanent costs.
+
+09:39.840 --> 09:42.720
+Now let's move on to the next slide.
+
+09:42.720 --> 09:46.640
+Here, unlike the previous formula,
+
+09:47.200 --> 09:49.680
+the difference is only in the number
+
+09:49.680 --> 09:51.760
+above the line on the right.
+
+09:51.760 --> 09:53.280
+Pay attention.
+
+09:53.280 --> 09:56.240
+The same 600 permanent costs,
+
+09:56.240 --> 10:00.080
+the same price of the product 41 minus 21,
+
+10:00.080 --> 10:06.480
+but now we have 640 units of amortization
+
+10:06.480 --> 10:09.200
+in the structure of the operational cash flow.
+
+10:09.200 --> 10:14.640
+So, in order for the company to cover the amortization
+
+10:14.720 --> 10:17.200
+and cover the permanent costs,
+
+10:17.200 --> 10:22.000
+it must produce 62 units of its product.
+
+10:22.000 --> 10:24.720
+It must produce 62 units of its product,
+
+10:24.720 --> 10:26.320
+produce and sell.
+
+10:26.320 --> 10:29.200
+Let's make an addition.
+
+10:29.200 --> 10:30.480
+Produce and sell.
+
+10:30.480 --> 10:34.320
+This was the calculated profit-free sales level.
+
+10:34.320 --> 10:38.000
+Now we need to determine
+
+10:38.000 --> 10:41.040
+the financial profit-free sales level
+
+10:41.040 --> 10:47.280
+at which this project is provided with zero NPV.
+
+10:47.280 --> 10:50.400
+To do this, we need to determine
+
+10:50.400 --> 10:57.200
+the cost of the annual size of the operational cash flow,
+
+10:57.200 --> 11:01.920
+which will include the amortization of those 40-640 units
+
+11:01.920 --> 11:03.120
+that we talked about.
+
+11:03.840 --> 11:06.320
+So, we have the conditions.
+
+11:06.320 --> 11:11.360
+Please pay attention to our slide.
+
+11:11.360 --> 11:14.000
+Everything is described in detail there.
+
+11:14.000 --> 11:17.360
+I will only say in words that we have the conditions
+
+11:17.360 --> 11:21.920
+that the total amount of investment in the project
+
+11:21.920 --> 11:23.920
+is 3.2 million.
+
+11:23.920 --> 11:26.720
+The profitability in the market is 20% per year.
+
+11:26.720 --> 11:28.960
+We need to determine
+
+11:29.920 --> 11:34.480
+the annual cash flow
+
+11:34.480 --> 11:37.600
+since the project is designed for 5 years.
+
+11:37.600 --> 11:41.440
+What should be the annual cash flow?
+
+11:41.440 --> 11:45.120
+Please remember that we have gone through
+
+11:45.120 --> 11:47.360
+the model of the cost of annuity.
+
+11:47.360 --> 11:51.680
+This model assumes that you can calculate
+
+11:51.680 --> 11:56.000
+the cost of a set, a series,
+
+11:56.000 --> 11:59.840
+annual payments of the same amount,
+
+11:59.840 --> 12:02.480
+if you know the amount,
+
+12:02.480 --> 12:04.480
+the number of years or periods,
+
+12:04.480 --> 12:06.000
+and the interest rate.
+
+12:06.000 --> 12:08.960
+In this case, the interest rate is 20,
+
+12:08.960 --> 12:11.280
+the number of years is 5,
+
+12:11.280 --> 12:13.600
+and we know the total amount.
+
+12:13.600 --> 12:16.000
+We know the cost of annuity,
+
+12:16.000 --> 12:18.400
+but we do not know the cost.
+
+12:18.400 --> 12:22.240
+In the formula, it was the analog of the size of the coupon.
+
+12:22.240 --> 12:24.000
+It was the size of the coupon,
+
+12:24.000 --> 12:28.480
+and in this formula we talk about the parameters
+
+12:28.480 --> 12:30.480
+called operational cash flow.
+
+12:30.480 --> 12:35.680
+We use the capitalization coefficient
+
+12:35.680 --> 12:40.560
+and we get that the annual nominal cost
+
+12:40.560 --> 12:45.920
+of the company's cash flows is 1,070 units.
+
+12:45.920 --> 12:48.480
+That is, every year 1,070 units
+
+12:48.480 --> 12:52.800
+should be generated by this project.
+
+12:53.680 --> 13:01.120
+So, in order to ensure the financial
+
+13:01.120 --> 13:03.360
+profitability of our project,
+
+13:03.360 --> 13:11.840
+you probably noticed that we took 3,200,
+
+13:11.840 --> 13:14.240
+we took the cost of our investments.
+
+13:14.240 --> 13:17.040
+In fact, we could say that we have
+
+13:17.040 --> 13:18.400
+the cost of the investments,
+
+13:18.400 --> 13:22.720
+we have the cash flow from these investments,
+
+13:22.720 --> 13:28.800
+but their cost, I repeat,
+
+13:28.800 --> 13:33.920
+if we took a different number,
+
+13:33.920 --> 13:37.360
+for example, we said that we have a profit
+
+13:37.360 --> 13:39.360
+from our project of 3,300,
+
+13:39.360 --> 13:43.520
+then we would calculate for our cash flow
+
+13:43.520 --> 13:49.200
+OSF based on the fact that NPV is greater than zero.
+
+13:50.160 --> 13:54.640
+In this case, we take 3,200,
+
+13:54.640 --> 13:58.240
+this number corresponds to both the investment
+
+13:58.240 --> 14:01.440
+and the cash flow from our project.
+
+14:01.440 --> 14:03.440
+Since the two numbers are the same,
+
+14:03.440 --> 14:05.440
+NPV is zero.
+
+14:05.440 --> 14:12.160
+So, when we set the value of the operational cash flow
+
+14:12.160 --> 14:15.680
+in the formula, we get 83.5.
+
+14:15.680 --> 14:20.320
+This means that the company must sell 84 units of goods
+
+14:20.320 --> 14:28.480
+annually to ensure the financial profitability,
+
+14:28.480 --> 14:32.000
+that is, to ensure the zero NPV of its project.
+
+14:32.000 --> 14:37.120
+Note that under the conditions of this project,
+
+14:37.120 --> 14:40.880
+85 units of goods should be produced,
+
+14:40.880 --> 14:44.880
+and we have a financial profitability of 84.
+
+14:45.120 --> 14:47.120
+The difference is very small,
+
+14:47.120 --> 14:50.800
+this is a rather dangerous situation,
+
+14:50.800 --> 14:55.040
+because the project has no reserve.
+
+14:55.040 --> 14:58.480
+Without a reserve, it can become a victim
+
+14:58.480 --> 15:01.680
+of any change, a rather negative change
+
+15:01.680 --> 15:03.680
+in the interest rate on the market.
+
+15:03.680 --> 15:05.680
+But in any case,
+
+15:05.680 --> 15:09.040
+we have seen three situations.
+
+15:09.040 --> 15:11.040
+The most important, of course,
+
+15:11.040 --> 15:13.040
+is the last point,
+
+15:13.040 --> 15:17.440
+namely the financial non-profitable sales level.
+
+15:17.440 --> 15:19.440
+Now we will consider the same,
+
+15:19.440 --> 15:21.440
+but on a graph.
+
+15:21.440 --> 15:23.440
+Please turn to the slide.
+
+15:23.440 --> 15:29.440
+Here you see a line that reflects the dependence
+
+15:29.440 --> 15:33.440
+between the cash flows and the sales volume.
+
+15:33.440 --> 15:35.440
+You see three points here,
+
+15:35.440 --> 15:37.440
+the minimum level, the calculated level,
+
+15:37.840 --> 15:41.840
+and the financial non-profitable sales level.
+
+15:41.840 --> 15:43.840
+How do they differ?
+
+15:43.840 --> 15:45.840
+This is just an illustration,
+
+15:45.840 --> 15:47.840
+I hope it will help you to remember,
+
+15:47.840 --> 15:49.840
+better realize this point.
+
+15:49.840 --> 15:53.840
+Of course, the company can work for some time
+
+15:53.840 --> 15:57.840
+and at a minimum level of non-profitability.
+
+15:57.840 --> 16:01.840
+Of course, the company can work for a long time
+
+16:01.840 --> 16:05.840
+and at a calculated level of non-profitability.
+
+16:06.240 --> 16:08.240
+But in order for the company
+
+16:08.240 --> 16:10.240
+to be able to count on capital growth,
+
+16:10.240 --> 16:12.240
+it must exceed
+
+16:12.240 --> 16:16.240
+the financial non-profitable sales level.
+
+16:16.240 --> 16:20.240
+If the company is counting on the stock market,
+
+16:20.240 --> 16:22.240
+on the growth in the stock market,
+
+16:22.240 --> 16:24.240
+then it must operate
+
+16:24.240 --> 16:26.240
+to the cash flows
+
+16:26.240 --> 16:28.240
+and strive to ensure
+
+16:28.240 --> 16:30.240
+that the cash flows
+
+16:30.240 --> 16:32.240
+exceed the calculated value.
+
+16:36.240 --> 16:38.240
+The next point is the choice
+
+16:38.240 --> 16:40.240
+of several devices
+
+16:40.240 --> 16:42.240
+with the same functions
+
+16:42.240 --> 16:44.240
+of the device
+
+16:44.240 --> 16:48.240
+that is the least financially expensive.
+
+16:48.240 --> 16:52.240
+Again, I ask you to refer to the slide.
+
+16:52.240 --> 16:54.240
+The basic question
+
+16:54.240 --> 16:56.240
+is how to choose a device
+
+16:56.240 --> 16:58.240
+with the same functions
+
+16:58.240 --> 17:00.240
+but with different service terms
+
+17:00.240 --> 17:02.240
+that is the most profitable
+
+17:02.240 --> 17:04.240
+from a financial point of view.
+
+17:04.640 --> 17:06.640
+We will have an example.
+
+17:06.640 --> 17:08.640
+The logic itself is very simple.
+
+17:08.640 --> 17:10.640
+It is based on discounting.
+
+17:10.640 --> 17:12.640
+Let's look at an example.
+
+17:12.640 --> 17:14.640
+We have two devices.
+
+17:14.640 --> 17:16.640
+The first one costs 100 units.
+
+17:16.640 --> 17:18.640
+It will last for two years.
+
+17:18.640 --> 17:20.640
+Annual costs for this device
+
+17:20.640 --> 17:22.640
+are 10 units.
+
+17:22.640 --> 17:24.640
+The second device
+
+17:24.640 --> 17:26.640
+costs more.
+
+17:26.640 --> 17:28.640
+140 units.
+
+17:28.640 --> 17:30.640
+It will last for three years more
+
+17:30.640 --> 17:32.640
+and annual costs
+
+17:33.040 --> 17:35.040
+for this device
+
+17:35.040 --> 17:37.040
+will be 8 units.
+
+17:37.040 --> 17:39.040
+How can we compare
+
+17:39.040 --> 17:41.040
+these two devices?
+
+17:41.040 --> 17:43.040
+We must calculate
+
+17:43.040 --> 17:45.040
+the cost of these devices.
+
+17:45.040 --> 17:47.040
+The cost of these devices
+
+17:47.040 --> 17:49.040
+is the cost of the device.
+
+17:49.040 --> 17:51.040
+If it was a finished object
+
+17:51.040 --> 17:53.040
+that would provide a profit,
+
+17:53.040 --> 17:55.040
+we would consider it
+
+17:55.040 --> 17:57.040
+a profit from the project.
+
+17:57.040 --> 17:59.040
+We would consider it a profit.
+
+17:59.040 --> 18:01.040
+In this case,
+
+18:01.440 --> 18:03.440
+it is a mechanism,
+
+18:03.440 --> 18:05.440
+a part of a whole.
+
+18:05.440 --> 18:07.440
+We can evaluate its financial efficiency
+
+18:07.440 --> 18:09.440
+only from the point of view
+
+18:09.440 --> 18:11.440
+of the costs of this project.
+
+18:11.440 --> 18:13.440
+The rule is simple.
+
+18:13.440 --> 18:15.440
+The lower the costs,
+
+18:15.440 --> 18:17.440
+the better this device is.
+
+18:17.440 --> 18:19.440
+With the equality of all
+
+18:19.440 --> 18:21.440
+other technical characteristics.
+
+18:23.440 --> 18:25.440
+Please refer to the slide.
+
+18:27.440 --> 18:29.440
+We calculate
+
+18:29.840 --> 18:31.840
+the PV,
+
+18:31.840 --> 18:33.840
+the cost of both devices,
+
+18:33.840 --> 18:35.840
+taking into account
+
+18:35.840 --> 18:37.840
+the 10% discount rate.
+
+18:37.840 --> 18:39.840
+The first device
+
+18:39.840 --> 18:41.840
+is the price of its purchase
+
+18:41.840 --> 18:43.840
+plus the discounted costs
+
+18:43.840 --> 18:45.840
+for the first year
+
+18:45.840 --> 18:47.840
+plus the discounted costs
+
+18:47.840 --> 18:49.840
+for the second year.
+
+18:49.840 --> 18:51.840
+It is 117 kopecks.
+
+18:51.840 --> 18:53.840
+The second device
+
+18:53.840 --> 18:55.840
+costs 140 kopecks more
+
+18:55.840 --> 18:57.840
+plus the discounts
+
+18:58.240 --> 19:00.240
+for the third year.
+
+19:00.240 --> 19:02.240
+The result is 159 kopecks.
+
+19:02.240 --> 19:04.240
+What is better?
+
+19:04.240 --> 19:06.240
+159 or 117?
+
+19:08.240 --> 19:10.240
+We cannot answer this question
+
+19:10.240 --> 19:12.240
+because
+
+19:12.240 --> 19:14.240
+these two numbers
+
+19:14.240 --> 19:16.240
+have different periods.
+
+19:16.240 --> 19:18.240
+The first number, 117,
+
+19:18.240 --> 19:20.240
+is calculated for two years.
+
+19:20.240 --> 19:22.240
+The second number, 159,
+
+19:22.240 --> 19:24.240
+is calculated for three years.
+
+19:24.240 --> 19:26.240
+It would seem to divide the first number
+
+19:26.640 --> 19:28.640
+by two, and the second number by three.
+
+19:28.640 --> 19:30.640
+This is the solution.
+
+19:30.640 --> 19:32.640
+No, this is not the right solution.
+
+19:32.640 --> 19:34.640
+This solution is for accounting,
+
+19:34.640 --> 19:36.640
+for nominal economics.
+
+19:36.640 --> 19:38.640
+We are talking about economics
+
+19:38.640 --> 19:40.640
+where there is a discounting procedure.
+
+19:40.640 --> 19:42.640
+Therefore, we must use
+
+19:42.640 --> 19:44.640
+the model of
+
+19:44.640 --> 19:46.640
+the value estimation
+
+19:46.640 --> 19:48.640
+of annuity.
+
+19:48.640 --> 19:50.640
+In this case,
+
+19:50.640 --> 19:52.640
+117 and 159
+
+19:52.640 --> 19:54.640
+are the value
+
+19:55.040 --> 19:57.040
+of annuity
+
+19:57.040 --> 19:59.040
+which is
+
+19:59.040 --> 20:01.040
+two years
+
+20:01.040 --> 20:03.040
+or three years.
+
+20:03.040 --> 20:05.040
+Again,
+
+20:05.040 --> 20:07.040
+we look at
+
+20:07.040 --> 20:09.040
+our slide
+
+20:09.040 --> 20:11.040
+and see
+
+20:11.040 --> 20:13.040
+that the value
+
+20:13.040 --> 20:15.040
+of annuity
+
+20:15.040 --> 20:17.040
+for the first
+
+20:17.040 --> 20:19.040
+device is
+
+20:19.040 --> 20:21.040
+67 units,
+
+20:21.040 --> 20:23.040
+for the second 64 units.
+
+20:23.440 --> 20:25.440
+Again,
+
+20:25.440 --> 20:27.440
+we have
+
+20:27.440 --> 20:29.440
+two-year expenses
+
+20:29.440 --> 20:31.440
+which are 117
+
+20:31.440 --> 20:33.440
+and three-year expenses, 159.
+
+20:33.440 --> 20:35.440
+The value of
+
+20:35.440 --> 20:37.440
+the first device
+
+20:37.440 --> 20:39.440
+is 117 units.
+
+20:39.440 --> 20:41.440
+This is
+
+20:41.440 --> 20:43.440
+equivalent to
+
+20:43.440 --> 20:45.440
+two payments,
+
+20:45.440 --> 20:47.440
+two equal payments
+
+20:47.440 --> 20:49.440
+for the first and second year.
+
+20:49.440 --> 20:51.440
+How do we calculate
+
+20:51.840 --> 20:53.840
+the payment?
+
+20:53.840 --> 20:55.840
+We must use the formula of annuity.
+
+20:55.840 --> 20:57.840
+1.74 is the capitalization
+
+20:57.840 --> 20:59.840
+coefficient
+
+20:59.840 --> 21:01.840
+obtained by the formula 14.
+
+21:01.840 --> 21:03.840
+We need to use
+
+21:03.840 --> 21:05.840
+the number of years
+
+21:05.840 --> 21:07.840
+for the capitalization coefficient
+
+21:07.840 --> 21:09.840
+2 years, the interest rate
+
+21:09.840 --> 21:11.840
+10%.
+
+21:11.840 --> 21:13.840
+We have determined
+
+21:13.840 --> 21:15.840
+that if
+
+21:15.840 --> 21:17.840
+two times
+
+21:17.840 --> 21:19.840
+67 is paid,
+
+21:20.240 --> 21:22.240
+we get 117.
+
+21:22.240 --> 21:24.240
+The second device
+
+21:24.240 --> 21:26.240
+is 159,
+
+21:26.240 --> 21:28.240
+the total expenses for it,
+
+21:28.240 --> 21:30.240
+and 2.49, the capitalization coefficient.
+
+21:30.240 --> 21:32.240
+For its calculation, we took
+
+21:32.240 --> 21:34.240
+three years
+
+21:34.240 --> 21:36.240
+and the interest rate.
+
+21:36.240 --> 21:38.240
+What happens if
+
+21:38.240 --> 21:40.240
+64 is paid three times in a row,
+
+21:40.240 --> 21:42.240
+64, 64, 64,
+
+21:42.240 --> 21:44.240
+three times in a row,
+
+21:44.240 --> 21:46.240
+the total value of
+
+21:46.240 --> 21:48.240
+three 64 is
+
+21:48.640 --> 21:50.640
+159.9, almost 160.
+
+21:50.640 --> 21:52.640
+Now we have to
+
+21:52.640 --> 21:54.640
+compare two numbers
+
+21:54.640 --> 21:56.640
+given to one year.
+
+21:56.640 --> 21:58.640
+Remember,
+
+21:58.640 --> 22:00.640
+at the beginning
+
+22:00.640 --> 22:02.640
+we determined
+
+22:02.640 --> 22:04.640
+the total expenses
+
+22:04.640 --> 22:06.640
+for each of the devices,
+
+22:06.640 --> 22:08.640
+and then we brought these expenses,
+
+22:08.640 --> 22:10.640
+which were different in time,
+
+22:10.640 --> 22:12.640
+to one year.
+
+22:12.640 --> 22:14.640
+It turns out 67.64.
+
+22:14.640 --> 22:16.640
+Of course, we must
+
+22:17.040 --> 22:19.040
+choose the second device,
+
+22:19.040 --> 22:21.040
+because the expenses for it
+
+22:21.040 --> 22:23.040
+in the annual measurement are less.
+
+22:23.040 --> 22:25.040
+The expenses for it
+
+22:25.040 --> 22:27.040
+in the annual measurement are less,
+
+22:27.040 --> 22:29.040
+they are only 64.
+
+22:29.040 --> 22:31.040
+At this point, we begin
+
+22:31.040 --> 22:33.040
+to finish our course,
+
+22:33.040 --> 22:35.040
+which, I repeat,
+
+22:35.040 --> 22:37.040
+consists of the basic rules
+
+22:37.040 --> 22:39.040
+of the investment project assessment,
+
+22:39.040 --> 22:41.040
+some technical solutions
+
+22:41.040 --> 22:43.040
+that we have just disassembled,
+
+22:43.040 --> 22:45.040
+the application of these basic rules,
+
+22:45.440 --> 22:47.440
+and the NPV for the current
+
+22:47.440 --> 22:49.440
+analysis of economic activity.
+
+22:49.440 --> 22:51.440
+In conclusion,
+
+22:51.440 --> 22:53.440
+we will analyze the last point.
+
+22:53.440 --> 22:55.440
+The fact is that
+
+22:55.440 --> 22:57.440
+investment projects
+
+22:57.440 --> 22:59.440
+can be considered
+
+22:59.440 --> 23:01.440
+by a company
+
+23:01.440 --> 23:03.440
+in parallel with many other projects.
+
+23:03.440 --> 23:05.440
+It often happens that
+
+23:07.440 --> 23:09.440
+in the work of one company
+
+23:09.440 --> 23:11.440
+there are two or three
+
+23:11.440 --> 23:13.440
+projects,
+
+23:13.840 --> 23:15.840
+as practice shows,
+
+23:15.840 --> 23:17.840
+projects can be
+
+23:17.840 --> 23:19.840
+independent,
+
+23:19.840 --> 23:21.840
+or they can be dependent.
+
+23:21.840 --> 23:23.840
+If the projects are independent,
+
+23:23.840 --> 23:25.840
+then we have no problems.
+
+23:25.840 --> 23:27.840
+We use the tool
+
+23:27.840 --> 23:29.840
+we talked about
+
+23:29.840 --> 23:31.840
+and try to choose
+
+23:31.840 --> 23:33.840
+the best project
+
+23:33.840 --> 23:35.840
+taking into account
+
+23:35.840 --> 23:37.840
+the realities of the environment.
+
+23:37.840 --> 23:39.840
+If they are independent,
+
+23:39.840 --> 23:41.840
+then the projects can be dependent.
+
+23:43.840 --> 23:45.840
+In this case,
+
+23:45.840 --> 23:47.840
+we will name
+
+23:47.840 --> 23:49.840
+four types of dependence.
+
+23:49.840 --> 23:51.840
+There is a dependency
+
+23:51.840 --> 23:53.840
+that is necessary,
+
+23:53.840 --> 23:55.840
+replacing,
+
+23:55.840 --> 23:57.840
+excluding,
+
+23:57.840 --> 23:59.840
+and statistical.
+
+23:59.840 --> 24:01.840
+In our slide,
+
+24:01.840 --> 24:03.840
+they are described.
+
+24:03.840 --> 24:05.840
+Project A and Project B
+
+24:05.840 --> 24:07.840
+can be interconnected,
+
+24:07.840 --> 24:09.840
+dependent,
+
+24:09.840 --> 24:11.840
+so that if the implementation
+
+24:12.240 --> 24:14.240
+of Project A
+
+24:14.240 --> 24:16.240
+leads to
+
+24:16.240 --> 24:18.240
+the deterioration of Project B's parameters,
+
+24:18.240 --> 24:20.240
+or
+
+24:20.240 --> 24:22.240
+if the implementation of Project A
+
+24:22.240 --> 24:24.240
+leads to the improvement
+
+24:24.240 --> 24:26.240
+of Project B's parameters,
+
+24:26.240 --> 24:28.240
+or
+
+24:28.240 --> 24:30.240
+if the implementation of Project A
+
+24:30.240 --> 24:32.240
+leads to the fact that Project B
+
+24:32.240 --> 24:34.240
+cannot be implemented at all.
+
+24:34.240 --> 24:36.240
+These are called mutually excluding projects.
+
+24:36.240 --> 24:38.240
+When the implementation of one
+
+24:38.240 --> 24:40.240
+makes the implementation of another impossible.
+
+24:40.640 --> 24:42.640
+Or financially unprofitable.
+
+24:42.640 --> 24:44.640
+Finally,
+
+24:44.640 --> 24:46.640
+Projects A and B can be called
+
+24:46.640 --> 24:48.640
+statistically dependent
+
+24:48.640 --> 24:50.640
+if they depend on some external event
+
+24:50.640 --> 24:52.640
+of statistical nature
+
+24:52.640 --> 24:54.640
+or probability nature.
+
+24:56.640 --> 24:58.640
+Please,
+
+24:58.640 --> 25:00.640
+refer to the slides
+
+25:00.640 --> 25:02.640
+and we will consider a graph
+
+25:02.640 --> 25:04.640
+showing
+
+25:04.640 --> 25:06.640
+two mutually excluding
+
+25:06.640 --> 25:08.640
+Projects A and B.
+
+25:09.040 --> 25:11.040
+The mutually excluding
+
+25:11.040 --> 25:13.040
+is a vivid example
+
+25:13.040 --> 25:15.040
+of how to act
+
+25:15.040 --> 25:17.040
+when you have dependent projects.
+
+25:17.040 --> 25:19.040
+First,
+
+25:19.040 --> 25:21.040
+let's look at two lines.
+
+25:21.040 --> 25:23.040
+Here,
+
+25:23.040 --> 25:25.040
+we have the vertical NPV
+
+25:25.040 --> 25:27.040
+and the horizontal profitability.
+
+25:27.040 --> 25:29.040
+We consider
+
+25:29.040 --> 25:31.040
+the interconnection
+
+25:31.040 --> 25:33.040
+of NPV and profitability
+
+25:33.040 --> 25:35.040
+of two of our projects.
+
+25:35.040 --> 25:37.040
+They are mutually excluding.
+
+25:37.440 --> 25:39.440
+Project A and Project B.
+
+25:39.440 --> 25:41.440
+The intersection point
+
+25:41.440 --> 25:43.440
+is the point X.
+
+25:43.440 --> 25:45.440
+By the way,
+
+25:45.440 --> 25:47.440
+as you can guess,
+
+25:47.440 --> 25:49.440
+the NPV of both projects
+
+25:49.440 --> 25:51.440
+must be zero.
+
+25:53.440 --> 25:55.440
+These projects have IRR.
+
+25:55.440 --> 25:57.440
+Here it is indicated on the graph.
+
+25:59.440 --> 26:01.440
+What is interesting
+
+26:01.440 --> 26:03.440
+before we move on
+
+26:03.440 --> 26:05.440
+to the topic we have already discussed?
+
+26:05.840 --> 26:07.840
+At the point X,
+
+26:07.840 --> 26:09.840
+Project B
+
+26:09.840 --> 26:11.840
+was more profitable
+
+26:11.840 --> 26:13.840
+than Project A.
+
+26:13.840 --> 26:15.840
+After the point X,
+
+26:15.840 --> 26:17.840
+the profitability of the projects
+
+26:17.840 --> 26:19.840
+changes and Project A
+
+26:19.840 --> 26:21.840
+becomes more profitable
+
+26:21.840 --> 26:23.840
+than Project B.
+
+26:23.840 --> 26:25.840
+Please, note that
+
+26:25.840 --> 26:27.840
+on this graph
+
+26:27.840 --> 26:29.840
+on the left
+
+26:29.840 --> 26:31.840
+of the internal profitability
+
+26:31.840 --> 26:33.840
+there are
+
+26:34.240 --> 26:36.240
+three dotted lines.
+
+26:36.240 --> 26:38.240
+They intersect
+
+26:38.240 --> 26:40.240
+with two fat dots
+
+26:40.240 --> 26:42.240
+that indicate the points.
+
+26:42.240 --> 26:44.240
+Please, note that
+
+26:44.240 --> 26:46.240
+at one level of risk,
+
+26:46.240 --> 26:48.240
+Project B
+
+26:48.240 --> 26:50.240
+has more profitability
+
+26:50.240 --> 26:52.240
+than Project A.
+
+26:52.240 --> 26:54.240
+At one level of risk.
+
+26:54.240 --> 26:56.240
+This determines
+
+26:56.240 --> 26:58.240
+that this project
+
+26:58.240 --> 27:00.240
+is more profitable.
+
+27:00.240 --> 27:02.240
+In this case.
+
+27:02.640 --> 27:04.640
+If we move to the right
+
+27:04.640 --> 27:06.640
+of the intersection,
+
+27:06.640 --> 27:08.640
+we will see the opposite picture.
+
+27:08.640 --> 27:10.640
+At the same level of risk,
+
+27:10.640 --> 27:12.640
+in this case,
+
+27:12.640 --> 27:14.640
+of profitability,
+
+27:14.640 --> 27:16.640
+Project A
+
+27:16.640 --> 27:18.640
+will be more profitable
+
+27:18.640 --> 27:20.640
+than Project B.
+
+27:20.640 --> 27:22.640
+Its line will be higher
+
+27:22.640 --> 27:24.640
+than Project B.
+
+27:24.640 --> 27:26.640
+This is for your information.
+
+27:26.640 --> 27:28.640
+Now,
+
+27:28.640 --> 27:30.640
+as for the rules
+
+27:31.040 --> 27:33.040
+of analysis of dependent projects.
+
+27:33.040 --> 27:35.040
+The thing is
+
+27:35.040 --> 27:37.040
+that when you accept
+
+27:37.040 --> 27:39.040
+Project A
+
+27:39.040 --> 27:41.040
+and it somehow affects
+
+27:41.040 --> 27:43.040
+Project B,
+
+27:43.040 --> 27:45.040
+you should keep in mind
+
+27:45.040 --> 27:47.040
+that the money flows
+
+27:47.040 --> 27:49.040
+that you generate
+
+27:49.040 --> 27:51.040
+after accepting Project A
+
+27:51.040 --> 27:53.040
+should include
+
+27:53.040 --> 27:55.040
+the changes that occur
+
+27:55.040 --> 27:57.040
+in Project B.
+
+27:57.040 --> 27:59.040
+In other words,
+
+27:59.440 --> 28:01.440
+you have accepted
+
+28:01.440 --> 28:03.440
+Project A
+
+28:03.440 --> 28:05.440
+out of the exception of Project B.
+
+28:05.440 --> 28:07.440
+You have accepted Project A.
+
+28:07.440 --> 28:09.440
+You will count all the money flows
+
+28:09.440 --> 28:11.440
+through it.
+
+28:11.440 --> 28:13.440
+You should keep in mind
+
+28:13.440 --> 28:15.440
+that you did not accept Project B.
+
+28:15.440 --> 28:17.440
+If Project B
+
+28:17.440 --> 28:19.440
+brought you some financial profit,
+
+28:19.440 --> 28:21.440
+it means
+
+28:21.440 --> 28:23.440
+that you are incurring a financial loss.
+
+28:23.440 --> 28:25.440
+You should reflect
+
+28:25.440 --> 28:27.440
+this state on the money flows
+
+28:27.840 --> 28:29.840
+of Project A.
+
+28:29.840 --> 28:31.840
+I will repeat it one more time.
+
+28:31.840 --> 28:33.840
+You have two projects
+
+28:33.840 --> 28:35.840
+and you can choose only one.
+
+28:35.840 --> 28:37.840
+After choosing one,
+
+28:37.840 --> 28:39.840
+you should take into account
+
+28:39.840 --> 28:41.840
+the consequences of rejection of the second one
+
+28:41.840 --> 28:43.840
+and add them
+
+28:43.840 --> 28:45.840
+to the money flows
+
+28:45.840 --> 28:47.840
+of the basic project.
+
+28:47.840 --> 28:49.840
+After that, you will make
+
+28:49.840 --> 28:51.840
+all the standard calculations
+
+28:51.840 --> 28:53.840
+that we talked about.
+
+28:53.840 --> 28:55.840
+This was the last
+
+28:56.240 --> 28:58.240
+remark in this course
+
+28:58.240 --> 29:00.240
+regarding the analysis
+
+29:00.240 --> 29:02.240
+of the financial flows
+
+29:02.240 --> 29:04.240
+of investment projects
+
+29:04.240 --> 29:06.240
+for making investment decisions.
+
+29:08.240 --> 29:10.240
+Now,
+
+29:10.240 --> 29:12.240
+we need to sum up
+
+29:12.240 --> 29:14.240
+our course.
+
+29:14.240 --> 29:16.240
+We have considered the need
+
+29:16.240 --> 29:18.240
+for fundamentally new thinking.
+
+29:18.240 --> 29:20.240
+Perhaps, at some stage
+
+29:20.240 --> 29:22.240
+you have lost the thread.
+
+29:22.240 --> 29:24.240
+You have stopped understanding
+
+29:24.640 --> 29:26.640
+what we are talking about.
+
+29:26.640 --> 29:28.640
+Perhaps, it is so.
+
+29:28.640 --> 29:30.640
+Please, go back to the beginning
+
+29:30.640 --> 29:32.640
+and try to read the course
+
+29:32.640 --> 29:34.640
+again
+
+29:34.640 --> 29:36.640
+about the need for examples
+
+29:36.640 --> 29:38.640
+and changes in thinking.
+
+29:38.640 --> 29:40.640
+This is the basis
+
+29:40.640 --> 29:42.640
+for further understanding
+
+29:42.640 --> 29:44.640
+of the logic
+
+29:44.640 --> 29:46.640
+of the money flows.
+
+29:46.640 --> 29:48.640
+In fact, there is nothing wrong with it.
+
+29:48.640 --> 29:50.640
+You just need to understand the logic.
+
+29:50.640 --> 29:52.640
+The first one is
+
+29:53.040 --> 29:55.040
+the value of the change in thinking.
+
+29:55.040 --> 29:57.040
+The change in thinking
+
+29:57.040 --> 29:59.040
+leads to the change
+
+29:59.040 --> 30:01.040
+in the price of the asset.
+
+30:01.040 --> 30:03.040
+This change in the price of the asset
+
+30:03.040 --> 30:05.040
+led us to consider
+
+30:05.040 --> 30:07.040
+the issue of the value
+
+30:07.040 --> 30:09.040
+of the financial assets.
+
+30:09.040 --> 30:11.040
+We have discussed
+
+30:11.040 --> 30:13.040
+the discounting
+
+30:13.040 --> 30:15.040
+and the discounting coefficient.
+
+30:15.040 --> 30:17.040
+Then we have discussed
+
+30:17.040 --> 30:19.040
+the effective interest rate
+
+30:19.040 --> 30:21.040
+and asked you to go
+
+30:21.440 --> 30:23.440
+to the bank
+
+30:23.440 --> 30:25.440
+to conduct a small study.
+
+30:25.440 --> 30:27.440
+Finally, we have discussed
+
+30:27.440 --> 30:29.440
+three options for the value of the asset.
+
+30:29.440 --> 30:31.440
+The value of the loan, the value of the bond
+
+30:31.440 --> 30:33.440
+and the value of the shares.
+
+30:33.440 --> 30:35.440
+I will repeat that
+
+30:35.440 --> 30:37.440
+each of these values
+
+30:37.440 --> 30:39.440
+is based on the same phenomenon
+
+30:39.440 --> 30:41.440
+namely, the discounting
+
+30:41.440 --> 30:43.440
+of the money flows.
+
+30:43.440 --> 30:45.440
+In the case of the loan,
+
+30:45.440 --> 30:47.440
+the return of the principal amount
+
+30:47.440 --> 30:49.440
+along with the interest.
+
+30:49.840 --> 30:51.840
+In the case of the shares,
+
+30:51.840 --> 30:53.840
+the return of the dividends
+
+30:53.840 --> 30:55.840
+or another analog
+
+30:55.840 --> 30:57.840
+without the return of the principal amount.
+
+30:57.840 --> 30:59.840
+The return of dividends
+
+30:59.840 --> 31:01.840
+during an indefinite period.
+
+31:01.840 --> 31:03.840
+So,
+
+31:03.840 --> 31:05.840
+we have understood
+
+31:05.840 --> 31:07.840
+this logic, I hope.
+
+31:07.840 --> 31:09.840
+Our next step
+
+31:09.840 --> 31:11.840
+was to understand
+
+31:11.840 --> 31:13.840
+how we will calculate
+
+31:13.840 --> 31:15.840
+the value of the investment project.
+
+31:15.840 --> 31:17.840
+We need to know
+
+31:18.240 --> 31:20.240
+the discounting rate
+
+31:20.240 --> 31:22.240
+or rather, we need to know how to choose it
+
+31:22.240 --> 31:24.240
+and we need to know
+
+31:24.240 --> 31:26.240
+how to calculate the money flows
+
+31:26.240 --> 31:28.240
+of the investment project.
+
+31:28.240 --> 31:30.240
+After all,
+
+31:30.240 --> 31:32.240
+the money flows from the shares
+
+31:32.240 --> 31:34.240
+are mostly dividends.
+
+31:34.240 --> 31:36.240
+The money flows from the project
+
+31:36.240 --> 31:38.240
+are completely different.
+
+31:38.240 --> 31:40.240
+We have considered
+
+31:40.240 --> 31:42.240
+possible options
+
+31:42.240 --> 31:44.240
+namely, the choice of the market index,
+
+31:44.240 --> 31:46.240
+the choice of the risk-free rate
+
+31:46.640 --> 31:48.640
+and what else we had.
+
+31:48.640 --> 31:50.640
+Alternative rates
+
+31:50.640 --> 31:52.640
+that exist.
+
+31:52.640 --> 31:54.640
+This was about
+
+31:54.640 --> 31:56.640
+the possibility of borrowing on the market
+
+31:56.640 --> 31:58.640
+or investing in alternative projects.
+
+31:58.640 --> 32:00.640
+Finally,
+
+32:00.640 --> 32:02.640
+we have disassembled
+
+32:02.640 --> 32:04.640
+two models,
+
+32:04.640 --> 32:06.640
+the average capital expenditure
+
+32:06.640 --> 32:08.640
+and the CAPM model
+
+32:08.640 --> 32:10.640
+for the valuation of long-term assets.
+
+32:10.640 --> 32:12.640
+The CAPM model
+
+32:12.640 --> 32:14.640
+shows us
+
+32:15.040 --> 32:17.040
+the profitability of the asset
+
+32:17.040 --> 32:19.040
+and the profitability of the market
+
+32:19.040 --> 32:21.040
+are interconnected
+
+32:21.040 --> 32:23.040
+and shows the number of measurements
+
+32:23.040 --> 32:25.040
+of this interconnection.
+
+32:25.040 --> 32:27.040
+The average capital expenditure
+
+32:27.040 --> 32:29.040
+is shown by the VISCC.
+
+32:29.040 --> 32:31.040
+It shows
+
+32:31.040 --> 32:33.040
+the maximum expenses
+
+32:33.040 --> 32:35.040
+of the company
+
+32:35.040 --> 32:37.040
+for the maintenance of its capital.
+
+32:37.040 --> 32:39.040
+How much does it cost to maintain capital?
+
+32:39.040 --> 32:41.040
+It is like the main funds.
+
+32:41.040 --> 32:43.040
+How much does it cost to maintain the machine?
+
+32:43.440 --> 32:45.440
+So,
+
+32:45.440 --> 32:47.440
+we have also disassembled
+
+32:47.440 --> 32:49.440
+the cash flows.
+
+32:49.440 --> 32:51.440
+We have discussed the cash flow
+
+32:51.440 --> 32:53.440
+as a method of calculation
+
+32:53.440 --> 32:55.440
+based on the
+
+32:55.440 --> 32:57.440
+indirect method.
+
+32:57.440 --> 32:59.440
+To do this,
+
+32:59.440 --> 33:01.440
+we had to
+
+33:01.440 --> 33:03.440
+understand
+
+33:03.440 --> 33:05.440
+that there are three
+
+33:05.440 --> 33:07.440
+components of the cash flow.
+
+33:07.440 --> 33:09.440
+This is the cash flow from the main activity,
+
+33:09.440 --> 33:11.440
+from the investment
+
+33:11.840 --> 33:13.840
+and from the financial.
+
+33:13.840 --> 33:15.840
+When we add them together,
+
+33:15.840 --> 33:17.840
+we get the total amount of the cash flow.
+
+33:17.840 --> 33:19.840
+This amount
+
+33:19.840 --> 33:21.840
+must be equal to the difference
+
+33:21.840 --> 33:23.840
+of the balance in the accounts
+
+33:23.840 --> 33:25.840
+at the beginning and at the end of the period.
+
+33:25.840 --> 33:27.840
+To calculate the income
+
+33:27.840 --> 33:29.840
+from the main activity,
+
+33:29.840 --> 33:31.840
+we must take the profit
+
+33:31.840 --> 33:33.840
+of the company
+
+33:33.840 --> 33:35.840
+from the report on profits and losses,
+
+33:35.840 --> 33:37.840
+restore it to the amount of amortization,
+
+33:37.840 --> 33:39.840
+restore it to the amount of profits and losses,
+
+33:40.240 --> 33:42.240
+restore it to the amount of non-realized profits
+
+33:42.240 --> 33:44.240
+and non-realized losses.
+
+33:44.240 --> 33:46.240
+If we take the non-realized profit,
+
+33:46.240 --> 33:48.240
+we take it with a minus sign,
+
+33:48.240 --> 33:50.240
+if the loss,
+
+33:50.240 --> 33:52.240
+then with a plus sign.
+
+33:52.240 --> 33:54.240
+And then we restore it
+
+33:54.240 --> 33:56.240
+to the balance in the article.
+
+33:56.240 --> 33:58.240
+So,
+
+33:58.240 --> 34:00.240
+the investment activity
+
+34:00.240 --> 34:02.240
+is the purchase of sales,
+
+34:02.240 --> 34:04.240
+the purchase of equipment,
+
+34:04.240 --> 34:06.240
+this is the investment,
+
+34:06.240 --> 34:08.240
+and finally,
+
+34:08.640 --> 34:10.640
+the financial activity,
+
+34:10.640 --> 34:12.640
+namely, the issuance of shares,
+
+34:12.640 --> 34:14.640
+the issuance of bonds,
+
+34:14.640 --> 34:16.640
+repayment of debts,
+
+34:16.640 --> 34:18.640
+repayment of bonds,
+
+34:18.640 --> 34:20.640
+payment of dividends.
+
+34:20.640 --> 34:22.640
+So,
+
+34:22.640 --> 34:24.640
+we have discussed how to find a discount rate,
+
+34:24.640 --> 34:26.640
+we have discussed how to calculate the cash flow of the project.
+
+34:26.640 --> 34:28.640
+Now,
+
+34:28.640 --> 34:30.640
+we have all the parameters
+
+34:30.640 --> 34:32.640
+necessary to calculate
+
+34:32.640 --> 34:34.640
+the cost of the investment project.
+
+34:35.040 --> 34:37.040
+We calculate it.
+
+34:37.040 --> 34:39.040
+Having calculated it,
+
+34:39.040 --> 34:41.040
+we can move on
+
+34:41.040 --> 34:43.040
+to the main actions.
+
+34:43.040 --> 34:45.040
+The main actions
+
+34:45.040 --> 34:47.040
+are
+
+34:47.040 --> 34:49.040
+to calculate
+
+34:49.040 --> 34:51.040
+the NPV,
+
+34:51.040 --> 34:53.040
+the net cost,
+
+34:53.040 --> 34:55.040
+the difference between
+
+34:55.040 --> 34:57.040
+the costs and the income
+
+34:57.040 --> 34:59.040
+of the project.
+
+34:59.040 --> 35:01.040
+To calculate the IRR,
+
+35:01.040 --> 35:03.040
+the internal income rate,
+
+35:03.440 --> 35:05.440
+we need to determine
+
+35:05.440 --> 35:07.440
+at what interest rate
+
+35:07.440 --> 35:09.440
+the cost of the money is,
+
+35:09.440 --> 35:11.440
+at what income rate
+
+35:11.440 --> 35:13.440
+the NPV of the project will be equal to zero.
+
+35:13.440 --> 35:15.440
+Then there is the index of profitability
+
+35:15.440 --> 35:17.440
+and the term of the purchase.
+
+35:17.440 --> 35:19.440
+Both parameters
+
+35:19.440 --> 35:21.440
+in terms of discounted value.
+
+35:21.440 --> 35:23.440
+Four main ones.
+
+35:23.440 --> 35:25.440
+So,
+
+35:25.440 --> 35:27.440
+we have already considered
+
+35:27.440 --> 35:29.440
+several examples
+
+35:29.440 --> 35:31.440
+of how to use
+
+35:31.840 --> 35:33.840
+the NPV methodology
+
+35:33.840 --> 35:35.840
+to analyze the volume of sales,
+
+35:35.840 --> 35:37.840
+to analyze
+
+35:37.840 --> 35:39.840
+the credit policy,
+
+35:39.840 --> 35:41.840
+to analyze the balance on the accounts,
+
+35:41.840 --> 35:43.840
+to analyze the choice
+
+35:43.840 --> 35:45.840
+of one or another
+
+35:45.840 --> 35:47.840
+type of financial policy.
+
+35:47.840 --> 35:49.840
+Finally,
+
+35:49.840 --> 35:51.840
+the last thing
+
+35:51.840 --> 35:53.840
+we need to mention
+
+35:53.840 --> 35:55.840
+is that
+
+35:55.840 --> 35:57.840
+investment projects
+
+35:57.840 --> 35:59.840
+are not
+
+36:00.240 --> 36:02.240
+always dependent.
+
+36:02.240 --> 36:04.240
+In this case,
+
+36:04.240 --> 36:06.240
+they lead
+
+36:06.240 --> 36:08.240
+to a certain correction
+
+36:08.240 --> 36:10.240
+of the money flows.
+
+36:10.240 --> 36:12.240
+Dependency leads
+
+36:12.240 --> 36:14.240
+to the fact that you must take into account
+
+36:14.240 --> 36:16.240
+the consequences
+
+36:16.240 --> 36:18.240
+that occurred
+
+36:18.240 --> 36:20.240
+with a dependent project
+
+36:20.240 --> 36:22.240
+in the chosen project.
+
+36:22.240 --> 36:24.240
+We can draw a line on this.
+
+36:24.240 --> 36:26.240
+I hope that
+
+36:26.240 --> 36:28.240
+you will solve
+
+36:28.640 --> 36:30.640
+all the tasks
+
+36:30.640 --> 36:32.640
+in the workbook
+
+36:32.640 --> 36:34.640
+based on these tasks.
+
+36:34.640 --> 36:36.640
+They are not difficult.
+
+36:36.640 --> 36:38.640
+I would like to draw your attention
+
+36:38.640 --> 36:40.640
+to the fact that
+
+36:40.640 --> 36:42.640
+sometimes
+
+36:42.640 --> 36:44.640
+it is written
+
+36:44.640 --> 36:46.640
+in a different way
+
+36:46.640 --> 36:48.640
+so that you
+
+36:48.640 --> 36:50.640
+think about
+
+36:50.640 --> 36:52.640
+what this parameter means.
+
+36:52.640 --> 36:54.640
+But all the tasks
+
+36:54.640 --> 36:56.640
+are not difficult.
+
+36:57.040 --> 36:59.040
+Finally,
+
+36:59.040 --> 37:01.040
+the last two tasks
+
+37:01.040 --> 37:03.040
+in the workbook
+
+37:03.040 --> 37:05.040
+are a summary
+
+37:05.040 --> 37:07.040
+of real situations
+
+37:07.040 --> 37:09.040
+where such
+
+37:09.040 --> 37:11.040
+investigations were carried out.
+
+37:11.040 --> 37:13.040
+You solve them.
+
+37:13.040 --> 37:15.040
+The last task
+
+37:15.040 --> 37:17.040
+is a small case.
+
+37:17.040 --> 37:19.040
+Your task is to recheck
+
+37:19.040 --> 37:21.040
+the investment project
+
+37:21.040 --> 37:23.040
+that was laid out there.
+
+37:23.040 --> 37:25.040
+The project is not difficult.
+
+37:25.440 --> 37:27.440
+It is a very popular business
+
+37:27.440 --> 37:29.440
+in the village of Podmoskovye.
+
+37:29.440 --> 37:31.440
+There is NPV,
+
+37:31.440 --> 37:33.440
+there is IRR,
+
+37:33.440 --> 37:35.440
+there are many things.
+
+37:35.440 --> 37:37.440
+Your task is
+
+37:37.440 --> 37:39.440
+to recheck
+
+37:39.440 --> 37:41.440
+these calculated data
+
+37:41.440 --> 37:43.440
+taking into account the objective realities
+
+37:43.440 --> 37:45.440
+that exist on the market today
+
+37:45.440 --> 37:47.440
+and to draw a conclusion
+
+37:47.440 --> 37:49.440
+on how the project is calculated
+
+37:49.440 --> 37:51.440
+correctly and whether it is worth
+
+37:51.440 --> 37:53.440
+doing it or not.
+
+37:53.840 --> 37:55.840
+That's all.
+
+37:55.840 --> 37:57.840
+Thank you for your attention.

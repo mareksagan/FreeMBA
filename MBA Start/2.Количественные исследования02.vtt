@@ -1,0 +1,1282 @@
+WEBVTT
+
+00:00.000 --> 00:08.000
+OK, we've talked about statistics, we've talked about linear programming.
+
+00:08.000 --> 00:17.000
+Linear programming assumes that you are in the deterministic world.
+
+00:17.000 --> 00:29.000
+When we were solving the problem about nuts, we secretly assumed that all the nut mixtures that we produce would be bought from us.
+
+00:29.000 --> 00:32.000
+And at the prices that we set.
+
+00:32.000 --> 00:35.000
+But are we always so sure?
+
+00:35.000 --> 00:37.000
+Of course, not always.
+
+00:37.000 --> 00:47.000
+In fact, it is unlikely that a person can be so seriously sure, except if we are talking about abstract mathematics.
+
+00:47.000 --> 00:51.000
+Imagine this situation.
+
+00:51.000 --> 00:55.000
+You are a boy who sells newspapers.
+
+00:55.000 --> 01:03.000
+You buy newspapers from the editorial office for $1 and sell them for $2.
+
+01:03.000 --> 01:14.000
+If you fail to sell all the newspapers, the editorial office is so kind to you that they take these newspapers from you for 50 cents each.
+
+01:14.000 --> 01:24.000
+You are a smart boy, and you have managed to calculate that the average demand for your newspapers is 100 pieces a day.
+
+01:25.000 --> 01:27.000
+But this is the average demand.
+
+01:27.000 --> 01:32.000
+And the standard deviation is, let's say, 20 newspapers.
+
+01:32.000 --> 01:38.000
+Under the conditions of this task, what should be the optimal order?
+
+01:38.000 --> 01:40.000
+As usual, we optimize the profit.
+
+01:40.000 --> 01:44.000
+It should be less than 100, exactly 100, more than 100.
+
+01:44.000 --> 01:48.000
+And if it is more than 100 or less than 100, then how much should it be more or less?
+
+01:49.000 --> 01:55.000
+Here a certain uncertainty is involved.
+
+01:55.000 --> 02:01.000
+Uncertainty is a concept that is wider than probability, as we have already noted.
+
+02:05.000 --> 02:12.000
+Nevertheless, we will consider that in this case we are dealing not with uncertainty as such, but with its part, probability.
+
+02:12.000 --> 02:22.000
+In general, this particular task has a fairly accurate solution.
+
+02:22.000 --> 02:28.000
+But for solving such a task, the so-called Monte Carlo method is used.
+
+02:28.000 --> 02:30.000
+A beautiful and loud name.
+
+02:30.000 --> 02:38.000
+Everyone immediately imagines a James Bond who sits in Monte Carlo and wins roulette.
+
+02:39.000 --> 02:54.000
+But in fact, the Monte Carlo method is a method of numerical solving of tasks by a certain random number generator.
+
+02:54.000 --> 03:02.000
+In Excel, in Russian-language Excel, the function that generates random numbers is called solchisl.
+
+03:02.000 --> 03:10.000
+In general, in all other programming languages, it is called rand, from the word random, from English.
+
+03:10.000 --> 03:15.000
+This function gives the value of the evenly distributed interval from 0 to 1.
+
+03:15.000 --> 03:17.000
+Why exactly from 0 to 1?
+
+03:17.000 --> 03:23.000
+Because the probability can take a value from 0 to 1.
+
+03:23.000 --> 03:30.000
+Accordingly, the value of the solchisl function is distributed from 0 to 1.
+
+03:31.000 --> 03:48.000
+How can we use the solchisl function to create a different distribution, different from the evenly distributed interval from 0 to 1?
+
+03:48.000 --> 03:52.000
+For these purposes, the so-called reverse distribution serves.
+
+03:52.000 --> 04:08.000
+In our case, since we believe that the sales of newspapers are distributed normally, we will use the function that in Russian Excel is called normstobr.
+
+04:08.000 --> 04:11.000
+Normal standard reverse distribution.
+
+04:11.000 --> 04:15.000
+What will such a function do?
+
+04:15.000 --> 04:21.000
+Normal cumulative distribution looks like this.
+
+04:21.000 --> 04:27.000
+It increases smoothly and decreases to 1.
+
+04:27.000 --> 04:41.000
+Thus, the solchisl function, the random number, imagine an interval from 0 to 1, where this function is.
+
+04:41.000 --> 04:45.000
+The random number will give the value from 0 to 1.
+
+04:45.000 --> 04:51.000
+Accordingly, we will look for the corresponding point on this graph, horizontally.
+
+04:51.000 --> 04:58.000
+And then we will mark the number of standard deviations on which this point is located.
+
+04:58.000 --> 05:10.000
+Generating the random number that has the corresponding distribution, we will repeat this process many times.
+
+05:10.000 --> 05:17.000
+And we will get the result that we can already work with.
+
+05:17.000 --> 05:34.000
+In the case of a boy, we will generate the sequence of demand for his product and compare which of the orders will lead to the highest profit.
+
+05:34.000 --> 05:42.000
+It should be noted that this is not a Svender model, this is not the only task that can be solved in this way.
+
+05:42.000 --> 05:46.000
+Of course, the Monte Carlo method can solve anything.
+
+05:46.000 --> 05:54.000
+Therefore, as an example, we will look at the modeling of gambling games.
+
+05:54.000 --> 06:00.000
+Gambling games are a very favorable ground for the implementation of the Monte Carlo method.
+
+06:00.000 --> 06:07.000
+For one simple reason, the uncertainty used there is almost a pure probability.
+
+06:07.000 --> 06:10.000
+And, of course, no one is trying to deceive you.
+
+06:10.000 --> 06:17.000
+Yes, the Monte Carlo method lacks elegance and strictness.
+
+06:17.000 --> 06:25.000
+Of course, sophisticated mathematicians will never accept the results obtained by the Monte Carlo method as proof.
+
+06:25.000 --> 06:27.000
+This is natural.
+
+06:27.000 --> 06:34.000
+The solution to the Monte Carlo method may require significant computational power.
+
+06:34.000 --> 06:37.000
+Here the so-called curse of dimensionality begins to work.
+
+06:37.000 --> 06:42.000
+Imagine that you are modeling the American option using the Monte Carlo method.
+
+06:42.000 --> 06:50.000
+The American option is an option that can be implemented at any time between the start and the end of its operation.
+
+06:50.000 --> 06:56.000
+You will have to model the duration of the option for 90 days.
+
+06:56.000 --> 07:04.000
+And you want to simulate, do a thousand simulations every time.
+
+07:04.000 --> 07:07.000
+For example, you do a thousand simulations on the first day.
+
+07:07.000 --> 07:11.000
+At the end of the first day, at the end of each simulation, you do a thousand simulations.
+
+07:11.000 --> 07:13.000
+This is already a million.
+
+07:13.000 --> 07:15.000
+On the third day, you do a billion.
+
+07:15.000 --> 07:17.000
+On the fourth day, you do a trillion.
+
+07:17.000 --> 07:26.000
+By the 90th day, the computational power of all existing computers will be exhausted.
+
+07:26.000 --> 07:29.000
+Unfortunately, yes, sometimes this requires significant computational power.
+
+07:29.000 --> 07:31.000
+But, fortunately, not always.
+
+07:31.000 --> 07:39.000
+Therefore, the Monte Carlo method is quite effective in some cases and is practically impossible to use in others.
+
+07:39.000 --> 07:42.000
+What else is necessary from the Monte Carlo method?
+
+07:42.000 --> 07:45.000
+It is desirable to have a reliable and reproducible random number generator.
+
+07:45.000 --> 07:48.000
+Why should the random number generator be reproducible?
+
+07:48.000 --> 08:03.000
+If you change something in your model, you must understand that the result that appeared is primarily due to changes in the model,
+
+08:03.000 --> 08:07.000
+and not to changes in the fact that you have completely different random numbers.
+
+08:07.000 --> 08:14.000
+Such a thing as reproducibility is a very useful thing.
+
+08:14.000 --> 08:24.000
+It should be noted that the random number generators used in the Monte Carlo method are based on simple numbers,
+
+08:24.000 --> 08:28.000
+on a pair of two simple numbers.
+
+08:28.000 --> 08:34.000
+And recently, the calculation of random numbers has become a serious business.
+
+08:34.000 --> 08:37.000
+As I promised, the task is simpler.
+
+08:37.000 --> 08:40.000
+Or more complicated, as you like.
+
+08:40.000 --> 08:42.000
+The task is as follows.
+
+08:42.000 --> 08:46.000
+You come to the casino and play such a game.
+
+08:46.000 --> 08:49.000
+The probability of winning is 52%.
+
+08:49.000 --> 08:52.000
+You have a large amount of money with you, 10 thousand dollars.
+
+08:52.000 --> 08:59.000
+Since you know that your game is winnable, you choose which bet to make.
+
+08:59.000 --> 09:05.000
+4% of your prosperity or 15% of the prosperity of what you have now.
+
+09:05.000 --> 09:12.000
+At the same time, since the game is quite strange, you play exactly a thousand times,
+
+09:12.000 --> 09:19.000
+and your goal is to take as much money as possible with you.
+
+09:19.000 --> 09:23.000
+Or, if you want, you can look at it differently.
+
+09:23.000 --> 09:26.000
+Two different players come to the casino.
+
+09:26.000 --> 09:29.000
+Player 2, who always bets 4%,
+
+09:29.000 --> 09:34.000
+and Player 1, who always bets 15% of what he has in stock.
+
+09:34.000 --> 09:36.000
+Let's see.
+
+09:36.000 --> 09:46.000
+Here is a graph of how the amount at the disposal of a particular player will change.
+
+09:48.000 --> 09:49.000
+Okay.
+
+09:49.000 --> 09:51.000
+Well, here they are both unlucky.
+
+09:51.000 --> 09:57.000
+Here, despite the fact that the game was winnable,
+
+09:57.000 --> 09:59.000
+both of them lost.
+
+09:59.000 --> 10:00.000
+But pay attention.
+
+10:00.000 --> 10:06.000
+Player 1, who bets 15% of his prosperity, has lost a long time ago and hopelessly.
+
+10:06.000 --> 10:10.000
+Player 2 still has some money.
+
+10:11.000 --> 10:13.000
+Now I will press the F9 button,
+
+10:13.000 --> 10:19.000
+and thus every time a new round will be re-read, a new thousand games.
+
+10:21.000 --> 10:27.000
+Here, Player 1 seems to be even lucky.
+
+10:27.000 --> 10:32.000
+Player 1 earned more than $ 90,000 at some point.
+
+10:32.000 --> 10:36.000
+Well, that is, 110,000 minus about 10,000, with which he came.
+
+10:36.000 --> 10:39.000
+But in the end, everything returned to its own in the circle,
+
+10:39.000 --> 10:42.000
+and Player 1 went bankrupt.
+
+10:43.000 --> 10:46.000
+While Player 2 fluctuated a little,
+
+10:46.000 --> 10:52.000
+and in the end remained with a more or less noticeable and acceptable amount.
+
+10:52.000 --> 10:55.000
+So, no matter how many times we press the F9 button,
+
+10:55.000 --> 11:04.000
+almost always a player who bets a smaller amount will win.
+
+11:05.000 --> 11:07.000
+Pay attention, he is in lilac.
+
+11:07.000 --> 11:10.000
+Here, even a decent amount is earned.
+
+11:10.000 --> 11:12.000
+And so on.
+
+11:14.000 --> 11:18.000
+In exceptional cases, under conditions of very high luck,
+
+11:18.000 --> 11:22.000
+Player 1 will win.
+
+11:22.000 --> 11:25.000
+But this will be extremely rare.
+
+11:27.000 --> 11:30.000
+The situation will worsen even more
+
+11:30.000 --> 11:45.000
+if we change the probability of winning from 52% to, say, 50.2%.
+
+11:46.000 --> 11:49.000
+Here, in fact, it is 50.2%,
+
+11:49.000 --> 11:53.000
+I will show that it is really 50.2%.
+
+11:53.000 --> 12:01.000
+Then we need to bet not even 4%, but 0.4%
+
+12:01.000 --> 12:08.000
+so that our money grows as fast as possible.
+
+12:10.000 --> 12:12.000
+Let's see.
+
+12:16.000 --> 12:20.000
+The game is quite boring for the player.
+
+12:20.000 --> 12:25.000
+But if you pay attention, the game of Player 1 is very fun,
+
+12:25.000 --> 12:28.000
+but nevertheless completely unprofitable.
+
+12:30.000 --> 12:35.000
+And of course, we laid some unrealistic assumptions
+
+12:35.000 --> 12:40.000
+that the probability of winning is 50.2%.
+
+12:40.000 --> 12:44.000
+Of course, the probability of winning is never 50%.
+
+12:44.000 --> 12:48.000
+With a probability of winning of 49%,
+
+12:56.000 --> 13:00.000
+the question of how much to bet has a very simple answer.
+
+13:00.000 --> 13:02.000
+Well, in general, not much.
+
+13:02.000 --> 13:05.000
+Although sometimes, as you can see,
+
+13:05.000 --> 13:11.000
+in some cases, one or another player will either remain practically at 0%
+
+13:11.000 --> 13:13.000
+or lose a little bit.
+
+13:13.000 --> 13:17.000
+But if you pay attention, a player who bets 15% of his state
+
+13:17.000 --> 13:22.000
+loses under such conditions guaranteed and very, very quickly.
+
+13:26.000 --> 13:32.000
+This task, in this case, is solved by the Monte Carlo method,
+
+13:33.000 --> 13:37.000
+simulating the existing values.
+
+13:39.000 --> 13:44.000
+Let's return to the task of the newspaper seller.
+
+13:45.000 --> 13:50.000
+As I said, the price of the newspaper purchase is $ 1,
+
+13:50.000 --> 13:53.000
+the price of the newspaper sale is $ 2.
+
+13:53.000 --> 13:56.000
+What is called an underage cost,
+
+13:56.000 --> 14:01.000
+the under-order price is $ 1,
+
+14:01.000 --> 14:05.000
+the overage cost is $ 0.50.
+
+14:05.000 --> 14:13.000
+That is, the publisher buys the newspaper purchased for $ 1 for $ 0.50.
+
+14:13.000 --> 14:15.000
+The average demand for the newspaper is 100,
+
+14:15.000 --> 14:17.000
+the standard deviation is 20.
+
+14:19.000 --> 14:21.000
+What are we going to do here?
+
+14:21.000 --> 14:26.000
+We will simulate the demand.
+
+14:29.000 --> 14:31.000
+It will be distributed approximately normally.
+
+14:31.000 --> 14:34.000
+The distribution will be slightly different from the normal,
+
+14:34.000 --> 14:36.000
+but this is not very critical.
+
+14:37.000 --> 14:39.000
+We will simulate the demand
+
+14:40.000 --> 14:51.000
+and we will see how the level of the order affects it.
+
+14:51.000 --> 14:56.000
+In this line, we have different boys.
+
+14:56.000 --> 15:01.000
+One boy orders 106 newspapers, the other 108, the third 110, the fourth 112, and so on.
+
+15:01.000 --> 15:08.000
+We will see how the order amount affects the profit they receive.
+
+15:09.000 --> 15:16.000
+Here is a simple macro that will generate demand.
+
+15:16.000 --> 15:20.000
+We will run it now and leave it for a while.
+
+15:20.000 --> 15:23.000
+We will leave the computer to count for a while.
+
+15:24.000 --> 15:32.000
+As you can see, we have generated a little more than a thousand different demand values.
+
+15:33.000 --> 15:41.000
+We will build a graph of how the order level affects our profit.
+
+15:41.000 --> 15:48.000
+Here are several different order levels and the profit that corresponds to them.
+
+15:51.000 --> 15:53.000
+We will insert a graph here.
+
+15:53.000 --> 15:56.000
+As usual, it will be a point graph.
+
+15:56.000 --> 16:01.000
+We will use our order as x, and our profit as y.
+
+16:03.000 --> 16:10.000
+The graph shows that the optimal order will be somewhere around $108-110.
+
+16:11.000 --> 16:19.000
+The optimal order is affected by several conditions.
+
+16:19.000 --> 16:26.000
+In particular, the fact that we used a slightly shifted distribution.
+
+16:27.000 --> 16:35.000
+In addition, each time we generate a new batch of data, we will fluctuate around the optimal order.
+
+16:35.000 --> 16:39.000
+In fact, the optimal order is somewhere around $112-113.
+
+16:42.000 --> 16:51.000
+It would seem that there is not much difference between a person who ordered 124 and a person who ordered 108.
+
+16:51.000 --> 16:54.000
+The difference is literally $3,000.
+
+16:54.000 --> 16:56.000
+But let's think about it.
+
+16:56.000 --> 17:02.000
+There are no other possible expenses on this graph.
+
+17:02.000 --> 17:06.000
+In particular, rent, food, etc.
+
+17:06.000 --> 17:12.000
+Imagine that the necessary expenses are $90,000.
+
+17:12.000 --> 17:20.000
+Thus, a person who ordered 124 newspapers gets a profit of just under $1,000.
+
+17:20.000 --> 17:28.000
+While a person who ordered 108 newspapers gets a profit of almost $4,000.
+
+17:28.000 --> 17:38.000
+This is almost four times higher than the level of 124 newspapers.
+
+17:38.000 --> 17:50.000
+Or, of course, the 100 newspapers will be located at the level of $92,000.
+
+17:50.000 --> 17:53.000
+Nevertheless, the difference will be significant.
+
+17:53.000 --> 17:57.000
+If we are talking about profits, not sales, then the difference will be significant.
+
+17:57.000 --> 18:01.000
+Let's look at our distribution histogram.
+
+18:01.000 --> 18:10.000
+It looks like a normal distribution.
+
+18:10.000 --> 18:15.000
+Note that the demand was several times lower at the level of zero.
+
+18:15.000 --> 18:18.000
+Of course, we limited the demand from the bottom to zero.
+
+18:18.000 --> 18:21.000
+It is unlikely that someone will come and sell a boy a newspaper.
+
+18:21.000 --> 18:25.000
+Nevertheless, the demand was several times lower.
+
+18:25.000 --> 18:30.000
+Note that our average is only about 100 newspapers.
+
+18:30.000 --> 18:33.000
+The demand was several times higher.
+
+18:33.000 --> 18:37.000
+Fortunately, the model of newspaper sellers has a strict solution.
+
+18:37.000 --> 18:42.000
+You can find it in the course application.
+
+18:42.000 --> 18:44.000
+The point is not in a strict solution.
+
+18:44.000 --> 18:52.000
+The point is that we can solve quite difficult tasks using the Monte Carlo method.
+
+18:52.000 --> 18:59.000
+Traditionally, after the end of the course, there are two tasks,
+
+18:59.000 --> 19:02.000
+and then, after a while, the solution of all six tasks.
+
+19:02.000 --> 19:09.000
+The first task was given at the Moscow City Mathematical Olympiad for fifth-grade students.
+
+19:09.000 --> 19:12.000
+Two friends in the park meet.
+
+19:12.000 --> 19:14.000
+Hello, hello, long time no see.
+
+19:14.000 --> 19:15.000
+Are you married? Yes.
+
+19:15.000 --> 19:17.000
+Do you have children? Yes.
+
+19:17.000 --> 19:18.000
+Do you have two sons? Yes.
+
+19:18.000 --> 19:20.000
+How old are they?
+
+19:20.000 --> 19:26.000
+The number of their ages is the number of pigeons on that bench.
+
+19:26.000 --> 19:30.000
+The person thinks and says, I am not old enough.
+
+19:30.000 --> 19:33.000
+I forgot to tell you, the older one looks like a mother.
+
+19:33.000 --> 19:34.000
+Then it is clear.
+
+19:34.000 --> 19:38.000
+According to the available and the missing data,
+
+19:38.000 --> 19:42.000
+you should guess how old the sons of the second friend are.
+
+19:42.000 --> 19:44.000
+Another task.
+
+19:44.000 --> 19:46.000
+Imagine that you have your eyes tightly closed,
+
+19:46.000 --> 19:48.000
+and in front of you on the table is a collection of coins.
+
+19:48.000 --> 19:50.000
+Some unknown number.
+
+19:50.000 --> 19:52.000
+Of course, you can count them even with your eyes closed.
+
+19:52.000 --> 19:56.000
+It is known that exactly 26 coins lie upside down.
+
+19:56.000 --> 19:59.000
+The coins need to be divided into two piles,
+
+19:59.000 --> 20:03.000
+so that there is an equal number of coins in each pile.
+
+20:03.000 --> 20:07.000
+And you, since your eyes are closed,
+
+20:07.000 --> 20:09.000
+cannot distinguish the top of the head from the tail,
+
+20:09.000 --> 20:11.000
+and cannot distinguish by touch how the coin lies.
+
+20:11.000 --> 20:14.000
+That is, a hint.
+
+20:14.000 --> 20:17.000
+All you can do with coins is count and flip.
+
+20:18.000 --> 20:20.000
+The first task.
+
+20:20.000 --> 20:22.000
+A boat floats in the pool.
+
+20:22.000 --> 20:25.000
+There is a 32-kilogram cast-iron boat at the bottom.
+
+20:25.000 --> 20:27.000
+The boat is thrown into the pool.
+
+20:27.000 --> 20:29.000
+How will the water level in the pool change?
+
+20:29.000 --> 20:32.000
+The water level in the pool will decrease.
+
+20:32.000 --> 20:35.000
+The fact is that while the boat is in the boat,
+
+20:35.000 --> 20:39.000
+the boat can hold the amount of water equal to its mass,
+
+20:39.000 --> 20:41.000
+that is, 32 kilograms or 32 liters.
+
+20:41.000 --> 20:47.000
+Since the liter was chosen.
+
+20:47.000 --> 20:50.000
+No, the kilogram was chosen.
+
+20:50.000 --> 20:54.000
+Accordingly, when the boat is at the bottom,
+
+20:54.000 --> 20:57.000
+it can hold not 32 kilograms or 32 liters of water,
+
+20:57.000 --> 21:00.000
+but only the volume that it takes.
+
+21:00.000 --> 21:02.000
+It takes about 4 liters.
+
+21:02.000 --> 21:04.000
+The density of cast-iron is about 8.
+
+21:04.000 --> 21:06.000
+32 kilograms divided by 8.
+
+21:06.000 --> 21:08.000
+The total volume of the boat is about 4 liters.
+
+21:08.000 --> 21:11.000
+In the pool, the water level has decreased by 28 liters.
+
+21:11.000 --> 21:13.000
+That is, the water level will decrease.
+
+21:13.000 --> 21:15.000
+Next.
+
+21:15.000 --> 21:18.000
+The lever scales on which a glass of water is attached.
+
+21:18.000 --> 21:21.000
+You put your finger in this glass.
+
+21:21.000 --> 21:24.000
+Of course, without separating it.
+
+21:24.000 --> 21:27.000
+Yes, it seems that you hold your finger yourself.
+
+21:27.000 --> 21:33.000
+However, you probably do not take into account that...
+
+21:33.000 --> 21:37.000
+And those of you who guessed before, well done, of course.
+
+21:37.000 --> 21:42.000
+You do not take into account that in order to push your finger into the water,
+
+21:42.000 --> 21:44.000
+you overcome some resistance.
+
+21:44.000 --> 21:46.000
+Some resistance of water.
+
+21:46.000 --> 21:48.000
+What happens in this case?
+
+21:48.000 --> 21:50.000
+From the point of view of the glass, by the way.
+
+21:50.000 --> 21:52.000
+The water level rises in the glass.
+
+21:52.000 --> 21:54.000
+And from the point of view of the glass,
+
+21:54.000 --> 21:58.000
+it does not know anything about what is in it.
+
+21:58.000 --> 22:00.000
+The water level has risen.
+
+22:00.000 --> 22:02.000
+The pressure has increased.
+
+22:02.000 --> 22:04.000
+The glass honestly transfers this pressure further,
+
+22:04.000 --> 22:06.000
+that is, it presses on the scales.
+
+22:06.000 --> 22:08.000
+And the glass will overweigh.
+
+22:08.000 --> 22:10.000
+That is, from the point of view of the glass, it has become heavier.
+
+22:10.000 --> 22:12.000
+The task with the bridge.
+
+22:12.000 --> 22:18.000
+Well, most often, the first thing that comes to mind is to send the fastest one,
+
+22:18.000 --> 22:21.000
+and let him run, wear this flashlight.
+
+22:21.000 --> 22:26.000
+This way you will get the result in 19 minutes.
+
+22:26.000 --> 22:28.000
+You can check.
+
+22:28.000 --> 22:32.000
+In fact, there is a general operating principle.
+
+22:32.000 --> 22:34.000
+What exactly?
+
+22:34.000 --> 22:36.000
+The principle is quite simple.
+
+22:36.000 --> 22:38.000
+If you have two long processes,
+
+22:38.000 --> 22:41.000
+they need to be launched in parallel, if possible.
+
+22:41.000 --> 22:48.000
+Thus, those people who go 5 and 10 minutes should go together.
+
+22:48.000 --> 22:50.000
+How to do this?
+
+22:50.000 --> 22:52.000
+Well, of course, they cannot be launched first.
+
+22:52.000 --> 22:55.000
+So, the first ones should be those who pass the bridge in one minute and two minutes.
+
+22:55.000 --> 22:59.000
+Then one of them, regardless of which one, should return, give the flashlight.
+
+22:59.000 --> 23:02.000
+Then 5 and 10 should go to the other side of the river.
+
+23:02.000 --> 23:07.000
+The second of the first two should return, and again they should pass again.
+
+23:07.000 --> 23:12.000
+Thus, we get 2 minutes there, 1 minute back,
+
+23:12.000 --> 23:16.000
+this is 3 minutes, 10 minutes there, 13 minutes,
+
+23:16.000 --> 23:21.000
+2 minutes back, 15 minutes, and 2 minutes forward, 17 minutes.
+
+23:21.000 --> 23:30.000
+This way we get a decision that is almost 10% better than the decision that comes to mind automatically.
+
+23:30.000 --> 23:37.000
+It seems to me that 5 minutes of thinking is worth 10% improvement in performance.
+
+23:37.000 --> 23:39.000
+The task with the camel.
+
+23:39.000 --> 23:43.000
+There is another general operating principle.
+
+23:43.000 --> 23:45.000
+I will tell you which one.
+
+23:45.000 --> 23:47.000
+The first one, how to solve it.
+
+23:47.000 --> 23:52.000
+It becomes clear almost immediately that there is a trap.
+
+23:52.000 --> 23:59.000
+If you load a camel with thousands of bananas and let it go to the maximum distance,
+
+23:59.000 --> 24:03.000
+then, of course, the camel will not deliver any bananas.
+
+24:03.000 --> 24:05.000
+Moreover, it will not be able to return even back.
+
+24:05.000 --> 24:11.000
+All this camel tuning, self-loading, self-unloading,
+
+24:11.000 --> 24:16.000
+the system of cargo sustainability, GPS and the desert serve the same purpose.
+
+24:16.000 --> 24:21.000
+The camel should be able to remove some part of the cargo from itself.
+
+24:22.000 --> 24:29.000
+And then return to the same place, knowing that the cargo will remain in safety.
+
+24:29.000 --> 24:34.000
+So, the first step to the solution would probably be, for example,
+
+24:34.000 --> 24:40.000
+the camel takes a thousand bananas, goes 400 kilometers, throws 200 bananas,
+
+24:40.000 --> 24:46.000
+returns back, takes a thousand again, goes 400 kilometers, throws 200 bananas,
+
+24:46.000 --> 24:51.000
+returns back, takes a thousand, goes 400 kilometers.
+
+24:51.000 --> 24:56.000
+Here we find that in the place where he left the bananas, 400 bananas are already lying.
+
+24:56.000 --> 24:58.000
+And he ate 400 bananas.
+
+24:58.000 --> 25:05.000
+He loads 400 bananas on himself, goes the remaining 600 kilometers,
+
+25:05.000 --> 25:08.000
+and thus he can deliver 400 bananas.
+
+25:08.000 --> 25:12.000
+Then the question arises, is this quantity maximum?
+
+25:12.000 --> 25:23.000
+Maybe you can do something, if, for example, change the first pass of the camel?
+
+25:23.000 --> 25:27.000
+Or maybe you can make more stops, and then the camel can deliver more?
+
+25:27.000 --> 25:31.000
+It turns out that the general operational principle in this case is this.
+
+25:31.000 --> 25:35.000
+If you have equipment, it is desirable that the equipment works with maximum load.
+
+25:35.000 --> 25:43.000
+That is, we need to divide our thousand kilometers into points so that
+
+25:43.000 --> 25:49.000
+the camel starts with maximum load from each point, from each new point.
+
+25:49.000 --> 25:54.000
+That is, if it starts with a thousand bananas three times from the first point,
+
+25:54.000 --> 25:59.000
+then from the second point it should start twice with a load of a thousand bananas,
+
+25:59.000 --> 26:04.000
+and from the third point it should start once, but with a load of a thousand bananas.
+
+26:04.000 --> 26:07.000
+If you write down the equation, it is actually the simplest.
+
+26:07.000 --> 26:14.000
+To get to the first stop, the camel should go back and forth, back and forth, back and forth,
+
+26:14.000 --> 26:16.000
+that is, five times.
+
+26:16.000 --> 26:20.000
+During these five times, it should spend a thousand bananas.
+
+26:20.000 --> 26:25.000
+It is easy to determine the distance it should cover, 200 kilometers.
+
+26:25.000 --> 26:28.000
+Now we have 2,000 bananas left at the second point.
+
+26:28.000 --> 26:33.000
+We need to go back and forth, and during this time spend a thousand bananas.
+
+26:33.000 --> 26:37.000
+During this time, the distance should be 333.1 kilometers.
+
+26:37.000 --> 26:42.000
+Thus, from the third point, which is 200 plus 333.1,
+
+26:42.000 --> 26:45.000
+the camel starts again with a thousand bananas.
+
+26:45.000 --> 26:48.000
+Well, how many bananas will it eat?
+
+26:48.000 --> 26:51.000
+But it will be able to deliver the same 533.1.
+
+26:51.000 --> 26:56.000
+This is the optimal amount, you can check it in other ways.
+
+26:56.000 --> 26:58.000
+The task of the producer.
+
+26:58.000 --> 27:02.000
+This is a rather interesting task, of course.
+
+27:02.000 --> 27:08.000
+There is information, as you have probably already seen,
+
+27:08.000 --> 27:11.000
+where it is, and where it is not.
+
+27:11.000 --> 27:16.000
+Of course, the information starts with the phrase
+
+27:16.000 --> 27:18.000
+that two sons of a preschooler are growing up.
+
+27:18.000 --> 27:25.000
+We assume that a preschooler is a child who is 7 or younger.
+
+27:25.000 --> 27:28.000
+What happens next?
+
+27:28.000 --> 27:33.000
+The person says that the number of pigeons is equal to the number of adults
+
+27:33.000 --> 27:36.000
+around that bench, and this is not enough.
+
+27:36.000 --> 27:39.000
+That is, the solution is two-dimensional.
+
+27:39.000 --> 27:42.000
+Let's think further.
+
+27:42.000 --> 27:47.000
+What information is there that the elder looks like his mother?
+
+27:47.000 --> 27:49.000
+Well, of course, not that he looks like her,
+
+27:49.000 --> 27:52.000
+and not that he has a mother.
+
+27:52.000 --> 27:55.000
+The information is that there is an elder.
+
+27:56.000 --> 28:06.000
+So, before that, when the first friend said that he did not have enough information,
+
+28:06.000 --> 28:14.000
+he was afraid that these sons could be twins.
+
+28:14.000 --> 28:17.000
+But since he was afraid that the sons could be twins,
+
+28:17.000 --> 28:19.000
+this greatly simplifies our decision.
+
+28:19.000 --> 28:23.000
+We will look for an answer in advance among the full squares.
+
+28:23.000 --> 28:26.000
+Thank God, there are not so many full squares.
+
+28:26.000 --> 28:38.000
+For some reason, you can immediately discard such numbers as 3, 5 and 7.
+
+28:38.000 --> 28:41.000
+Let's discuss.
+
+28:41.000 --> 28:43.000
+Let's say we take 49.
+
+28:43.000 --> 28:45.000
+There were 49 pigeons.
+
+28:45.000 --> 28:46.000
+What options do we have?
+
+28:46.000 --> 28:49.000
+Either 1 and 49, or 7 and 70.
+
+28:49.000 --> 28:51.000
+49 is not the same preschooler.
+
+28:51.000 --> 28:54.000
+7 and 7 are discarded because there is an elder.
+
+28:54.000 --> 28:55.000
+Let's go further.
+
+28:55.000 --> 28:56.000
+36.
+
+28:56.000 --> 28:57.000
+What options are there?
+
+28:57.000 --> 29:02.000
+6 and 6, 2 and 18.
+
+29:02.000 --> 29:04.000
+18 is certainly not a preschooler.
+
+29:04.000 --> 29:06.000
+3 and 12, 4 and 9.
+
+29:06.000 --> 29:08.000
+9 is also not a preschooler.
+
+29:08.000 --> 29:11.000
+25 is the same, since it is a simple number.
+
+29:11.000 --> 29:13.000
+5 and 5, 1 and 25 do not work.
+
+29:13.000 --> 29:16.000
+16 pigeons were possible.
+
+29:16.000 --> 29:18.000
+What options are there?
+
+29:18.000 --> 29:20.000
+1 and 16, 2 and 8, 4 and 4.
+
+29:20.000 --> 29:23.000
+4 and 4, since there is an elder, is discarded.
+
+29:23.000 --> 29:25.000
+2 and 8, 8 is a preschooler.
+
+29:25.000 --> 29:31.000
+The same thing happens with 3 and 3, or 1 and 9.
+
+29:31.000 --> 29:32.000
+9 is not a preschooler.
+
+29:32.000 --> 29:35.000
+1 and 1, there is only one option left.
+
+29:35.000 --> 29:37.000
+They are twins and they are one year old.
+
+29:37.000 --> 29:43.000
+Accordingly, 4 remains.
+
+29:43.000 --> 29:45.000
+2 and 2 are discarded.
+
+29:45.000 --> 29:49.000
+The second son has 1 and 4 years.
+
+29:49.000 --> 29:51.000
+Another question about coins.
+
+29:51.000 --> 29:57.000
+The question is quite simple.
+
+29:57.000 --> 30:00.000
+Pay attention.
+
+30:00.000 --> 30:08.000
+The condition of the question says that the coins should be divided into two piles so that there is the same number of coins in each pile.
+
+30:08.000 --> 30:12.000
+It is not said anywhere that there should be 13 coins.
+
+30:12.000 --> 30:15.000
+It is said that there should be the same number of coins.
+
+30:15.000 --> 30:24.000
+Thus, you can use the logic that a double negation is the same as a statement.
+
+30:24.000 --> 30:27.000
+Or, to put it simply, minus to minus gives a plus.
+
+30:27.000 --> 30:29.000
+You count 26 coins.
+
+30:29.000 --> 30:37.000
+Let's say that among them there was a K, a coin with a cap up.
+
+30:37.000 --> 30:39.000
+Then how many coins are left in the second pile?
+
+30:40.000 --> 30:42.000
+26 minus K.
+
+30:42.000 --> 30:48.000
+Now you turn the 26 coins that you counted, in which there was a K, a coin with a cap up.
+
+30:48.000 --> 30:55.000
+And now there are 26 minus K coins in this pile.
+
+30:55.000 --> 31:00.000
+That is, the K coins that were with a cap up are now with an eagle up.
+
+31:00.000 --> 31:05.000
+And the coins that were with an eagle up, 26 minus K, in this pile, were in the right pile.
+
+31:05.000 --> 31:06.000
+They are now with a cap up.
+
+31:06.000 --> 31:09.000
+As we remember, 26 minus K remained in the left pile.
+
+31:09.000 --> 31:13.000
+Thus, we got the same number of coins with a cap up.
+
+31:13.000 --> 31:16.000
+There are many such tasks, such interesting tasks.
+
+31:16.000 --> 31:23.000
+They need to be solved in order to make your brain work.
+
+31:23.000 --> 31:25.000
+And solving them is very useful.
+
+31:25.000 --> 31:27.000
+Thank you.
+
+31:27.000 --> 31:30.000
+Thus, the course is over.
+
+31:30.000 --> 31:35.000
+I would like to draw your special attention to such a part as statistics.
+
+31:35.000 --> 31:40.000
+Of course, statistics is not necessarily a recurring thing.
+
+31:40.000 --> 31:47.000
+But statistics often allows us in our, of course, stochastic world,
+
+31:47.000 --> 31:54.000
+to get some more or less definite, if not forecasts,
+
+31:54.000 --> 32:00.000
+then preliminary results, perhaps.
+
+32:00.000 --> 32:01.000
+Let's call it that.
+
+32:01.000 --> 32:03.000
+Because it is generally difficult to predict.
+
+32:03.000 --> 32:05.000
+People do not predict well.
+
+32:05.000 --> 32:07.000
+This has been proven many times.
+
+32:07.000 --> 32:15.000
+Preliminary results that will help you to cope better with your business.
+
+32:15.000 --> 32:19.000
+If you are engaged in business or with your own work,
+
+32:19.000 --> 32:22.000
+if you are in some business and you are doing it.
+
+32:23.000 --> 32:31.000
+Of course, such things as linear programming and Monte Carlo method are also extremely useful.
+
+32:31.000 --> 32:36.000
+But still, I would advise you to pay the most attention to statistics.
+
+32:36.000 --> 32:42.000
+Of course, the issue of the repeatability of statistics can be very difficult.
+
+32:42.000 --> 32:47.000
+But, unfortunately, we have nothing else left,
+
+32:47.000 --> 32:50.000
+or most often there is nothing else left,
+
+32:50.000 --> 32:57.000
+but to believe that the conditions that existed in the past will be repeated in the future.
+
+32:57.000 --> 33:02.000
+Study statistics, study its application in business and good luck to everyone.
