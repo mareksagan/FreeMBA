@@ -5,7 +5,7 @@
 "temperature": 0.4,
 "patience": 1.5,
 "suppress_tokens": "-1",
-"initial_prompt": "Spanish language educational material",
+"initial_prompt": "",
 "condition_on_previous_text": True,
 "temperature_increment_on_fallback": 0.05,
 "compression_ratio_threshold": 1.5,
