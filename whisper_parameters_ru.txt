@@ -5,7 +5,7 @@
 "temperature": 0.8,
 "patience": 1.2,
 "suppress_tokens": -1,
-"initial_prompt": "Russian language educational material",
+"initial_prompt": "Russian educational video transcription",
 "condition_on_previous_text": True,
 "temperature_increment_on_fallback": 0.15,
 "compression_ratio_threshold": 3.0,
