@@ -1,5 +1,6 @@
 "model": "large-v3",
 "transcription": "srt",
+"translate": True,
 "language": "en",
 "temperature": 0.8,
 "patience": 1.2,
